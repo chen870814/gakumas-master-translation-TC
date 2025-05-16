@@ -82,6 +82,10 @@
             "name": "3年1組の修学旅行"
         },
         {
+            "id": "event-story-014",
+            "name": "クラス対抗初星大運動会"
+        },
+        {
             "id": "first-live-01",
             "name": "初声公演"
         },
@@ -100,6 +104,10 @@
         {
             "id": "fktn-birthday-01",
             "name": "The Cute!!!"
+        },
+        {
+            "id": "hmsz-001",
+            "name": "マスターアチーブメント 美鈴"
         },
         {
             "id": "hmsz-birthday-01",
@@ -472,10 +480,6 @@
         {
             "id": "story-bg-school-teachersroom-00-noon",
             "name": "コミュ背景"
-        },
-        {
-            "id": "story-event-003",
-            "name": "1年2組のアイドルたち"
         },
         {
             "id": "ttmr-001",

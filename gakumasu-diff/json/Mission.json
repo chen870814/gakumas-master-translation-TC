@@ -46,6 +46,10 @@
             "name": "SSRことねでB評価"
         },
         {
+            "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
+            "name": "SSR美鈴でB評価"
+        },
+        {
             "id": "hidden_mission-normal-produce-clear-i_card-hrnm-3-000-b",
             "name": "SSR莉波でB評価"
         },
@@ -146,6 +150,10 @@
             "name": "「アイドルへの道」で星を獲得"
         },
         {
+            "id": "hidden_mission-view-ending-a-hmsz",
+            "name": "美鈴でA Endを見る"
+        },
+        {
             "id": "hidden_mission-view-ending-a-produce_group-002-amao",
             "name": "麻央でA-End達成"
         },
@@ -188,6 +196,14 @@
         {
             "id": "hidden_mission-view-ending-a-produce_group-002-ttmr",
             "name": "手毬でA-End達成"
+        },
+        {
+            "id": "hidden_mission-view-ending-b-hmsz",
+            "name": "美鈴でB Endを見る"
+        },
+        {
+            "id": "hidden_mission-view-ending-c-hmsz",
+            "name": "美鈴でC Endを見る"
         },
         {
             "id": "hidden_mission-view-ending-normal-a-amao",
@@ -330,6 +346,10 @@
             "name": "ことねでTrue Endを見る"
         },
         {
+            "id": "hidden_mission-view-ending-true-hmsz",
+            "name": "美鈴でTrueEndを見る"
+        },
+        {
             "id": "hidden_mission-view-ending-true-hrnm",
             "name": "莉波でTrue Endを見る"
         },
@@ -412,6 +432,14 @@
         {
             "id": "hidden_mission-view-ending-true-ttmr",
             "name": "手毬でTrue Endを見る"
+        },
+        {
+            "id": "hidden_mission-view-gasha-00420-free-10-004",
+            "name": "最大100連無料！1st アニバーサリー10連無料ガシャを{threshold}回引こう"
+        },
+        {
+            "id": "hidden_mission-view-gasha-00420-ssr-idol-support-1",
+            "name": "'24シーズン限定 SSR確定10連ガシャを{threshold}回引こう"
         },
         {
             "id": "mission-box-gasha-event-001-mission_1",
@@ -2694,6 +2722,10 @@
             "name": "ことねでC評価を達成"
         },
         {
+            "id": "mission-normal-produce-clear-hmsz-c",
+            "name": "美鈴でC評価を達成"
+        },
+        {
             "id": "mission-normal-produce-clear-hrnm-c",
             "name": "莉波でC評価を達成"
         },
@@ -2732,6 +2764,10 @@
         {
             "id": "mission-normal-profileupdate-1",
             "name": "プロフィールを設定しよう"
+        },
+        {
+            "id": "mission-normal-view-shop_pack_hmsz-0001",
+            "name": "美鈴ピースパック発火条件"
         },
         {
             "id": "mission-normal-view-shop_pack_hume-0001",
@@ -3119,6 +3155,30 @@
         },
         {
             "id": "mission-story-event-004-mission_6",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "mission-story-event-006-mission_1",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "mission-story-event-006-mission_2",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-story-event-006-mission_3",
+            "name": "プロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-story-event-006-mission_4",
+            "name": "プロデュースの相談で{threshold}回交換しよう"
+        },
+        {
+            "id": "mission-story-event-006-mission_5",
+            "name": "Pドリンクを{threshold}回使おう"
+        },
+        {
+            "id": "mission-story-event-006-mission_6",
             "name": "SPレッスンを{threshold}回クリアしよう"
         },
         {
@@ -3568,6 +3628,30 @@
         {
             "id": "achieve-i_card-fktn-3-011-03",
             "name": "【雨上がりのアイリス】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hmsz-2-000-01",
+            "name": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hmsz-2-000-02",
+            "name": "【ゆっくり、一歩ずつ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-2-000-03",
+            "name": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-01",
+            "name": "【ツキノカメ】秦谷 美鈴のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-02",
+            "name": "【ツキノカメ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-03",
+            "name": "【ツキノカメ】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-i_card-hrnm-3-001-01",
@@ -4094,6 +4178,10 @@
             "name": "藤田 ことねのアチーブメントの★を{threshold}個獲得"
         },
         {
+            "id": "achieve-m_hmsz-001",
+            "name": "秦谷 美鈴のアチーブメントの★を{threshold}個獲得"
+        },
+        {
             "id": "achieve-m_hrnm-001",
             "name": "姫崎 莉波のアチーブメントの★を{threshold}個獲得"
         },
@@ -4426,6 +4514,10 @@
             "name": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-amao-022",
+            "name": "有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-p_idol-card-amao-002-1",
             "name": "【はじまりはカッコよく】有村 麻央のプロデュースで最終試験に合格"
         },
@@ -4730,6 +4822,86 @@
             "name": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-hmsz-000",
+            "name": "秦谷 美鈴でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-000-1",
+            "name": "秦谷 美鈴でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-001",
+            "name": "秦谷 美鈴のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-002",
+            "name": "秦谷 美鈴でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-003",
+            "name": "秦谷 美鈴でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-004",
+            "name": "秦谷 美鈴で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-005",
+            "name": "秦谷 美鈴で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-006",
+            "name": "秦谷 美鈴で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-007",
+            "name": "秦谷 美鈴のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-008",
+            "name": "秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-009",
+            "name": "秦谷 美鈴のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-010",
+            "name": "秦谷 美鈴のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-011",
+            "name": "秦谷 美鈴の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-012",
+            "name": "秦谷 美鈴でプロデュース評価を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-013",
+            "name": "秦谷 美鈴のプロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-014",
+            "name": "秦谷 美鈴のボーカルを1000以上に育成してプロデュースを完了 "
+        },
+        {
+            "id": "achieve-p_idol-hmsz-015",
+            "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-016",
+            "name": "秦谷 美鈴で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-017",
+            "name": "秦谷 美鈴の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-020",
+            "name": "秦谷 美鈴で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hrnm-000",
             "name": "姫崎 莉波でTrue Endをみる"
         },
@@ -4816,6 +4988,10 @@
         {
             "id": "achieve-p_idol-hrnm-020",
             "name": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-022",
+            "name": "姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-p_idol-hski-000",
@@ -5344,6 +5520,10 @@
         {
             "id": "achieve-p_idol-shro-020",
             "name": "篠澤 広で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-022",
+            "name": "篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-p_idol-ssmk-000",

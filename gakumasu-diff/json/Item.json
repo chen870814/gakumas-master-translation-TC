@@ -240,6 +240,12 @@
             "acquisitionRouteDescription": "プロデュース、コンテスト交換所、イベントなど"
         },
         {
+            "id": "item-limitovermaterial-4",
+            "name": "レジェンドノート",
+            "description": "プロデュースアイドルの特訓で使用するアイテム",
+            "acquisitionRouteDescription": "アイテム交換所など"
+        },
+        {
             "id": "item-medal-circle-battle-event-001",
             "name": "地方行脚メダル",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
@@ -332,6 +338,12 @@
         {
             "id": "item-medal-story-event-004",
             "name": "新星のきらめき",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-medal-story-event-006",
+            "name": "つなぐはちまき",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
             "acquisitionRouteDescription": "プロデュースなど"
         },
@@ -470,6 +482,24 @@
         {
             "id": "item-piece-idol_fktn-3-011",
             "name": "[雨上がりのアイリス]藤田ことねのピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hmsz-1-000",
+            "name": "[学園生活]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hmsz-2-000",
+            "name": "[ゆっくり、一歩ずつ]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-000",
+            "name": "[ツキノカメ]秦谷美鈴のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },

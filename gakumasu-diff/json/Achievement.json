@@ -141,6 +141,36 @@
             "description": "【雨上がりのアイリス】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hmsz-2-000-01",
+            "name": "休み休み、前へ",
+            "description": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hmsz-2-000-02",
+            "name": "ゆっくり、一歩ずつ",
+            "description": "【ゆっくり、一歩ずつ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-2-000-03",
+            "name": "素敵な夢",
+            "description": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-01",
+            "name": "屋上からの景色",
+            "description": "【ツキノカメ】秦谷 美鈴のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-02",
+            "name": "ツキノカメ",
+            "description": "【ツキノカメ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-03",
+            "name": "皆さんの心を満たしてきます",
+            "description": "【ツキノカメ】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-i_card-hrnm-3-001-01",
             "name": "入道雲と、きみ",
             "description": "【キミとセミブルー】姫崎 莉波のプロデュースで最終試験に合格"
@@ -796,6 +826,11 @@
             "description": "藤田 ことねのアチーブメントの★を{threshold}個獲得"
         },
         {
+            "id": "achieve-m_hmsz-001",
+            "name": "マスターアチーブメント",
+            "description": "秦谷 美鈴のアチーブメントの★を{threshold}個獲得"
+        },
+        {
             "id": "achieve-m_hrnm-001",
             "name": "マスターアチーブメント",
             "description": "姫崎 莉波のアチーブメントの★を{threshold}個獲得"
@@ -1211,6 +1246,11 @@
             "description": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-amao-022",
+            "name": "理想と現実",
+            "description": "有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-p_idol-card-amao-002-1",
             "name": "らしさ",
             "description": "【はじまりはカッコよく】有村 麻央のプロデュースで最終試験に合格"
@@ -1591,6 +1631,106 @@
             "description": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-hmsz-000",
+            "name": "人生最高の日",
+            "description": "秦谷 美鈴でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-000-1",
+            "name": "一緒にあくびをする準備を",
+            "description": "秦谷 美鈴でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-001",
+            "name": "あの手この手で",
+            "description": "秦谷 美鈴のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-002",
+            "name": "今日は曇り空",
+            "description": "秦谷 美鈴でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-003",
+            "name": "眠れる獅子",
+            "description": "秦谷 美鈴でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-004",
+            "name": "肩の力を抜いて",
+            "description": "秦谷 美鈴で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-005",
+            "name": "わたしの本心",
+            "description": "秦谷 美鈴で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-006",
+            "name": "どこまでも一緒に",
+            "description": "秦谷 美鈴で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-007",
+            "name": "もう一度、やり直し",
+            "description": "秦谷 美鈴のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-008",
+            "name": "寝る子は育つ",
+            "description": "秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-009",
+            "name": "うららかな道を",
+            "description": "秦谷 美鈴のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-010",
+            "name": "みんなでお昼寝",
+            "description": "秦谷 美鈴のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-011",
+            "name": "さすがです、プロデューサー",
+            "description": "秦谷 美鈴の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-012",
+            "name": "いつでもマイペース",
+            "description": "秦谷 美鈴でプロデュース評価を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-013",
+            "name": "お世話好き",
+            "description": "秦谷 美鈴のプロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-014",
+            "name": "高いところで",
+            "description": "秦谷 美鈴のボーカルを1000以上に育成してプロデュースを完了 "
+        },
+        {
+            "id": "achieve-p_idol-hmsz-015",
+            "name": "「アイドルへの道」秦谷美鈴",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-016",
+            "name": "ここで待っています",
+            "description": "秦谷 美鈴で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-017",
+            "name": "秦谷美鈴マスター",
+            "description": "秦谷 美鈴の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-020",
+            "name": "夢の場所まで、もう少し",
+            "description": "秦谷 美鈴で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hrnm-000",
             "name": "本当のきもち",
             "description": "姫崎 莉波でTrue Endをみる"
@@ -1699,6 +1839,11 @@
             "id": "achieve-p_idol-hrnm-020",
             "name": "夢を託され、夢を見せる",
             "description": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-022",
+            "name": "きみの気持ちに応えたい",
+            "description": "姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-p_idol-hski-000",
@@ -2359,6 +2504,11 @@
             "id": "achieve-p_idol-shro-020",
             "name": "ですろーど、踏破",
             "description": "篠澤 広で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-022",
+            "name": "次の課題はなに？",
+            "description": "篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-p_idol-ssmk-000",
