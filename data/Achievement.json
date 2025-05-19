@@ -1137,7 +1137,7 @@
     },
     {
       "id": "achieve-p_common-028",
-      "name": "",
+      "name": "星空守护者",
       "description": "以SSS及以上评价通过{threshold}次最终考试"
     },
     {
@@ -1252,7 +1252,7 @@
     },
     {
       "id": "achieve-p_idol-amao-021",
-      "name": "",
+      "name": "请让我喜欢上",
       "description": "使用有村麻央通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -1642,7 +1642,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-021",
-      "name": "",
+      "name": "我一定会超越星光的！",
       "description": "使用藤田琴音通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -1857,7 +1857,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-021",
-      "name": "",
+      "name": "就在你身旁，证明给你看",
       "description": "使用姬崎莉波通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -1977,7 +1977,7 @@
     },
     {
       "id": "achieve-p_idol-hski-021",
-      "name": "",
+      "name": "绝对不会让你逃掉的！",
       "description": "使用花海咲季通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -2092,7 +2092,7 @@
     },
     {
       "id": "achieve-p_idol-hume-021",
-      "name": "",
+      "name": "我想认真成为偶像",
       "description": "使用花海佑芽通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -2207,7 +2207,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-021",
-      "name": "",
+      "name": "与你共同前进",
       "description": "使用十王星南通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -2322,7 +2322,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-021",
-      "name": "",
+      "name": "我一定会华丽地战斗下去！",
       "description": "使用仓本千奈通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -2437,7 +2437,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-021",
-      "name": "",
+      "name": "笑到最后，直到那天",
       "description": "使用葛城莉莉娅通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -2552,7 +2552,7 @@
     },
     {
       "id": "achieve-p_idol-shro-021",
-      "name": "",
+      "name": "保持兴趣，追逐梦想",
       "description": "使用篠泽广通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -2672,7 +2672,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-021",
-      "name": "",
+      "name": "轻盈展翅，自在翱翔",
       "description": "使用紫云清夏通过最终考试并获得SS+及以上评价{threshold}次"
     },
     {
@@ -2787,7 +2787,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-021",
-      "name": "",
+      "name": "我一定会证明给你看",
       "description": "使用月村手毬通过最终考试并获得SS+及以上评价{threshold}次"
     }
   ]
