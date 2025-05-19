@@ -4229,7 +4229,7 @@
   },
   "produce.log.detail.title.stamina_recover_value_down": {
     "japanese": "体力回復量",
-    "chinese": "体力恢复量"
+    "chinese": "体力回复量"
   },
   "setting.quality.param.highest": {
     "japanese": "最高",
@@ -4825,7 +4825,7 @@
   },
   "produce.continue.consumption.item": {
     "japanese": "{0}を使って実習をやり直しますか？\n実習開始前の状態から体力全回復でスタートします",
-    "chinese": "使用{0}重新进行实习吗？\n将从实习开始前的状态并全体力恢复开始"
+    "chinese": "使用{0}重新进行实习吗？\n将从实习开始前的状态并全体力回复开始"
   },
   "produce.business.get_reward": {
     "japanese": "獲得報酬",
@@ -5329,7 +5329,7 @@
   },
   "produce.reward.effect.type.stamina_recover_value_up": {
     "japanese": "スタミナ回復量が{0}％アップ",
-    "chinese": "体力恢复量增加{0}%"
+    "chinese": "体力回复量增加{0}%"
   },
   "contest.log.graph.rank.unit.nd": {
     "japanese": "nd",
@@ -10077,7 +10077,7 @@
   },
   "produce.log.detail.title.stamina_recover_value_up": {
     "japanese": "体力回復量",
-    "chinese": "体力恢复量"
+    "chinese": "体力回复量"
   },
   "common.fan.label": {
     "japanese": "ファン人数",
@@ -10277,7 +10277,7 @@
   },
   "memory.filter.produce_effect.staminarecoverfix": {
     "japanese": "体力回復",
-    "chinese": "体力恢复"
+    "chinese": "体力回复"
   },
   "produce.history.score": {
     "japanese": "{0:N0}<size=38>Pt</size>",
@@ -15841,7 +15841,7 @@
   },
   "produce.reward.effect.type.stamina_recover_value_down": {
     "japanese": "スタミナ回復量が{0}％ダウン",
-    "chinese": "体力恢复量减少{0}%"
+    "chinese": "体力回复量减少{0}%"
   },
   "shop.coin_gasha.reset_time": {
     "japanese": "報酬リセット",
@@ -16725,7 +16725,7 @@
   },
   "produce.lesson.no_effect.stamina_recover_restriction": {
     "japanese": "体力回復無効状態のため効果が発動しません。",
-    "chinese": "由于体力恢复无效状态，效果未能触发。"
+    "chinese": "由于体力回复无效状态，效果未能触发。"
   },
   "photography.save_over_select.back.confirm.description": {
     "japanese": "削除するフォトを選択しています。\nフォトアルバム保存に戻りますか？\n<color=#u:Negative>※削除するフォトの選択状態は解除されます</color>",

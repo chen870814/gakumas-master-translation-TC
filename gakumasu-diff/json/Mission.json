@@ -4426,6 +4426,10 @@
             "name": "最終試験をスコアSS+以上で{threshold}回合格"
         },
         {
+            "id": "achieve-p_common-028",
+            "name": "最終試験をスコアSSS以上で{threshold}回合格"
+        },
+        {
             "id": "achieve-p_idol-amao-000",
             "name": "有村 麻央でTrue Endをみる"
         },
@@ -4499,7 +4503,7 @@
         },
         {
             "id": "achieve-p_idol-amao-017",
-            "name": "有村 麻央の難易度「マスター」で最終試験1位を獲得"
+            "name": "有村 麻央の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-amao-018",
@@ -4512,6 +4516,10 @@
         {
             "id": "achieve-p_idol-amao-020",
             "name": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-021",
+            "name": "有村 麻央で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-amao-022",
@@ -4807,7 +4815,7 @@
         },
         {
             "id": "achieve-p_idol-fktn-017",
-            "name": "藤田 ことねの難易度「マスター」で最終試験1位を獲得"
+            "name": "藤田 ことねの定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-fktn-018",
@@ -4820,6 +4828,10 @@
         {
             "id": "achieve-p_idol-fktn-020",
             "name": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-021",
+            "name": "藤田 ことねで最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hmsz-000",
@@ -4895,7 +4907,7 @@
         },
         {
             "id": "achieve-p_idol-hmsz-017",
-            "name": "秦谷 美鈴の難易度「マスター」で最終試験1位を獲得"
+            "name": "秦谷 美鈴の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hmsz-020",
@@ -4975,7 +4987,7 @@
         },
         {
             "id": "achieve-p_idol-hrnm-017",
-            "name": "姫崎 莉波の難易度「マスター」で最終試験1位を獲得"
+            "name": "姫崎 莉波の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hrnm-018",
@@ -4988,6 +5000,10 @@
         {
             "id": "achieve-p_idol-hrnm-020",
             "name": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-021",
+            "name": "姫崎 莉波で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hrnm-022",
@@ -5067,7 +5083,7 @@
         },
         {
             "id": "achieve-p_idol-hski-017",
-            "name": "花海 咲季の難易度「マスター」で最終試験1位を獲得"
+            "name": "花海 咲季の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hski-018",
@@ -5080,6 +5096,10 @@
         {
             "id": "achieve-p_idol-hski-020",
             "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-021",
+            "name": "花海 咲季で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hume-000",
@@ -5155,7 +5175,7 @@
         },
         {
             "id": "achieve-p_idol-hume-017",
-            "name": "花海 佑芽の難易度「マスター」で最終試験1位を獲得"
+            "name": "花海 佑芽の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hume-018",
@@ -5168,6 +5188,10 @@
         {
             "id": "achieve-p_idol-hume-020",
             "name": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-021",
+            "name": "花海 佑芽で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -5243,7 +5267,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-017",
-            "name": "十王 星南の難易度「マスター」で最終試験1位を獲得"
+            "name": "十王 星南の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-jsna-018",
@@ -5256,6 +5280,10 @@
         {
             "id": "achieve-p_idol-jsna-020",
             "name": "十王 星南で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-021",
+            "name": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-kcna-000",
@@ -5331,7 +5359,7 @@
         },
         {
             "id": "achieve-p_idol-kcna-017",
-            "name": "倉本 千奈の難易度「マスター」で最終試験1位を獲得"
+            "name": "倉本 千奈の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-kcna-018",
@@ -5344,6 +5372,10 @@
         {
             "id": "achieve-p_idol-kcna-020",
             "name": "倉本 千奈で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-021",
+            "name": "倉本 千奈で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-kllj-000",
@@ -5419,7 +5451,7 @@
         },
         {
             "id": "achieve-p_idol-kllj-017",
-            "name": "葛城 リーリヤの難易度「マスター」で最終試験1位を獲得"
+            "name": "葛城 リーリヤの定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-kllj-018",
@@ -5432,6 +5464,10 @@
         {
             "id": "achieve-p_idol-kllj-020",
             "name": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-021",
+            "name": "葛城 リーリヤで最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -5507,7 +5543,7 @@
         },
         {
             "id": "achieve-p_idol-shro-017",
-            "name": "篠澤 広の難易度「マスター」で最終試験1位を獲得"
+            "name": "篠澤 広の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-shro-018",
@@ -5520,6 +5556,10 @@
         {
             "id": "achieve-p_idol-shro-020",
             "name": "篠澤 広で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-021",
+            "name": "篠澤 広で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-shro-022",
@@ -5599,7 +5639,7 @@
         },
         {
             "id": "achieve-p_idol-ssmk-017",
-            "name": "紫雲 清夏の難易度「マスター」で最終試験1位を獲得"
+            "name": "紫雲 清夏の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-ssmk-018",
@@ -5612,6 +5652,10 @@
         {
             "id": "achieve-p_idol-ssmk-020",
             "name": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-021",
+            "name": "紫雲 清夏で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -5687,7 +5731,7 @@
         },
         {
             "id": "achieve-p_idol-ttmr-017",
-            "name": "月村 手毬の難易度「マスター」で最終試験1位を獲得"
+            "name": "月村 手毬の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-ttmr-018",
@@ -5700,6 +5744,10 @@
         {
             "id": "achieve-p_idol-ttmr-020",
             "name": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-021",
+            "name": "月村 手毬で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "main_task_group-01-01#1",
@@ -5863,7 +5911,7 @@
         },
         {
             "id": "main_task_group-01-01#41",
-            "name": "プロデュースで難易度プロに挑戦しよう"
+            "name": "プロデュースで定期公演『初』：プロに{threshold}回挑戦しよう"
         },
         {
             "id": "main_task_group-01-01#42",
@@ -6395,7 +6443,7 @@
         },
         {
             "id": "main_task_group-03-01#14",
-            "name": "プロデュースで難易度マスターに挑戦しよう"
+            "name": "プロデュースで定期公演『初』：マスターに{threshold}回挑戦しよう"
         },
         {
             "id": "main_task_group-03-01#15",
@@ -6455,7 +6503,7 @@
         },
         {
             "id": "main_task_group-03-01#29",
-            "name": "難易度マスターで最終試験に{threshold}回合格しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
+            "name": "定期公演『初』：マスターで最終試験に{threshold}回合格しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
         },
         {
             "id": "main_task_group-03-01#30",
@@ -6603,7 +6651,7 @@
         },
         {
             "id": "main_task_group-03-01#66",
-            "name": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+            "name": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：センスのプロデュースアイドル"
         },
         {
             "id": "main_task_group-03-01#67",
@@ -6651,7 +6699,7 @@
         },
         {
             "id": "main_task_group-03-01#78",
-            "name": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+            "name": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：ロジックのプロデュースアイドル"
         },
         {
             "id": "main_task_group-03-01#79",
@@ -6663,7 +6711,7 @@
         },
         {
             "id": "main_task_group-03-01#81",
-            "name": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
+            "name": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
         },
         {
             "id": "main_task_group-03-01#82",

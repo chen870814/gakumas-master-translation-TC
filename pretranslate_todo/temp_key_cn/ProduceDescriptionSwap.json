@@ -23,6 +23,8 @@
   "Swap_Convert_StepLessonType_VisualLesson|ProduceDescriptionSwapType_Audition|text": "在视觉回合的话，",
   "Swap_Convert_StepLessonType_VocalLesson|ProduceDescriptionSwapType_Lesson|text": "【仅限歌唱课程・歌唱回合】",
   "Swap_Convert_StepLessonType_VocalLesson|ProduceDescriptionSwapType_Audition|text": "在歌唱回合的话，",
+  "Swap_Label_Audition|ProduceDescriptionSwapType_Lesson|text": "考试・试镜",
+  "Swap_Label_Audition|ProduceDescriptionSwapType_Audition|text": "考试・试镜",
   "Swap_Label_ExamCardUpgrade|ProduceDescriptionSwapType_Lesson|text": "课程中强化",
   "Swap_Label_ExamCardUpgrade|ProduceDescriptionSwapType_Audition|text": "考试・舞台中强化",
   "Swap_Label_ExamGrowEffectLessonAddAdditive|ProduceDescriptionSwapType_Lesson|text": "打分上升值增加量增加",

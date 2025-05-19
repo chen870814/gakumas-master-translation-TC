@@ -1136,6 +1136,11 @@
             "description": "最終試験をスコアSS+以上で{threshold}回合格"
         },
         {
+            "id": "achieve-p_common-028",
+            "name": "星を見守る者",
+            "description": "最終試験をスコアSSS以上で{threshold}回合格"
+        },
+        {
             "id": "achieve-p_idol-amao-000",
             "name": "本当のボク",
             "description": "有村 麻央でTrue Endをみる"
@@ -1228,7 +1233,7 @@
         {
             "id": "achieve-p_idol-amao-017",
             "name": "有村麻央マスター",
-            "description": "有村 麻央の難易度「マスター」で最終試験1位を獲得"
+            "description": "有村 麻央の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-amao-018",
@@ -1244,6 +1249,11 @@
             "id": "achieve-p_idol-amao-020",
             "name": "受け入れて、ボクらしく",
             "description": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-021",
+            "name": "好きにならせてください",
+            "description": "有村 麻央で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-amao-022",
@@ -1613,7 +1623,7 @@
         {
             "id": "achieve-p_idol-fktn-017",
             "name": "藤田ことねマスター",
-            "description": "藤田 ことねの難易度「マスター」で最終試験1位を獲得"
+            "description": "藤田 ことねの定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-fktn-018",
@@ -1629,6 +1639,11 @@
             "id": "achieve-p_idol-fktn-020",
             "name": "目指してきた、星の光",
             "description": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-021",
+            "name": "スターを超えてみせますっ！",
+            "description": "藤田 ことねで最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hmsz-000",
@@ -1723,7 +1738,7 @@
         {
             "id": "achieve-p_idol-hmsz-017",
             "name": "秦谷美鈴マスター",
-            "description": "秦谷 美鈴の難易度「マスター」で最終試験1位を獲得"
+            "description": "秦谷 美鈴の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hmsz-020",
@@ -1823,7 +1838,7 @@
         {
             "id": "achieve-p_idol-hrnm-017",
             "name": "姫崎莉波マスター",
-            "description": "姫崎 莉波の難易度「マスター」で最終試験1位を獲得"
+            "description": "姫崎 莉波の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hrnm-018",
@@ -1839,6 +1854,11 @@
             "id": "achieve-p_idol-hrnm-020",
             "name": "夢を託され、夢を見せる",
             "description": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-021",
+            "name": "一番そばで、見せてあげる",
+            "description": "姫崎 莉波で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hrnm-022",
@@ -1938,7 +1958,7 @@
         {
             "id": "achieve-p_idol-hski-017",
             "name": "花海咲季マスター",
-            "description": "花海 咲季の難易度「マスター」で最終試験1位を獲得"
+            "description": "花海 咲季の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hski-018",
@@ -1954,6 +1974,11 @@
             "id": "achieve-p_idol-hski-020",
             "name": "アイドルとしての武器",
             "description": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-021",
+            "name": "逃がさないんだからねっ！",
+            "description": "花海 咲季で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hume-000",
@@ -2048,7 +2073,7 @@
         {
             "id": "achieve-p_idol-hume-017",
             "name": "花海佑芽マスター",
-            "description": "花海 佑芽の難易度「マスター」で最終試験1位を獲得"
+            "description": "花海 佑芽の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-hume-018",
@@ -2064,6 +2089,11 @@
             "id": "achieve-p_idol-hume-020",
             "name": "さらなるブレイクスルー",
             "description": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-021",
+            "name": "ちゃんとアイドルになりたいです",
+            "description": "花海 佑芽で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -2158,7 +2188,7 @@
         {
             "id": "achieve-p_idol-jsna-017",
             "name": "十王星南マスター",
-            "description": "十王 星南の難易度「マスター」で最終試験1位を獲得"
+            "description": "十王 星南の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-jsna-018",
@@ -2174,6 +2204,11 @@
             "id": "achieve-p_idol-jsna-020",
             "name": "手にした輝き",
             "description": "十王 星南で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-021",
+            "name": "共に進みましょう",
+            "description": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-kcna-000",
@@ -2268,7 +2303,7 @@
         {
             "id": "achieve-p_idol-kcna-017",
             "name": "倉本千奈マスター",
-            "description": "倉本 千奈の難易度「マスター」で最終試験1位を獲得"
+            "description": "倉本 千奈の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-kcna-018",
@@ -2284,6 +2319,11 @@
             "id": "achieve-p_idol-kcna-020",
             "name": "切り離すことのできない力",
             "description": "倉本 千奈で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-021",
+            "name": "きっと立派に闘えますわ！",
+            "description": "倉本 千奈で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-kllj-000",
@@ -2378,7 +2418,7 @@
         {
             "id": "achieve-p_idol-kllj-017",
             "name": "葛城リーリヤマスター",
-            "description": "葛城 リーリヤの難易度「マスター」で最終試験1位を獲得"
+            "description": "葛城 リーリヤの定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-kllj-018",
@@ -2394,6 +2434,11 @@
             "id": "achieve-p_idol-kllj-020",
             "name": "弱さは強さ",
             "description": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-021",
+            "name": "最後に笑う、その日まで",
+            "description": "葛城 リーリヤで最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -2488,7 +2533,7 @@
         {
             "id": "achieve-p_idol-shro-017",
             "name": "篠澤広マスター",
-            "description": "篠澤 広の難易度「マスター」で最終試験1位を獲得"
+            "description": "篠澤 広の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-shro-018",
@@ -2504,6 +2549,11 @@
             "id": "achieve-p_idol-shro-020",
             "name": "ですろーど、踏破",
             "description": "篠澤 広で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-021",
+            "name": "趣味のまま、夢を",
+            "description": "篠澤 広で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-shro-022",
@@ -2603,7 +2653,7 @@
         {
             "id": "achieve-p_idol-ssmk-017",
             "name": "紫雲清夏マスター",
-            "description": "紫雲 清夏の難易度「マスター」で最終試験1位を獲得"
+            "description": "紫雲 清夏の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-ssmk-018",
@@ -2619,6 +2669,11 @@
             "id": "achieve-p_idol-ssmk-020",
             "name": "もう何も隠さない",
             "description": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-021",
+            "name": "軽やかに、羽ばたいて",
+            "description": "紫雲 清夏で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -2713,7 +2768,7 @@
         {
             "id": "achieve-p_idol-ttmr-017",
             "name": "月村手毬マスター",
-            "description": "月村 手毬の難易度「マスター」で最終試験1位を獲得"
+            "description": "月村 手毬の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
             "id": "achieve-p_idol-ttmr-018",
@@ -2729,6 +2784,11 @@
             "id": "achieve-p_idol-ttmr-020",
             "name": "ようやく、同じ高さで",
             "description": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-021",
+            "name": "証明してみせます",
+            "description": "月村 手毬で最終試験に合格して評価SS+以上を{threshold}回獲得"
         }
     ]
 }

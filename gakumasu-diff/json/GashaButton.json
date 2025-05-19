@@ -133,6 +133,12 @@
             "description": "SSRアイドル確定1連"
         },
         {
+            "id": "gasha_ticket_ssr_button_idol_2",
+            "order": 1,
+            "name": "The 1st Period公演記念 SSR Pアイドル確定チケットで引く",
+            "description": "SSR確定1連"
+        },
+        {
             "id": "gasha_ticket_ssr_button_support",
             "order": 1,
             "name": "SSR確定チケットで引く",

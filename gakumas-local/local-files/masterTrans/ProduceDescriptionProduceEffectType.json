@@ -55,7 +55,7 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
-      "name": "体力恢复"
+      "name": "体力回复"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverMultiple",
@@ -75,11 +75,11 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueUp",
-      "name": "体力恢复量增加"
+      "name": "体力回复量增加"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueDown",
-      "name": "体力恢复量减少"
+      "name": "体力回复量减少"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueUp",
@@ -91,7 +91,7 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
-      "name": "体力恢复无效"
+      "name": "体力回复无效"
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
@@ -255,7 +255,7 @@
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "支援活动的体力恢复量增加"
+      "name": "支援活动的体力回复量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
@@ -335,11 +335,11 @@
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
-      "name": "考试前体力恢复量增加"
+      "name": "考试前体力回复量增加"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaDown",
-      "name": "考试前体力恢复量减少"
+      "name": "考试前体力回复量减少"
     }
   ]
 }

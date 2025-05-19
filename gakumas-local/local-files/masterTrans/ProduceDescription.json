@@ -522,17 +522,17 @@
     },
     {
       "id": "Label_ExamStaminaRecoverAdd",
-      "name": "体力恢复效果增加",
+      "name": "体力回复效果增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaRecoverFix",
-      "name": "体力恢复",
-      "swapName": "体力恢复"
+      "name": "体力回复",
+      "swapName": "体力回复"
     },
     {
       "id": "Label_ExamStaminaRecoverRestriction",
-      "name": "体力恢复无效",
+      "name": "体力回复无效",
       "swapName": ""
     },
     {

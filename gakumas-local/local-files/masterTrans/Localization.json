@@ -263,7 +263,7 @@
     },
     {
       "id": "produce.lesson.no_effect.stamina_recover_restriction",
-      "description": "因为无效状态，体力恢复效果未发动。"
+      "description": "因为无效状态，体力回复效果未发动。"
     },
     {
       "id": "produce.lesson.no_effect.stance_same",

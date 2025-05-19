@@ -23,6 +23,8 @@
   "Swap_Convert_StepLessonType_VisualLesson|ProduceDescriptionSwapType_Audition|text": "ビジュアルターンなら、",
   "Swap_Convert_StepLessonType_VocalLesson|ProduceDescriptionSwapType_Lesson|text": "【ボーカルレッスン・ボーカルターンのみ】",
   "Swap_Convert_StepLessonType_VocalLesson|ProduceDescriptionSwapType_Audition|text": "ボーカルターンなら、",
+  "Swap_Label_Audition|ProduceDescriptionSwapType_Lesson|text": "試験・オーディション",
+  "Swap_Label_Audition|ProduceDescriptionSwapType_Audition|text": "試験・オーディション",
   "Swap_Label_ExamCardUpgrade|ProduceDescriptionSwapType_Lesson|text": "レッスン中強化",
   "Swap_Label_ExamCardUpgrade|ProduceDescriptionSwapType_Audition|text": "試験・ステージ中強化",
   "Swap_Label_ExamGrowEffectLessonAddAdditive|ProduceDescriptionSwapType_Lesson|text": "パラメータ上昇値増加量増加",
