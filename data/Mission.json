@@ -3167,7 +3167,7 @@
     },
     {
       "id": "mission-story-event-006-mission_3",
-      "name": "获得合计{threshold}培育评价"
+      "name": "共计获得{threshold}的培育评价"
     },
     {
       "id": "mission-story-event-006-mission_4",
@@ -3179,7 +3179,7 @@
     },
     {
       "id": "mission-story-event-006-mission_6",
-      "name": "通关{threshold}次SP课程"
+      "name": "完成{threshold}次SP课程"
     },
     {
       "id": "mission-story-event-013-mission_1",
@@ -3187,11 +3187,11 @@
     },
     {
       "id": "mission-story-event-013-mission_2",
-      "name": "通过{threshold}次最终考试"
+      "name": "最终考试合格{threshold}次"
     },
     {
       "id": "mission-story-event-013-mission_3",
-      "name": "获得合计{threshold}培育评价"
+      "name": "共计获得{threshold}的培育评价"
     },
     {
       "id": "mission-story-event-013-mission_4",
