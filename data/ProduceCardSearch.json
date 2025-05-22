@@ -183,7 +183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-act-0_001",
-          "text": "魅力的基本"
+          "text": "魅力的基础"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208,7 +208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-men-0_003",
-          "text": "表现的基本"
+          "text": "表现的基础"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -978,7 +978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "趁势而为"
+          "text": "交给气势"
         }
       ]
     },
@@ -1368,7 +1368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "第一次的褒奖"
+          "text": "初次的褒奖"
         }
       ]
     },
