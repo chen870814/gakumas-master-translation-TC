@@ -1,4 +1,3 @@
-# .github/workflows/data-update-release.yml
 name: 数据更新发布 (Data Update Release)
 
 on:
@@ -118,16 +117,16 @@ jobs:
 
           COMMIT_URL_B="${B_REPO_URL}/commit/${RAW_B_COMMIT_SHA}"
 
-          # 使用固定的标签名
-          FIXED_PRE_RELEASE_TAG="lastest-Translate-Data-update" # 你可以自定义这个名字
+          # 使用固定的标签名 - 修正了拼写错误
+          FIXED_PRE_RELEASE_TAG="latest-Translate-Data-update"
           echo "release_tag_name=${FIXED_PRE_RELEASE_TAG}" >> $GITHUB_OUTPUT
 
           # Release 的标题仍然可以动态更新，以反映最新的B仓库提交
           echo "name=${B_REPO_NAME}@${SHORT_B_SHA} (Data Update)" >> $GITHUB_OUTPUT
-          # 或者使用你之前的标题格式：
-          # echo "name=数据更新：${B_REPO_NAME}@${SHORT_B_SHA}" >> $GITHUB_OUTPUT
           
           echo "body<<EOF_BODY" >> $GITHUB_OUTPUT
+          echo "**🔄 最新数据更新 - $(date -u '+%Y-%m-%d %H:%M:%S UTC')**" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
           echo "**由 [${B_REPO_NAME}](${B_REPO_URL}) 中的提交触发:**" >> $GITHUB_OUTPUT
           echo "- 提交: [${SHORT_B_SHA}](${COMMIT_URL_B})" >> $GITHUB_OUTPUT
           echo "" >> $GITHUB_OUTPUT
@@ -136,8 +135,22 @@ jobs:
           echo "${RAW_B_MSG}" >> $GITHUB_OUTPUT
           echo "\`\`\`" >> $GITHUB_OUTPUT
           echo "" >> $GITHUB_OUTPUT
-          echo "*此预发布包含来自源仓库的最新数据。它会随着源仓库的更新而被覆盖。*" >> $GITHUB_OUTPUT
+          echo "*⚡ 此预发布包含来自源仓库的最新数据，会自动保持在顶部位置。*" >> $GITHUB_OUTPUT
           echo "EOF_BODY" >> $GITHUB_OUTPUT
+
+      - name: 删除现有的数据更新 release
+        continue-on-error: true # 如果没有现有 release 也继续执行
+        run: |
+          RELEASE_TAG="${{ steps.set_release_name.outputs.release_tag_name }}"
+          echo "尝试删除现有的 release: ${RELEASE_TAG}"
+          
+          # 使用 GitHub CLI 删除 release（如果存在）
+          gh release delete "${RELEASE_TAG}" --yes || echo "没有找到现有的 release 或删除失败，继续创建新的"
+          
+          # 删除 tag（如果存在）
+          git push origin --delete "${RELEASE_TAG}" || echo "没有找到现有的 tag 或删除失败"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 创建数据更新发布
         uses: softprops/action-gh-release@v1
@@ -145,13 +158,9 @@ jobs:
           files: gakumas-local.zip
           name: ${{ steps.set_release_name.outputs.name }}
           body: ${{ steps.set_release_name.outputs.body }}
-          # 为这些数据更新使用动态生成的标签。
-          # 这会在你的仓库中为每次数据更新创建一个Git标签。
-          # 如果你希望这些是“未标记的”GitHub发布（不在你的仓库中创建Git标签），
-          # 你可以将 tag_name 设置为 '' 或省略它。但是，拥有标签对于跟踪可能很有用。
+          # 为这些数据更新使用固定的标签名
           tag_name: ${{ steps.set_release_name.outputs.release_tag_name }}
-          draft: false
-          # 如果这些是频繁且自动化的，请考虑它们是否应该是预发布
-          prerelease: true # 通常适用于自动化的数据触发发布
+          draft: false          # 标记为预发布，适用于自动化的数据触发发布
+          prerelease: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
