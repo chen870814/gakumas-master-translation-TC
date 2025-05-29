@@ -1379,7 +1379,6 @@
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
                 "最終試験を1位で合格する",
-                "未定義のパターン(Type: LatestAuditionRank, ResourceID1: , ResourceID2: , MinMaxType: MIN_MAX, Min: 1, Max: 1)",
                 "アチーブメント「高いところで」を獲得する",
                 "アチーブメント「さすがです、プロデューサー」を獲得する",
                 "アチーブメント「今日は曇り空」を獲得する"
@@ -9737,6 +9736,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hrnm-3-012-01",
+            "title": "Howling over the World 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hrnm-3-012-02",
+            "title": "Howling over the World 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hrnm-3-012-03",
+            "title": "Howling over the World 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hski-3-000-01",
             "title": "Fighting My Way 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -10034,6 +10048,21 @@
         {
             "id": "p_story-i_card-kcna-3-009-03",
             "title": "雪解けに 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kcna-3-012-01",
+            "title": "Howling over the World 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kcna-3-012-02",
+            "title": "Howling over the World 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kcna-3-012-03",
+            "title": "Howling over the World 3話",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -10957,6 +10986,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0052-01",
+            "title": "尊敬しておりますわ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0052-02",
+            "title": "憧れのバレエ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0000-01",
             "title": "『友達』ランチ",
             "produceEventHintProduceConditionDescriptions": []
@@ -11809,6 +11848,66 @@
         {
             "id": "p_story-s_card-3-0058-03",
             "title": "仲直りのラーメン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0059-01",
+            "title": "仲良しなクラスメイト",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0059-02",
+            "title": "クッキーをどうぞ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0059-03",
+            "title": "詳しく教えて",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0060-01",
+            "title": "放送部のお仕事",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0060-02",
+            "title": "可愛いだけじゃない",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0060-03",
+            "title": "終わらない休憩タイム",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0061-01",
+            "title": "もう、止められない！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0061-02",
+            "title": "お説教はほどほどに",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0061-03",
+            "title": "粉物プリンス",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0062-01",
+            "title": "無限の可能性",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0062-02",
+            "title": "根性だけはある",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0062-03",
+            "title": "師弟みたいなふたり",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

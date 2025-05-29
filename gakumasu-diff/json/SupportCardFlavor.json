@@ -697,6 +697,21 @@
             "text": "わたくしもいつか、\n秦谷さんのように――！"
         },
         {
+            "supportCardId": "s_card-2-0052",
+            "number": 1,
+            "text": "こ、こうですわっ！"
+        },
+        {
+            "supportCardId": "s_card-2-0052",
+            "number": 2,
+            "text": "ふふ。いーじゃんいーじゃん？"
+        },
+        {
+            "supportCardId": "s_card-2-0052",
+            "number": 3,
+            "text": "ま、まだ、離さないでくださいませ。\nプルプルしておりますわ……"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1555,6 +1570,66 @@
             "supportCardId": "s_card-3-0058",
             "number": 3,
             "text": "3人で一緒に食べたことを、\nふと思い出して食べたくなったんです。"
+        },
+        {
+            "supportCardId": "s_card-3-0059",
+            "number": 1,
+            "text": "ゲームに本気すぎない？"
+        },
+        {
+            "supportCardId": "s_card-3-0059",
+            "number": 2,
+            "text": "いつものことだろ～、うちらの間では。"
+        },
+        {
+            "supportCardId": "s_card-3-0059",
+            "number": 3,
+            "text": "手毬ちゃんも本気で、\nかかってきてください！"
+        },
+        {
+            "supportCardId": "s_card-3-0060",
+            "number": 1,
+            "text": "これ、読んで。お願い。"
+        },
+        {
+            "supportCardId": "s_card-3-0060",
+            "number": 2,
+            "text": "えっと……\n秦谷美鈴さん、お友達が探しています？"
+        },
+        {
+            "supportCardId": "s_card-3-0060",
+            "number": 3,
+            "text": "……すぅ。"
+        },
+        {
+            "supportCardId": "s_card-3-0061",
+            "number": 1,
+            "text": "有村に似合うヘアピン？"
+        },
+        {
+            "supportCardId": "s_card-3-0061",
+            "number": 2,
+            "text": "面白い議題ね。\n私もプレゼンさせて頂戴。"
+        },
+        {
+            "supportCardId": "s_card-3-0061",
+            "number": 3,
+            "text": "私は、猫のヘアピンだと思うな♪"
+        },
+        {
+            "supportCardId": "s_card-3-0062",
+            "number": 1,
+            "text": "うぅ～～！　何度やっても\n計算が合いませんわぁ……！"
+        },
+        {
+            "supportCardId": "s_card-3-0062",
+            "number": 2,
+            "text": "落ち着け。行がズレているぞ。"
+        },
+        {
+            "supportCardId": "s_card-3-0062",
+            "number": 3,
+            "text": "ふえぇ～～～～っ！\nわかりませんわ～～～～！？"
         },
         {
             "supportCardId": "s_card-3-0067",

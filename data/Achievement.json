@@ -246,6 +246,21 @@
       "description": "【快乐千层酥】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
     },
     {
+      "id": "achieve-i_card-hrnm-3-012-01",
+      "name": "无论怎样的世界都",
+      "description": "【Howling over the World】姬崎莉波的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-02",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】姬崎莉波的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-03",
+      "name": "难道是，共时性现象？",
+      "description": "【Howling over the World】姬崎莉波的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
       "id": "achieve-i_card-hski-3-001-01",
       "name": "POW！",
       "description": "【Boom Boom Pow】花海咲季的培育中通过了最终考试"
@@ -544,6 +559,21 @@
       "id": "achieve-i_card-kcna-3-009-03",
       "name": "被爱的责任",
       "description": "【雪融之时】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-01",
+      "name": "下次的话，一定",
+      "description": "【Howling over the World】仓本千奈的培育中通过了最终考试"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-02",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】仓本千奈的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-03",
+      "name": "一定会拯救世界的哇！",
+      "description": "【Howling over the World】仓本千奈的培育中获得了{threshold}次A+及以上的评价"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",

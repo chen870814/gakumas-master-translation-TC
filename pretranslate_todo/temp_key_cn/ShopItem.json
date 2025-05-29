@@ -1,6 +1,7 @@
 {
   "shop_costume_amao-cstm-0069_revival-1|name": "儿童罩衫（有村麻央）",
   "shop_costume_amao-trng-0002|name": "初星学园体操服（有村麻央）",
+  "shop_costume_costume_head_amao-hair-0001|name": "紫阳花发饰(有村麻央)",
   "shop_costume_costume_head_fktn-hair-0001|name": "紫阳花发饰（藤田琴音）",
   "shop_costume_costume_head_hmsz-hair-0001|name": "紫阳花发饰（秦谷美铃）",
   "shop_costume_costume_head_hmsz-hair-0003|name": "圆框眼镜（秦谷美铃）",
@@ -10,6 +11,8 @@
   "shop_costume_costume_head_hume-hair-0001|name": "紫阳花发饰（花海佑芽）",
   "shop_costume_costume_head_jsna-hair-0001|name": "紫阳花发饰（十王星南）",
   "shop_costume_costume_head_jsna-hair-0003|name": "圆框眼镜（十王星南）",
+  "shop_costume_costume_head_shro-hair-0001|name": "紫阳花发饰(篠泽广)",
+  "shop_costume_costume_head_ssmk-hair-0001|name": "紫阳花发饰(紫云清夏)",
   "shop_costume_costume_head_ttmr-hair-0001|name": "紫阳花发饰（月村手毬）",
   "shop_costume_fktn-cstm-0069_revival-1|name": "儿童罩衫（藤田琴音）",
   "shop_costume_fktn-trng-0002|name": "初星学园体操服（藤田琴音）",
@@ -76,6 +79,7 @@
   "shop_pack_item-0013|name": "【72小时限定】培育偶像优胜礼包（广）",
   "shop_pack_item-0014|name": "【72小时限定】培育偶像优胜礼包（莉波）",
   "shop_pack_item-100dl|name": "【100万下载纪念】育成礼包（6/28截止）",
+  "shop_pack_item-1stPeriodHarmonyStar-selection-ticket|name": "The 1st Period Harmony Star纪念礼包",
   "shop_pack_item-1stPeriodSpotlightStar-selection-ticket|name": "The 1st Period Spotlight Star纪念礼包",
   "shop_pack_item-aniversary-selection-ticket|name": "1st Anniversary前夜祭礼包",
   "shop_pack_item-childsmock-01|name": "【100万下载纪念】儿童罩衫礼包A（6/28截止）",
@@ -111,5 +115,6 @@
   "shop_pass_item-0010|name": "高级任务通行证 2025年2月",
   "shop_pass_item-0011|name": "高级任务通行证 2025年3月",
   "shop_pass_item-0012|name": "高级任务通行证 2025年4月",
-  "shop_pass_item-0013|name": "高级任务通行证 2025年5月"
+  "shop_pass_item-0013|name": "高级任务通行证 2025年5月",
+  "shop_pass_item-0014|name": "高级任务通行证 2025年6月"
 }

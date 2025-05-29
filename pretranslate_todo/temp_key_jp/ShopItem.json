@@ -1,6 +1,7 @@
 {
   "shop_costume_amao-cstm-0069_revival-1|name": "チャイルドスモック（有村麻央）",
   "shop_costume_amao-trng-0002|name": "初星学園体操服（有村麻央）",
+  "shop_costume_costume_head_amao-hair-0001|name": "紫陽花の髪飾り（有村麻央）",
   "shop_costume_costume_head_fktn-hair-0001|name": "紫陽花の髪飾り（藤田ことね）",
   "shop_costume_costume_head_hmsz-hair-0001|name": "紫陽花の髪飾り（秦谷美鈴）",
   "shop_costume_costume_head_hmsz-hair-0003|name": "ラウンドメガネ（秦谷美鈴）",
@@ -10,6 +11,8 @@
   "shop_costume_costume_head_hume-hair-0001|name": "紫陽花の髪飾り（花海佑芽）",
   "shop_costume_costume_head_jsna-hair-0001|name": "紫陽花の髪飾り（十王星南）",
   "shop_costume_costume_head_jsna-hair-0003|name": "ラウンドメガネ（十王星南）",
+  "shop_costume_costume_head_shro-hair-0001|name": "紫陽花の髪飾り（篠澤広）",
+  "shop_costume_costume_head_ssmk-hair-0001|name": "紫陽花の髪飾り（紫雲清夏）",
   "shop_costume_costume_head_ttmr-hair-0001|name": "紫陽花の髪飾り（月村手毬）",
   "shop_costume_fktn-cstm-0069_revival-1|name": "チャイルドスモック（藤田ことね）",
   "shop_costume_fktn-trng-0002|name": "初星学園体操服（藤田ことね）",
@@ -76,6 +79,7 @@
   "shop_pack_item-0013|name": "【72時間限定】プロデュースアイドルピースパック（広）",
   "shop_pack_item-0014|name": "【72時間限定】プロデュースアイドルピースパック（莉波）",
   "shop_pack_item-100dl|name": "【100万DL記念】育成パック（6/28まで）",
+  "shop_pack_item-1stPeriodHarmonyStar-selection-ticket|name": "The 1st Period Harmony Star記念パック",
   "shop_pack_item-1stPeriodSpotlightStar-selection-ticket|name": "The 1st Period Spotlight Star記念パック",
   "shop_pack_item-aniversary-selection-ticket|name": "1st アニバーサリー前夜祭パック",
   "shop_pack_item-childsmock-01|name": "【100万DL記念】チャイルドスモックパックA（6/28まで）",
@@ -111,5 +115,6 @@
   "shop_pass_item-0010|name": "プレミアムミッションパス 2025年2月",
   "shop_pass_item-0011|name": "プレミアムミッションパス 2025年3月",
   "shop_pass_item-0012|name": "プレミアムミッションパス 2025年4月",
-  "shop_pass_item-0013|name": "プレミアムミッションパス 2025年5月"
+  "shop_pass_item-0013|name": "プレミアムミッションパス 2025年5月",
+  "shop_pass_item-0014|name": "プレミアムミッションパス 2025年6月"
 }

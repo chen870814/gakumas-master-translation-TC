@@ -14,6 +14,10 @@
             "name": "初星学園体操服（有村麻央）"
         },
         {
+            "id": "shop_costume_costume_head_amao-hair-0001",
+            "name": "紫陽花の髪飾り（有村麻央）"
+        },
+        {
             "id": "shop_costume_costume_head_fktn-hair-0001",
             "name": "紫陽花の髪飾り（藤田ことね）"
         },
@@ -48,6 +52,14 @@
         {
             "id": "shop_costume_costume_head_jsna-hair-0003",
             "name": "ラウンドメガネ（十王星南）"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0001",
+            "name": "紫陽花の髪飾り（篠澤広）"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0001",
+            "name": "紫陽花の髪飾り（紫雲清夏）"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -314,6 +326,10 @@
             "name": "【100万DL記念】育成パック（6/28まで）"
         },
         {
+            "id": "shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
+            "name": "The 1st Period Harmony Star記念パック"
+        },
+        {
             "id": "shop_pack_item-1stPeriodSpotlightStar-selection-ticket",
             "name": "The 1st Period Spotlight Star記念パック"
         },
@@ -456,6 +472,10 @@
         {
             "id": "shop_pass_item-0013",
             "name": "プレミアムミッションパス 2025年5月"
+        },
+        {
+            "id": "shop_pass_item-0014",
+            "name": "プレミアムミッションパス 2025年6月"
         }
     ]
 }
