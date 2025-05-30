@@ -229,21 +229,21 @@
     },
     {
       "id": "item-limitovermaterial-2-c-1",
-      "name": "观者笔记（歌唱）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（歌唱）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-2",
-      "name": "观者笔记（舞蹈）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（舞蹈）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-3",
-      "name": "观者笔记（视觉）",
-      "description": "可以在方案：观者的培育用偶像的特训中使用的道具",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类笔记（视觉）",
+      "description": "可以在方案：异类的培育用偶像的特训中使用的道具",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-3",
@@ -379,9 +379,9 @@
     },
     {
       "id": "item-memory_exchange-class3",
-      "name": "观者硬币",
-      "description": "可以在观者扭蛋中使用的硬币",
-      "acquisitionRouteDescription": "培育（方案：观者的培育用偶像）等方式"
+      "name": "异类硬币",
+      "description": "可以在异类扭蛋中使用的硬币",
+      "acquisitionRouteDescription": "培育（方案：异类的培育用偶像）等方式"
     },
     {
       "id": "item-memory-inherit",

@@ -2445,7 +2445,7 @@
   },
   "producer.level.idol_plan3": {
     "japanese": "アノマリーのアイドル",
-    "chinese": "观者偶像"
+    "chinese": "异类偶像"
   },
   "mission.top.title": {
     "japanese": "ミッション",
@@ -2909,7 +2909,7 @@
   },
   "produce_plan_type_condition_sheet.description.plan3": {
     "japanese": "プラン：アノマリーのプロデュースアイドルのプロデュース時のみ編成可能です",
-    "chinese": "仅限方案：观者的培育用偶像时可以编成"
+    "chinese": "仅限方案：异类的培育用偶像时可以编成"
   },
   "card.status.produce.label.growth_rate": {
     "japanese": "ボーナス",
@@ -15209,7 +15209,7 @@
   },
   "producer.level.produce_plan_type.plan3": {
     "japanese": "アノマリーのみ",
-    "chinese": "仅观者"
+    "chinese": "仅异类"
   },
   "angya.top.button.how_to_play": {
     "japanese": "遊び方",
@@ -16309,7 +16309,7 @@
   },
   "card.info.idol_card.plan_condition.plan3": {
     "japanese": "アノマリー限定",
-    "chinese": "仅限观者"
+    "chinese": "仅限异类"
   },
   "guild.edit.name.title": {
     "japanese": "サークル名",
@@ -18049,7 +18049,7 @@
   },
   "common.plan3": {
     "japanese": "アノマリー",
-    "chinese": "观者"
+    "chinese": "异类"
   },
   "festival.match.select.title": {
     "japanese": "相手選択",
@@ -19541,7 +19541,7 @@
   },
   "card.filter.produce_plan_type_support.plan3": {
     "japanese": "アノマリーのみ",
-    "chinese": "仅观者"
+    "chinese": "仅异类"
   },
   "produce.lesson.grow_effect_short": {
     "japanese": "成長",

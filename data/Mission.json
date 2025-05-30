@@ -6443,15 +6443,15 @@
     },
     {
       "id": "main_task_group-03-01#3",
-      "name": "让方案：观者的培育用偶像取得{threshold}次最终考试合格吧"
+      "name": "让方案：异类的培育用偶像取得{threshold}次最终考试合格吧"
     },
     {
       "id": "main_task_group-03-01#4",
-      "name": "去观者扭蛋抽卡{threshold}次吧"
+      "name": "去异类扭蛋抽卡{threshold}次吧"
     },
     {
       "id": "main_task_group-03-01#5",
-      "name": "去通关研修中的【应用5】方案：观者吧"
+      "name": "去通关研修中的【应用5】方案：异类吧"
     },
     {
       "id": "main_task_group-03-01#6",
@@ -6503,7 +6503,7 @@
     },
     {
       "id": "main_task_group-03-01#18",
-      "name": "让方案：观者的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
+      "name": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价吧"
     },
     {
       "id": "main_task_group-03-01#19",
@@ -6547,7 +6547,7 @@
     },
     {
       "id": "main_task_group-03-01#29",
-      "name": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：观者的培育用偶像"
+      "name": "在难易度Master中取得{threshold}次最终考试合格吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#30",
@@ -6755,7 +6755,7 @@
     },
     {
       "id": "main_task_group-03-01#81",
-      "name": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：观者的培育用偶像"
+      "name": "在N.I.A的培育中达成S以上的评价吧\n【条件】方案：异类的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#82",

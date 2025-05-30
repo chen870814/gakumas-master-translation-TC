@@ -7368,7 +7368,7 @@
           "text": "」灵活运用来进行育成的方案"
         }
       ],
-      "name": "观者"
+      "name": "异类"
     },
     {
       "id": "Label_ProduceSkillPlanType1",
@@ -7463,7 +7463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProducePlanType3",
-          "text": "观者"
+          "text": "异类"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7476,7 +7476,7 @@
           "text": "的偶像的培育过程中可以发动"
         }
       ],
-      "name": "【观者专用】"
+      "name": "【异类专用】"
     },
     {
       "id": "Label_ProduceStepType_EventSchool",
