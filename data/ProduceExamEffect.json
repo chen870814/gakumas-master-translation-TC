@@ -12023,7 +12023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-2_003",
-          "text": "特写姿势"
+          "text": "定式姿势"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12078,7 +12078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-2_032",
-          "text": "独自表演+"
+          "text": "独立表演+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12133,7 +12133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-3_031",
-          "text": "密码+"
+          "text": "流行词+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12243,7 +12243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_035",
-          "text": "沉静意志+"
+          "text": "静默的意志+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12253,7 +12253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会"
+          "text": "在"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12298,7 +12298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-2_049",
-          "text": "最喜欢大家"
+          "text": "大家最爱"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12353,7 +12353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-2_049",
-          "text": "最喜欢大家"
+          "text": "大家最爱"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12408,7 +12408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-2_054",
-          "text": "本番前夜+"
+          "text": "演出前夜+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12418,7 +12418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会"
+          "text": "在"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12463,7 +12463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-2_066",
-          "text": "自尊+"
+          "text": "自豪感+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12473,7 +12473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会"
+          "text": "在"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12878,7 +12878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "在道口的前方"
+          "text": "道口的前方"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13443,7 +13443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_104",
-          "text": "还能飞翔"
+          "text": "再次飞翔"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16098,7 +16098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_104",
-          "text": "还能飞翔"
+          "text": "再次飞翔"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
