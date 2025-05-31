@@ -1,7 +1,7 @@
 {
-  "ProduceEffectType_VocalAddition|name": "歌唱上升",
-  "ProduceEffectType_DanceAddition|name": "舞蹈上升",
-  "ProduceEffectType_VisualAddition|name": "视觉上升",
+  "ProduceEffectType_VocalAddition|name": "歌唱能力值上升",
+  "ProduceEffectType_DanceAddition|name": "舞蹈能力值上升",
+  "ProduceEffectType_VisualAddition|name": "视觉能力值上升",
   "ProduceEffectType_VocalDown|name": "歌唱低下",
   "ProduceEffectType_DanceDown|name": "舞蹈低下",
   "ProduceEffectType_VisualDown|name": "视觉低下",
