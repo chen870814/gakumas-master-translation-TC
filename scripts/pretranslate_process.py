@@ -2,6 +2,7 @@ import os
 import json
 import shutil
 import argparse
+import datetime
 
 import import_db_json
 import export_db_json
@@ -72,7 +73,14 @@ def gen_todo(new_files_dir: str):
     old_files_dir = "./data"
     temp_key_cn_dir = "./pretranslate_todo/temp_key_cn"
     temp_key_jp_dir = "./pretranslate_todo/temp_key_jp"
+    temp_key_jp_old_dir = "./pretranslate_todo/temp_key_jp_old"  # 添加旧版本目录
     todo_out_dir = "./pretranslate_todo/todo"
+    changed_out_dir = "./pretranslate_todo/todo/changed"  # 变化文件输出目录
+    
+    # 创建日志文件
+    log_file = f"./pretranslate_todo/jp_changes_log_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+    changes_log = []
+    changed_files = {}  # 存储每个文件的变化 {文件名: {(旧值, 新值): 旧翻译}}
 
     if not os.path.isdir(temp_key_cn_dir):
         os.makedirs(temp_key_cn_dir)
@@ -80,6 +88,8 @@ def gen_todo(new_files_dir: str):
         os.makedirs(temp_key_jp_dir)
     if not os.path.isdir(todo_out_dir):
         os.makedirs(todo_out_dir)
+    if not os.path.isdir(changed_out_dir):
+        os.makedirs(changed_out_dir)
 
     # 旧已翻译插件 json 转 key: cn
     for root, dirs, files in os.walk(old_files_dir):
@@ -101,20 +111,50 @@ def gen_todo(new_files_dir: str):
     for root, dirs, files in os.walk(temp_key_jp_dir):
         for file in files:
             jp_file = os.path.join(root, file)
+            jp_old_file = os.path.join(temp_key_jp_old_dir, file)  # 旧版本日文文件
             cn_file = os.path.join(temp_key_cn_dir, file)
             out_data = {}
 
             with open(jp_file, 'r', encoding='utf-8') as f:
                 jp_data = json.load(f)
 
+            # 加载旧版本的日文数据
+            jp_old_data = {}
+            if os.path.exists(jp_old_file):
+                with open(jp_old_file, 'r', encoding='utf-8') as f:
+                    jp_old_data = json.load(f)
+
             if not os.path.exists(cn_file):
+                # 如果没有旧的翻译文件，所有日文都需要翻译
                 for _, v in jp_data.items():
                     out_data[v] = ""
             else:
                 with open(cn_file, 'r', encoding='utf-8') as f:
                     cn_data = json.load(f)
+                
                 for k, v in jp_data.items():
+                    # 检查条件：
+                    # 1. 键不存在于旧翻译中 (新增的键)
+                    # 2. 键存在于旧翻译中，但日文值发生了变化 (值更新的键)
                     if k not in cn_data:
+                        # 新增的键，直接添加
+                        out_data[v] = ""
+                    elif k in jp_old_data and jp_old_data[k] != v and k in cn_data:
+                        # 键存在，日文值发生变化，且之前有翻译
+                        change_info = f"文件: {file}\n键: {k}\n旧值: {jp_old_data[k]}\n新值: {v}\n原翻译: {cn_data[k]}\n{'='*50}"
+                        changes_log.append(change_info)
+                        
+                        # 记录到变化文件字典（去重相同的旧值->新值变化）
+                        if file not in changed_files:
+                            changed_files[file] = {}
+                        change_key = (jp_old_data[k], v)
+                        if change_key not in changed_files[file]:
+                            changed_files[file][change_key] = cn_data[k]
+                        
+                        print(f"检测到日文值变化: {file} - {k}")
+                        print(f"  旧值: {jp_old_data[k]}")
+                        print(f"  新值: {v}")
+                        print(f"  原翻译: {cn_data[k]}")
                         out_data[v] = ""
 
             if out_data:
@@ -122,6 +162,36 @@ def gen_todo(new_files_dir: str):
                 with open(todo_file, 'w', encoding='utf-8') as f:
                     json.dump(out_data, f, ensure_ascii=False, indent=4)
                 print("TODO File", todo_file)
+    
+    # 保存变化的文件到 changed 目录（CSV格式）
+    for file_name, changes in changed_files.items():
+        changed_file_path = os.path.join(changed_out_dir, file_name.replace('.json', '.csv'))
+        with open(changed_file_path, 'w', encoding='utf-8', newline='') as f:
+            # 手动写入CSV格式，完全保持原样
+            f.write('旧值,新值,旧翻译,新翻译\n')
+            for (old_value, new_value), old_translation in changes.items():
+                # 只将真实的换行符转换为字面的\n，保持其他内容原样
+                old_value_csv = old_value.replace('\n', '\\n')
+                new_value_csv = new_value.replace('\n', '\\n')
+                old_translation_csv = old_translation.replace('\n', '\\n')
+                # 手动拼接CSV行
+                line = f'{old_value_csv},{new_value_csv},{old_translation_csv},\n'
+                f.write(line)
+        print(f"变化文件已保存: {changed_file_path} (包含 {len(changes)} 个唯一变化)")
+    
+    # 保存变化日志
+    if changes_log:
+        with open(log_file, 'w', encoding='utf-8') as f:
+            f.write(f"日文值变化检测报告\n")
+            f.write(f"生成时间: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"检测到 {len(changes_log)} 处变化\n")
+            f.write("="*80 + "\n\n")
+            f.write("\n\n".join(changes_log))
+        print(f"\n变化日志已保存到: {log_file}")
+        print(f"共检测到 {len(changes_log)} 处日文值变化")
+        print(f"变化文件已保存到: {changed_out_dir}")
+    else:
+        print("\n未检测到日文值变化")
 
 
 def merge_todo():
