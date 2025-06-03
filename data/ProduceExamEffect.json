@@ -72273,7 +72273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "效果的技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72358,7 +72358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "效果的技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73633,7 +73633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "效果的技能卡使用时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
