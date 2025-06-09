@@ -10,6 +10,10 @@
             "name": "カムバックミッションポイント"
         },
         {
+            "id": "daily_mission_NIA_clear_point",
+            "name": "N.I.AチャレンジPt"
+        },
+        {
             "id": "highscore-event-001_point",
             "name": "アイドル強化月間イベントポイント"
         },

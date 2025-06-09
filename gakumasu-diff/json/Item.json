@@ -174,6 +174,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-ssr-support-fix-nia-1",
+            "name": "N.I.AチャレンジSSR サポートカード確定ガシャチケット",
+            "description": "N.I.AチャレンジSSR サポートカード確定チケットガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-Idolcardpiece-exchange-1",
             "name": "フラワー",
             "description": "交換所で使用するアイテム",
@@ -814,6 +820,12 @@
             "name": "[桜フォトグラフ]葛城リーリヤのピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "イベントガシャなど"
+        },
+        {
+            "id": "item-piece-idol_kllj-3-012",
+            "name": "[Howling over the World]葛城リーリヤのピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
         },
         {
             "id": "item-piece-idol_shro-1-000",

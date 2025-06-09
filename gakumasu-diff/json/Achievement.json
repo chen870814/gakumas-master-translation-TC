@@ -6,6 +6,36 @@
     },
     "data": [
         {
+            "id": "achieve-i_card-amao-2-000-04",
+            "name": "はじまりはカッコよく +",
+            "description": "【はじまりはカッコよく】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-2-000-05",
+            "name": "はじまりはカッコよく ++",
+            "description": "【はじまりはカッコよく】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-2-000-06",
+            "name": "はじまりはカッコよく +++",
+            "description": "【はじまりはカッコよく】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-000-04",
+            "name": "Fluorite +",
+            "description": "【Fluorite】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-000-05",
+            "name": "Fluorite ++",
+            "description": "【Fluorite】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-000-06",
+            "name": "Fluorite +++",
+            "description": "【Fluorite】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-amao-3-001-01",
             "name": "ひんやり一休み",
             "description": "【キミとセミブルー】有村 麻央のプロデュースで最終試験に合格"
@@ -19,6 +49,21 @@
             "id": "achieve-i_card-amao-3-001-03",
             "name": "最後の夏だから――",
             "description": "【キミとセミブルー】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-001-04",
+            "name": "キミとセミブルー +",
+            "description": "【キミとセミブルー】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-001-05",
+            "name": "キミとセミブルー ++",
+            "description": "【キミとセミブルー】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-001-06",
+            "name": "キミとセミブルー +++",
+            "description": "【キミとセミブルー】有村 麻央の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-amao-3-002-01",
@@ -36,6 +81,21 @@
             "description": "【Feel Jewel Dream】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-amao-3-002-04",
+            "name": "Feel Jewel Dream +",
+            "description": "【Feel Jewel Dream】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-002-05",
+            "name": "Feel Jewel Dream ++",
+            "description": "【Feel Jewel Dream】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-002-06",
+            "name": "Feel Jewel Dream +++",
+            "description": "【Feel Jewel Dream】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-amao-3-007-01",
             "name": "手にした答え",
             "description": "【Campus mode!!】有村 麻央のプロデュースで最終試験に合格"
@@ -49,6 +109,21 @@
             "id": "achieve-i_card-amao-3-007-03",
             "name": "憧れになれるように",
             "description": "【Campus mode!!】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-007-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-007-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-007-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】有村 麻央の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-amao-3-009-01",
@@ -66,6 +141,51 @@
             "description": "【雪解けに】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-amao-3-009-04",
+            "name": "雪解けに +",
+            "description": "【雪解けに】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-009-05",
+            "name": "雪解けに ++",
+            "description": "【雪解けに】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-009-06",
+            "name": "雪解けに +++",
+            "description": "【雪解けに】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-2-000-04",
+            "name": "カワイイ♡はじめました +",
+            "description": "【カワイイ♡はじめました】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-2-000-05",
+            "name": "カワイイ♡はじめました ++",
+            "description": "【カワイイ♡はじめました】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-2-000-06",
+            "name": "カワイイ♡はじめました +++",
+            "description": "【カワイイ♡はじめました】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-000-04",
+            "name": "世界一可愛い私 +",
+            "description": "【世界一可愛い私】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-000-05",
+            "name": "世界一可愛い私 ++",
+            "description": "【世界一可愛い私】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-000-06",
+            "name": "世界一可愛い私 +++",
+            "description": "【世界一可愛い私】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-fktn-3-001-01",
             "name": "アドレナリン全開",
             "description": "【Yellow Big Bang！】藤田 ことねのプロデュースで最終試験に合格"
@@ -79,6 +199,21 @@
             "id": "achieve-i_card-fktn-3-001-03",
             "name": "ちょー元気！",
             "description": "【Yellow Big Bang！】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-001-04",
+            "name": "Yellow Big Bang！ +",
+            "description": "【Yellow Big Bang！】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-001-05",
+            "name": "Yellow Big Bang！ ++",
+            "description": "【Yellow Big Bang！】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-001-06",
+            "name": "Yellow Big Bang！ +++",
+            "description": "【Yellow Big Bang！】藤田 ことねの特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-fktn-3-002-01",
@@ -96,6 +231,21 @@
             "description": "【冠菊】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-fktn-3-002-04",
+            "name": "冠菊 +",
+            "description": "【冠菊】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-002-05",
+            "name": "冠菊 ++",
+            "description": "【冠菊】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-002-06",
+            "name": "冠菊 +++",
+            "description": "【冠菊】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-fktn-3-006-01",
             "name": "メリクリで～す♪",
             "description": "【White Night! White Wish!】藤田 ことねのプロデュースで最終試験に合格"
@@ -109,6 +259,21 @@
             "id": "achieve-i_card-fktn-3-006-03",
             "name": "たったいまからクリスマス",
             "description": "【White Night! White Wish!】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-006-04",
+            "name": "White Night! White Wish! +",
+            "description": "【White Night! White Wish!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-006-05",
+            "name": "White Night! White Wish! ++",
+            "description": "【White Night! White Wish!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-006-06",
+            "name": "White Night! White Wish! +++",
+            "description": "【White Night! White Wish!】藤田 ことねの特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-fktn-3-007-01",
@@ -126,6 +291,21 @@
             "description": "【Campus mode!!】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-fktn-3-007-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-007-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-007-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-fktn-3-011-01",
             "name": "あたらしい光",
             "description": "【雨上がりのアイリス】藤田 ことねのプロデュースで最終試験に合格"
@@ -139,6 +319,21 @@
             "id": "achieve-i_card-fktn-3-011-03",
             "name": "宇宙一幸せなアイドル",
             "description": "【雨上がりのアイリス】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-011-04",
+            "name": "雨上がりのアイリス +",
+            "description": "【雨上がりのアイリス】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-011-05",
+            "name": "雨上がりのアイリス ++",
+            "description": "【雨上がりのアイリス】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-011-06",
+            "name": "雨上がりのアイリス +++",
+            "description": "【雨上がりのアイリス】藤田 ことねの特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hmsz-2-000-01",
@@ -156,6 +351,21 @@
             "description": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hmsz-2-000-04",
+            "name": "ゆっくり、一歩ずつ +",
+            "description": "【ゆっくり、一歩ずつ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-2-000-05",
+            "name": "ゆっくり、一歩ずつ ++",
+            "description": "【ゆっくり、一歩ずつ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-2-000-06",
+            "name": "ゆっくり、一歩ずつ +++",
+            "description": "【ゆっくり、一歩ずつ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hmsz-3-000-01",
             "name": "屋上からの景色",
             "description": "【ツキノカメ】秦谷 美鈴のプロデュースで最終試験に合格"
@@ -169,6 +379,51 @@
             "id": "achieve-i_card-hmsz-3-000-03",
             "name": "皆さんの心を満たしてきます",
             "description": "【ツキノカメ】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-04",
+            "name": "ツキノカメ +",
+            "description": "【ツキノカメ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-05",
+            "name": "ツキノカメ ++",
+            "description": "【ツキノカメ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-000-06",
+            "name": "ツキノカメ +++",
+            "description": "【ツキノカメ】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-2-000-04",
+            "name": "『私らしさ』のはじまり +",
+            "description": "【『私らしさ』のはじまり】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-2-000-05",
+            "name": "『私らしさ』のはじまり ++",
+            "description": "【『私らしさ』のはじまり】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-2-000-06",
+            "name": "『私らしさ』のはじまり +++",
+            "description": "【『私らしさ』のはじまり】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-000-04",
+            "name": "clumsy trick +",
+            "description": "【clumsy trick】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-000-05",
+            "name": "clumsy trick ++",
+            "description": "【clumsy trick】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-000-06",
+            "name": "clumsy trick +++",
+            "description": "【clumsy trick】姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hrnm-3-001-01",
@@ -186,6 +441,21 @@
             "description": "【キミとセミブルー】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hrnm-3-001-04",
+            "name": "キミとセミブルー +",
+            "description": "【キミとセミブルー】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-001-05",
+            "name": "キミとセミブルー ++",
+            "description": "【キミとセミブルー】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-001-06",
+            "name": "キミとセミブルー +++",
+            "description": "【キミとセミブルー】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hrnm-3-002-01",
             "name": "また、明日",
             "description": "【L.U.V】姫崎 莉波のプロデュースで最終試験に合格"
@@ -199,6 +469,21 @@
             "id": "achieve-i_card-hrnm-3-002-03",
             "name": "ちゃんと、見ててくれてたんだ",
             "description": "【L.U.V】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-002-04",
+            "name": "L.U.V +",
+            "description": "【L.U.V】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-002-05",
+            "name": "L.U.V ++",
+            "description": "【L.U.V】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-002-06",
+            "name": "L.U.V +++",
+            "description": "【L.U.V】姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hrnm-3-004-01",
@@ -216,6 +501,21 @@
             "description": "【ようこそ初星温泉】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hrnm-3-004-04",
+            "name": "ようこそ初星温泉 +",
+            "description": "【ようこそ初星温泉】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-004-05",
+            "name": "ようこそ初星温泉 ++",
+            "description": "【ようこそ初星温泉】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-004-06",
+            "name": "ようこそ初星温泉 +++",
+            "description": "【ようこそ初星温泉】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hrnm-3-007-01",
             "name": "アイドルにしてくれた",
             "description": "【Campus mode!!】姫崎 莉波のプロデュースで最終試験に合格"
@@ -229,6 +529,21 @@
             "id": "achieve-i_card-hrnm-3-007-03",
             "name": "ありがとう",
             "description": "【Campus mode!!】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-007-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-007-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-007-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hrnm-3-008-01",
@@ -246,6 +561,21 @@
             "description": "【ハッピーミルフィーユ】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hrnm-3-008-04",
+            "name": "ハッピーミルフィーユ +",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-05",
+            "name": "ハッピーミルフィーユ ++",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-06",
+            "name": "ハッピーミルフィーユ +++",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hrnm-3-012-01",
             "name": "どんな世界でも",
             "description": "【Howling over the World】姫崎 莉波のプロデュースで最終試験に合格"
@@ -259,6 +589,51 @@
             "id": "achieve-i_card-hrnm-3-012-03",
             "name": "それって、シンクロニシティ？",
             "description": "【Howling over the World】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-012-04",
+            "name": "Howling over the World +",
+            "description": "【Howling over the World】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-012-05",
+            "name": "Howling over the World ++",
+            "description": "【Howling over the World】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-012-06",
+            "name": "Howling over the World +++",
+            "description": "【Howling over the World】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-2-000-04",
+            "name": "わたしが一番！ +",
+            "description": "【わたしが一番！】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-2-000-05",
+            "name": "わたしが一番！ ++",
+            "description": "【わたしが一番！】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-2-000-06",
+            "name": "わたしが一番！ +++",
+            "description": "【わたしが一番！】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-000-04",
+            "name": "Fighting My Way +",
+            "description": "【Fighting My Way】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-000-05",
+            "name": "Fighting My Way ++",
+            "description": "【Fighting My Way】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-000-06",
+            "name": "Fighting My Way +++",
+            "description": "【Fighting My Way】花海 咲季の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hski-3-001-01",
@@ -276,6 +651,21 @@
             "description": "【Boom Boom Pow】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hski-3-001-04",
+            "name": "Boom Boom Pow +",
+            "description": "【Boom Boom Pow】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-001-05",
+            "name": "Boom Boom Pow ++",
+            "description": "【Boom Boom Pow】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-001-06",
+            "name": "Boom Boom Pow +++",
+            "description": "【Boom Boom Pow】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hski-3-002-01",
             "name": "金魚すくいで勝負",
             "description": "【冠菊】花海 咲季のプロデュースで最終試験に合格"
@@ -289,6 +679,21 @@
             "id": "achieve-i_card-hski-3-002-03",
             "name": "叶えてあげるわ",
             "description": "【冠菊】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-002-04",
+            "name": "冠菊 +",
+            "description": "【冠菊】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-002-05",
+            "name": "冠菊 ++",
+            "description": "【冠菊】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-002-06",
+            "name": "冠菊 +++",
+            "description": "【冠菊】花海 咲季の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hski-3-006-01",
@@ -306,6 +711,21 @@
             "description": "【古今東西ちょちょいのちょい】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hski-3-006-04",
+            "name": "古今東西ちょちょいのちょい +",
+            "description": "【古今東西ちょちょいのちょい】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-006-05",
+            "name": "古今東西ちょちょいのちょい ++",
+            "description": "【古今東西ちょちょいのちょい】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-006-06",
+            "name": "古今東西ちょちょいのちょい +++",
+            "description": "【古今東西ちょちょいのちょい】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hski-3-008-01",
             "name": "これまでも、これからも",
             "description": "【Campus mode!!】花海 咲季のプロデュースで最終試験に合格"
@@ -319,6 +739,21 @@
             "id": "achieve-i_card-hski-3-008-03",
             "name": "最高の想い出を",
             "description": "【Campus mode!!】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-008-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-008-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-008-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】花海 咲季の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hski-3-011-01",
@@ -336,6 +771,21 @@
             "description": "【桜フォトグラフ】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hski-3-011-04",
+            "name": "桜フォトグラフ +",
+            "description": "【桜フォトグラフ】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-011-05",
+            "name": "桜フォトグラフ ++",
+            "description": "【桜フォトグラフ】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-011-06",
+            "name": "桜フォトグラフ +++",
+            "description": "【桜フォトグラフ】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hski-3-012-01",
             "name": "わたしらしい色",
             "description": "【雨上がりのアイリス】花海 咲季のプロデュースで最終試験に合格"
@@ -349,6 +799,21 @@
             "id": "achieve-i_card-hski-3-012-03",
             "name": "証明し続けましょう",
             "description": "【雨上がりのアイリス】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-012-04",
+            "name": "雨上がりのアイリス +",
+            "description": "【雨上がりのアイリス】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-012-05",
+            "name": "雨上がりのアイリス ++",
+            "description": "【雨上がりのアイリス】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-012-06",
+            "name": "雨上がりのアイリス +++",
+            "description": "【雨上がりのアイリス】花海 咲季の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hume-2-000-01",
@@ -366,6 +831,21 @@
             "description": "【アイドル、はじめっ！】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hume-2-000-04",
+            "name": "アイドル、はじめっ！ +",
+            "description": "【アイドル、はじめっ！】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-2-000-05",
+            "name": "アイドル、はじめっ！ ++",
+            "description": "【アイドル、はじめっ！】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-2-000-06",
+            "name": "アイドル、はじめっ！ +++",
+            "description": "【アイドル、はじめっ！】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hume-3-000-01",
             "name": "おっきなおにぎり",
             "description": "【The Rolling Riceball】花海 佑芽のプロデュースで最終試験に合格"
@@ -379,6 +859,21 @@
             "id": "achieve-i_card-hume-3-000-03",
             "name": "全校生徒への挑戦状",
             "description": "【The Rolling Riceball】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-3-000-04",
+            "name": "The Rolling Riceball +",
+            "description": "【The Rolling Riceball】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-000-05",
+            "name": "The Rolling Riceball ++",
+            "description": "【The Rolling Riceball】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-000-06",
+            "name": "The Rolling Riceball +++",
+            "description": "【The Rolling Riceball】花海 佑芽の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hume-3-005-01",
@@ -396,6 +891,21 @@
             "description": "【White Night! White Wish!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-hume-3-005-04",
+            "name": "White Night! White Wish! +",
+            "description": "【White Night! White Wish!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-005-05",
+            "name": "White Night! White Wish! ++",
+            "description": "【White Night! White Wish!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-005-06",
+            "name": "White Night! White Wish! +++",
+            "description": "【White Night! White Wish!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hume-3-006-01",
             "name": "新たなステージ",
             "description": "【Campus mode!!】花海 佑芽のプロデュースで最終試験に合格"
@@ -409,6 +919,21 @@
             "id": "achieve-i_card-hume-3-006-03",
             "name": "たくさんの伝えたいこと",
             "description": "【Campus mode!!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】花海 佑芽の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-jsna-2-000-01",
@@ -426,6 +951,21 @@
             "description": "【一番星】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-jsna-2-000-04",
+            "name": "一番星 +",
+            "description": "【一番星】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-2-000-05",
+            "name": "一番星 ++",
+            "description": "【一番星】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-2-000-06",
+            "name": "一番星 +++",
+            "description": "【一番星】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-jsna-3-000-01",
             "name": "一番高い星",
             "description": "【小さな野望】十王 星南のプロデュースで最終試験に合格"
@@ -439,6 +979,21 @@
             "id": "achieve-i_card-jsna-3-000-03",
             "name": "歌いたくて仕方がないわ",
             "description": "【小さな野望】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-000-04",
+            "name": "小さな野望 +",
+            "description": "【小さな野望】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-000-05",
+            "name": "小さな野望 ++",
+            "description": "【小さな野望】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-000-06",
+            "name": "小さな野望 +++",
+            "description": "【小さな野望】十王 星南の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-jsna-3-002-01",
@@ -456,6 +1011,21 @@
             "description": "【Campus mode!!】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-jsna-3-002-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-002-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-002-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-jsna-3-003-01",
             "name": "あなたにあげる",
             "description": "【ハッピーミルフィーユ】十王 星南のプロデュースで最終試験に合格"
@@ -469,6 +1039,21 @@
             "id": "achieve-i_card-jsna-3-003-03",
             "name": "早めに証拠隠滅を",
             "description": "【ハッピーミルフィーユ】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-04",
+            "name": "ハッピーミルフィーユ +",
+            "description": "【ハッピーミルフィーユ】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-05",
+            "name": "ハッピーミルフィーユ ++",
+            "description": "【ハッピーミルフィーユ】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-06",
+            "name": "ハッピーミルフィーユ +++",
+            "description": "【ハッピーミルフィーユ】十王 星南の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-jsna-3-006-01",
@@ -486,6 +1071,51 @@
             "description": "【Our Chant】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-jsna-3-006-04",
+            "name": "Our Chant +",
+            "description": "【Our Chant】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-006-05",
+            "name": "Our Chant ++",
+            "description": "【Our Chant】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-006-06",
+            "name": "Our Chant +++",
+            "description": "【Our Chant】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-2-000-04",
+            "name": "胸を張って一歩ずつ +",
+            "description": "【胸を張って一歩ずつ】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-2-000-05",
+            "name": "胸を張って一歩ずつ ++",
+            "description": "【胸を張って一歩ずつ】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-2-000-06",
+            "name": "胸を張って一歩ずつ +++",
+            "description": "【胸を張って一歩ずつ】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-000-04",
+            "name": "Wonder Scale +",
+            "description": "【Wonder Scale】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-000-05",
+            "name": "Wonder Scale ++",
+            "description": "【Wonder Scale】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-000-06",
+            "name": "Wonder Scale +++",
+            "description": "【Wonder Scale】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-kcna-3-001-01",
             "name": "お茶会へようこそ♪",
             "description": "【日々、発見的ステップ！】倉本 千奈のプロデュースで最終試験に合格"
@@ -499,6 +1129,21 @@
             "id": "achieve-i_card-kcna-3-001-03",
             "name": "ありのままのわたくしを！",
             "description": "【日々、発見的ステップ！】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-001-04",
+            "name": "日々、発見的ステップ！ +",
+            "description": "【日々、発見的ステップ！】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-001-05",
+            "name": "日々、発見的ステップ！ ++",
+            "description": "【日々、発見的ステップ！】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-001-06",
+            "name": "日々、発見的ステップ！ +++",
+            "description": "【日々、発見的ステップ！】倉本 千奈の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-kcna-3-002-01",
@@ -516,6 +1161,21 @@
             "description": "【仮装狂騒曲】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-kcna-3-002-04",
+            "name": "仮装狂騒曲 +",
+            "description": "【仮装狂騒曲】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-002-05",
+            "name": "仮装狂騒曲 ++",
+            "description": "【仮装狂騒曲】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-002-06",
+            "name": "仮装狂騒曲 +++",
+            "description": "【仮装狂騒曲】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-kcna-3-005-01",
             "name": "こくりとひとくち",
             "description": "【ようこそ初星温泉】倉本 千奈のプロデュースで最終試験に合格"
@@ -529,6 +1189,21 @@
             "id": "achieve-i_card-kcna-3-005-03",
             "name": "お休みを取る番ですわ",
             "description": "【ようこそ初星温泉】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-005-04",
+            "name": "ようこそ初星温泉 +",
+            "description": "【ようこそ初星温泉】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-005-05",
+            "name": "ようこそ初星温泉 ++",
+            "description": "【ようこそ初星温泉】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-005-06",
+            "name": "ようこそ初星温泉 +++",
+            "description": "【ようこそ初星温泉】倉本 千奈の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-kcna-3-007-01",
@@ -546,6 +1221,21 @@
             "description": "【Campus mode!!】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-kcna-3-007-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-kcna-3-009-01",
             "name": "ちいさなおひさま",
             "description": "【雪解けに】倉本 千奈のプロデュースで最終試験に合格"
@@ -559,6 +1249,21 @@
             "id": "achieve-i_card-kcna-3-009-03",
             "name": "愛された責任",
             "description": "【雪解けに】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-04",
+            "name": "雪解けに +",
+            "description": "【雪解けに】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-05",
+            "name": "雪解けに ++",
+            "description": "【雪解けに】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-06",
+            "name": "雪解けに +++",
+            "description": "【雪解けに】倉本 千奈の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-kcna-3-012-01",
@@ -576,6 +1281,51 @@
             "description": "【Howling over the World】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-kcna-3-012-04",
+            "name": "Howling over the World +",
+            "description": "【Howling over the World】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-012-05",
+            "name": "Howling over the World ++",
+            "description": "【Howling over the World】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-012-06",
+            "name": "Howling over the World +++",
+            "description": "【Howling over the World】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-2-000-04",
+            "name": "一つ踏み出した先に +",
+            "description": "【一つ踏み出した先に】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-2-000-05",
+            "name": "一つ踏み出した先に ++",
+            "description": "【一つ踏み出した先に】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-2-000-06",
+            "name": "一つ踏み出した先に +++",
+            "description": "【一つ踏み出した先に】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-000-04",
+            "name": "白線 +",
+            "description": "【白線】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-000-05",
+            "name": "白線 ++",
+            "description": "【白線】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-000-06",
+            "name": "白線 +++",
+            "description": "【白線】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-kllj-3-001-01",
             "name": "はじめてのラムネ",
             "description": "【冠菊】葛城 リーリヤのプロデュースで最終試験に合格"
@@ -589,6 +1339,21 @@
             "id": "achieve-i_card-kllj-3-001-03",
             "name": "もう少しだけ、このままで",
             "description": "【冠菊】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-001-04",
+            "name": "冠菊 +",
+            "description": "【冠菊】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-001-05",
+            "name": "冠菊 ++",
+            "description": "【冠菊】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-001-06",
+            "name": "冠菊 +++",
+            "description": "【冠菊】葛城 リーリヤの特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-kllj-3-005-01",
@@ -606,6 +1371,21 @@
             "description": "【White Night! White Wish!】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-kllj-3-005-04",
+            "name": "White Night! White Wish! +",
+            "description": "【White Night! White Wish!】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-005-05",
+            "name": "White Night! White Wish! ++",
+            "description": "【White Night! White Wish!】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-005-06",
+            "name": "White Night! White Wish! +++",
+            "description": "【White Night! White Wish!】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-kllj-3-006-01",
             "name": "いつか見た景色",
             "description": "【Campus mode!!】葛城 リーリヤのプロデュースで最終試験に合格"
@@ -619,6 +1399,21 @@
             "id": "achieve-i_card-kllj-3-006-03",
             "name": "みんなが見ている景色",
             "description": "【Campus mode!!】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-006-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-006-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-006-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】葛城 リーリヤの特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-kllj-3-008-01",
@@ -636,6 +1431,21 @@
             "description": "【極光】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-kllj-3-008-04",
+            "name": "極光 +",
+            "description": "【極光】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-008-05",
+            "name": "極光 ++",
+            "description": "【極光】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-008-06",
+            "name": "極光 +++",
+            "description": "【極光】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-kllj-3-010-01",
             "name": "放課後おしゃべり",
             "description": "【桜フォトグラフ】葛城 リーリヤのプロデュースで最終試験に合格"
@@ -649,6 +1459,81 @@
             "id": "achieve-i_card-kllj-3-010-03",
             "name": "センパイの夢を叶えます！",
             "description": "【桜フォトグラフ】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-010-04",
+            "name": "桜フォトグラフ +",
+            "description": "【桜フォトグラフ】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-010-05",
+            "name": "桜フォトグラフ ++",
+            "description": "【桜フォトグラフ】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-010-06",
+            "name": "桜フォトグラフ +++",
+            "description": "【桜フォトグラフ】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-012-01",
+            "name": "戦う理由",
+            "description": "【Howling over the World】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-012-02",
+            "name": "Howling over the World",
+            "description": "【Howling over the World】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-012-03",
+            "name": "アイドルなので、今はまだ",
+            "description": "【Howling over the World】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-012-04",
+            "name": "Howling over the World +",
+            "description": "【Howling over the World】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-012-05",
+            "name": "Howling over the World ++",
+            "description": "【Howling over the World】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-012-06",
+            "name": "Howling over the World +++",
+            "description": "【Howling over the World】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-2-000-04",
+            "name": "一番向いてないこと +",
+            "description": "【一番向いてないこと】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-2-000-05",
+            "name": "一番向いてないこと ++",
+            "description": "【一番向いてないこと】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-2-000-06",
+            "name": "一番向いてないこと +++",
+            "description": "【一番向いてないこと】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-000-04",
+            "name": "光景 +",
+            "description": "【光景】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-000-05",
+            "name": "光景 ++",
+            "description": "【光景】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-000-06",
+            "name": "光景 +++",
+            "description": "【光景】篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-shro-3-001-01",
@@ -666,6 +1551,21 @@
             "description": "【コントラスト】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-shro-3-001-04",
+            "name": "コントラスト +",
+            "description": "【コントラスト】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-001-05",
+            "name": "コントラスト ++",
+            "description": "【コントラスト】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-001-06",
+            "name": "コントラスト +++",
+            "description": "【コントラスト】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-shro-3-002-01",
             "name": "正確無比な看板づくり",
             "description": "【仮装狂騒曲】篠澤 広のプロデュースで最終試験に合格"
@@ -679,6 +1579,21 @@
             "id": "achieve-i_card-shro-3-002-03",
             "name": "面白くて、幸せな夜を……",
             "description": "【仮装狂騒曲】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-002-04",
+            "name": "仮装狂騒曲 +",
+            "description": "【仮装狂騒曲】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-002-05",
+            "name": "仮装狂騒曲 ++",
+            "description": "【仮装狂騒曲】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-002-06",
+            "name": "仮装狂騒曲 +++",
+            "description": "【仮装狂騒曲】篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-shro-3-007-01",
@@ -696,6 +1611,21 @@
             "description": "【Campus mode!!】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-shro-3-007-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-shro-3-008-01",
             "name": "がんばった、よ",
             "description": "【ハッピーミルフィーユ】篠澤 広のプロデュースで最終試験に合格"
@@ -709,6 +1639,51 @@
             "id": "achieve-i_card-shro-3-008-03",
             "name": "本当に作りたいもの",
             "description": "【ハッピーミルフィーユ】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-04",
+            "name": "ハッピーミルフィーユ +",
+            "description": "【ハッピーミルフィーユ】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-05",
+            "name": "ハッピーミルフィーユ ++",
+            "description": "【ハッピーミルフィーユ】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-06",
+            "name": "ハッピーミルフィーユ +++",
+            "description": "【ハッピーミルフィーユ】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-2-000-04",
+            "name": "夢へのリスタート +",
+            "description": "【夢へのリスタート】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-2-000-05",
+            "name": "夢へのリスタート ++",
+            "description": "【夢へのリスタート】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-2-000-06",
+            "name": "夢へのリスタート +++",
+            "description": "【夢へのリスタート】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-000-04",
+            "name": "Tame-Lie-One-Step +",
+            "description": "【Tame-Lie-One-Step】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-000-05",
+            "name": "Tame-Lie-One-Step ++",
+            "description": "【Tame-Lie-One-Step】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-000-06",
+            "name": "Tame-Lie-One-Step +++",
+            "description": "【Tame-Lie-One-Step】紫雲 清夏の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-ssmk-3-001-01",
@@ -726,6 +1701,21 @@
             "description": "【キミとセミブルー】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-ssmk-3-001-04",
+            "name": "キミとセミブルー +",
+            "description": "【キミとセミブルー】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-001-05",
+            "name": "キミとセミブルー ++",
+            "description": "【キミとセミブルー】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-001-06",
+            "name": "キミとセミブルー +++",
+            "description": "【キミとセミブルー】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ssmk-3-002-01",
             "name": "踏切の先に",
             "description": "【カクシタワタシ】紫雲 清夏のプロデュースで最終試験に合格"
@@ -739,6 +1729,21 @@
             "id": "achieve-i_card-ssmk-3-002-03",
             "name": "精一杯の強がり",
             "description": "【カクシタワタシ】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-002-04",
+            "name": "カクシタワタシ +",
+            "description": "【カクシタワタシ】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-002-05",
+            "name": "カクシタワタシ ++",
+            "description": "【カクシタワタシ】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-002-06",
+            "name": "カクシタワタシ +++",
+            "description": "【カクシタワタシ】紫雲 清夏の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-ssmk-3-007-01",
@@ -756,6 +1761,21 @@
             "description": "【Campus mode!!】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-ssmk-3-007-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-007-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-007-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ssmk-3-010-01",
             "name": "ヒーローとの出会い",
             "description": "【桜フォトグラフ】紫雲 清夏のプロデュースで最終試験に合格"
@@ -769,6 +1789,51 @@
             "id": "achieve-i_card-ssmk-3-010-03",
             "name": "あなたが支えてくれるなら",
             "description": "【桜フォトグラフ】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-010-04",
+            "name": "桜フォトグラフ +",
+            "description": "【桜フォトグラフ】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-010-05",
+            "name": "桜フォトグラフ ++",
+            "description": "【桜フォトグラフ】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-010-06",
+            "name": "桜フォトグラフ +++",
+            "description": "【桜フォトグラフ】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-2-000-04",
+            "name": "一匹狼 +",
+            "description": "【一匹狼】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-2-000-05",
+            "name": "一匹狼 ++",
+            "description": "【一匹狼】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-2-000-06",
+            "name": "一匹狼 +++",
+            "description": "【一匹狼】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-000-04",
+            "name": "Luna say maybe +",
+            "description": "【Luna say maybe】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-000-05",
+            "name": "Luna say maybe ++",
+            "description": "【Luna say maybe】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-000-06",
+            "name": "Luna say maybe +++",
+            "description": "【Luna say maybe】月村 手毬の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-ttmr-3-001-01",
@@ -786,6 +1851,21 @@
             "description": "【アイヴイ】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-ttmr-3-001-04",
+            "name": "アイヴイ +",
+            "description": "【アイヴイ】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-001-05",
+            "name": "アイヴイ ++",
+            "description": "【アイヴイ】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-001-06",
+            "name": "アイヴイ +++",
+            "description": "【アイヴイ】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ttmr-3-002-01",
             "name": "悪戦苦闘ハンドメイド",
             "description": "【仮装狂騒曲】月村 手毬のプロデュースで最終試験に合格"
@@ -799,6 +1879,21 @@
             "id": "achieve-i_card-ttmr-3-002-03",
             "name": "一番得意な仮装",
             "description": "【仮装狂騒曲】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-002-04",
+            "name": "仮装狂騒曲 +",
+            "description": "【仮装狂騒曲】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-002-05",
+            "name": "仮装狂騒曲 ++",
+            "description": "【仮装狂騒曲】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-002-06",
+            "name": "仮装狂騒曲 +++",
+            "description": "【仮装狂騒曲】月村 手毬の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-ttmr-3-007-01",
@@ -816,6 +1911,21 @@
             "description": "【Campus mode!!】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-ttmr-3-007-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-007-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-007-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ttmr-3-009-01",
             "name": "おてつき注意！",
             "description": "【雪解けに】月村 手毬のプロデュースで最終試験に合格"
@@ -831,6 +1941,21 @@
             "description": "【雪解けに】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-i_card-ttmr-3-009-04",
+            "name": "雪解けに +",
+            "description": "【雪解けに】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-05",
+            "name": "雪解けに ++",
+            "description": "【雪解けに】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-06",
+            "name": "雪解けに +++",
+            "description": "【雪解けに】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ttmr-3-011-01",
             "name": "希望が届くまで",
             "description": "【雨上がりのアイリス】月村 手毬のプロデュースで最終試験に合格"
@@ -844,6 +1969,21 @@
             "id": "achieve-i_card-ttmr-3-011-03",
             "name": "ファースト投げキッス",
             "description": "【雨上がりのアイリス】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-011-04",
+            "name": "雨上がりのアイリス +",
+            "description": "【雨上がりのアイリス】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-011-05",
+            "name": "雨上がりのアイリス ++",
+            "description": "【雨上がりのアイリス】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-011-06",
+            "name": "雨上がりのアイリス +++",
+            "description": "【雨上がりのアイリス】月村 手毬の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-m_amao-001",

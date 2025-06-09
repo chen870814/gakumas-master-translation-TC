@@ -46,5 +46,7 @@
   "gasha_ticket_ssr_button_idol_2|1|name": "The 1st Period公演記念 SSR Pアイドル確定チケットで引く",
   "gasha_ticket_ssr_button_idol_2|1|description": "SSR確定1連",
   "gasha_ticket_ssr_button_support|1|name": "SSR確定チケットで引く",
-  "gasha_ticket_ssr_button_support|1|description": "SSRサポート確定1連"
+  "gasha_ticket_ssr_button_support|1|description": "SSRサポート確定1連",
+  "gasha_ticket_ssr_button_support-2|1|name": "SSR確定チケットで引く",
+  "gasha_ticket_ssr_button_support-2|1|description": "SSRサポート確定1連"
 }

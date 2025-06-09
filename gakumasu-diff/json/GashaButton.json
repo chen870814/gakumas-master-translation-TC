@@ -149,6 +149,12 @@
             "order": 1,
             "name": "SSR確定チケットで引く",
             "description": "SSRサポート確定1連"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_support-2",
+            "order": 1,
+            "name": "SSR確定チケットで引く",
+            "description": "SSRサポート確定1連"
         }
     ]
 }

@@ -712,6 +712,21 @@
             "text": "ま、まだ、離さないでくださいませ。\nプルプルしておりますわ……"
         },
         {
+            "supportCardId": "s_card-2-0053",
+            "number": 1,
+            "text": "篠澤さん、大丈夫ですか！？"
+        },
+        {
+            "supportCardId": "s_card-2-0053",
+            "number": 2,
+            "text": "ふふ。\nリーリヤについていくの、楽しい。"
+        },
+        {
+            "supportCardId": "s_card-2-0053",
+            "number": 3,
+            "text": "……む、無理しないでくださいね！"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1630,6 +1645,21 @@
             "supportCardId": "s_card-3-0062",
             "number": 3,
             "text": "ふえぇ～～～～っ！\nわかりませんわ～～～～！？"
+        },
+        {
+            "supportCardId": "s_card-3-0063",
+            "number": 1,
+            "text": "こ、この子がミミズクの\nぬいぐるみで――"
+        },
+        {
+            "supportCardId": "s_card-3-0063",
+            "number": 2,
+            "text": "まぁ！　とても可愛らしいですわ！"
+        },
+        {
+            "supportCardId": "s_card-3-0063",
+            "number": 3,
+            "text": "最近はどのぬいも、お顔が可愛くて。\nつい、買っちゃうの……！"
         },
         {
             "supportCardId": "s_card-3-0067",
