@@ -10321,6 +10321,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-ssmk-3-012-01",
+            "title": "Love & Joy 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ssmk-3-012-02",
+            "title": "Love & Joy 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ssmk-3-012-03",
+            "title": "Love & Joy 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-ttmr-3-000-01",
             "title": "Luna say maybe 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -11018,6 +11033,16 @@
         {
             "id": "p_story-s_card-2-0053-02",
             "title": "『素敵』の教えあい",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0054-01",
+            "title": "着せ替え人形",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0054-02",
+            "title": "なんでやねーん！",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -11948,6 +11973,21 @@
         {
             "id": "p_story-s_card-3-0063-03",
             "title": "気になるこすぷれ姿",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0064-01",
+            "title": "忘れてください……！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0064-02",
+            "title": "今日はチートデイ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0064-03",
+            "title": "お姉ちゃんキャラ？",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

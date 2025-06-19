@@ -1229,7 +1229,7 @@
   },
   "high_score_event.character.total": {
     "japanese": "合計",
-    "chinese": "合计"
+    "chinese": "累计"
   },
   "setting.live_quality_sheet.description_warning": {
     "japanese": "設定を上げると動作が重くなり、消費電力が増える\n可能性があります\n品質を変更した場合、アプリ全体の設定が変更されます",
@@ -3085,7 +3085,7 @@
   },
   "achievement.master.breakdown.achievement.total": {
     "japanese": "合計",
-    "chinese": "合计"
+    "chinese": "累计"
   },
   "angya.reward.tab.point_list.header": {
     "japanese": "獲得Pt報酬",
@@ -6173,7 +6173,7 @@
   },
   "setting.preference.purchase_limit.alert.description_pc": {
     "japanese": "この項目をONにすると、毎月合計で{0:N0}ptを超える購入をしようとした場合に、アラートが表示されるようになります。",
-    "chinese": "开启此选项后，当尝试购买超过每月合计{0:N0}pt时，将显示警报。"
+    "chinese": "开启此选项后，当尝试购买超过每月累计{0:N0}pt时，将显示警报。"
   },
   "mission.pass.label.release_pt": {
     "japanese": "ジュエルで\n解放する",
@@ -7149,7 +7149,7 @@
   },
   "high_score_event.reward.total": {
     "japanese": "ハイスコア合計",
-    "chinese": "高分总计"
+    "chinese": "高分累计"
   },
   "help.overlay.title": {
     "japanese": "ヘルプ",
@@ -8245,7 +8245,7 @@
   },
   "high_score_event.produce_result.score_sum": {
     "japanese": "合計ハイスコア",
-    "chinese": "合计高分"
+    "chinese": "累计高分"
   },
   "work.rate_excellent": {
     "japanese": "大成功確定\n報酬{0}倍",
@@ -8969,7 +8969,7 @@
   },
   "produce.prepare.challenge.lesson_limit_up_sum": {
     "japanese": "合計",
-    "chinese": "合计"
+    "chinese": "累计"
   },
   "notice.notice_sheet.empty_text": {
     "japanese": "お知らせはありません",
@@ -9133,7 +9133,7 @@
   },
   "achievement.master.breakdown.title": {
     "japanese": "獲得合計確認",
-    "chinese": "获得合计确认"
+    "chinese": "累计获得确认"
   },
   "item.sheet.detail.quantity": {
     "japanese": "所持数",
@@ -10553,7 +10553,7 @@
   },
   "achievement.master.star": {
     "japanese": "獲得合計",
-    "chinese": "获得合计"
+    "chinese": "累计获得"
   },
   "story.play_confirm_sheet.voice.off": {
     "japanese": "ボイスなし",
@@ -11513,7 +11513,7 @@
   },
   "achievement.master.breakdown.total": {
     "japanese": "獲得合計",
-    "chinese": "获得合计"
+    "chinese": "累计获得"
   },
   "home.gasha.point_expired_sheet.title": {
     "japanese": "交換Pt",
@@ -11609,7 +11609,7 @@
   },
   "tower.top.total_badge_reward.total": {
     "japanese": "合計",
-    "chinese": "合计"
+    "chinese": "累计"
   },
   "produce.effect.convert.cost": {
     "japanese": "<cost>",
@@ -11765,7 +11765,7 @@
   },
   "achievement.cell.true_end.nia_toast_produce_condition": {
     "japanese": "親愛度Lv10でプロデュース「N.I.A」解放",
-    "chinese": "亲爱度Lv10解锁培育「N.I.A」"
+    "chinese": "亲密度Lv10解锁培育「N.I.A」"
   },
   "produce.log.detail.title.lesson_present_produce_card_reward_count_down": {
     "japanese": "レッスン報酬カード数",
@@ -12805,7 +12805,7 @@
   },
   "meishi.edit.max_achievement_and_illust": {
     "japanese": "アチーブメントとイラストの上限数は計10個です",
-    "chinese": "成就和插图的上限数量合计为10个"
+    "chinese": "成就和插图的上限数量累计为10个"
   },
   "mission.pass.label.detail": {
     "japanese": "パス詳細",
@@ -16401,7 +16401,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.description_with_common_resource": {
     "japanese": "サポートカードを{0}枚と{1}を{2}消費して上限解放を行います",
-    "chinese": "消耗{0}张支援卡和{1}共计{2}进行上限解放"
+    "chinese": "消耗{0}张支援卡和{1}累计{2}进行上限解放"
   },
   "home.gasha.draw_button.free": {
     "japanese": "無料",
@@ -16861,7 +16861,7 @@
   },
   "setting.produce.story_skip2.dearness_adv_movie": {
     "japanese": "親愛度コミュ内の\n映像スキップ",
-    "chinese": "亲爱度交流内的视频跳过"
+    "chinese": "亲密度交流内的视频跳过"
   },
   "produce.exclude.message.result": {
     "japanese": "{0}を除去しました",
@@ -16881,7 +16881,7 @@
   },
   "jewel_balance_sheet.total": {
     "japanese": "合計",
-    "chinese": "合计"
+    "chinese": "累计"
   },
   "memory.inherit.result.decide_confirm_sheet.confirm": {
     "japanese": "確定する",
@@ -16993,7 +16993,7 @@
   },
   "pvp.rate.total_total_power": {
     "japanese": "総合力合計",
-    "chinese": "综合力合计"
+    "chinese": "综合力累计"
   },
   "produce.confirm_limit_parameter_sheet.lesson.description": {
     "japanese": "選択したレッスンで上昇するパラメータは\nすでに上限に到達しています。\nレッスンを開始してよろしいですか？",
@@ -19901,7 +19901,7 @@
   },
   "high_score_event.top.idol_total": {
     "japanese": "アイドル合計",
-    "chinese": "偶像合计"
+    "chinese": "偶像累计"
   },
   "common.live_battle_type.buffer.description": {
     "japanese": "主に相手の能力を低下させるスキルや気力とメンタルに関わるスキルをもつ",

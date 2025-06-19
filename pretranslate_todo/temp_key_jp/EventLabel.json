@@ -7,5 +7,6 @@
   "EventType_StoryEventMainStory|name": "初星コミュ",
   "EventType_StoryEventBoxGasha|name": "ライブツアー",
   "EventType_StoryEventGuildMission|name": "ストーリー",
-  "EventType_GvgRaid|name": "地方行脚"
+  "EventType_GvgRaid|name": "地方行脚",
+  "EventType_DearnessBoost|name": "親愛度ブーストキャンペーン"
 }

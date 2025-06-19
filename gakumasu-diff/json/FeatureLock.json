@@ -58,6 +58,12 @@
             "name": "サークル",
             "description": "「サークル」機能解放",
             "routeDescription": "メニューのサークルから確認できます"
+        },
+        {
+            "tutorialType": "TutorialType_DearnessTop",
+            "name": "親愛度TOP",
+            "description": "「親愛度TOP」機能解放",
+            "routeDescription": "ホームの親愛度から確認できます"
         }
     ]
 }

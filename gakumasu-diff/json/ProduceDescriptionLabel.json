@@ -3923,7 +3923,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の最小値に応じて、1につき10%（仮）増加"
+                    "text": "の最小値に応じて、1につき10%増加"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3936,7 +3936,7 @@
                     "text": ""
                 }
             ],
-            "name": "プライド(仮)"
+            "name": "プライド"
         },
         {
             "id": "Label_ExamLessonValueMultipleDown",
@@ -6247,7 +6247,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "「十王邦夫のアイドル強化月間・改」で獲得できるアイテム。イベントガシャで使用できます。"
+                    "text": "「十王邦夫のアイドル強化月間〜星々のきらめき〜」で獲得できるアイテム。イベントガシャで使用できます。"
                 }
             ],
             "name": "ほしのきらめき"
@@ -6781,6 +6781,42 @@
                 }
             ],
             "name": "重複不可"
+        },
+        {
+            "id": "Label_OnHitEffect",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "スキルカードとPドリンクの使用時に発動する効果（"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamStatusEnchant",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "持続効果"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "を除く）"
+                }
+            ],
+            "name": "直接効果"
         },
         {
             "id": "Label_ParameterBuffMultiplePerTurnAdd",

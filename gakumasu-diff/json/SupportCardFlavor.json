@@ -727,6 +727,21 @@
             "text": "……む、無理しないでくださいね！"
         },
         {
+            "supportCardId": "s_card-2-0054",
+            "number": 1,
+            "text": "まおっち先輩。\n今度はこの服とか、どうです～？"
+        },
+        {
+            "supportCardId": "s_card-2-0054",
+            "number": 2,
+            "text": "これは、背の高い清夏のほうが\n似合うと思うよ。"
+        },
+        {
+            "supportCardId": "s_card-2-0054",
+            "number": 3,
+            "text": "ちょっと、着てみて。\nこれと……あと、これとこれも。"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1660,6 +1675,21 @@
             "supportCardId": "s_card-3-0063",
             "number": 3,
             "text": "最近はどのぬいも、お顔が可愛くて。\nつい、買っちゃうの……！"
+        },
+        {
+            "supportCardId": "s_card-3-0064",
+            "number": 1,
+            "text": "よしよし。\n良い子だね。"
+        },
+        {
+            "supportCardId": "s_card-3-0064",
+            "number": 2,
+            "text": "り、りなみん先輩……？"
+        },
+        {
+            "supportCardId": "s_card-3-0064",
+            "number": 3,
+            "text": "清夏ちゃんがいつも頑張ってること、\n私はちゃーんと知ってるからね。"
         },
         {
             "supportCardId": "s_card-3-0067",

@@ -1806,6 +1806,36 @@
             "description": "【桜フォトグラフ】紫雲 清夏の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-ssmk-3-012-01",
+            "name": "もうためらわない",
+            "description": "【Love & Joy】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-012-02",
+            "name": "Love & Joy",
+            "description": "【Love & Joy】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-012-03",
+            "name": "お願い、したよね？",
+            "description": "【Love & Joy】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-012-04",
+            "name": "Love & Joy +",
+            "description": "【Love & Joy】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-012-05",
+            "name": "Love & Joy ++",
+            "description": "【Love & Joy】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-012-06",
+            "name": "Love & Joy +++",
+            "description": "【Love & Joy】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ttmr-2-000-04",
             "name": "一匹狼 +",
             "description": "【一匹狼】月村 手毬の特訓段階を{threshold}にする"

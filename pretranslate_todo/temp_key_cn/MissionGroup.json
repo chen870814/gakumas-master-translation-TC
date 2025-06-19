@@ -1,4 +1,6 @@
 {
+  "dearness_normal-mission_ssmk_01|name": "偶像任务清夏",
+  "dearness_panel-mission_ssmk_01|name": "亲密度强化活动",
   "mission_group-daily-001|name": "每日任务",
   "mission_group-release_memorial_1|name": "入学纪念任务第1天",
   "mission_group-release_memorial_2|name": "入学纪念任务第2天",
@@ -50,6 +52,11 @@
   "mission-group-highscorerush-event-001_3|name": "十王邦夫的偶像强化月・改",
   "mission-group-highscorerush-event-001_4|name": "十王邦夫的偶像强化月・改",
   "mission-group-highscorerush-event-001_5|name": "十王邦夫的偶像强化月・改",
+  "mission-group-highscorerush-event-002_1|name": "十王邦夫的偶像强化月～星光璀璨～",
+  "mission-group-highscorerush-event-002_2|name": "十王邦夫的偶像强化月～星光璀璨～",
+  "mission-group-highscorerush-event-002_3|name": "十王邦夫的偶像强化月～星光璀璨～",
+  "mission-group-highscorerush-event-002_4|name": "十王邦夫的偶像强化月～星光璀璨～",
+  "mission-group-highscorerush-event-002_5|name": "十王邦夫的偶像强化月～星光璀璨～",
   "mission-group-main-story-event-001_1|name": "初星交流活动任务",
   "mission-group-main-story-event-001_2|name": "初星交流活动任务",
   "mission-group-main-story-event-001_3|name": "初星交流活动任务",

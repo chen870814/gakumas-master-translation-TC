@@ -221,6 +221,11 @@
             "description": "紫陽花の髪飾り（秦谷美鈴）を購入"
         },
         {
+            "id": "costume_head_hmsz-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "秦谷美鈴のアイドルへの道 ステージ20をクリア"
+        },
+        {
             "id": "costume_head_hmsz-hair-0003",
             "name": "ラウンドメガネ",
             "description": "ラウンドメガネ（秦谷美鈴）を購入"
@@ -936,6 +941,16 @@
             "description": "【桜フォトグラフ】紫雲 清夏を入手"
         },
         {
+            "id": "costume_head_ssmk-cstm-0096",
+            "name": "Love & Joy",
+            "description": "【Love & Joy】紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0097",
+            "name": "Love & Joy",
+            "description": "【Love & Joy】紫雲 清夏の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_ssmk-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "プレミアムミッションパス 2024年6月で獲得など"
@@ -959,6 +974,11 @@
             "id": "costume_head_ssmk-hair-0006",
             "name": "はつみ☆アクセサリー",
             "description": "プレミアムミッションパス 2025年4月で獲得"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0010",
+            "name": "Love & Joy（いつものメイク）",
+            "description": "【Love & Joy】紫雲 清夏を入手"
         },
         {
             "id": "costume_head_ssmk-schl-0000",

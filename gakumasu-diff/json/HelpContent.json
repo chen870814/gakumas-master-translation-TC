@@ -194,6 +194,24 @@
             "name": "総合力"
         },
         {
+            "helpCategoryId": "help-dearness-doost-campaign",
+            "id": "help-dearness-doost-campaign-info",
+            "order": 57,
+            "name": "親愛度ブーストキャンペーン"
+        },
+        {
+            "helpCategoryId": "help-dearness-map",
+            "id": "help-dearness-map-info",
+            "order": 56,
+            "name": "親愛度マップ"
+        },
+        {
+            "helpCategoryId": "help-dearness-top",
+            "id": "help-dearness-top-info",
+            "order": 55,
+            "name": "親愛度TOP"
+        },
+        {
             "helpCategoryId": "help-event_mission",
             "id": "event_mission-event_mission",
             "order": 1,
@@ -305,7 +323,7 @@
             "helpCategoryId": "help-highscorerush",
             "id": "highscorerush-highscorerush",
             "order": 1,
-            "name": "十王邦夫のアイドル強化月間・改の概要"
+            "name": "十王邦夫のアイドル強化月間"
         },
         {
             "helpCategoryId": "help-highscorerush",
@@ -387,6 +405,12 @@
         },
         {
             "helpCategoryId": "help-idol",
+            "id": "idol-dearness-pt",
+            "order": 54,
+            "name": "親愛度Pt"
+        },
+        {
+            "helpCategoryId": "help-idol",
             "id": "idol-idol-card",
             "order": 1,
             "name": "プロデュースアイドル"
@@ -436,7 +460,7 @@
         {
             "helpCategoryId": "help-idol",
             "id": "idol-true-end-bonus",
-            "order": 54,
+            "order": 58,
             "name": "True Endボーナス"
         },
         {
@@ -546,6 +570,54 @@
             "id": "lesson-support",
             "order": 11,
             "name": "スキルカードサポート"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-exchange",
+            "order": 5,
+            "name": "テスト：help-livetour-event-exchange"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-finish",
+            "order": 9,
+            "name": "テスト：help-livetour-event-finish"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-memory",
+            "order": 3,
+            "name": "テスト：help-livetour-event-memory"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-mission",
+            "order": 7,
+            "name": "テスト：help-livetour-event-mission"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-reward",
+            "order": 4,
+            "name": "テスト：help-livetour-event-reward"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-rule",
+            "order": 1,
+            "name": "テスト：help-livetour-event-rule"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-stage",
+            "order": 2,
+            "name": "テスト：help-livetour-event-stage"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "help-livetour-event-story",
+            "order": 6,
+            "name": "テスト：help-livetour-event-story"
         },
         {
             "helpCategoryId": "help-main-story-event",

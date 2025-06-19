@@ -323,7 +323,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
-            "name": "プライド(仮)"
+            "name": "プライド"
         },
         {
             "type": "ProduceExamEffectType_ExamReviewMultiple",
