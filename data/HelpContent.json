@@ -572,6 +572,54 @@
       "name": "技能卡帮助"
     },
     {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-exchange",
+      "order": 5,
+      "name": "测试：help-livetour-event-exchange"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-finish",
+      "order": 9,
+      "name": "测试：help-livetour-event-finish"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-memory",
+      "order": 3,
+      "name": "测试：help-livetour-event-memory"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-mission",
+      "order": 7,
+      "name": "测试：help-livetour-event-mission"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-reward",
+      "order": 4,
+      "name": "测试：help-livetour-event-reward"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-rule",
+      "order": 1,
+      "name": "测试：help-livetour-event-rule"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-stage",
+      "order": 2,
+      "name": "测试：help-livetour-event-stage"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "help-livetour-event-story",
+      "order": 6,
+      "name": "测试：help-livetour-event-story"
+    },
+    {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-bonus",
       "order": 4,
