@@ -78,6 +78,6 @@
   "ProduceExamEffectType_ExamFullPowerPointAdditive|name": "全力値増加量増加",
   "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive|name": "パラメータ上昇値増加量増加",
   "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce|name": "好調減少",
-  "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive|name": "プライド(仮)",
+  "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive|name": "プライド",
   "ProduceExamEffectType_ExamReviewMultiple|name": "好印象強化"
 }
