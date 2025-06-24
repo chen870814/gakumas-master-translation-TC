@@ -17,7 +17,7 @@
     "bUseLimit": true,
     "bUseScale": false,
     "dbgMode": false,
-    "dmmUnlockSize": true,
+    "dmmUnlockSize": false,
     "dumpText": true,
     "enableBreastParam": false,
     "enableFreeCamera": false,
