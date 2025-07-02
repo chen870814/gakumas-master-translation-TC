@@ -4954,7 +4954,7 @@
     "story.support_card_unlock_sheet.not_enough_description": "没有足够的物品",
     "story.support_card_unlock_sheet.result": "使用了{0}",
     "story.support_card_unlock_sheet.title": "使用确认",
-    "story.support_card_unlock_sheet.unlock_toast": "已解锁社交圈",
+    "story.support_card_unlock_sheet.unlock_toast": "已解锁此交流",
     "story.unlock_detail_sheet.hint_label": "条件{0}.",
     "story.unlock_detail_sheet.title": "解放提示",
     "story.voice_setting_sheet.description": "可随时通过“菜单＞设置”更改。",

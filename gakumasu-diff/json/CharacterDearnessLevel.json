@@ -257,6 +257,56 @@
             "produceConditionDescription": "プロデュースをA＋評価で完了する"
         },
         {
+            "characterId": "hmsz",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.Aでプロデュースを進める"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.Aで1次オーディション突破"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+        },
+        {
             "characterId": "hrnm",
             "dearnessLevel": 1,
             "produceConditionDescription": ""

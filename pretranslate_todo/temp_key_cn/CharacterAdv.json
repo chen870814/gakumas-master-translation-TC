@@ -8,7 +8,7 @@
   "gkgt|name": "极月学园",
   "gkgt|regexp": "极月学园",
   "hmsz|name": "秦谷 美铃",
-  "hmsz|regexp": "美铃",
+  "hmsz|regexp": "美铃$",
   "hrnm|name": "姬崎 莉波",
   "hrnm|regexp": "莉波",
   "hski|name": "花海 咲季",

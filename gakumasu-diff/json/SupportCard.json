@@ -2013,6 +2013,22 @@
             "name": "いつも頑張ってるね。"
         },
         {
+            "id": "s_card-3-0065",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率大"
+                }
+            ],
+            "name": "どんな関係なんですか？"
+        },
+        {
             "id": "s_card-3-0067",
             "upgradeProduceCardProduceDescriptions": [
                 {

@@ -28,7 +28,7 @@
         {
             "characterId": "hmsz",
             "name": "秦谷 美鈴",
-            "regexp": "美鈴"
+            "regexp": "美鈴$"
         },
         {
             "characterId": "hrnm",

@@ -814,8 +814,14 @@
         {
             "helpCategoryId": "help-mission",
             "id": "mission-event",
-            "order": 6,
+            "order": 7,
             "name": "イベントミッション"
+        },
+        {
+            "helpCategoryId": "help-mission",
+            "id": "mission-idol",
+            "order": 6,
+            "name": "アイドルミッション"
         },
         {
             "helpCategoryId": "help-mission",
@@ -832,7 +838,7 @@
         {
             "helpCategoryId": "help-mission",
             "id": "mission-pass",
-            "order": 7,
+            "order": 8,
             "name": "ミッションパス"
         },
         {

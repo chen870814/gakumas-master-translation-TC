@@ -396,6 +396,36 @@
             "description": "【ツキノカメ】秦谷 美鈴の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-hmsz-3-005-01",
+            "name": "憧れのアイドル",
+            "description": "【Campus mode!!】秦谷 美鈴のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-005-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-005-03",
+            "name": "一緒に飛んでいきましょう",
+            "description": "【Campus mode!!】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-005-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-005-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-005-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】秦谷 美鈴の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hrnm-2-000-04",
             "name": "『私らしさ』のはじまり +",
             "description": "【『私らしさ』のはじまり】姫崎 莉波の特訓段階を{threshold}にする"
@@ -2941,9 +2971,24 @@
             "description": "秦谷 美鈴の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
+            "id": "achieve-p_idol-hmsz-018",
+            "name": "快適な道案内",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-019",
+            "name": "わたしだけのファン",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
             "id": "achieve-p_idol-hmsz-020",
             "name": "夢の場所まで、もう少し",
             "description": "秦谷 美鈴で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-021",
+            "name": "あなたにきっと、捧げてみせます",
+            "description": "秦谷 美鈴で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hrnm-000",

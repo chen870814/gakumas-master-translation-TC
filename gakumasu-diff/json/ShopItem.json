@@ -38,6 +38,10 @@
             "name": "はつみ☆アクセサリー（秦谷美鈴）"
         },
         {
+            "id": "shop_costume_costume_head_hrnm-hair-0001",
+            "name": "紫陽花の髪飾り（姫崎莉波）"
+        },
+        {
             "id": "shop_costume_costume_head_hski-hair-0001",
             "name": "紫陽花の髪飾り（花海咲季）"
         },
@@ -52,6 +56,14 @@
         {
             "id": "shop_costume_costume_head_jsna-hair-0003",
             "name": "ラウンドメガネ（十王星南）"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0001",
+            "name": "紫陽花の髪飾り（倉本千奈）"
+        },
+        {
+            "id": "shop_costume_costume_head_kllj-hair-0001",
+            "name": "紫陽花の髪飾り（葛城リーリヤ）"
         },
         {
             "id": "shop_costume_costume_head_shro-hair-0001",
@@ -255,6 +267,10 @@
         },
         {
             "id": "shop_jewel_item-0021",
+            "name": "【1回きりお得！】ジュエル6,000個"
+        },
+        {
+            "id": "shop_jewel_item-0023",
             "name": "【1回きりお得！】ジュエル6,000個"
         },
         {
@@ -476,6 +492,10 @@
         {
             "id": "shop_pass_item-0014",
             "name": "プレミアムミッションパス 2025年6月"
+        },
+        {
+            "id": "shop_pass_item-0015",
+            "name": "プレミアムミッションパス 2025年7月"
         }
     ]
 }
