@@ -12,4 +12,4 @@ apply-changed:
 	python scripts/pretranslate_process.py --apply_changed
 
 merge:
-	python scripts/pretranslate_process.py --merge
+	python scripts/incremental_merge.py
