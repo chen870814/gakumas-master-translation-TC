@@ -718,7 +718,7 @@
     {
       "id": "costume_head_kcna-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年7月等方式 获得"
+      "description": "高级任务通行证 2024年7月 等方式获得"
     },
     {
       "id": "costume_head_kcna-hair-0002",
@@ -808,7 +808,7 @@
     {
       "id": "costume_head_kllj-hair-0001",
       "name": "紫阳花发饰",
-      "description": "高级任务通行证 2024年7月等方式 获得"
+      "description": "高级任务通行证 2024年7月 等方式获得"
     },
     {
       "id": "costume_head_kllj-hair-0002",
@@ -891,6 +891,16 @@
       "description": "【光景】'24祭典 筱泽广 获得"
     },
     {
+      "id": "costume_head_shro-cstm-0088",
+      "name": "褪色",
+      "description": "【褪色】筱泽广 获得"
+    },
+    {
+      "id": "costume_head_shro-cstm-0089",
+      "name": "褪色",
+      "description": "【褪色】筱泽广的才能开花第4阶段 获得"
+    },
+    {
       "id": "costume_head_shro-hair-0001",
       "name": "紫阳花发饰",
       "description": "高级任务通行证 2024年6月 等方式获得"
@@ -919,6 +929,11 @@
       "id": "costume_head_shro-hair-0007",
       "name": "泪滴形眼镜",
       "description": "高级任务通行证 2025年6月 获得"
+    },
+    {
+      "id": "costume_head_shro-hair-0011",
+      "name": "褪色（简单搭配）",
+      "description": "【褪色】筱泽广 获得"
     },
     {
       "id": "costume_head_ssmk-cstm-0009",

@@ -742,6 +742,21 @@
             "text": "ちょっと、着てみて。\nこれと……あと、これとこれも。"
         },
         {
+            "supportCardId": "s_card-2-0056",
+            "number": 1,
+            "text": "1周遅れているぞ！\n走る姿勢を意識しろっ！"
+        },
+        {
+            "supportCardId": "s_card-2-0056",
+            "number": 2,
+            "text": "ばたん、きゅ～～……"
+        },
+        {
+            "supportCardId": "s_card-2-0056",
+            "number": 3,
+            "text": "なっとらんぞ！　篠澤ぁ！"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1705,6 +1720,21 @@
             "supportCardId": "s_card-3-0065",
             "number": 3,
             "text": "手毬のお弁当、一緒に作る？"
+        },
+        {
+            "supportCardId": "s_card-3-0066",
+            "number": 1,
+            "text": "あなたの担当プロデューサーは、\n苦労しそうね。"
+        },
+        {
+            "supportCardId": "s_card-3-0066",
+            "number": 2,
+            "text": "ふふ、わたしは篠澤広。"
+        },
+        {
+            "supportCardId": "s_card-3-0066",
+            "number": 3,
+            "text": "辛うじてアイドルを\nしている者だ、よ。"
         },
         {
             "supportCardId": "s_card-3-0067",

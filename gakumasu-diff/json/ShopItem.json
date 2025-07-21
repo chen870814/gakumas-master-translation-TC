@@ -10,6 +10,10 @@
             "name": "チャイルドスモック（有村麻央）"
         },
         {
+            "id": "shop_costume_amao-cstm-0111",
+            "name": "セーラーミズギ（有村麻央）"
+        },
+        {
             "id": "shop_costume_amao-trng-0002",
             "name": "初星学園体操服（有村麻央）"
         },
@@ -82,12 +86,20 @@
             "name": "チャイルドスモック（藤田ことね）"
         },
         {
+            "id": "shop_costume_fktn-cstm-0111",
+            "name": "セーラーミズギ（藤田ことね）"
+        },
+        {
             "id": "shop_costume_fktn-trng-0002",
             "name": "初星学園体操服（藤田ことね）"
         },
         {
             "id": "shop_costume_hmsz-cstm-0069",
             "name": "チャイルドスモック（秦谷美鈴）"
+        },
+        {
+            "id": "shop_costume_hmsz-cstm-0111",
+            "name": "セーラーミズギ（秦谷美鈴）"
         },
         {
             "id": "shop_costume_hmsz-othr-0002",
@@ -98,8 +110,16 @@
             "name": "初星学園体操服（秦谷美鈴）"
         },
         {
+            "id": "shop_costume_hrnm-cstm-0051",
+            "name": "パーカー水着（姫崎莉波）"
+        },
+        {
             "id": "shop_costume_hrnm-cstm-0069_revival-1",
             "name": "チャイルドスモック（姫崎莉波）"
+        },
+        {
+            "id": "shop_costume_hrnm-cstm-0111",
+            "name": "セーラーミズギ（姫崎莉波）"
         },
         {
             "id": "shop_costume_hrnm-trng-0002",
@@ -108,6 +128,10 @@
         {
             "id": "shop_costume_hski-cstm-0069_revival-1",
             "name": "チャイルドスモック（花海咲季）"
+        },
+        {
+            "id": "shop_costume_hski-cstm-0111",
+            "name": "セーラーミズギ（花海咲季）"
         },
         {
             "id": "shop_costume_hski-trng-0002",
@@ -122,6 +146,10 @@
             "name": "チャイルドスモック（花海佑芽）"
         },
         {
+            "id": "shop_costume_hume-cstm-0111",
+            "name": "セーラーミズギ（花海佑芽）"
+        },
+        {
             "id": "shop_costume_hume-trng-0002",
             "name": "初星学園体操服（花海佑芽）"
         },
@@ -132,6 +160,10 @@
         {
             "id": "shop_costume_jsna-cstm-0069_revival-1",
             "name": "チャイルドスモック（十王星南）"
+        },
+        {
+            "id": "shop_costume_jsna-cstm-0111",
+            "name": "セーラーミズギ（十王星南）"
         },
         {
             "id": "shop_costume_jsna-othr-0002",
@@ -146,12 +178,20 @@
             "name": "チャイルドスモック（倉本千奈）"
         },
         {
+            "id": "shop_costume_kcna-cstm-0111",
+            "name": "セーラーミズギ（倉本千奈）"
+        },
+        {
             "id": "shop_costume_kcna-trng-0002",
             "name": "初星学園体操服（倉本千奈）"
         },
         {
             "id": "shop_costume_kllj-cstm-0069_revival-1",
             "name": "チャイルドスモック（葛城リーリヤ）"
+        },
+        {
+            "id": "shop_costume_kllj-cstm-0111",
+            "name": "セーラーミズギ（葛城リーリヤ）"
         },
         {
             "id": "shop_costume_kllj-trng-0002",
@@ -174,12 +214,24 @@
             "name": "チャイルドスモック（篠澤広）"
         },
         {
+            "id": "shop_costume_shro-cstm-0111",
+            "name": "セーラーミズギ（篠澤広）"
+        },
+        {
             "id": "shop_costume_shro-trng-0002",
             "name": "初星学園体操服（篠澤広）"
         },
         {
+            "id": "shop_costume_ssmk-cstm-0051",
+            "name": "パーカー水着（紫雲清夏）"
+        },
+        {
             "id": "shop_costume_ssmk-cstm-0069_revival-1",
             "name": "チャイルドスモック（紫雲清夏）"
+        },
+        {
+            "id": "shop_costume_ssmk-cstm-0111",
+            "name": "セーラーミズギ（紫雲清夏）"
         },
         {
             "id": "shop_costume_ssmk-trng-0002",
@@ -188,6 +240,10 @@
         {
             "id": "shop_costume_ttmr-cstm-0069_revival-1",
             "name": "チャイルドスモック（月村手毬）"
+        },
+        {
+            "id": "shop_costume_ttmr-cstm-0111",
+            "name": "セーラーミズギ（月村手毬）"
         },
         {
             "id": "shop_costume_ttmr-trng-0002",

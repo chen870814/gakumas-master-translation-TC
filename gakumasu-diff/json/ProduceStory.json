@@ -10629,6 +10629,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-shro-3-012-01",
+            "title": "サンフェーデッド 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-012-02",
+            "title": "サンフェーデッド 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-012-03",
+            "title": "サンフェーデッド 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-ssmk-3-000-01",
             "title": "Tame-Lie-One-Step 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -11426,6 +11441,16 @@
         {
             "id": "p_story-s_card-2-0054-02",
             "title": "なんでやねーん！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0056-01",
+            "title": "もっともっと厳しく",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0056-02",
+            "title": "向いてない者同士？",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12386,6 +12411,21 @@
         {
             "id": "p_story-s_card-3-0065-03",
             "title": "フクザツな関係？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0066-01",
+            "title": "面白くて、心配な子",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0066-02",
+            "title": "解き明かしたい秘密",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0066-03",
+            "title": "人気に相応しい実力",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

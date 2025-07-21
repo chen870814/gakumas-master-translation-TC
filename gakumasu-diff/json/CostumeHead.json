@@ -891,6 +891,16 @@
             "description": "【光景】'24祭 篠澤 広を入手"
         },
         {
+            "id": "costume_head_shro-cstm-0088",
+            "name": "サンフェーデッド",
+            "description": "【サンフェーデッド】篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0089",
+            "name": "サンフェーデッド",
+            "description": "【サンフェーデッド】篠澤 広の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_shro-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "プレミアムミッションパス 2024年6月で獲得など"
@@ -919,6 +929,11 @@
             "id": "costume_head_shro-hair-0007",
             "name": "ティアドロップグラス",
             "description": "プレミアムミッションパス 2025年6月で獲得"
+        },
+        {
+            "id": "costume_head_shro-hair-0011",
+            "name": "サンフェーデッド（シンプルアレンジ）",
+            "description": "【サンフェーデッド】篠澤 広を入手"
         },
         {
             "id": "costume_head_ssmk-cstm-0009",
