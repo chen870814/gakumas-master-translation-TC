@@ -87,7 +87,7 @@
             "id": "item-common-idol_card-piece-ssr",
             "name": "SSRアイドルのピース",
             "description": "SSRプロデュースアイドルの才能開花に使用できるアイテム",
-            "acquisitionRouteDescription": "交換所など"
+            "acquisitionRouteDescription": "アイドルへの道など"
         },
         {
             "id": "item-common-support_card-limit-r",
@@ -1076,6 +1076,12 @@
         {
             "id": "item-selection-ticket-002",
             "name": "1st アニバーサリーセレクションチケット",
+            "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
+            "acquisitionRouteDescription": "ショップなど"
+        },
+        {
+            "id": "item-selection-ticket-003",
+            "name": "300万DL記念セレクションチケット",
             "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
             "acquisitionRouteDescription": "ショップなど"
         },

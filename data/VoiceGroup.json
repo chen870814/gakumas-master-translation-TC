@@ -7617,6 +7617,16 @@
       "title": "白金光辉"
     },
     {
+      "id": "voice_group-hmsz-cstm-0110-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0110_01",
+      "title": "漆黑的光芒"
+    },
+    {
+      "id": "voice_group-hmsz-cstm-0110-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0110_02",
+      "title": "漆黑的光芒"
+    },
+    {
       "id": "voice_group-hmsz-cstm-0111-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0111_01",
       "title": "水手服泳装"
