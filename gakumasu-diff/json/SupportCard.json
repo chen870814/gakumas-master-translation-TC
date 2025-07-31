@@ -541,6 +541,22 @@
             "name": "第五種接近遭遇"
         },
         {
+            "id": "s_card-2-0022",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率中"
+                }
+            ],
+            "name": "今日は見学なんです"
+        },
+        {
             "id": "s_card-2-0023",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -1549,6 +1565,22 @@
             "name": "プロデュースって大変ね"
         },
         {
+            "id": "s_card-3-0033",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率大"
+                }
+            ],
+            "name": "仲直りしましょう"
+        },
+        {
             "id": "s_card-3-0034",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2091,6 +2123,38 @@
                 }
             ],
             "name": "お母さんか！"
+        },
+        {
+            "id": "s_card-3-0069",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率大"
+                }
+            ],
+            "name": "いつまでも続けばいいのに"
+        },
+        {
+            "id": "s_card-3-0071",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率大"
+                }
+            ],
+            "name": "盛り上げてこー！"
         }
     ]
 }

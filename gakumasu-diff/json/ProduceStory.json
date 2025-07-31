@@ -10029,6 +10029,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hmsz-3-010-01",
+            "title": "Star-mine 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-010-02",
+            "title": "Star-mine 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-010-03",
+            "title": "Star-mine 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hrnm-3-000-01",
             "title": "clumsy trick 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -10284,6 +10299,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hume-3-012-01",
+            "title": "Star-mine 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hume-3-012-02",
+            "title": "Star-mine 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hume-3-012-03",
+            "title": "Star-mine 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-jsna-3-000-01",
             "title": "小さな野望 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -10341,6 +10371,21 @@
         {
             "id": "p_story-i_card-jsna-3-006-03",
             "title": "Our Chant 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-011-01",
+            "title": "Star-mine 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-011-02",
+            "title": "Star-mine 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-jsna-3-011-03",
+            "title": "Star-mine 3話",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -11154,6 +11199,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0022-01",
+            "title": "いざ、合同授業！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0022-02",
+            "title": "思い通りにならない子たち",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-2-0023-01",
             "title": "お祭りの王子様",
             "produceEventHintProduceConditionDescriptions": []
@@ -11949,6 +12004,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-3-0033-01",
+            "title": "月が綺麗な夜に",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0033-02",
+            "title": "本気の喧嘩をもう一度",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0033-03",
+            "title": "体重管理のひみつ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0034-01",
             "title": "お互いの好きなところ",
             "produceEventHintProduceConditionDescriptions": []
@@ -12456,6 +12526,36 @@
         {
             "id": "p_story-s_card-3-0068-03",
             "title": "妹ちゃんサプライズ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0069-01",
+            "title": "2年分の仕事",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0069-02",
+            "title": "美鈴の苦手なもの",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0069-03",
+            "title": "会長の苦手なもの",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0071-01",
+            "title": "盛り上げる準備はOK！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0071-02",
+            "title": "歌ときどきデザート",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0071-03",
+            "title": "観てくれる人はいる",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

@@ -114,6 +114,12 @@
             "acquisitionRouteDescription": "マニー交換所など"
         },
         {
+            "id": "item-dearness-unlock-shro",
+            "name": "広との記録の鍵",
+            "description": "篠澤広のSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "交換所など"
+        },
+        {
             "id": "item-dearness-unlock-ssmk",
             "name": "清夏との記録の鍵",
             "description": "紫雲清夏のSTEP3の親愛度コミュを解放するアイテム",
@@ -390,6 +396,12 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-medal-story-event-008",
+            "name": "3年1組メモリアル",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-medal-story-event-013",
             "name": "修学旅行のお土産",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
@@ -558,6 +570,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_hmsz-3-010",
+            "name": "[Star-mine]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_hrnm-1-000",
             "name": "[学園生活]姫崎莉波のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -714,6 +732,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_hume-3-012",
+            "name": "[Star-mine]花海佑芽のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_jsna-1-000",
             "name": "[学園生活]十王星南のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -752,6 +776,12 @@
         {
             "id": "item-piece-idol_jsna-3-006",
             "name": "[Our Chant]十王星南のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-011",
+            "name": "[Star-mine]十王星南のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },

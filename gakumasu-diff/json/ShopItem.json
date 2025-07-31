@@ -50,6 +50,10 @@
             "name": "紫陽花の髪飾り（花海咲季）"
         },
         {
+            "id": "shop_costume_costume_head_hski-hair-0003",
+            "name": "ラウンドメガネ（花海咲季）"
+        },
+        {
             "id": "shop_costume_costume_head_hume-hair-0001",
             "name": "紫陽花の髪飾り（花海佑芽）"
         },
@@ -74,8 +78,16 @@
             "name": "紫陽花の髪飾り（篠澤広）"
         },
         {
+            "id": "shop_costume_costume_head_shro-hair-0003",
+            "name": "ラウンドメガネ（篠澤広）"
+        },
+        {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
             "name": "紫陽花の髪飾り（紫雲清夏）"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0003",
+            "name": "ラウンドメガネ（紫雲清夏）"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -330,6 +342,10 @@
             "name": "【1回きりお得！】ジュエル6,000個"
         },
         {
+            "id": "shop_jewel_item-0024",
+            "name": "【1回きりお得！】ジュエル6,000個"
+        },
+        {
             "id": "shop_pack_hmsz-0001",
             "name": "【72時間限定】プロデュースアイドルピースパック（美鈴）"
         },
@@ -556,6 +572,10 @@
         {
             "id": "shop_pass_item-0015",
             "name": "プレミアムミッションパス 2025年7月"
+        },
+        {
+            "id": "shop_pass_item-0016",
+            "name": "プレミアムミッションパス 2025年8月"
         }
     ]
 }

@@ -50,6 +50,10 @@
       "name": "紫阳花发饰（花海咲季）"
     },
     {
+      "id": "shop_costume_costume_head_hski-hair-0003",
+      "name": "圆框眼镜（花海咲季）"
+    },
+    {
       "id": "shop_costume_costume_head_hume-hair-0001",
       "name": "紫阳花发饰（花海佑芽）"
     },
@@ -74,8 +78,16 @@
       "name": "紫阳花发饰（筱泽广）"
     },
     {
+      "id": "shop_costume_costume_head_shro-hair-0003",
+      "name": "圆框眼镜（筱泽广）"
+    },
+    {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
       "name": "紫阳花发饰（紫云清夏）"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0003",
+      "name": "圆框眼镜（紫云清夏）"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -330,6 +342,10 @@
       "name": "【仅限1次优惠！】宝石6000个"
     },
     {
+      "id": "shop_jewel_item-0024",
+      "name": "【仅限1次优惠！】宝石6000个"
+    },
+    {
       "id": "shop_pack_hmsz-0001",
       "name": "【72小时限定】培育偶像优胜礼包（美铃）"
     },
@@ -556,6 +572,10 @@
     {
       "id": "shop_pass_item-0015",
       "name": "高级任务通行证 2025年7月"
+    },
+    {
+      "id": "shop_pass_item-0016",
+      "name": "高级任务通行证 2025年8月"
     }
   ]
 }

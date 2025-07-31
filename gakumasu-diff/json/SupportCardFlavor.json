@@ -307,6 +307,21 @@
             "text": "バカじゃないの。"
         },
         {
+            "supportCardId": "s_card-2-0022",
+            "number": 1,
+            "text": "この私直々の水泳指導を\n受けてもらうわ。"
+        },
+        {
+            "supportCardId": "s_card-2-0022",
+            "number": 2,
+            "text": "今日は見学なんです。"
+        },
+        {
+            "supportCardId": "s_card-2-0022",
+            "number": 3,
+            "text": "……そ、そう。"
+        },
+        {
             "supportCardId": "s_card-2-0023",
             "number": 1,
             "text": "――ほら、ボクの背中に乗って。"
@@ -1257,6 +1272,21 @@
             "text": "私がスカウトしてしまった……\n問題児たちのことをね。"
         },
         {
+            "supportCardId": "s_card-3-0033",
+            "number": 1,
+            "text": "今夜は冷えますよ。\n一緒に羽織りましょう。"
+        },
+        {
+            "supportCardId": "s_card-3-0033",
+            "number": 2,
+            "text": "……恥ずかしいんだけど。\n子供扱いしないでよ。"
+        },
+        {
+            "supportCardId": "s_card-3-0033",
+            "number": 3,
+            "text": "ふふ……\n今夜だけは、諦めてください。"
+        },
+        {
             "supportCardId": "s_card-3-0034",
             "number": 1,
             "text": "洗濯が終わるまで、\n残り時間はどれくらいかな。"
@@ -1765,6 +1795,36 @@
             "supportCardId": "s_card-3-0068",
             "number": 3,
             "text": "好き嫌いはよくないぞー。"
+        },
+        {
+            "supportCardId": "s_card-3-0069",
+            "number": 1,
+            "text": "すっごく綺麗ね！"
+        },
+        {
+            "supportCardId": "s_card-3-0069",
+            "number": 2,
+            "text": "はい。すごく綺麗……ですね。"
+        },
+        {
+            "supportCardId": "s_card-3-0069",
+            "number": 3,
+            "text": "このメンバーで花火が見られて、\n本当によかったわ――"
+        },
+        {
+            "supportCardId": "s_card-3-0071",
+            "number": 1,
+            "text": "ん、次は有村の番か。"
+        },
+        {
+            "supportCardId": "s_card-3-0071",
+            "number": 2,
+            "text": "イェーイ、盛り上げちゃうよー！"
+        },
+        {
+            "supportCardId": "s_card-3-0071",
+            "number": 3,
+            "text": "莉波、今日はテンション高いわね……"
         }
     ]
 }

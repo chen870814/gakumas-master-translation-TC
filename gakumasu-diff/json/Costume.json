@@ -351,6 +351,16 @@
             "description": "セーラーミズギ（秦谷美鈴）を購入"
         },
         {
+            "id": "hmsz-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】秦谷 美鈴を入手"
+        },
+        {
+            "id": "hmsz-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】秦谷 美鈴の才能開花4段階目で入手"
+        },
+        {
             "id": "hmsz-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（秦谷美鈴）を購入"
@@ -374,6 +384,11 @@
             "id": "hmsz-trng-0002",
             "name": "初星学園体操服",
             "description": "初星学園体操服（秦谷美鈴）を購入"
+        },
+        {
+            "id": "hrnm-casl-0002",
+            "name": "お気に入りの私服",
+            "description": "イベント報酬で獲得"
         },
         {
             "id": "hrnm-cstm-0000",
@@ -761,6 +776,16 @@
             "description": "セーラーミズギ（花海佑芽）を購入"
         },
         {
+            "id": "hume-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】花海 佑芽を入手"
+        },
+        {
+            "id": "hume-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】花海 佑芽の才能開花4段階目で入手"
+        },
+        {
             "id": "hume-cstm-0118",
             "name": "Howling over the World",
             "description": "【The Rolling Riceball】'25Howling over the World 花海 佑芽を入手"
@@ -884,6 +909,16 @@
             "id": "jsna-cstm-0111",
             "name": "セーラーミズギ",
             "description": "セーラーミズギ（十王星南）を購入"
+        },
+        {
+            "id": "jsna-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】十王 星南の才能開花4段階目で入手"
         },
         {
             "id": "jsna-cstm-0118",

@@ -211,6 +211,11 @@
             "description": "プレミアムミッションパス 2025年5月で獲得"
         },
         {
+            "id": "costume_head_fktn-hair-0008",
+            "name": "イヌミミ",
+            "description": "プレミアムミッションパス 2025年8月で獲得"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0011",
             "name": "ツキノカメ",
             "description": "【ツキノカメ】秦谷 美鈴を入手"
@@ -229,6 +234,16 @@
             "id": "costume_head_hmsz-cstm-0054",
             "name": "Campus mode!!",
             "description": "【Campus mode!!】秦谷 美鈴の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】秦谷 美鈴を入手"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】秦谷 美鈴の才能開花4段階目で入手"
         },
         {
             "id": "costume_head_hmsz-hair-0001",
@@ -468,7 +483,7 @@
         {
             "id": "costume_head_hski-hair-0003",
             "name": "ラウンドメガネ",
-            "description": "プレミアムミッションパス 2024年8月で獲得"
+            "description": "プレミアムミッションパス 2024年8月で獲得など"
         },
         {
             "id": "costume_head_hski-hair-0004",
@@ -484,6 +499,11 @@
             "id": "costume_head_hski-hair-0007",
             "name": "ティアドロップグラス",
             "description": "プレミアムミッションパス 2025年5月で獲得"
+        },
+        {
+            "id": "costume_head_hski-hair-0008",
+            "name": "イヌミミ",
+            "description": "プレミアムミッションパス 2025年8月で獲得"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -549,6 +569,16 @@
             "id": "costume_head_hume-cstm-0110",
             "name": "漆黒の輝き",
             "description": "花海佑芽のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "costume_head_hume-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】花海 佑芽を入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】花海 佑芽の才能開花4段階目で入手"
         },
         {
             "id": "costume_head_hume-hair-0001",
@@ -621,6 +651,16 @@
             "description": "【Our Chant】十王 星南の才能開花4段階目で入手"
         },
         {
+            "id": "costume_head_jsna-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】十王 星南の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_jsna-hair-0001",
             "name": "紫陽花の髪飾り",
             "description": "紫陽花の髪飾り（十王星南）を購入"
@@ -649,6 +689,11 @@
             "id": "costume_head_jsna-hair-0007",
             "name": "ティアドロップグラス",
             "description": "プレミアムミッションパス 2025年5月で獲得"
+        },
+        {
+            "id": "costume_head_jsna-hair-0008",
+            "name": "イヌミミ",
+            "description": "プレミアムミッションパス 2025年8月で獲得"
         },
         {
             "id": "costume_head_jsna-schl-0000",
@@ -913,7 +958,7 @@
         {
             "id": "costume_head_shro-hair-0003",
             "name": "ラウンドメガネ",
-            "description": "プレミアムミッションパス 2024年8月で獲得"
+            "description": "プレミアムミッションパス 2024年8月で獲得など"
         },
         {
             "id": "costume_head_shro-hair-0004",
@@ -1003,7 +1048,7 @@
         {
             "id": "costume_head_ssmk-hair-0003",
             "name": "ラウンドメガネ",
-            "description": "プレミアムミッションパス 2024年8月で獲得"
+            "description": "プレミアムミッションパス 2024年8月で獲得など"
         },
         {
             "id": "costume_head_ssmk-hair-0004",
@@ -1124,6 +1169,11 @@
             "id": "costume_head_ttmr-hair-0007",
             "name": "ティアドロップグラス",
             "description": "プレミアムミッションパス 2025年5月で獲得"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0008",
+            "name": "イヌミミ",
+            "description": "プレミアムミッションパス 2025年8月で獲得"
         }
     ]
 }
