@@ -336,6 +336,36 @@
             "description": "【雨上がりのアイリス】藤田 ことねの特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-fktn-3-013-01",
+            "name": "自己肯定感爆上げ↑↑",
+            "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-02",
+            "name": "自己肯定感爆上げ↑↑しゅきしゅきソング",
+            "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-03",
+            "name": "しゅきしゅきしゅき～ッ♡",
+            "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-04",
+            "name": "自己肯定感爆上げ↑↑しゅきしゅきソング +",
+            "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-05",
+            "name": "自己肯定感爆上げ↑↑しゅきしゅきソング ++",
+            "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-06",
+            "name": "自己肯定感爆上げ↑↑しゅきしゅきソング +++",
+            "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hmsz-2-000-01",
             "name": "休み休み、前へ",
             "description": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで最終試験に合格"

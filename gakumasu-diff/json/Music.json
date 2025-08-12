@@ -1414,6 +1414,22 @@
             "arranger": "金山秀士(Dream Monster)"
         },
         {
+            "id": "music-char-fktn-004",
+            "title": "自己肯定感爆上げ↑↑しゅきしゅきソング",
+            "displayTitle": "自己肯定感爆上げ↑↑しゅきしゅきソング",
+            "lyrics": "ヒゲドライバー",
+            "composer": "ヒゲドライバー",
+            "arranger": "ヒゲドライバー"
+        },
+        {
+            "id": "music-char-fktn-004-inst",
+            "title": "自己肯定感爆上げ↑↑しゅきしゅきソング [Instrumental]",
+            "displayTitle": "自己肯定感爆上げ↑↑しゅきしゅきソング [Instrumental]",
+            "lyrics": "ヒゲドライバー",
+            "composer": "ヒゲドライバー",
+            "arranger": "ヒゲドライバー"
+        },
+        {
             "id": "music-char-hmsz-001",
             "title": "ツキノカメ",
             "displayTitle": "ツキノカメ",

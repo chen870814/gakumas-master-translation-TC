@@ -6,6 +6,38 @@
     },
     "data": [
         {
+            "id": "dearness_event_fktn-001",
+            "name": "藤田 ことねのダンスを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_fktn-002",
+            "name": "藤田 ことねのプロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_fktn-003",
+            "name": "藤田 ことねのプロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_fktn-004",
+            "name": "藤田 ことねのプロデュースで営業を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_fktn-005",
+            "name": "藤田 ことねのプロデュースで差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_fktn-006",
+            "name": "藤田 ことねでダンスレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_fktn-007",
+            "name": "藤田 ことねのプロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_fktn-008",
+            "name": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_shro-001",
             "name": "篠澤 広のボーカルを1800以上に育成してプロデュースをクリア"
         },
@@ -68,6 +100,26 @@
         {
             "id": "dearness_event_ssmk-008",
             "name": "紫雲清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-001",
+            "name": "藤田 ことねのダンスを2000以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-002",
+            "name": "藤田 ことねのプロデュースでスキルカードを合計{threshold}回使用しよう"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-003",
+            "name": "藤田 ことねのプロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-004",
+            "name": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-005",
+            "name": "藤田 ことねのプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "dearness_normal-mission_shro-001",
@@ -1775,6 +1827,106 @@
         },
         {
             "id": "mission-highscorerush-event-003-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_12",
+            "name": "藤田 ことねのダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_13",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_14",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_22",
+            "name": "花海 佑芽のダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_23",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_24",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_32",
+            "name": "藤田 ことねまたは花海 佑芽のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_33",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_34",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_42",
+            "name": "藤田 ことねまたは花海 佑芽のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_43",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_44",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_52",
+            "name": "藤田 ことねまたは花海 佑芽のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_53",
+            "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_54",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_56",
             "name": "5日目のミッションを全てクリア"
         },
         {
@@ -4336,6 +4488,30 @@
         {
             "id": "achieve-i_card-fktn-3-011-06",
             "name": "【雨上がりのアイリス】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-01",
+            "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-02",
+            "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-03",
+            "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-04",
+            "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-05",
+            "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-06",
+            "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hmsz-2-000-01",
