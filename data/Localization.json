@@ -38,6 +38,14 @@
       "description": "编成可以针对每个培育进行设置。在不同培育中进行设置时，不会适用于其他培育。"
     },
     {
+      "id": "produce_prepare.top.event_icon.high_score_rush.description",
+      "description": "在培育的报酬中可以获得星之闪耀"
+    },
+    {
+      "id": "produce_prepare.top.event_icon.high_score_rush.title",
+      "description": "十王邦夫的偶像强化月"
+    },
+    {
       "id": "produce.high_score_rush.gold.description",
       "description": "「十王邦夫的偶像强化月～星光璀璨～」中可以获得的道具。可以在活动扭蛋中使用。"
     },

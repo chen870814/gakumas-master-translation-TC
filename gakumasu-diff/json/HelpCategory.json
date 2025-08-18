@@ -167,6 +167,12 @@
             ]
         },
         {
+            "id": "help-research-event",
+            "order": 24,
+            "name": "あさり先生のプロデュースゼミ",
+            "texts": []
+        },
+        {
             "id": "help-shop",
             "order": 18,
             "name": "ショップ",
