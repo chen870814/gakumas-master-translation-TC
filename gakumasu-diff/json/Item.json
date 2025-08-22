@@ -120,6 +120,12 @@
             "acquisitionRouteDescription": "マニー交換所など"
         },
         {
+            "id": "item-dearness-unlock-fktn",
+            "name": "ことねとの記録の鍵",
+            "description": "藤田ことねのSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "交換所など"
+        },
+        {
             "id": "item-dearness-unlock-shro",
             "name": "広との記録の鍵",
             "description": "篠澤広のSTEP3の親愛度コミュを解放するアイテム",

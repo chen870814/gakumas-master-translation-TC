@@ -11,6 +11,7 @@
   "produce_prepare.top.event_icon.high_score_rush.title|description": "十王邦夫のアイドル強化月間",
   "produce.high_score_rush.gold.description|description": "「十王邦夫のアイドル強化月間〜星々のきらめき〜」で獲得できるアイテム。イベントガシャで使用できます。",
   "produce.lesson.no_effect.stance_over_preservation|description": "指針がのんびりであるため、指針を温存に変更する効果は発動しません。",
+  "produce.server_force_reset.confirm.description|description": "プレイ中のプロデュースデータが破棄されました。",
   "profile.report.share.text|description": "#学マス #初星学園通知表",
   "pvp.rate.support_bonus.sheet.bullet_point2|description": "・所持しているサポートカードのボーナスの合計が\\n　コンテスト/アイドルへの道のスコアに対して\\n　かかるサポートボーナスになります",
   "pvp.rate.support_bonus.sheet.description|description": "コンテスト/アイドルへの道のスコアに対してかかる\\nボーナスです。",

@@ -171,8 +171,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 24,
       "title": "初星课题24",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -227,8 +227,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 32,
       "title": "初星课题32",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -318,8 +318,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 45,
       "title": "初星课题45",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -388,8 +388,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 55,
       "title": "初星课题55",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -458,8 +458,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 5,
       "title": "P课题5",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -528,8 +528,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 15,
       "title": "P课题15",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -563,8 +563,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 20,
       "title": "P课题20",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -668,8 +668,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 35,
       "title": "P课题35",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -836,8 +836,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 59,
       "title": "P课题59",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -878,8 +878,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 65,
       "title": "P课题65",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -948,8 +948,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 75,
       "title": "P课题75",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -962,15 +962,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 77,
       "title": "P课题77",
-      "description": "让筱泽广在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让筱泽广在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让筱泽广通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让筱泽广通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 78,
       "title": "P课题78",
-      "description": "让仓本千奈在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让仓本千奈在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让仓本千奈通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让仓本千奈通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -997,15 +997,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 82,
       "title": "P课题82",
-      "description": "让葛城莉莉娅在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让葛城莉莉娅在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让葛城莉莉娅通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让葛城莉莉娅通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 83,
       "title": "P课题83",
-      "description": "让紫云清夏在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让紫云清夏在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让紫云清夏通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让紫云清夏通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1018,8 +1018,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 85,
       "title": "P课题85",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1039,15 +1039,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 88,
       "title": "P课题88",
-      "description": "让有村麻央在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让有村麻央在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让有村麻央通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让有村麻央通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 89,
       "title": "P课题89",
-      "description": "让姬崎莉波在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让姬崎莉波在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让姬崎莉波通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让姬崎莉波通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1067,15 +1067,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 92,
       "title": "P课题92",
-      "description": "让月村手毬在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让月村手毬在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让月村手毬通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让月村手毬通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 93,
       "title": "P课题93",
-      "description": "让藤田琴音在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让藤田琴音在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让藤田琴音通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让藤田琴音通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1088,8 +1088,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 95,
       "title": "P课题95",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1102,15 +1102,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 97,
       "title": "P课题97",
-      "description": "让花海咲季在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让花海咲季在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让花海咲季通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让花海咲季通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 98,
       "title": "P课题98",
-      "description": "让花海佑芽在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让花海佑芽在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让花海佑芽通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让花海佑芽通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1249,8 +1249,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 18,
       "title": "P课题2-18",
-      "description": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价",
-      "homeDescription": "让方案：异类的培育用偶像在最终考试合格的情况下获得{threshold}次A以上的评价"
+      "description": "让方案：异类的培育用偶像通过最终考试并获得{threshold}次A以上的评价",
+      "homeDescription": "让方案：异类的培育用偶像通过最终考试并获得{threshold}次A以上的评价"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1305,8 +1305,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 26,
       "title": "P课题2-26",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1389,8 +1389,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 38,
       "title": "P课题2-38",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1641,8 +1641,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 74,
       "title": "P课题74",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1809,8 +1809,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 98,
       "title": "P课题98",
-      "description": "制作人等级达到Lv{threshold}",
-      "homeDescription": "制作人等级达到Lv{threshold}"
+      "description": "让制作人等级达到Lv{threshold}吧",
+      "homeDescription": "让制作人等级达到Lv{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",

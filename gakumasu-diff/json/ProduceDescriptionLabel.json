@@ -7069,12 +7069,12 @@
         {
             "id": "Label_ProduceCardPositionType_DeckFirst",
             "produceDescriptions": [],
-            "name": "山札の上"
+            "name": "山札の一番上"
         },
         {
             "id": "Label_ProduceCardPositionType_DeckLast",
             "produceDescriptions": [],
-            "name": "山札の下"
+            "name": "山札の一番下"
         },
         {
             "id": "Label_ProduceCardPositionType_DeckRandom",
