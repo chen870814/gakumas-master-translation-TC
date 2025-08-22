@@ -120,6 +120,12 @@
       "acquisitionRouteDescription": "金币兑换所等方式"
     },
     {
+      "id": "item-dearness-unlock-fktn",
+      "name": "琴音的记录之钥",
+      "description": "解锁藤田琴音STEP3亲密度交流的道具",
+      "acquisitionRouteDescription": "兑换所等方式"
+    },
+    {
       "id": "item-dearness-unlock-shro",
       "name": "广的记录之钥",
       "description": "解锁筱泽广STEP3亲密度交流的道具",

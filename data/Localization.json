@@ -54,6 +54,10 @@
       "description": "由于指针处于悠闲状态，因此不会触发将指针变更为温存的效果。"
     },
     {
+      "id": "produce.server_force_reset.confirm.description",
+      "description": "正在游玩中的培育数据已被清除。"
+    },
+    {
       "id": "profile.report.share.text",
       "description": "#学マス #初星学園通知表"
     },

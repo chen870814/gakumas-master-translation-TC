@@ -7103,14 +7103,14 @@
       "produceDescriptions": [
         ""
       ],
-      "name": "牌堆顶部"
+      "name": "牌堆的最顶部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckLast",
       "produceDescriptions": [
         ""
       ],
-      "name": "牌堆底部"
+      "name": "牌堆的最底部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",
