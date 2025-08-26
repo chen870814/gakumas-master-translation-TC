@@ -23,9 +23,9 @@
   "TutorialType_Tower|name": "偶像之路",
   "TutorialType_Tower|description": "「偶像之路」功能解锁",
   "TutorialType_Tower|routeDescription": "请前往竞技场页面的偶像之路进行确认",
-  "TutorialType_Guild|name": "社交圈",
-  "TutorialType_Guild|description": "「社交圈」功能解锁",
-  "TutorialType_Guild|routeDescription": "请前往菜单页面的社交圈进行确认",
+  "TutorialType_Guild|name": "社团",
+  "TutorialType_Guild|description": "「社团」功能解锁",
+  "TutorialType_Guild|routeDescription": "请前往菜单页面的社团进行确认",
   "TutorialType_DearnessTop|name": "亲密度TOP",
   "TutorialType_DearnessTop|description": "「亲密度TOP」功能解锁",
   "TutorialType_DearnessTop|routeDescription": "可以从主页的亲密度中确认 "

@@ -521,7 +521,7 @@
   },
   "produce_prepare.label.guild_member": {
     "japanese": "サークル",
-    "chinese": "社交圈"
+    "chinese": "社团"
   },
   "common.select.all_off": {
     "japanese": "全解除",
@@ -2341,7 +2341,7 @@
   },
   "common.guild": {
     "japanese": "サークル",
-    "chinese": "社交圈"
+    "chinese": "社团"
   },
   "common.item": {
     "japanese": "持ち物",
@@ -2601,7 +2601,7 @@
   },
   "common.menu.button_type.Guild": {
     "japanese": "サークル",
-    "chinese": "社交圈"
+    "chinese": "社团"
   },
   "title.menu.delete_userdata": {
     "japanese": "ユーザーデータ削除",
@@ -7081,7 +7081,7 @@
   },
   "story_event.guild_mission.join_sheet.main_task_description": {
     "japanese": "連携ミッションはサークルに加入することで参加できます。\n<color=#u:Negative>{0}</color>",
-    "chinese": "通过加入社交圈可以参与协作任务。\n<color=#u:Negative>{0}</color>"
+    "chinese": "通过加入社团可以参与协作任务。\n<color=#u:Negative>{0}</color>"
   },
   "pvp.rate.judging_trend": {
     "japanese": "審査基準",
@@ -8673,7 +8673,7 @@
   },
   "profile.common.guild": {
     "japanese": "所属サークル",
-    "chinese": "所属社交圈"
+    "chinese": "所属社团"
   },
   "memory.inherit.not_available.toast": {
     "japanese": "合成途中のメモリーがあります",
@@ -13165,11 +13165,11 @@
   },
   "story_event.guild_mission.join_sheet.guild_description": {
     "japanese": "連携ミッションはサークルに加入することで参加できます。\nサークルへ移動しますか？",
-    "chinese": "加入社交圈即可参与联动任务。\n要移动至社交圈吗？"
+    "chinese": "加入社团即可参与联动任务。\n要移动至社团吗？"
   },
   "story_event.guild_mission.join_sheet.to_guild": {
     "japanese": "サークルへ",
-    "chinese": "前往社交圈"
+    "chinese": "前往社团"
   },
   "story_event.guild_mission.join_sheet.to_main_task": {
     "japanese": "課題へ",
@@ -15357,7 +15357,7 @@
   },
   "story.lock.dearness.description": {
     "japanese": "解放済みのコミュがありません",
-    "chinese": "没有已解锁的社交圈"
+    "chinese": "没有已解锁的社团"
   },
   "story.dearness_story.title": {
     "japanese": "第{0}話",
@@ -15913,7 +15913,7 @@
   },
   "guild.create_confirm.title": {
     "japanese": "サークル設立確認",
-    "chinese": "社交圈设立确认"
+    "chinese": "社团设立确认"
   },
   "research_event.reroll_cost_description_sheet.title": {
     "japanese": "消費アイテムについて",
@@ -16005,7 +16005,7 @@
   },
   "guild.top.copy_id": {
     "japanese": "サークルのIDをコピーしました",
-    "chinese": "已复制社交圈的ID"
+    "chinese": "已复制社团的ID"
   },
   "costume.select.head.cannot_select": {
     "japanese": "髪型が固定されている衣装を選択中です",
@@ -16161,7 +16161,7 @@
   },
   "guild.edit.name.edit": {
     "japanese": "サークル名を入力してください",
-    "chinese": "请输入社交圈名称"
+    "chinese": "请输入社团名称"
   },
   "live.movie_record.loading.text_1": {
     "japanese": "撮影ボタンをタップすると最大{0}秒の録画を開始します",
@@ -16173,7 +16173,7 @@
   },
   "guild.edit.achievement.description": {
     "japanese": "サークル情報に表示するアチーブメントを\n獲得済みのものから選択できます。",
-    "chinese": "可以从已获得的成就中选择显示在社交圈信息中的成就。"
+    "chinese": "可以从已获得的成就中选择显示在社团信息中的成就。"
   },
   "seminar.sheet.advice_header": {
     "japanese": "STEP{0}",
@@ -16305,7 +16305,7 @@
   },
   "guild.joined": {
     "japanese": "サークルに加入しました",
-    "chinese": "已加入社交圈"
+    "chinese": "已加入社团"
   },
   "startup.shop.update.hour": {
     "japanese": "あと{0}時間{1}分で終了",
@@ -16457,7 +16457,7 @@
   },
   "guild.join.request_confirm_result": {
     "japanese": "サークルに加入申請しました。",
-    "chinese": "已申请加入社交圈"
+    "chinese": "已申请加入社团"
   },
   "angya.battle_confirm.start.title": {
     "japanese": "挑戦確認",
@@ -16481,7 +16481,7 @@
   },
   "angya.reward.tab.guild_rank_list": {
     "japanese": "サークルランキング",
-    "chinese": "社交圈排名"
+    "chinese": "社团排名"
   },
   "others.top.button.fangage": {
     "japanese": "プライバシーオプション",
@@ -16517,7 +16517,7 @@
   },
   "guild.top.detail": {
     "japanese": "サークル詳細",
-    "chinese": "社交圈详情"
+    "chinese": "社团详情"
   },
   "jewel_balance_sheet.paid": {
     "japanese": "有償",
@@ -16577,7 +16577,7 @@
   },
   "guild.top.edit": {
     "japanese": "サークル情報編集",
-    "chinese": "编辑社交圈信息"
+    "chinese": "编辑社团信息"
   },
   "inquiry_confirm_sheet.copy_button": {
     "japanese": "IDをコピー",
@@ -16749,7 +16749,7 @@
   },
   "guild.edit.name.title": {
     "japanese": "サークル名",
-    "chinese": "社交圈名称"
+    "chinese": "社团名称"
   },
   "tour.stage.idol": {
     "japanese": "アイドル指定",
@@ -16981,7 +16981,7 @@
   },
   "guild.join.leave_warning2": {
     "japanese": "脱退後{0}時間は新たなサークルに加入することは\nできません",
-    "chinese": "退出后{0}小时内无法加入新社交圈"
+    "chinese": "退出后{0}小时内无法加入新社团"
   },
   "others.top.button.faq": {
     "japanese": "FAQ",
@@ -17109,7 +17109,7 @@
   },
   "guild.top.create": {
     "japanese": "サークル設立",
-    "chinese": "创建社交圈"
+    "chinese": "创建社团"
   },
   "setting.preference.other.daily_exchange.default_max.title": {
     "japanese": "デイリー交換所",
@@ -17169,7 +17169,7 @@
   },
   "guild.edit.name.default": {
     "japanese": "{0}のサークル",
-    "chinese": "{0}的社交圈"
+    "chinese": "{0}的社团"
   },
   "guild.filter.title": {
     "japanese": "条件検索",
@@ -17201,7 +17201,7 @@
   },
   "guild.list.tab.guilds": {
     "japanese": "サークル",
-    "chinese": "社交圈"
+    "chinese": "社团"
   },
   "live.movie_record.retry_confirm_sheet.title": {
     "japanese": "終了確認",
@@ -17457,7 +17457,7 @@
   },
   "angya.guild_detail_overlay.guild_status.button.guild_detail": {
     "japanese": "サークル",
-    "chinese": "社交圈"
+    "chinese": "社团"
   },
   "guild.edit.policy.title": {
     "japanese": "活動方針",
@@ -17497,7 +17497,7 @@
   },
   "guild.join.leave_description": {
     "japanese": "現在所属しているサークルを脱退します。\n本当によろしいですか？",
-    "chinese": "退出当前所属社交圈。\n真的确定吗？"
+    "chinese": "退出当前所属社团。\n真的确定吗？"
   },
   "guild.policy.policy_5": {
     "japanese": "初心者歓迎",
@@ -17525,7 +17525,7 @@
   },
   "guild.filter.member.title": {
     "japanese": "サークル人数",
-    "chinese": "社交圈成员数"
+    "chinese": "社团成员数"
   },
   "live.movie_record.skip.confirm.title": {
     "japanese": "ライブ終了確認",
@@ -17657,7 +17657,7 @@
   },
   "guild.description": {
     "japanese": "サークル紹介文",
-    "chinese": "社交圈介绍"
+    "chinese": "社团介绍"
   },
   "setting.quality.param.high": {
     "japanese": "高",
@@ -17725,11 +17725,11 @@
   },
   "guild.join.leave.restricted_event.title": {
     "japanese": "サークル脱退制限確認",
-    "chinese": "社交圈退出限制确认"
+    "chinese": "社团退出限制确认"
   },
   "guild.leader.dissolve.restricted_event.title": {
     "japanese": "サークル解散制限確認",
-    "chinese": "社交圈解散限制确认"
+    "chinese": "社团解散限制确认"
   },
   "setting.preference.fullscreen.dialog.toggle": {
     "japanese": "フルスクリーン自動調整",
@@ -17817,7 +17817,7 @@
   },
   "guild.top.title": {
     "japanese": "サークル",
-    "chinese": "社交圈"
+    "chinese": "社团"
   },
   "high_score_event.top.score.no_play": {
     "japanese": "-Pt",
@@ -17837,7 +17837,7 @@
   },
   "guild.setting.edit": {
     "japanese": "サークル情報編集",
-    "chinese": "编辑社交圈信息"
+    "chinese": "编辑社团信息"
   },
   "invite.progress.title": {
     "japanese": "招待一覧",
@@ -17901,7 +17901,7 @@
   },
   "angya.top.guild_status.button.guild_detail": {
     "japanese": "サークル情報",
-    "chinese": "社交圈信息"
+    "chinese": "社团信息"
   },
   "live.movie_record.loading.tap_label": {
     "japanese": "TAPで開始",
@@ -17973,11 +17973,11 @@
   },
   "guild.edit.achievement.title": {
     "japanese": "サークルアチーブメント設定",
-    "chinese": "社交圈成就设置"
+    "chinese": "社团成就设置"
   },
   "guild.member_dismiss.restricted_event.title": {
     "japanese": "サークル除名制限確認",
-    "chinese": "社交圈驱逐限制确认"
+    "chinese": "社团驱逐限制确认"
   },
   "live.loading.description.lyrics": {
     "japanese": "作詞：{0}",
@@ -18073,7 +18073,7 @@
   },
   "setting.preference.other.guild_setting.guild_donation_confirm.description": {
     "japanese": "サークルメンバーにアイテムを寄付する際に確認メッセージを表示します。",
-    "chinese": "向社交圈成员捐赠物品时会显示确认消息。"
+    "chinese": "向社团成员捐赠物品时会显示确认消息。"
   },
   "tower.sub_memory_select.decision_button": {
     "japanese": "サブ{0}決定",
@@ -18469,7 +18469,7 @@
   },
   "guild.create_confirm.description": {
     "japanese": "以下の情報でサークル設立します。",
-    "chinese": "以下信息将用于设立社交圈"
+    "chinese": "以下信息将用于设立社团"
   },
   "guild.policy.policy_2": {
     "japanese": "まったりプレイ",
@@ -18485,7 +18485,7 @@
   },
   "guild.dismissed.description": {
     "japanese": "所属しているサークルがありません",
-    "chinese": "没有所属的社交圈"
+    "chinese": "没有所属的社团"
   },
   "guild.role.leader": {
     "japanese": "リーダー",
@@ -18493,11 +18493,11 @@
   },
   "guild.list.empty": {
     "japanese": "対象のサークルはありません",
-    "chinese": "没有符合条件的社交圈"
+    "chinese": "没有符合条件的社团"
   },
   "guild.list.join_empty": {
     "japanese": "加入申請中のサークルはありません",
-    "chinese": "没有加入申请中的社交圈"
+    "chinese": "没有加入申请中的社团"
   },
   "guild.list.update": {
     "japanese": "更新",
@@ -18521,7 +18521,7 @@
   },
   "guild.list.leave": {
     "japanese": "サークル脱退",
-    "chinese": "退出社交圈"
+    "chinese": "退出社团"
   },
   "guild.list.member": {
     "japanese": "メンバーリスト",
@@ -18537,7 +18537,7 @@
   },
   "guild.list.not_found": {
     "japanese": "検索対象のサークルが見つかりませんでした",
-    "chinese": "未找到符合搜索条件的社交圈"
+    "chinese": "未找到符合搜索条件的社团"
   },
   "guild.join.request": {
     "japanese": "加入申請",
@@ -18557,19 +18557,19 @@
   },
   "guild.join.lock": {
     "japanese": "サークル加入が制限されています",
-    "chinese": "社交圈加入受限"
+    "chinese": "社团加入受限"
   },
   "guild.join.auto_confirm_description": {
     "japanese": "このサークルに加入します。よろしいですか？",
-    "chinese": "加入此社交圈。确定吗？"
+    "chinese": "加入此社团。确定吗？"
   },
   "guild.join.auto_confirm_result": {
     "japanese": "サークルに加入しました",
-    "chinese": "已加入社交圈"
+    "chinese": "已加入社团"
   },
   "guild.join.request_confirm_description": {
     "japanese": "このサークルに加入申請します。よろしいですか？",
-    "chinese": "申请加入此社交圈。确定吗？"
+    "chinese": "申请加入此社团。确定吗？"
   },
   "guild.join.request_confirm_warning": {
     "japanese": "加入にはリーダーによる承認が必要です",
@@ -18589,11 +18589,11 @@
   },
   "guild.join_cancel.request_confirm_description": {
     "japanese": "このサークルへの加入申請を取消します。\nよろしいですか？",
-    "chinese": "取消加入此社交圈的申请。\n确定吗？"
+    "chinese": "取消加入此社团的申请。\n确定吗？"
   },
   "guild.join_cancel.request_confirm_result": {
     "japanese": "サークルへの加入申請を取消しました。",
-    "chinese": "已取消加入此社交圈的申请"
+    "chinese": "已取消加入此社团的申请"
   },
   "angya.transition.not_guild_joined.title": {
     "japanese": "イベント参加条件確認",
@@ -18665,7 +18665,7 @@
   },
   "guild.search.none": {
     "japanese": "該当するサークルがありません",
-    "chinese": "无符合条件的社交圈"
+    "chinese": "无符合条件的社团"
   },
   "guild.leader_change.select.description": {
     "japanese": "交代したいメンバーを選んでください。",
@@ -18689,7 +18689,7 @@
   },
   "guild.leader.dissolve_confirm": {
     "japanese": "サークル解散確認",
-    "chinese": "社交圈解散确认"
+    "chinese": "社团解散确认"
   },
   "tour.restart.expired.description": {
     "japanese": "イベント開催期間が終了したため\n挑戦中のデータは破棄されました。",
@@ -18697,11 +18697,11 @@
   },
   "guild.leader.dissolve_description": {
     "japanese": "このサークルを解散します。本当によろしいですか？",
-    "chinese": "解散此社交圈。真的确定吗？"
+    "chinese": "解散此社团。真的确定吗？"
   },
   "guild.leader.dissolve_description_lock": {
     "japanese": "リクエストは解散時の募集で締め切られます。\nまた、解散後{0}時間は新たなサークルを作成・加入\nすることができません。",
-    "chinese": "解散时将关闭所有申请。\n解散后{0}小时内无法创建或加入新社交圈"
+    "chinese": "解散时将关闭所有申请。\n解散后{0}小时内无法创建或加入新社团"
   },
   "angya.fraction": {
     "japanese": "{0:N0} / {1:N0}",
@@ -18729,7 +18729,7 @@
   },
   "guild.id_search.label": {
     "japanese": "サークルIDを入力してください",
-    "chinese": "请输入社交圈ID"
+    "chinese": "请输入社团ID"
   },
   "guild.search.filter": {
     "japanese": "条件検索",
@@ -18741,7 +18741,7 @@
   },
   "guild.create.title": {
     "japanese": "サークル設立",
-    "chinese": "社交圈设立"
+    "chinese": "社团设立"
   },
   "guild.create.submit": {
     "japanese": "設立",
@@ -18749,11 +18749,11 @@
   },
   "guild.create_confirm.warning": {
     "japanese": "一度サークルを設立すると{0}日間は\nサークルの設立を行うことはできません",
-    "chinese": "设立社交圈后{0}天内无法再次设立社交圈"
+    "chinese": "设立社团后{0}天内无法再次设立社团"
   },
   "guild.create_confirm.submit": {
     "japanese": "サークル設立",
-    "chinese": "设立社交圈"
+    "chinese": "设立社团"
   },
   "data.migrate.success.description": {
     "japanese": "データ連携が完了しました。\nタイトルへ戻ります。",
@@ -18761,7 +18761,7 @@
   },
   "guild.create.complete": {
     "japanese": "サークルを設立しました",
-    "chinese": "社交圈已设立"
+    "chinese": "社团已设立"
   },
   "guild.reaction.warning": {
     "japanese": "送ったスタンプは他のメンバーにも表示されます",
@@ -18769,7 +18769,7 @@
   },
   "guild.setting.title": {
     "japanese": "サークル設定",
-    "chinese": "社交圈设置"
+    "chinese": "社团设置"
   },
   "guild.setting.transfer": {
     "japanese": "リーダー交代",
@@ -18781,7 +18781,7 @@
   },
   "guild.setting.dissolve": {
     "japanese": "サークル解散",
-    "chinese": "解散社交圈"
+    "chinese": "解散社团"
   },
   "guild.request.select.title": {
     "japanese": "アイテム募集",
@@ -18857,7 +18857,7 @@
   },
   "guild.resolve.validate": {
     "japanese": "サークルが解散されました",
-    "chinese": "社交圈已解散"
+    "chinese": "社团已解散"
   },
   "guild.unfollow.complete": {
     "japanese": "メンバーをフォロー解除しました",
@@ -18877,11 +18877,11 @@
   },
   "guild.leave.complete": {
     "japanese": "サークルを脱退しました",
-    "chinese": "已退出社交圈"
+    "chinese": "已退出社团"
   },
   "guild.edit.title": {
     "japanese": "サークル情報編集",
-    "chinese": "编辑社交圈信息"
+    "chinese": "编辑社团信息"
   },
   "invite.activate.sheet.title": {
     "japanese": "招待コード",
@@ -18909,7 +18909,7 @@
   },
   "guild.edit.complete": {
     "japanese": "サークル情報を更新しました",
-    "chinese": "社交圈信息已更新"
+    "chinese": "社团信息已更新"
   },
   "guild.message_edit.title": {
     "japanese": "メッセージ設定",
@@ -20193,7 +20193,7 @@
   },
   "setting.preference.other.guild_setting.title": {
     "japanese": "サークル設定",
-    "chinese": "社交圈设置"
+    "chinese": "社团设置"
   },
   "setting.preference.fullscreen.dialog.title": {
     "japanese": "フルスクリーン設定",
@@ -20741,7 +20741,7 @@
   },
   "angya.transition.not_guild_joined.button": {
     "japanese": "サークルへ",
-    "chinese": "前往社交圈"
+    "chinese": "前往社团"
   },
   "tower.ranking.stage_list.title": {
     "japanese": "ステージ別ランキング",
@@ -21249,7 +21249,7 @@
   },
   "angya.reward.tab.guild_rank_list.header": {
     "japanese": "サークルランキング報酬",
-    "chinese": "社交圈排名奖励"
+    "chinese": "社团排名奖励"
   },
   "angya.stage_challenge_reward_sheet.title": {
     "japanese": "挑戦報酬詳細",
@@ -21281,7 +21281,7 @@
   },
   "angya.guild_detail_overlay.tab.guild_rank_list": {
     "japanese": "サークルランキング",
-    "chinese": "社交圈排行榜"
+    "chinese": "社团排行榜"
   },
   "angya.guild_detail_overlay.tab.member_ranking_list": {
     "japanese": "メンバーランキング",
@@ -21389,11 +21389,11 @@
   },
   "angya.transition.feature_locked.description": {
     "japanese": "地方行脚イベントはサークルに加入することで参加できます。\nサークルは初星課題{0}で解放されます",
-    "chinese": "地方巡演活动需要加入社交圈后才能参加。\n社交圈在初星课题{0}中解锁"
+    "chinese": "地方巡演活动需要加入社团后才能参加。\n社团在初星课题{0}中解锁"
   },
   "angya.transition.not_guild_joined.description": {
     "japanese": "地方行脚イベントはサークルに加入することで参加できます。\nサークルトップへ移動しますか？",
-    "chinese": "地方巡演活动需要加入社交圈后才能参加。\n移动到社交圈首页吗？"
+    "chinese": "地方巡演活动需要加入社团后才能参加。\n移动到社团首页吗？"
   },
   "angya.stage.empty": {
     "japanese": "-",

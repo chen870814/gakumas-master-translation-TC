@@ -107,7 +107,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-ranking",
       "order": 8,
-      "name": "社交圈排行榜"
+      "name": "社团排行榜"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
@@ -239,25 +239,25 @@
       "helpCategoryId": "help-guild",
       "id": "guild-create",
       "order": 2,
-      "name": "创建社交圈"
+      "name": "创建社团"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-Guild",
       "order": 1,
-      "name": "社交圈"
+      "name": "社团"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-join",
       "order": 3,
-      "name": "加入社交圈"
+      "name": "加入社团"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-leave",
       "order": 6,
-      "name": "从社交圈退出/开除"
+      "name": "从社团退出/开除"
     },
     {
       "helpCategoryId": "help-guild",

@@ -798,7 +798,7 @@
   "mission-normal-absolutesupportcardlevel-1|name": "将支援卡的Lv提升至{threshold}吧",
   "mission-normal-discord-join-1|name": "加入官方Discord服务器",
   "mission-normal-incrementgashadrawcount-1|name": "抽取{threshold}次硬币扭蛋",
-  "mission-normal-incrementguilddonationcount-1|name": "在社交圈中捐赠{threshold}次道具吧",
+  "mission-normal-incrementguilddonationcount-1|name": "在社团中捐赠{threshold}次道具吧",
   "mission-normal-incrementidolcardlevellimitrankupdatecount-1|name": "对培育用偶像进行{threshold}次特训吧",
   "mission-normal-incrementIdolcardpotentialrankupdatecount-1|name": "对培育用偶像进行{threshold}次才能开花吧",
   "mission-normal-incrementmeishiexchangecount-1|name": "从其他制作人那里领取{threshold}次名片",
