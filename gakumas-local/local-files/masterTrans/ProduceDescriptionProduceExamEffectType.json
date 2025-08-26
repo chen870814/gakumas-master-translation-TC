@@ -87,8 +87,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
-      "name": "体力回复",
-      "swapName": "体力回复"
+      "name": "体力恢复",
+      "swapName": "体力恢复"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
@@ -187,8 +187,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": "体力回复效果增加",
-      "swapName": "体力回复效果增加"
+      "name": "体力恢复效果增加",
+      "swapName": "体力恢复效果增加"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
@@ -222,8 +222,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": "体力回复无效",
-      "swapName": "体力回复无效"
+      "name": "体力恢复无效",
+      "swapName": "体力恢复无效"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
