@@ -48,6 +48,122 @@ def pretranslated_to_kv_files_single(root_dir: str, translated_file: str, json_f
     return temp_output
 
 
+def load_special_mappings(json_filename):
+    """加载special_mapping目录中的特殊映射"""
+    special_mapping_dir = "./special_mapping"
+    file_base_name = json_filename[:-5]  # 移除.json扩展名
+    
+    special_mappings = {}
+    special_keys = set()  # 用于快速检查是否为特例键
+    
+    # 查找对应的special_mapping子目录
+    category_dir = os.path.join(special_mapping_dir, file_base_name)
+    if os.path.exists(category_dir):
+        for special_file in os.listdir(category_dir):
+            if special_file.endswith('.json'):
+                special_file_path = os.path.join(category_dir, special_file)
+                try:
+                    with open(special_file_path, 'r', encoding='utf-8') as f:
+                        special_data = json.load(f)
+                        special_mappings.update(special_data)
+                        # 记录特例键前缀（如pitem_01-2-096-0）
+                        special_prefix = special_file[:-5]  # 移除.json
+                        special_keys.add(special_prefix)
+                        print(f"    📋 加载特殊映射: {special_file} ({len(special_data)} 条)")
+                except Exception as e:
+                    print(f"    ⚠️  加载特殊映射失败 {special_file}: {e}")
+    
+    return special_mappings, special_keys
+
+
+def extract_complete_item_from_source(json_filename, item_id, source_dir="./gakumasu-diff/json"):
+    """从源文件中提取完整的条目信息"""
+    source_file = os.path.join(source_dir, json_filename)
+    if not os.path.exists(source_file):
+        print(f"    ⚠️  找不到源文件: {source_file}")
+        return {}
+    
+    try:
+        with open(source_file, 'r', encoding='utf-8') as f:
+            source_data = json.load(f)
+        
+        # 提取该item_id的所有相关键值对
+        item_mappings = {}
+        for key, value in source_data.items():
+            if key.startswith(item_id + "|"):
+                item_mappings[key] = value
+        
+        return item_mappings
+    except Exception as e:
+        print(f"    ⚠️  读取源文件失败 {source_file}: {e}")
+        return {}
+
+
+def save_smart_resolved_exceptions(json_filename, smart_exceptions):
+    """
+    保存智能解决的特例到special_mapping
+    
+    TODO: 当gakumasu-diff有更新时，需要完善以下逻辑：
+    1. 从gakumasu-diff/json中提取完整的新增条目
+    2. 对比data和diff，确定哪些是真正的新增内容
+    3. 为每个条目创建完整的special mapping文件
+    
+    当前版本：仅基于冲突键创建映射，待真实数据验证后完善
+    """
+    if not smart_exceptions:
+        return
+        
+    special_mapping_dir = "./special_mapping"
+    file_base_name = json_filename[:-5]  # 移除.json扩展名
+    category_dir = os.path.join(special_mapping_dir, file_base_name)
+    
+    # 按条目ID分组
+    exceptions_by_item = {}
+    for exception in smart_exceptions:
+        key = exception["key"]
+        # 提取条目ID（例如从pitem_tower_001-exam_review-1-stage_022-1|...中提取pitem_tower_001-exam_review-1-stage_022-1）
+        item_id = key.split("|")[0]
+        if item_id not in exceptions_by_item:
+            exceptions_by_item[item_id] = []
+        exceptions_by_item[item_id].append(exception)
+    
+    # 为每个条目创建完整的special mapping
+    for item_id, exceptions in exceptions_by_item.items():
+        print(f"    🔍 处理特例条目: {item_id}")
+        
+        # 从gakumasu-diff中提取完整的条目
+        complete_mappings = extract_complete_item_from_source(json_filename, item_id)
+        
+        if not complete_mappings:
+            print(f"    ⚠️  无法找到条目 {item_id} 的完整信息")
+            continue
+        
+        # 应用todo/new的特例翻译到完整映射中
+        for exception in exceptions:
+            key = exception["key"]
+            if key in complete_mappings:
+                complete_mappings[key] = exception["todo_new_translation"]
+        
+        # 创建目录
+        if not os.path.exists(category_dir):
+            os.makedirs(category_dir)
+            
+        # 保存special mapping文件
+        special_file = os.path.join(category_dir, f"{item_id}.json")
+        with open(special_file, 'w', encoding='utf-8') as f:
+            json.dump(complete_mappings, f, ensure_ascii=False, indent=2)
+        
+        print(f"    💾 已创建特例映射: {item_id}.json ({len(complete_mappings)} 条完整映射)")
+
+
+def is_special_key(key, special_keys):
+    """检查键是否属于特殊映射"""
+    for special_prefix in special_keys:
+        if key.startswith(special_prefix + "|"):
+            return True
+    return False
+
+
 def incremental_merge():
     """
     增量合并流程：
@@ -82,7 +198,7 @@ def incremental_merge():
     for file in todo_files:
         print(f"  - {file}")
     
-    print(f"\n📋 翻译优先级：todo/new > jp_cn > temp_key_cn(data)")
+    print(f"\n📋 翻译优先级：special_mapping > todo/new > jp_cn > temp_key_cn(data)")
     
     # 2. 处理每个文件
     all_conflicts = {}
@@ -112,6 +228,14 @@ def incremental_merge():
         todo_new_kv = pretranslated_to_kv_files_single(new_key_jp_dir, todo_translated_file, json_filename)
         print(f"    ✅ 加载了 {len(todo_new_kv)} 条翻译")
         
+        # 加载special_mapping（新增）
+        print(f"  📥 加载特殊映射...")
+        special_mappings, special_keys = load_special_mappings(json_filename)
+        if special_mappings:
+            print(f"    ✅ 加载了 {len(special_mappings)} 条特殊映射")
+        else:
+            print(f"    ℹ️  未找到特殊映射")
+        
         # 加载其他数据源
         with open(new_key_jp_file, 'r', encoding='utf-8') as f:
             new_key_jp_data = json.load(f)  # key: jp 映射
@@ -131,21 +255,32 @@ def incremental_merge():
         # 合并翻译并记录冲突
         final_key_cn_data = {}
         conflicts = []
+        smart_exceptions = []  # 收集智能解决的特例
         
         todo_new_count = 0
         jp_cn_count = 0
         old_count = 0
         untranslated_count = 0
         conflict_count = 0
+        special_count = 0  # 新增：特殊映射计数
         
         for key, jp_value in new_key_jp_data.items():
             used_translation = None
             source = None
             
+            # 首先检查是否为特殊映射键（最高优先级）
+            if is_special_key(key, special_keys) and key in special_mappings:
+                used_translation = special_mappings[key]
+                source = "special_mapping"
+                special_count += 1
+                final_key_cn_data[key] = used_translation
+                # 特殊映射不参与冲突检测
+                continue
+            
             # 检查所有可用的翻译来源
             available_translations = {}
             
-            # todo/new 翻译（最高优先级）
+            # todo/new 翻译
             if key in todo_new_kv and todo_new_kv[key] != jp_value:  # 确保不是未翻译的日文
                 available_translations["todo/new"] = todo_new_kv[key]
             
@@ -157,23 +292,53 @@ def incremental_merge():
             if key in old_key_cn_data and old_key_cn_data[key] != jp_value:  # 确保不是未翻译的日文
                 available_translations["data"] = old_key_cn_data[key]
             
-            # 按优先级选择翻译
-            if "todo/new" in available_translations:
-                used_translation = available_translations["todo/new"]
-                source = "todo/new"
-                todo_new_count += 1
-            elif "jp_cn" in available_translations:
-                used_translation = available_translations["jp_cn"]
-                source = "jp_cn"
-                jp_cn_count += 1
-            elif "data" in available_translations:
-                used_translation = available_translations["data"]
-                source = "data"
-                old_count += 1
-            else:
-                used_translation = jp_value
-                source = "原文"
-                untranslated_count += 1
+            # 智能冲突解决：如果jp_cn和data翻译一致，而todo/new不同，则优先使用jp_cn/data
+            # 这种情况说明jp_cn/data是通用翻译，而todo/new可能是特例
+            smart_resolution = False
+            if (len(available_translations) >= 2 and 
+                "jp_cn" in available_translations and 
+                "data" in available_translations and
+                "todo/new" in available_translations):
+                
+                jp_cn_trans = available_translations["jp_cn"]
+                data_trans = available_translations["data"]
+                todo_new_trans = available_translations["todo/new"]
+                
+                if jp_cn_trans == data_trans and jp_cn_trans != todo_new_trans:
+                    # jp_cn和data一致，todo/new不同：使用jp_cn/data的翻译
+                    used_translation = jp_cn_trans
+                    source = "jp_cn(智能解决)"
+                    jp_cn_count += 1
+                    smart_resolution = True
+                    
+                    # 收集特例信息
+                    smart_exceptions.append({
+                        "key": key,
+                        "jp_value": jp_value,
+                        "todo_new_translation": todo_new_trans,
+                        "used_translation": jp_cn_trans
+                    })
+                    
+                    print(f"    🧠 智能解决冲突: {key[:50]}... 使用通用翻译 '{jp_cn_trans}' 而非特例 '{todo_new_trans}'")
+            
+            # 如果没有智能解决，按原有优先级选择翻译
+            if not smart_resolution:
+                if "todo/new" in available_translations:
+                    used_translation = available_translations["todo/new"]
+                    source = "todo/new"
+                    todo_new_count += 1
+                elif "jp_cn" in available_translations:
+                    used_translation = available_translations["jp_cn"]
+                    source = "jp_cn"
+                    jp_cn_count += 1
+                elif "data" in available_translations:
+                    used_translation = available_translations["data"]
+                    source = "data"
+                    old_count += 1
+                else:
+                    used_translation = jp_value
+                    source = "原文"
+                    untranslated_count += 1
             
             final_key_cn_data[key] = used_translation
             
@@ -198,9 +363,14 @@ def incremental_merge():
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(final_key_cn_data, f, ensure_ascii=False, indent=4)
         
-        print(f"    📊 翻译统计: todo/new={todo_new_count}, jp_cn={jp_cn_count}, data={old_count}, 未翻译={untranslated_count}")
+        print(f"    📊 翻译统计: special={special_count}, todo/new={todo_new_count}, jp_cn={jp_cn_count}, data={old_count}, 未翻译={untranslated_count}")
         if conflict_count > 0:
             print(f"    ⚠️  发现冲突: {conflict_count} 个")
+        
+        # 保存智能解决的特例
+        if smart_exceptions:
+            print(f"    🧠 智能解决了 {len(smart_exceptions)} 个特例")
+            save_smart_resolved_exceptions(json_filename, smart_exceptions)
         
         # 记录冲突和处理的文件
         if conflicts:
