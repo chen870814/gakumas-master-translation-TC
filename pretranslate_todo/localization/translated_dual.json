@@ -16553,7 +16553,7 @@
   },
   "tour.stage_detail.list.cell.button": {
     "japanese": "挑戦する",
-    "chinese": "舞台"
+    "chinese": "开始挑战"
   },
   "photography.photo.pose.disabled.look_target": {
     "japanese": "今の状態では指定できません",
@@ -17701,7 +17701,7 @@
   },
   "tour.top.button.story.unread_story_number": {
     "japanese": "{0}話解放",
-    "chinese": "{0}话解锁"
+    "chinese": "第{0}话解锁"
   },
   "research_event.white_list_sheet.rate_up.sub_title.tag": {
     "japanese": "確率UP",
@@ -18177,7 +18177,7 @@
   },
   "tour.battle_confirm.rehearsal.warning": {
     "japanese": "※報酬は獲得できません",
-    "chinese": "※奖励无法获得"
+    "chinese": "※无法获得奖励"
   },
   "invite.progress.mission_sheet.description": {
     "japanese": "招待したフレンドのPLvが上がるごとに招待Ptを獲得できます。",
@@ -21213,7 +21213,7 @@
   },
   "angya.stage_detail.list.cell.gimmick": {
     "japanese": "応援/トラブル",
-    "chinese": "助力/麻烦"
+    "chinese": "应援/干扰"
   },
   "angya.stage_detail.list.cell.idol": {
     "japanese": "アイドル指定",
