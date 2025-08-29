@@ -77,7 +77,7 @@
   "ProduceExamEffectType_ExamReviewAdditive|name": "好印象增加量增加",
   "ProduceExamEffectType_ExamFullPowerPointAdditive|name": "全力值增加量增加",
   "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive|name": "打分上升值增加量增加",
-  "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce|name": "好调减少",
+  "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce|name": "绝好调减少",
   "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive|name": "自尊",
   "ProduceExamEffectType_ExamReviewMultiple|name": "好印象强化"
 }

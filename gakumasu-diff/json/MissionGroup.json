@@ -534,6 +534,10 @@
             "name": "ストーリーイベントミッション013"
         },
         {
+            "id": "mission-group-tour-event-001",
+            "name": "ツアーイベントミッション001"
+        },
+        {
             "id": "panel_mission-event-002-group_1",
             "name": "第2回パネルミッション シート1"
         },

@@ -787,6 +787,21 @@
             "text": "そ～なんですよ～！\n誰がやっつけるか揉めましたよ～。"
         },
         {
+            "supportCardId": "s_card-2-0059",
+            "number": 1,
+            "text": "はーっ！　とりゃーっ！"
+        },
+        {
+            "supportCardId": "s_card-2-0059",
+            "number": 2,
+            "text": "広、その型は一体……？"
+        },
+        {
+            "supportCardId": "s_card-2-0059",
+            "number": 3,
+            "text": "ふふ、オリジナルの、アイドル拳法。"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1855,6 +1870,21 @@
             "supportCardId": "s_card-3-0071",
             "number": 3,
             "text": "莉波、今日はテンション高いわね……"
+        },
+        {
+            "supportCardId": "s_card-3-0072",
+            "number": 1,
+            "text": "危なかったね、千奈。けがはない？"
+        },
+        {
+            "supportCardId": "s_card-3-0072",
+            "number": 2,
+            "text": "ありがとうございます……！"
+        },
+        {
+            "supportCardId": "s_card-3-0072",
+            "number": 3,
+            "text": "ふふ、軽いから、\nこのまま抱き上げて行こうかな。"
         }
     ]
 }

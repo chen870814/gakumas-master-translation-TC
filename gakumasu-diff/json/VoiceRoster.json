@@ -1573,6 +1573,21 @@
         },
         {
             "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-20",
+            "title": "ホーム（秋）①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-21",
+            "title": "ホーム（秋）②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-22",
+            "title": "ホーム（秋）③"
+        },
+        {
+            "characterId": "hmsz",
             "assetId": "sud_vo_system_hmsz_idol_potential-01",
             "title": "才能開花①"
         },

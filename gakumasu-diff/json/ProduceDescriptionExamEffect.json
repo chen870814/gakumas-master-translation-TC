@@ -319,7 +319,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
-            "name": "好調減少"
+            "name": "絶好調減少"
         },
         {
             "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",

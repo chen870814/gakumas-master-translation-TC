@@ -13,8 +13,6 @@
   "produce.lesson.no_effect.stance_over_preservation|description": "指針がのんびりであるため、指針を温存に変更する効果は発動しません。",
   "produce.server_force_reset.confirm.description|description": "プレイ中のプロデュースデータが破棄されました。",
   "profile.report.share.text|description": "#学マス #初星学園通知表",
-  "pvp.rate.support_bonus.sheet.bullet_point2|description": "・所持しているサポートカードのボーナスの合計が\\n　コンテスト/アイドルへの道のスコアに対して\\n　かかるサポートボーナスになります",
-  "pvp.rate.support_bonus.sheet.description|description": "コンテスト/アイドルへの道のスコアに対してかかる\\nボーナスです。",
   "title.menu.delete_local_data.description|description": "保存されているローカルデータを削除しますか？\\n\\n■注意事項（※必ずお読みください）\\nローカルデータ削除をおこなうとユーザーデータは削除されませんが、ゲームプレイ中の中断データや一部の保存状態は削除されます。",
   "voice.idol_use_produce_card|description": "Pアイドル固有スキルカード使用"
 }

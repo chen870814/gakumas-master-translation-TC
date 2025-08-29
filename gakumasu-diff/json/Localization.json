@@ -62,14 +62,6 @@
             "description": "#学マス #初星学園通知表"
         },
         {
-            "id": "pvp.rate.support_bonus.sheet.bullet_point2",
-            "description": "・所持しているサポートカードのボーナスの合計が\\n　コンテスト/アイドルへの道のスコアに対して\\n　かかるサポートボーナスになります"
-        },
-        {
-            "id": "pvp.rate.support_bonus.sheet.description",
-            "description": "コンテスト/アイドルへの道のスコアに対してかかる\\nボーナスです。"
-        },
-        {
             "id": "title.menu.delete_local_data.description",
             "description": "保存されているローカルデータを削除しますか？\\n\\n■注意事項（※必ずお読みください）\\nローカルデータ削除をおこなうとユーザーデータは削除されませんが、ゲームプレイ中の中断データや一部の保存状態は削除されます。"
         },

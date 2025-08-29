@@ -1445,6 +1445,12 @@
             "step": 1,
             "subStep": 1,
             "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_Tour",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
         }
     ]
 }

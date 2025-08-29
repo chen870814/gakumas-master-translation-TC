@@ -22,6 +22,10 @@
             "name": "紫陽花の髪飾り（有村麻央）"
         },
         {
+            "id": "shop_costume_costume_head_amao-hair-0003",
+            "name": "ラウンドメガネ（有村麻央）"
+        },
+        {
             "id": "shop_costume_costume_head_fktn-hair-0001",
             "name": "紫陽花の髪飾り（藤田ことね）"
         },
@@ -74,6 +78,10 @@
             "name": "紫陽花の髪飾り（葛城リーリヤ）"
         },
         {
+            "id": "shop_costume_costume_head_kllj-hair-0003",
+            "name": "ラウンドメガネ（葛城リーリヤ）"
+        },
+        {
             "id": "shop_costume_costume_head_shro-hair-0001",
             "name": "紫陽花の髪飾り（篠澤広）"
         },
@@ -92,6 +100,10 @@
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
             "name": "紫陽花の髪飾り（月村手毬）"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0003",
+            "name": "ラウンドメガネ（月村手毬）"
         },
         {
             "id": "shop_costume_fktn-cstm-0063",
@@ -584,6 +596,10 @@
         {
             "id": "shop_pass_item-0016",
             "name": "プレミアムミッションパス 2025年8月"
+        },
+        {
+            "id": "shop_pass_item-0017",
+            "name": "プレミアムミッションパス 2025年9月"
         }
     ]
 }

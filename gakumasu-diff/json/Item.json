@@ -420,6 +420,12 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-medal-tour-event-001",
+            "name": "大阪ツアーメダル",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "ライブツアーイベント"
+        },
+        {
             "id": "item-memory_exchange-class1",
             "name": "センスコイン",
             "description": "センスガシャで使用するコイン",
@@ -494,6 +500,12 @@
         {
             "id": "item-piece-idol_amao-3-009",
             "name": "[雪解けに]有村麻央のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_amao-3-013",
+            "name": "[ミラクルナナウ(ﾟ∀ﾟ)！]有村麻央のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },
@@ -1032,6 +1044,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_ssmk-3-014",
+            "name": "[ミラクルナナウ(ﾟ∀ﾟ)！]紫雲清夏のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "イベント交換所など"
+        },
+        {
             "id": "item-piece-idol_ttmr-1-000",
             "name": "[学園生活]月村手毬のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -1084,6 +1102,12 @@
             "name": "[雨上がりのアイリス]月村手毬のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-play-ticket_tour-event-001",
+            "name": "ライブ挑戦券（大阪）",
+            "description": "ライブツアーイベントでステージに挑戦できるアイテム",
+            "acquisitionRouteDescription": "ライブツアーイベント"
         },
         {
             "id": "item-produce_continue-1",
