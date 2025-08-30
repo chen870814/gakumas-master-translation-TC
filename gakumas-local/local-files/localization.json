@@ -3620,7 +3620,7 @@
     "produce.effect.count_suffix": "回",
     "produce.effect.turn": "{0}回合",
     "produce.effect.turn_suffix": "回合",
-    "produce.effect.turn_timer": "{0}回合後",
+    "produce.effect.turn_timer": "{0}回合后",
     "produce.evaluate_overlay.execute": "下一步",
     "produce.evaluate_overlay.title": "最终培育评价",
     "produce.event": "活动",

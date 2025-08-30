@@ -4625,7 +4625,7 @@
   },
   "produce.effect.turn_timer": {
     "japanese": "{0}ターン後",
-    "chinese": "{0}回合後"
+    "chinese": "{0}回合后"
   },
   "produce.lesson.buff_condition_count_prefix": {
     "japanese": "発動まで",
