@@ -126,5 +126,6 @@
   "TutorialType_GvgRaid|1|1|texts": "[LA_F]",
   "TutorialType_ProduceNextIdolAuditionMaster|1|1|texts": "[LA_F]「N.I.A」の難易度「マスター」が解放されました。\n同時に「N.I.Aマスターランキング」も解放されます。\n「プロ」よりも難易度が高いかわりにパラメータがさらにあがりやすくなり、ファン投票数も集めやすくなります。\n親愛度20を達成したアイドルでのみ挑戦可能です。[LA_N_F]チャレンジPアイテムは、難易度「マスター」のプロデュース開始前に選択可能なPアイテムです。\nチャレンジPアイテムの効果により、オーディションクリア時にオーディションボーナスによって獲得するパラメータの量を増加させることができます。",
   "TutorialType_ProduceNextIdolAuditionMasterRanking|1|1|texts": "[LA_F]",
-  "TutorialType_Tour|1|1|texts": "[LA_F]"
+  "TutorialType_Tour|1|1|texts": "[LA_F]",
+  "TutorialType_Research|1|1|texts": "[LA_F]"
 }

@@ -79,6 +79,12 @@
             "description": "10回ガシャ"
         },
         {
+            "id": "gasha_button-free-10-05",
+            "order": 3,
+            "name": "10連無料、最大100連無料ガシャ",
+            "description": "10回ガシャ"
+        },
+        {
             "id": "gasha_button-pickup-001-01",
             "order": 2,
             "name": "1回ガシャ",

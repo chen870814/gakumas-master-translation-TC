@@ -802,6 +802,21 @@
             "text": "ふふ、オリジナルの、アイドル拳法。"
         },
         {
+            "supportCardId": "s_card-2-0060",
+            "number": 1,
+            "text": "中だけ……実だけ拾う……いたっ。"
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 2,
+            "text": "……トゲトゲ触っちゃった。"
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 3,
+            "text": "あぁ！　大丈夫！？\nトングを使うといいよ。"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1885,6 +1900,21 @@
             "supportCardId": "s_card-3-0072",
             "number": 3,
             "text": "ふふ、軽いから、\nこのまま抱き上げて行こうかな。"
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 1,
+            "text": "ピース、ピーーーース。"
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 2,
+            "text": "ギャルといえば制服で遊園地。\nカチューシャ、で両手ピース。"
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 3,
+            "text": "なにそれ～！　ウケる～！\nさすがに偏見っしょ～？"
         }
     ]
 }

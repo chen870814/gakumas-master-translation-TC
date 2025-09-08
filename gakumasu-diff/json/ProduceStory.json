@@ -10719,6 +10719,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-shro-3-014-01",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-014-02",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-014-03",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-ssmk-3-000-01",
             "title": "Tame-Lie-One-Step 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -11571,6 +11586,16 @@
         {
             "id": "p_story-s_card-2-0059-02",
             "title": "やりこみ要素に注意",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0060-01",
+            "title": "ままならない栗拾い",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0060-02",
+            "title": "りなみモンブラン一丁♪",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12651,6 +12676,21 @@
         {
             "id": "p_story-s_card-3-0072-03",
             "title": "幻のメロンパンを探せ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0073-01",
+            "title": "全力でエンジョイ♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0073-02",
+            "title": "目指せ、高校でびゅー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0073-03",
+            "title": "ギャル認定！",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

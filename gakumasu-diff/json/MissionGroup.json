@@ -502,6 +502,10 @@
             "name": "第1回パネルミッション　シート2"
         },
         {
+            "id": "mission-group-research-event-001",
+            "name": "あさりゼミ001"
+        },
+        {
             "id": "mission-group-story-event-001",
             "name": "1年1組のアイドルたち"
         },

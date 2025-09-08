@@ -1154,6 +1154,24 @@
             "name": "True End：N.I.A"
         },
         {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-produce",
+            "order": 2,
+            "name": "イベントモードのプロデュース"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-reroll",
+            "order": 3,
+            "name": "メモリーアビリティの再抽選"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-research-event",
+            "order": 1,
+            "name": "あさり先生のプロデュースゼミ"
+        },
+        {
             "helpCategoryId": "help-shop",
             "id": "shop-coingasha",
             "order": 5,

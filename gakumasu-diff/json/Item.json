@@ -990,6 +990,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_shro-3-014",
+            "name": "[ミラクルナナウ(ﾟ∀ﾟ)！]篠澤広のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_ssmk-1-000",
             "name": "[学園生活]紫雲清夏のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -1138,6 +1144,12 @@
             "name": "コンテストメダル",
             "description": "交換所で使用するメダル",
             "acquisitionRouteDescription": "コンテスト"
+        },
+        {
+            "id": "item-research-event-001",
+            "name": "あさり先生シール",
+            "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
         },
         {
             "id": "item-selection-ticket-001",

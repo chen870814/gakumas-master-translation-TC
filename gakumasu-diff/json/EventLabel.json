@@ -48,6 +48,10 @@
         {
             "eventType": "EventType_Tour",
             "name": "ライブツアー"
+        },
+        {
+            "eventType": "EventType_Research",
+            "name": "あさり先生のプロデュースゼミ"
         }
     ]
 }
