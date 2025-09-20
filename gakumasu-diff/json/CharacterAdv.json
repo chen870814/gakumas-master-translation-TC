@@ -33,7 +33,7 @@
         {
             "characterId": "hrnm",
             "name": "姫崎 莉波",
-            "regexp": "莉波"
+            "regexp": "莉波$"
         },
         {
             "characterId": "hski",

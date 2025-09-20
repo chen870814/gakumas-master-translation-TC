@@ -10179,6 +10179,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hrnm-3-013-01",
+            "title": "36℃ U･B･U 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hrnm-3-013-02",
+            "title": "36℃ U･B･U 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hrnm-3-013-03",
+            "title": "36℃ U･B･U 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hski-3-000-01",
             "title": "Fighting My Way 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -11599,6 +11614,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0061-01",
+            "title": "褒め伸びストレッチ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0061-02",
+            "title": "綺麗な理由は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0000-01",
             "title": "『友達』ランチ",
             "produceEventHintProduceConditionDescriptions": []
@@ -12691,6 +12716,36 @@
         {
             "id": "p_story-s_card-3-0073-03",
             "title": "ギャル認定！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0074-01",
+            "title": "同志発見？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0074-02",
+            "title": "お似合いヘアスタイル",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0074-03",
+            "title": "遠き故郷への想い",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0098-01",
+            "title": "ドキドキお弁当タイム",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0098-02",
+            "title": "お弁当のおかず談議",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0098-03",
+            "title": "集大成の運動会",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

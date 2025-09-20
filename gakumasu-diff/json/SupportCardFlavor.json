@@ -817,6 +817,21 @@
             "text": "あぁ！　大丈夫！？\nトングを使うといいよ。"
         },
         {
+            "supportCardId": "s_card-2-0061",
+            "number": 1,
+            "text": "体幹を鍛えると、こうしても――"
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 2,
+            "text": "いいストレッチだね！\n負荷は高いのに、負担は少ない！"
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 3,
+            "text": "ぜひ、姫崎先輩のストレッチも\n教えてください！"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1915,6 +1930,36 @@
             "supportCardId": "s_card-3-0073",
             "number": 3,
             "text": "なにそれ～！　ウケる～！\nさすがに偏見っしょ～？"
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 1,
+            "text": "この雑誌、懐かしいなぁ。"
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 2,
+            "text": "今月号はなんと、つむじちゃんの\n特集記事があるんです！"
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 3,
+            "text": "ふふ、リーリヤちゃん、楽しそう。"
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 1,
+            "text": "いよいよ運動会、本番ね。"
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 2,
+            "text": "初星学園の運動会は、運動神経や\n体力だけで勝てるほど甘くないわ。"
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 3,
+            "text": "百戦百勝、一意専心、勇往邁進……\n全力で勝ちを獲りにいくわよ！"
         }
     ]
 }
