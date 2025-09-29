@@ -826,6 +826,26 @@
             "name": "SPレッスンを{threshold}回クリアしよう"
         },
         {
+            "id": "mission-box-gasha-event-019-mission_1",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_2",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_3",
+            "name": "イベントボックスガシャを{threshold}回引こう"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_4",
+            "name": "プロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_5",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
             "id": "mission-circle-battle-event-001-mission_1",
             "name": "{threshold}日ログインしよう"
         },
@@ -4754,6 +4774,30 @@
             "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねの特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-fktn-3-016-01",
+            "name": "【がむしゃらに行こう！】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-02",
+            "name": "【がむしゃらに行こう！】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-03",
+            "name": "【がむしゃらに行こう！】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-04",
+            "name": "【がむしゃらに行こう！】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-05",
+            "name": "【がむしゃらに行こう！】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-06",
+            "name": "【がむしゃらに行こう！】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hmsz-2-000-01",
             "name": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで最終試験に合格"
         },
@@ -5208,6 +5252,30 @@
         {
             "id": "achieve-i_card-hski-3-012-06",
             "name": "【雨上がりのアイリス】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-01",
+            "name": "【がむしゃらに行こう！】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-02",
+            "name": "【がむしゃらに行こう！】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-03",
+            "name": "【がむしゃらに行こう！】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-04",
+            "name": "【がむしゃらに行こう！】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-05",
+            "name": "【がむしゃらに行こう！】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-06",
+            "name": "【がむしゃらに行こう！】花海 咲季の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hume-2-000-01",

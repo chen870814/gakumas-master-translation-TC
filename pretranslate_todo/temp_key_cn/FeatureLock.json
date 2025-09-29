@@ -1,7 +1,7 @@
 {
   "TutorialType_Work|name": "工作",
   "TutorialType_Work|description": "「工作」功能解锁",
-  "TutorialType_Work|routeDescription": "请前往主页的工作进行",
+  "TutorialType_Work|routeDescription": "请前往主页的工作进行确认",
   "TutorialType_PvpRate|name": "竞技场",
   "TutorialType_PvpRate|description": "「竞技场」功能解锁",
   "TutorialType_PvpRate|routeDescription": "请前往竞技场页面进行确认",
@@ -28,5 +28,8 @@
   "TutorialType_Guild|routeDescription": "请前往菜单页面的社团进行确认",
   "TutorialType_DearnessTop|name": "亲密度TOP",
   "TutorialType_DearnessTop|description": "「亲密度TOP」功能解锁",
-  "TutorialType_DearnessTop|routeDescription": "可以从主页的亲密度中确认 "
+  "TutorialType_DearnessTop|routeDescription": "请前往主页的亲密度进行确认",
+  "TutorialType_ProducerRanking|name": "制作人排行榜",
+  "TutorialType_ProducerRanking|description": "「制作人排行榜」功能解锁",
+  "TutorialType_ProducerRanking|routeDescription": "请前往竞技场页面的P排行榜进行确认"
 }

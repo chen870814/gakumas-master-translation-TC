@@ -10029,6 +10029,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-fktn-3-016-01",
+            "title": "がむしゃらに行こう！ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-fktn-3-016-02",
+            "title": "がむしゃらに行こう！ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-fktn-3-016-03",
+            "title": "がむしゃらに行こう！ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hmsz-3-000-01",
             "title": "ツキノカメ 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -10296,6 +10311,21 @@
         {
             "id": "p_story-i_card-hski-3-012-03",
             "title": "雨上がりのアイリス 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-015-01",
+            "title": "がむしゃらに行こう！ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-015-02",
+            "title": "がむしゃらに行こう！ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-015-03",
+            "title": "がむしゃらに行こう！ 3話",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -11624,6 +11654,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0062-01",
+            "title": "仮装選びは恐怖とともに",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0062-02",
+            "title": "お礼は苦くて甘いゼリー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0000-01",
             "title": "『友達』ランチ",
             "produceEventHintProduceConditionDescriptions": []
@@ -12731,6 +12771,21 @@
         {
             "id": "p_story-s_card-3-0074-03",
             "title": "遠き故郷への想い",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0075-01",
+            "title": "想い交わすお茶会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0075-02",
+            "title": "倉本家をご案内♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0075-03",
+            "title": "退屈しない学園",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

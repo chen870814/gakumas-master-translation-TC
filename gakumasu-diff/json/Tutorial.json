@@ -1457,6 +1457,12 @@
             "step": 1,
             "subStep": 1,
             "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProducerRanking",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
         }
     ]
 }

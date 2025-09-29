@@ -136,6 +136,11 @@
             "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】有村 麻央の才能開花4段階目で入手"
         },
         {
+            "id": "amao-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【Fluorite】'25がむしゃらに行こう！ 有村 麻央を入手"
+        },
+        {
             "id": "amao-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（有村麻央）を購入"
@@ -306,6 +311,16 @@
             "description": "【世界一可愛い私】'25ミラクルナナウ(ﾟ∀ﾟ)！ 藤田 ことねを入手"
         },
         {
+            "id": "fktn-cstm-0123",
+            "name": "がむしゃらに行こう！",
+            "description": "【がむしゃらに行こう！】藤田 ことねを入手"
+        },
+        {
+            "id": "fktn-cstm-0124",
+            "name": "がむしゃらに行こう！",
+            "description": "【がむしゃらに行こう！】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
             "id": "fktn-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（藤田ことね）を購入"
@@ -399,6 +414,11 @@
             "id": "hmsz-cstm-0122",
             "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
             "description": "【ツキノカメ】'25ミラクルナナウ(ﾟ∀ﾟ)！ 秦谷 美鈴を入手"
+        },
+        {
+            "id": "hmsz-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【ツキノカメ】'25がむしゃらに行こう！ 秦谷 美鈴を入手"
         },
         {
             "id": "hmsz-othr-0002",
@@ -564,6 +584,11 @@
             "id": "hrnm-cstm-0122",
             "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
             "description": "【clumsy trick】'25ミラクルナナウ(ﾟ∀ﾟ)！ 姫崎 莉波を入手"
+        },
+        {
+            "id": "hrnm-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【clumsy trick】'25がむしゃらに行こう！ 姫崎 莉波を入手"
         },
         {
             "id": "hrnm-othr-0000",
@@ -736,6 +761,11 @@
             "description": "【Fighting My Way】'25ミラクルナナウ(ﾟ∀ﾟ)！ 花海 咲季を入手"
         },
         {
+            "id": "hski-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【がむしゃらに行こう！】花海 咲季を入手"
+        },
+        {
             "id": "hski-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（花海咲季）を購入"
@@ -859,6 +889,11 @@
             "id": "hume-cstm-0122",
             "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
             "description": "【The Rolling Riceball】'25ミラクルナナウ(ﾟ∀ﾟ)！ 花海 佑芽を入手"
+        },
+        {
+            "id": "hume-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【The Rolling Riceball】'25がむしゃらに行こう！ 花海 佑芽を入手"
         },
         {
             "id": "hume-othr-0000",
@@ -1004,6 +1039,11 @@
             "id": "jsna-cstm-0122",
             "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
             "description": "【小さな野望】'25ミラクルナナウ(ﾟ∀ﾟ)！ 十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【小さな野望】'25がむしゃらに行こう！ 十王 星南を入手"
         },
         {
             "id": "jsna-othr-0002",
@@ -1154,6 +1194,11 @@
             "id": "kcna-cstm-0122",
             "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
             "description": "【Wonder Scale】'25ミラクルナナウ(ﾟ∀ﾟ)！ 倉本 千奈を入手"
+        },
+        {
+            "id": "kcna-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【Wonder Scale】'25がむしゃらに行こう！ 倉本 千奈を入手"
         },
         {
             "id": "kcna-othr-0002",
@@ -1309,6 +1354,11 @@
             "id": "kllj-cstm-0122",
             "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
             "description": "【白線】'25ミラクルナナウ(ﾟ∀ﾟ)！ 葛城 リーリヤを入手"
+        },
+        {
+            "id": "kllj-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【白線】'25がむしゃらに行こう！ 葛城 リーリヤを入手"
         },
         {
             "id": "kllj-othr-0002",
@@ -1491,6 +1541,11 @@
             "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤 広の才能開花4段階目で入手"
         },
         {
+            "id": "shro-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【光景】'25がむしゃらに行こう！ 篠澤 広を入手"
+        },
+        {
             "id": "shro-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（篠澤広）を購入"
@@ -1644,6 +1699,11 @@
             "id": "ssmk-cstm-0122",
             "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
             "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲 清夏を入手"
+        },
+        {
+            "id": "ssmk-cstm-0125",
+            "name": "がむしゃらに行こう！",
+            "description": "【Tame-Lie-One-Step】'25がむしゃらに行こう！ 紫雲 清夏を入手"
         },
         {
             "id": "ssmk-othr-0002",

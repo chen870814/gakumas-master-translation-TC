@@ -64,6 +64,12 @@
             "name": "親愛度TOP",
             "description": "「親愛度TOP」機能解放",
             "routeDescription": "ホームの親愛度から確認できます"
+        },
+        {
+            "tutorialType": "TutorialType_ProducerRanking",
+            "name": "プロデューサーランキング",
+            "description": "「プロデューサーランキング」機能解放",
+            "routeDescription": "コンテストのPランキングから確認できます"
         }
     ]
 }

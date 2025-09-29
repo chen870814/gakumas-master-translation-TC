@@ -167,6 +167,12 @@
             ]
         },
         {
+            "id": "help-producer-ranking",
+            "order": 24,
+            "name": "プロデューサーランキング",
+            "texts": []
+        },
+        {
             "id": "help-research-event",
             "order": 28,
             "name": "あさり先生のプロデュースゼミ",

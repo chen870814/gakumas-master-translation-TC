@@ -190,6 +190,8 @@
   "help-produce|produce-support-event|23|name": "サポートカードイベント",
   "help-produce|produce-true-end|30|name": "True End：『初』",
   "help-produce|produce-true-end-2|46|name": "True End：N.I.A",
+  "help-producer-ranking|producer-ranking|1|name": "プロデューサーランキング",
+  "help-producer-ranking|producer-ranking-season|2|name": "シーズン",
   "help-research-event|research-event-event-produce|2|name": "イベントモードのプロデュース",
   "help-research-event|research-event-reroll|3|name": "メモリーアビリティの再抽選",
   "help-research-event|research-event-research-event|1|name": "あさり先生のプロデュースゼミ",

@@ -832,6 +832,21 @@
             "text": "ぜひ、姫崎先輩のストレッチも\n教えてください！"
         },
         {
+            "supportCardId": "s_card-2-0062",
+            "number": 1,
+            "text": "わぁ～～～～～～～～ッ！\nえへへ……麻央先輩、驚きました？"
+        },
+        {
+            "supportCardId": "s_card-2-0062",
+            "number": 2,
+            "text": "ふふ、ことねか。びっくりしたよ。\nヴァンパイア似合ってるね。"
+        },
+        {
+            "supportCardId": "s_card-2-0062",
+            "number": 3,
+            "text": "これは絶対驚いてないヤツだぁ～！？"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1945,6 +1960,21 @@
             "supportCardId": "s_card-3-0074",
             "number": 3,
             "text": "ふふ、リーリヤちゃん、楽しそう。"
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 1,
+            "text": "ようこそおいでくださいました♪"
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 2,
+            "text": "広くて大きなお家にメイドさんまで――"
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 3,
+            "text": "………………はわぁぁ！\nドラマの世界みた～～～いッ！"
         },
         {
             "supportCardId": "s_card-3-0098",

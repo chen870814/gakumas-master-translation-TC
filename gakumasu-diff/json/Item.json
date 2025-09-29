@@ -54,6 +54,12 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-coin-box-gasha-event-019",
+            "name": "名古屋ツアーメダル",
+            "description": "イベントガシャで使用するアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-coin-highscorerush-event-001",
             "name": "ほしのきらめき",
             "description": "イベントガシャで使用するアイテム",
@@ -129,6 +135,12 @@
             "id": "item-dearness-unlock-fktn",
             "name": "ことねとの記録の鍵",
             "description": "藤田ことねのSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "交換所など"
+        },
+        {
+            "id": "item-dearness-unlock-hrnm",
+            "name": "莉波との記録の鍵",
+            "description": "姫崎莉波のSTEP3の親愛度コミュを解放するアイテム",
             "acquisitionRouteDescription": "交換所など"
         },
         {
@@ -576,6 +588,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_fktn-3-016",
+            "name": "[がむしゃらに行こう！]藤田ことねのピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_hmsz-1-000",
             "name": "[学園生活]秦谷美鈴のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -736,6 +754,12 @@
             "name": "[雨上がりのアイリス]花海咲季のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hski-3-015",
+            "name": "[がむしゃらに行こう！]花海咲季のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "イベントガシャなど"
         },
         {
             "id": "item-piece-idol_hume-1-000",
