@@ -122,7 +122,7 @@ def save_results_to_file(duplicates, output_file):
 
 def main():
     # JSON文件路径
-    json_file = "pretranslate_todo/localization/translated_dual.json"
+    json_file = "translated_dual.json"
     output_file = "duplicate_japanese_analysis.txt"
     
     print("正在分析JSON文件...")

@@ -881,7 +881,7 @@
   },
   "common.rule.commercial_transaction.title": {
     "japanese": "特定商取引法に基づく表示",
-    "chinese": "根据特定商业交易法的声明"
+    "chinese": "根据特定商业交易法案的声明"
   },
   "common.slash": {
     "japanese": "{0:N0}/{1:N0}",
@@ -1365,7 +1365,7 @@
   },
   "home.gasha.select_pickup.already_draw.toast": {
     "japanese": "ガシャを引いた後のピックアップ対象の変更はできません",
-    "chinese": "抽完后无法再更改选择的PICK UP对象"
+    "chinese": "抽完后无法再更改选择的PICK UP目标"
   },
   "produce.present.skip": {
     "japanese": "活動支給スキップ",
@@ -2361,7 +2361,7 @@
   },
   "common.menu.button_type.TowerRetry": {
     "japanese": "再挑戦",
-    "chinese": "再次挑战"
+    "chinese": "再挑战"
   },
   "common.plan_all": {
     "japanese": "フリー",
@@ -2865,7 +2865,7 @@
   },
   "produce.audition.result.continue_confirm_sheet.remain_count_title": {
     "japanese": "残り再挑戦回数",
-    "chinese": "剩余再次挑战次数"
+    "chinese": "剩余再挑战次数"
   },
   "common.parameter.dance": {
     "japanese": "ダンス",
@@ -3405,7 +3405,7 @@
   },
   "common.rule.fund_settlement.title": {
     "japanese": "資金決済法に基づく表示",
-    "chinese": "资金结算法下的声明"
+    "chinese": "根据资金结算法的声明"
   },
   "common.card.name": {
     "japanese": "[{0}]",
@@ -3949,7 +3949,7 @@
   },
   "produce.audition.result.continue": {
     "japanese": "再挑戦",
-    "chinese": "再次挑战"
+    "chinese": "再挑战"
   },
   "title.tap": {
     "japanese": "TAP TO START",
@@ -5153,7 +5153,7 @@
   },
   "produce.audition.result.continue_warning_sheet.title": {
     "japanese": "再挑戦確認",
-    "chinese": "再次挑战确认"
+    "chinese": "再挑战确认"
   },
   "produce.card.other_type.cancustomize": {
     "japanese": "カスタマイズ可能のみ",
@@ -5653,7 +5653,7 @@
   },
   "produce.audition.result.continue_warning_sheet.description": {
     "japanese": "再挑戦が可能ですが本当に終了しますか？\n<color=#u:Negative>プロデュース終了を選択した場合は失敗となります</color>",
-    "chinese": "可以再次挑战，但真的要结束吗？\n<color=#u:Negative>选择结束培育将会失败</color>"
+    "chinese": "可以再挑战，但真的要结束吗？\n<color=#u:Negative>选择结束培育将会失败</color>"
   },
   "produce.lesson.ppoint": {
     "japanese": "Pポイント",
@@ -6029,7 +6029,7 @@
   },
   "produce.audition.result.continue_confirm_sheet.description": {
     "japanese": "再挑戦チケットを消費して、試験に再挑戦しますか？\nスキルカードを引く順番やライバルの行動が再抽選されます",
-    "chinese": "消耗再次挑战道具，重新挑战考试吗？\n技能卡的抽取顺序和对手的行动将重新抽取"
+    "chinese": "消耗再挑战道具，重新挑战考试吗？\n技能卡的抽取顺序和对手的行动将重新抽取"
   },
   "produce.customize.customize_button.text": {
     "japanese": "カスタマイズ",
@@ -6237,11 +6237,11 @@
   },
   "produce.audition.result.continue_disable.no_item": {
     "japanese": "再挑戦チケットがありません",
-    "chinese": "没有再次挑战票据"
+    "chinese": "没有再挑战票据"
   },
   "produce.audition.result.continue_disable.no_count": {
     "japanese": "再挑戦回数が上限です",
-    "chinese": "再次挑战次数已达到上限"
+    "chinese": "再挑战次数已达到上限"
   },
   "produce_prepare.memory_select_list.label.rental_count": {
     "japanese": "本日残り{0}回",
@@ -6253,7 +6253,7 @@
   },
   "produce.audition.result.continue_confirm_sheet.nia.description": {
     "japanese": "再挑戦チケットを消費して、オーディションに再挑戦しますか？スキルカードを引く順番やライバルの行動が再抽選されます。オーディションを選択してください。",
-    "chinese": "消耗重试券重新挑战试镜吗？技能卡抽取顺序及对手行动将重新抽取。\n选择再次挑战后请重新选择试镜。"
+    "chinese": "消耗重试券重新挑战试镜吗？技能卡抽取顺序及对手行动将重新抽取。\n选择再挑战后请重新选择试镜。"
   },
   "produce.audition.result.continue_confirm_sheet.before_select": {
     "japanese": "前回挑戦",
@@ -6285,7 +6285,7 @@
   },
   "produce.result.memory_save.description.local": {
     "japanese": "端末に保存するフォトを選択してください",
-    "chinese": "请选择要保存到本地设备的照片"
+    "chinese": "请选择要保存到本地的照片"
   },
   "produce.result.memory_save.description.album": {
     "japanese": "アルバムに保存するフォトを選択してください",
@@ -6293,7 +6293,7 @@
   },
   "produce.result.memory_save.title_local": {
     "japanese": "端末保存",
-    "chinese": "保存到本地设备"
+    "chinese": "保存到本地"
   },
   "produce_prepare.button.confirm_effect": {
     "japanese": "効果一覧",
@@ -6317,7 +6317,7 @@
   },
   "produce.result.photo.save_local.toast": {
     "japanese": "フォトを端末に保存しました",
-    "chinese": "照片已保存到本地设备"
+    "chinese": "照片已保存到本地"
   },
   "present.receipt.result.unopen": {
     "japanese": "※所持上限に達しているプレゼントは受け取れませんでした",
@@ -6909,7 +6909,7 @@
   },
   "home.gasha.draw_jewel_confirm_sheet.commercial_transaction": {
     "japanese": "特定商取引法表示",
-    "chinese": "特定商取引法表示"
+    "chinese": "特定商业交易法案声明"
   },
   "home.gasha.draw_jewel_confirm_sheet.select_pickup.description": {
     "japanese": "以下がピックアップに選択されています",
@@ -8041,7 +8041,7 @@
   },
   "memory.inherit.select_memory.warning": {
     "japanese": "※合成に使用したメモリーは無くなります",
-    "chinese": "※用于合成的回忆将会消失。"
+    "chinese": "※用于合成的回忆将会消失"
   },
   "photography_prepare.stage_select.vertical.confirm_sheet.title": {
     "japanese": "縦画面撮影確認",
@@ -8285,7 +8285,7 @@
   },
   "memory.inherit.disable.profile.toast": {
     "japanese": "プロフィールに設定中のメモリーは選択できません",
-    "chinese": "设为资料中的回忆无法选择"
+    "chinese": "个人资料设置中的回忆无法选择"
   },
   "card.produce_card_customize.detail_sheet.customize_count": {
     "japanese": "カスタマイズ可能数 {0}/{1}",
@@ -8397,7 +8397,7 @@
   },
   "story_event.guild_mission.notification_description.clear": {
     "japanese": "{0}が\nミッションNo.{1}をクリアしました",
-    "chinese": "{0}已完成\n任务No.{1}！"
+    "chinese": "{0}已完成任务No.{1}"
   },
   "card.idol_card.upgrade_potential_rank_confirm_sheet.message": {
     "japanese": "アイテムを消費して指定段階まで才能開花を行いますか？",
@@ -8889,7 +8889,7 @@
   },
   "meishi_edit_custom.sub_menu.color.selected": {
     "japanese": "設定中",
-    "chinese": "设置中"
+    "chinese": "正在设置"
   },
   "profile.activity.contest": {
     "japanese": "コンテスト",
@@ -8901,7 +8901,7 @@
   },
   "profile.report.save.toast": {
     "japanese": "端末に保存しました",
-    "chinese": "已保存到本地设备设备中"
+    "chinese": "已保存到本地"
   },
   "achievement.true_end_condition.achieved": {
     "japanese": "True Endを達成しました",
@@ -8953,7 +8953,7 @@
   },
   "meishi.edit_custom.timeline.has_data": {
     "japanese": "設定中",
-    "chinese": "已设置"
+    "chinese": "正在设置"
   },
   "card.sort.produce_plan_type": {
     "japanese": "プラン",
@@ -8989,7 +8989,7 @@
   },
   "meishi.top.toast.cant_delete_profile_meishi": {
     "japanese": "設定中の名刺は削除できません",
-    "chinese": "无法删除设置中的名片"
+    "chinese": "无法删除正在设置的名片"
   },
   "memory.inherit.select_produce_card.unselected.toast": {
     "japanese": "入れ替えるスキルカードを選択してください",
@@ -9173,7 +9173,7 @@
   },
   "photography_prepare.stage_select.vertical.confirm_sheet.description": {
     "japanese": "縦画面撮影では、撮影した場合すぐに端末へフォトを保存します。フォトアルバムへの保存はできません。\n撮影をした端末の画面比率で端末に保存されます。\n縦画面撮影を開始しますか？",
-    "chinese": "在竖屏拍摄时，拍摄的照片会立即保存至设备。无法保存到相册。\n拍摄内容会按照拍摄设备的屏幕比例保存到本地设备中。\n要开始竖屏拍摄吗？"
+    "chinese": "在竖屏拍摄时，拍摄的照片会立即保存至设备。无法保存到相册。\n拍摄内容会按照拍摄设备的屏幕比例保存到本地中。\n要开始竖屏拍摄吗？"
   },
   "pvp.rate.auto_confirm_sheet.description": {
     "japanese": "おまかせでメモリーが編成されました",
@@ -9225,7 +9225,7 @@
   },
   "produce.ranking.list.empty": {
     "japanese": "対象のアイドルによる記録はありません",
-    "chinese": "暂无该偶像的记录"
+    "chinese": "没有目标偶像的记录"
   },
   "meishi.exchange.title": {
     "japanese": "名刺追加確認",
@@ -9389,7 +9389,7 @@
   },
   "story_event.guild_mission.history_description.clear": {
     "japanese": "{0}が\nミッションNo.{1}をクリアしました",
-    "chinese": "{0}完成了任务No.{1}"
+    "chinese": "{0}已完成任务No.{1}"
   },
   "card.sort.character_order": {
     "japanese": "アイドル",
@@ -9597,7 +9597,7 @@
   },
   "pvp.rate.same_character_confirm_sheet.description": {
     "japanese": "他のユニット枠に編成中のアイドルのメモリーを選択しています。このまま編成すると以下のステージに設定されている選択中のメモリーがユニットから外れますがよろしいですか？",
-    "chinese": "你选择了其他组合框中已编成的偶像的回忆。继续编成将移除以下偶像，确定吗？"
+    "chinese": "正在选择已编入其他组合的偶像的回忆。如果继续编成，以下舞台中已设置的回忆将会从原组合中移除，确定要继续吗？"
   },
   "card.support_card.detail.button.enhance": {
     "japanese": "Lv強化",
@@ -10185,7 +10185,7 @@
   },
   "memory.sell.warning.set_meishi": {
     "japanese": "名刺に設定中のメモリーは変換できません",
-    "chinese": "设置为名片的回忆无法转换"
+    "chinese": "名片设置中的回忆无法转换"
   },
   "shop.parent_confirm.accept": {
     "japanese": "同意を得て\n購入",
@@ -10637,7 +10637,7 @@
   },
   "meishi.edit_custom.sub_menu.movie.character_list.description": {
     "japanese": "ベースに設定したい動画のアイドルを選んでください",
-    "chinese": "请选择想要设定为基础的视频中的偶像。"
+    "chinese": "请选择想要设置为基础视频的偶像"
   },
   "photobackground.filter.time.evening": {
     "japanese": "夕",
@@ -11225,7 +11225,7 @@
   },
   "story_event.guild_mission.clear.description": {
     "japanese": "{0}が\nミッションNo.{1}をクリアしました",
-    "chinese": "{0}完成了任务No.{1}"
+    "chinese": "{0}已完成任务No.{1}"
   },
   "produce.ranking.sort.grade": {
     "japanese": "評価ランク",
@@ -11261,7 +11261,7 @@
   },
   "shop.top.law1": {
     "japanese": "特定商取引法に基づく表示",
-    "chinese": "根据特定商业交易法的声明"
+    "chinese": "根据特定商业交易法案的声明"
   },
   "produce.history.label_text.idolcard": {
     "japanese": "Pアイドル",
@@ -11269,7 +11269,7 @@
   },
   "memory.thumbnail.set_profile": {
     "japanese": "設定中",
-    "chinese": "设定中"
+    "chinese": "正在设置"
   },
   "produce.history.select_audition.success": {
     "japanese": "クリア",
@@ -12005,11 +12005,11 @@
   },
   "pvp.rate.same_character_confirm_sheet.description_sub": {
     "japanese": "他のユニット枠に編成中のアイドルのメモリーを選択しています。このまま編成すると以下のステージに設定されている選択中のメモリーがユニットから外れますがよろしいですか？",
-    "chinese": "选择了已在其他队伍编成中的副回忆。如果继续编成，以下偶像将从队伍中移除，确定吗？"
+    "chinese": "正在选择已编入其他组合的偶像的回忆。如果继续编成，以下舞台中已设置的回忆将会从原组合中移除，确定要继续吗？"
   },
   "card.idol_card.skin_change_sheet.current": {
     "japanese": "設定中",
-    "chinese": "正在设定"
+    "chinese": "正在设置"
   },
   "contest.preparation.rehearsal.confirm_sheet.execute": {
     "japanese": "中止する",
@@ -12581,7 +12581,7 @@
   },
   "memory.sell.warning.set_profile": {
     "japanese": "プロフィールに設定中のメモリーは変換できません",
-    "chinese": "设置为个人资料的回忆无法转换"
+    "chinese": "个人资料设置中的回忆无法转换"
   },
   "memory.sell.warning.empty": {
     "japanese": "変換するメモリーが選択されていません",
@@ -12825,7 +12825,7 @@
   },
   "meishi_edit_custom.sub_menu.movie.selected": {
     "japanese": "設定中",
-    "chinese": "已设置"
+    "chinese": "正在设置"
   },
   "memory.review_photo_select.no_change.description": {
     "japanese": "メモリーのフォトを変更せずに終了しますか？",
@@ -12997,7 +12997,7 @@
   },
   "memory.inherit.disable.meishi.toast": {
     "japanese": "名刺に設定中のメモリーは選択できません",
-    "chinese": "设置在名片中的回忆无法选择"
+    "chinese": "名片设置中的回忆无法选择"
   },
   "memory.inherit.disable.grade.toast": {
     "japanese": "評価が2ランク以上低いメモリーは選択できません",
@@ -13225,7 +13225,7 @@
   },
   "profile.support_select.toast.selected": {
     "japanese": "設定中のサポートカードです",
-    "chinese": "这是当前设置的支援卡"
+    "chinese": "这是正在设置的支援卡"
   },
   "pvp.rate.reward.rate.description": {
     "japanese": "レートPtを一定数ためるごとに報酬を獲得できます",
@@ -13425,7 +13425,7 @@
   },
   "audition.config.recommend_rank": {
     "japanese": "推奨投票数ランク",
-    "chinese": "推荐票数排名"
+    "chinese": "推荐投票数等级"
   },
   "contest.common.pt_text": {
     "japanese": "{0:N0}<size=32>Pt</size>",
@@ -13753,7 +13753,7 @@
   },
   "story_event.bonus_another.description": {
     "japanese": "ボーナス対象のPアイドルは以下です",
-    "chinese": "以下是获得奖励的P偶像"
+    "chinese": "以下是获得加成的P偶像"
   },
   "story_event.event_coin_bonus_format": {
     "japanese": "{0}ボーナス",
@@ -14117,7 +14117,7 @@
   },
   "photo.album.save.toast.no_permissions": {
     "japanese": "端末に保存が許可されていません",
-    "chinese": "没有保存到本地设备的权限"
+    "chinese": "没有保存到本地的权限"
   },
   "work.select.work_time_select.submit": {
     "japanese": "決定する",
@@ -14301,11 +14301,11 @@
   },
   "shop.top.law1.short": {
     "japanese": "特定商取引法表示",
-    "chinese": "特定商业法表示"
+    "chinese": "特定商业交易法案声明"
   },
   "shop.top.law2": {
     "japanese": "資金決済法に基づく表示",
-    "chinese": "根据资金结算法的表示"
+    "chinese": "根据资金结算法的声明"
   },
   "achievement.master.breakdown.title": {
     "japanese": "獲得合計確認",
@@ -14421,7 +14421,7 @@
   },
   "roster.music.disable.toast": {
     "japanese": "対象のアイドルの楽曲がありません",
-    "chinese": "没有对应偶像的歌曲"
+    "chinese": "没有目标偶像的歌曲"
   },
   "shop.purchase.disable.description": {
     "japanese": "この商品は購入できません",
@@ -15261,11 +15261,11 @@
   },
   "profile.memory_select.toast.selected": {
     "japanese": "設定中のメモリーです",
-    "chinese": "这是当前设置的回忆"
+    "chinese": "这是正在设置的回忆"
   },
   "profile.comment.edit.warning": {
     "japanese": "※個人情報や、公序良俗に反する内容は\n投稿しないでください。",
-    "chinese": "※请勿发布个人信息或违反公序良俗的内容。"
+    "chinese": "※请勿发布包含个人信息或违反公序良俗的内容。"
   },
   "profile.user.id.copy": {
     "japanese": "P-IDをコピーしました",
@@ -15365,7 +15365,7 @@
   },
   "profile.report.save.button": {
     "japanese": "端末保存",
-    "chinese": "保存到本地设备"
+    "chinese": "保存到本地"
   },
   "meishi.top.button.qr": {
     "japanese": "名刺コード",
@@ -15373,7 +15373,7 @@
   },
   "meishi.top.button.download": {
     "japanese": "端末保存",
-    "chinese": "保存到本地设备"
+    "chinese": "保存到本地"
   },
   "photobackground.filter.category.gakuen": {
     "japanese": "初星学園",
@@ -15401,15 +15401,15 @@
   },
   "meishi.top.list.profile_meishi": {
     "japanese": "設定中",
-    "chinese": "设置中"
+    "chinese": "正在设置"
   },
   "meishi.top.download.toast.success": {
     "japanese": "端末に保存しました",
-    "chinese": "已保存到本地设备"
+    "chinese": "已保存到本地"
   },
   "meishi.top.download.toast.no_permissions": {
     "japanese": "端末に保存が許可されていません",
-    "chinese": "没有保存到本地设备的权限"
+    "chinese": "没有保存到本地的权限"
   },
   "meishi.top.folder.empty": {
     "japanese": "名刺はありません",
@@ -15901,7 +15901,7 @@
   },
   "meishi.edit.comment.input.warning": {
     "japanese": "※個人情報や、公序良俗に反する内容は\n投稿しないでください。\n※コメントは変更時に保存されます",
-    "chinese": "※请勿提交个人信息或违反公序良俗的内容。\n※更改评论后将会保存"
+    "chinese": "※请勿发布包含个人信息或违反公序良俗的内容。\n※更改评论后将会保存"
   },
   "meishi.movie_idol_select_sheet.title": {
     "japanese": "アイドル選択",
@@ -15909,7 +15909,7 @@
   },
   "meishi.movie_idol_select_sheet.description": {
     "japanese": "ベースに設定したい動画のアイドルを選んでください",
-    "chinese": "请选择要设置为基础的偶像视频"
+    "chinese": "请选择想要设置为基础视频的偶像"
   },
   "photo.album.title": {
     "japanese": "フォトアルバム",
@@ -15917,7 +15917,7 @@
   },
   "photo.album.list.is_used": {
     "japanese": "設定中",
-    "chinese": "设定中"
+    "chinese": "正在设置"
   },
   "photo.album.check.box": {
     "japanese": "削除",
@@ -15945,7 +15945,7 @@
   },
   "photo.album.save.toast.success": {
     "japanese": "端末に保存しました",
-    "chinese": "已保存到本地设备"
+    "chinese": "已保存到本地"
   },
   "photo.detail.title": {
     "japanese": "フォト詳細",
@@ -15961,7 +15961,7 @@
   },
   "photo.detail.dl": {
     "japanese": "端末保存",
-    "chinese": "保存到本地设备"
+    "chinese": "保存到本地"
   },
   "photo.filter.sheet.empty": {
     "japanese": "条件に当てはまるフォトがありません",
@@ -15977,7 +15977,7 @@
   },
   "photo.save.toast.success.local": {
     "japanese": "フォトを端末に保存しました",
-    "chinese": "照片已保存到本地设备"
+    "chinese": "照片已保存到本地"
   },
   "story.noti.new": {
     "japanese": "NEW",
@@ -16049,7 +16049,7 @@
   },
   "story.story_event_unlock_sheet.result": {
     "japanese": "{0}を使用して\nコミュを解放しました",
-    "chinese": "使用以下道具解锁并播放了交流"
+    "chinese": "使用了{0}\n交流已解锁"
   },
   "story.story_event_mission.in_term.label": {
     "japanese": "開催期間：",
@@ -16157,7 +16157,7 @@
   },
   "story.support_card_unlock_sheet.result": {
     "japanese": "{0}を使用して\nコミュを解放しました",
-    "chinese": "使用了{0}"
+    "chinese": "使用了{0}\n交流已解锁"
   },
   "story.story_campaign.title": {
     "japanese": "無料解放キャンペーン",
@@ -16189,7 +16189,7 @@
   },
   "story.fast_forward_setting_sheet.type.All": {
     "japanese": "コミュを早送りする",
-    "chinese": "快进所有交流"
+    "chinese": "快进交流"
   },
   "story.fast_forward_setting_sheet.include_new_story": {
     "japanese": "未読コミュでも早送りする",
@@ -16341,11 +16341,11 @@
   },
   "picturebook.live.costume.select.selected": {
     "japanese": "設定中",
-    "chinese": "已设置"
+    "chinese": "正在设置"
   },
   "picturebook.live.costume.select.disabled": {
     "japanese": "髪型が固定されている衣装を選択中です",
-    "chinese": "选择了固定发型的服装"
+    "chinese": "正在选择固定发型的服装"
   },
   "picturebook.live.select.release.button": {
     "japanese": "ライブ解放",
@@ -16649,7 +16649,7 @@
   },
   "costume.select.head.cannot_select": {
     "japanese": "髪型が固定されている衣装を選択中です",
-    "chinese": "发型已固定于当前服装"
+    "chinese": "正在选择固定发型的服装"
   },
   "guild.member_dismiss.restricted_event.description": {
     "japanese": "イベント期間中は除名できません",
@@ -16701,7 +16701,7 @@
   },
   "setting.produce.story_skip.unread": {
     "japanese": "未読コミュでも早送りする",
-    "chinese": "未读交流也快进"
+    "chinese": "即使是未读的交流也会快进"
   },
   "photography.look_target.self": {
     "japanese": "こっちみて",
@@ -17201,7 +17201,7 @@
   },
   "others.top.button.fund_settlement": {
     "japanese": "資金決済法に基づく表示",
-    "chinese": "根据资金结算法的显示"
+    "chinese": "根据资金结算法的声明"
   },
   "setting.preference.photography.vertical_confirm.title": {
     "japanese": "縦画面撮影確認",
@@ -17993,7 +17993,7 @@
   },
   "setting.sound.home_bgm_setting.button": {
     "japanese": "変更",
-    "chinese": "更改"
+    "chinese": "更换"
   },
   "guild.list.unfollow": {
     "japanese": "フォロー解除",
@@ -18057,7 +18057,7 @@
   },
   "guild.list.reject_all_none": {
     "japanese": "対象の加入申請はありません",
-    "chinese": "没有加入申请"
+    "chinese": "没有目标的加入申请"
   },
   "live.movie_record.loading.text_3": {
     "japanese": "サムネイルに使用するシーンを選択します",
@@ -18085,7 +18085,7 @@
   },
   "data.migrate.start.warning_pc": {
     "japanese": "※有償ジュエルは異なるプラットフォームに連携することはできません。購入したプラットフォームでのみ使用することが可能です。\n※無償ジュエルは異なるプラットフォームに連携することが可能です。",
-    "chinese": "※付费宝石不能在不同平台之间进行共享。\n只能在购买的平台上使用。\n※免费宝石可以在不同平台之间\n进行共享。"
+    "chinese": "※付费宝石不能在不同平台之间进行共享。只能在购买的平台上使用。\n※免费宝石可以在不同平台之间进行共享。"
   },
   "setting.produce.produce_voice_off.description": {
     "japanese": "プロデュース開始時にボイスがあるコミュの再生確認メッセージを表示します。",
@@ -18181,7 +18181,7 @@
   },
   "photography.save.title.local": {
     "japanese": "端末保存",
-    "chinese": "保存到本地设备"
+    "chinese": "保存到本地"
   },
   "angya.receive_clear_stage_reward_overlay.title": {
     "japanese": "ステージクリア報酬獲得",
@@ -18257,7 +18257,7 @@
   },
   "tower.exam.sheet.retry_description": {
     "japanese": "ステージを再挑戦しますか？\n<color=#u:Negative>※進行中のデータは破棄されます</color>",
-    "chinese": "是否再次挑战该舞台？\n<color=#u:Negative>※正在进行的数据将会被废弃</color>"
+    "chinese": "是否再挑战该舞台？\n<color=#u:Negative>※正在进行的数据将会被废弃</color>"
   },
   "guild.top.board": {
     "japanese": "伝言板",
@@ -18509,7 +18509,7 @@
   },
   "others.top.button.commercial_transaction": {
     "japanese": "特定商取引法に基づく表示",
-    "chinese": "根据特定商业交易法的声明"
+    "chinese": "根据特定商业交易法案的声明"
   },
   "seminar.sheet.retire_description": {
     "japanese": "<color=#u:Negative>リタイアすると進行中の研修データは削除されます</color>\nリタイアして研修TOPに戻りますか？",
@@ -18929,7 +18929,7 @@
   },
   "photography.setting.dress.body_relation.disabled.costume": {
     "japanese": "この髪型は設定中の衣装では選択できません",
-    "chinese": "此发型无法与当前设置的服装匹配"
+    "chinese": "此发型无法与正在设置的服装匹配"
   },
   "photography.setting.dress.random_confirm_sheet.body": {
     "japanese": "衣装",
@@ -18989,7 +18989,7 @@
   },
   "photography.save.local.description": {
     "japanese": "端末に保存するフォトを選択してください",
-    "chinese": "请选择要保存到本地设备的照片"
+    "chinese": "请选择要保存到本地的照片"
   },
   "photography.save.button.back_album": {
     "japanese": "キャンセル",
@@ -18997,7 +18997,7 @@
   },
   "photography.save.button.local_save": {
     "japanese": "端末保存",
-    "chinese": "保存到本地设备"
+    "chinese": "保存到本地"
   },
   "photography.save.button.execute": {
     "japanese": "保存する",
@@ -19009,7 +19009,7 @@
   },
   "photography.save.close.confirm.description_local": {
     "japanese": "端末保存を終了しますか？\n<color=#u:Negative>※フォトが選択されている場合も保存されません</color>",
-    "chinese": "是否结束保存到本地设备？\n<color=#u:Negative>※即使已选择照片也不会被保存</color>"
+    "chinese": "是否结束保存到本地？\n<color=#u:Negative>※即使已选择照片也不会被保存</color>"
   },
   "photography.save.album.over_limit_confirm.description": {
     "japanese": "<color=#u:Negative>保存可能枚数が上限に達しています</color>\n選択したフォトをすべて保存するには\n{0}枚のフォトを削除する必要があります",
@@ -19585,7 +19585,7 @@
   },
   "tower.exam.sheet.retry_radio_button_text.go_edit": {
     "japanese": "編成して再挑戦",
-    "chinese": "重新编成后再次挑战"
+    "chinese": "重新编成后再挑战"
   },
   "guild.top.request.now_requesting": {
     "japanese": "リクエスト中",
@@ -19865,7 +19865,7 @@
   },
   "music.set_label": {
     "japanese": "設定中",
-    "chinese": "设定中"
+    "chinese": "正在设置"
   },
   "music.external_url_sheet.title": {
     "japanese": "確認",
@@ -19901,7 +19901,7 @@
   },
   "music.player.home_setting_button.on": {
     "japanese": "設定中",
-    "chinese": "设定中"
+    "chinese": "正在设置"
   },
   "music.player.home_setting_button.off": {
     "japanese": "設定",
@@ -19909,7 +19909,7 @@
   },
   "music.player.empty_label": {
     "japanese": "楽曲がありません",
-    "chinese": "播放列表中未注册乐曲"
+    "chinese": "没有乐曲"
   },
   "music.player.empty_label_with_filter": {
     "japanese": "楽曲がありません\nフィルタ実行中",
@@ -19953,7 +19953,7 @@
   },
   "music.playlist.empty_text": {
     "japanese": "楽曲がありません",
-    "chinese": "没有播放列表"
+    "chinese": "没有乐曲"
   },
   "music.playlist.empty_text_with_filter": {
     "japanese": "楽曲がありません\nフィルタ実行中",
@@ -20069,7 +20069,7 @@
   },
   "costume.select.cell.selected": {
     "japanese": "設定中",
-    "chinese": "设定中"
+    "chinese": "正在设置"
   },
   "costume.select.confirm_sheet.title": {
     "japanese": "衣装確認",
@@ -20129,7 +20129,7 @@
   },
   "costume.produce_setting_sheet.button": {
     "japanese": "変更",
-    "chinese": "换装"
+    "chinese": "更换"
   },
   "costume.produce_setting_sheet.warning": {
     "japanese": "お気に入り衣装が設定されていません",
@@ -21105,7 +21105,7 @@
   },
   "seminar.sheet.retry_confirm": {
     "japanese": "再挑戦確認",
-    "chinese": "再次挑战确认"
+    "chinese": "再挑战确认"
   },
   "seminar.sheet.retry_title": {
     "japanese": "最初から始める",
@@ -21317,15 +21317,15 @@
   },
   "tower.exam.sheet.retry_title": {
     "japanese": "再挑戦確認",
-    "chinese": "再次挑战确认"
+    "chinese": "再挑战确认"
   },
   "tower.exam.sheet.result_retry_description": {
     "japanese": "ステージを再挑戦しますか？",
-    "chinese": "是否再次挑战该舞台？"
+    "chinese": "是否再挑战该舞台？"
   },
   "tower.exam.sheet.retry_radio_button_text.restart": {
     "japanese": "同じ編成で再挑戦",
-    "chinese": "使用相同的编成再次挑战"
+    "chinese": "使用相同的编成再挑战"
   },
   "tower.invalid_sub_memory_confirm_sheet.description": {
     "japanese": "サブメモリーに編成されたメモリーとプランが異なるメモリーをメインに編成しようとしています。このまま編成するとサブメモリーが外れますがよろしいですか？",
