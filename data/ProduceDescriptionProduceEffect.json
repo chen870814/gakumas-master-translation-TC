@@ -255,19 +255,19 @@
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "支援活动的体力回复量增加"
+      "name": "支援事件的体力回复量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "支援活动的P点数获得量增加"
+      "name": "支援事件的P点数获得量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "支援活动的能力值上升量增加"
+      "name": "支援事件的能力值上升量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "支援活动发生率增加"
+      "name": "支援事件发生率增加"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
