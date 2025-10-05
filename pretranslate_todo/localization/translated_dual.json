@@ -1309,7 +1309,7 @@
   },
   "produce.audition.result.nia.bonus": {
     "japanese": "パラメータボーナス",
-    "chinese": "能力值奖励"
+    "chinese": "能力值加成"
   },
   "produce.memory_limit.description": {
     "japanese": "メモリー変換で所持メモリーを整理することができます",
@@ -1925,7 +1925,7 @@
   },
   "produce.log.detail.title.lesson_present_produce_card_reward_count_up": {
     "japanese": "レッスン報酬カード数",
-    "chinese": "课程奖励卡牌数"
+    "chinese": "课程奖励卡数量"
   },
   "time.mdhm": {
     "japanese": "{0}/{1} {2}:{3}",
@@ -2585,7 +2585,7 @@
   },
   "produce.filter.common.produce_item_name.button": {
     "japanese": "Pアイテム名検索",
-    "chinese": "P道具名搜索"
+    "chinese": "搜索P道具名"
   },
   "download.video.title": {
     "japanese": "動画ダウンロード確認",
@@ -3993,7 +3993,7 @@
   },
   "produce_prepare.change_produce_group.settings": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "title.menu.twitter": {
     "japanese": "公式X（旧Twitter）",
@@ -4161,7 +4161,7 @@
   },
   "produce.common.lesson_bonus": {
     "japanese": "パラメータボーナス",
-    "chinese": "能力值奖励"
+    "chinese": "能力值加成"
   },
   "produce.reward.effect.type.produce_point_addition_value_down": {
     "japanese": "Pポイント獲得量が{0}％ダウン",
@@ -4533,7 +4533,7 @@
   },
   "produce.log.detail.title.lesson_present_produce_card_reward_count_down": {
     "japanese": "レッスン報酬カード数",
-    "chinese": "课程奖励卡牌数"
+    "chinese": "课程奖励卡数量"
   },
   "produce.log.detail.title.produce_point_addition_value_up": {
     "japanese": "Pポイント獲得量",
@@ -4545,7 +4545,7 @@
   },
   "produce.log.detail.title.vote_count_bonus_trigger": {
     "japanese": "ファン投票数ボーナス発動",
-    "chinese": "粉丝投票数奖励发动"
+    "chinese": "粉丝投票数加成发动"
   },
   "produce_prepare.deck.memory.label.rental_enable": {
     "japanese": "レンタル可",
@@ -4985,7 +4985,7 @@
   },
   "produce.filter.common.exam_effect.title": {
     "japanese": "効果検索",
-    "chinese": "效果检索"
+    "chinese": "搜索效果"
   },
   "produce.select.max": {
     "japanese": "{0}枚まで好きな数選択してください",
@@ -5197,7 +5197,7 @@
   },
   "produce.filter.common.exam_effect.button": {
     "japanese": "効果検索",
-    "chinese": "效果检索"
+    "chinese": "搜索效果"
   },
   "produce.filter.common.exam_effect.label": {
     "japanese": "効果",
@@ -5225,7 +5225,7 @@
   },
   "produce.filter.common.produce_item_name.title": {
     "japanese": "Pアイテム名検索",
-    "chinese": "P道具名搜索"
+    "chinese": "搜索P道具名"
   },
   "produce.filter.common.produce_item_name.label.not_found": {
     "japanese": "該当のPアイテムがありません",
@@ -7645,7 +7645,7 @@
   },
   "audition.battle_start.fan_vote": {
     "japanese": "ファン投票数ボーナス",
-    "chinese": "粉丝投票数奖励"
+    "chinese": "粉丝投票数加成"
   },
   "memory.inherit.select_produce_card.description": {
     "japanese": "選択したコンテスト用スキルカードを、合成に使用したメモリーが持つコンテスト用スキルカードの中からランダムに選ばれたカードと入れ替えます。",
@@ -7913,7 +7913,7 @@
   },
   "card.sort.produce_vocal_growth_rate_permil": {
     "japanese": "パラメータボーナス\nボーカル",
-    "chinese": "课程奖励\n歌唱能力值"
+    "chinese": "歌唱能力值加成"
   },
   "memory.tag.none": {
     "japanese": "タグ設定なし",
@@ -7993,7 +7993,7 @@
   },
   "memory.filter.produce_effect.visualaddition": {
     "japanese": "ビジュアル増加",
-    "chinese": "视觉能力值增加"
+    "chinese": "增加视觉能力值"
   },
   "pvp.rate.same_character_confirm_sheet.warning_sub": {
     "japanese": "※サブに編成されているメモリーも外れます",
@@ -8161,7 +8161,7 @@
   },
   "story_event.event_coin_bonus": {
     "japanese": "イベント交換所用アイテムボーナス",
-    "chinese": "活动硬币加成"
+    "chinese": "用于活动兑换所的道具加成"
   },
   "exchange.ticket_list.costume.head": {
     "japanese": "髪型",
@@ -8373,7 +8373,7 @@
   },
   "memory.filter.produce_effect.danceaddition": {
     "japanese": "ダンス増加",
-    "chinese": "舞蹈能力值增加"
+    "chinese": "增加舞蹈能力值"
   },
   "pvp.rate.unit_edit.reset_sheet.title": {
     "japanese": "編成リセット",
@@ -8657,7 +8657,7 @@
   },
   "memory.filter.produce_effect.vocaladdition": {
     "japanese": "ボーカル増加",
-    "chinese": "歌唱能力值增加"
+    "chinese": "增加歌唱能力值"
   },
   "shop.item_exchange.title": {
     "japanese": "アイテム交換所",
@@ -8889,7 +8889,7 @@
   },
   "meishi_edit_custom.sub_menu.color.selected": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "profile.activity.contest": {
     "japanese": "コンテスト",
@@ -8953,7 +8953,7 @@
   },
   "meishi.edit_custom.timeline.has_data": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "card.sort.produce_plan_type": {
     "japanese": "プラン",
@@ -9169,7 +9169,7 @@
   },
   "card.sort.produce_visual_growth_rate_permil": {
     "japanese": "パラメータボーナス\nビジュアル",
-    "chinese": "课程奖励\n视觉能力值"
+    "chinese": "视觉能力值加成"
   },
   "photography_prepare.stage_select.vertical.confirm_sheet.description": {
     "japanese": "縦画面撮影では、撮影した場合すぐに端末へフォトを保存します。フォトアルバムへの保存はできません。\n撮影をした端末の画面比率で端末に保存されます。\n縦画面撮影を開始しますか？",
@@ -9353,7 +9353,7 @@
   },
   "pvp.rate.support_bonus.sheet.description": {
     "japanese": "コンテスト/アイドルへの道/ライブツアーイベントの\nスコアに対してかかるボーナスです。",
-    "chinese": "这是对竞技场得分的加成。"
+    "chinese": "在竞技场/偶像之路/巡演活动中\n提高得分的加成。"
   },
   "meishi.edit_custom.rotation_3d": {
     "japanese": "3D回転",
@@ -9401,7 +9401,7 @@
   },
   "memory.sell.warning.use_contest": {
     "japanese": "コンテストに編成中のメモリーは変換できません",
-    "chinese": "参与竞技场中的回忆无法转换"
+    "chinese": "竞技场编成中的回忆无法转换"
   },
   "card.filter.show_released_true": {
     "japanese": "解放",
@@ -9545,7 +9545,7 @@
   },
   "card.param.produce.label": {
     "japanese": "初期パラメータ/ボーナス",
-    "chinese": "初始能力值/奖励"
+    "chinese": "初始能力值/加成"
   },
   "producer.level.next.title": {
     "japanese": "次のPLvアップ報酬",
@@ -10757,7 +10757,7 @@
   },
   "pvp.rate.support_bonus.sheet.bullet_point2": {
     "japanese": "・所持しているサポートカードのボーナスの合計が\n　コンテスト/アイドルへの道/ライブツアーイベン\n　トのスコアに対してかかるサポートボーナスにな\n　ります",
-    "chinese": "・持有的支援卡累计加成的总和\n　将成为比赛得分的支援卡加成"
+    "chinese": "・持有的支援卡累计加成的总和\n　将成为竞技场/偶像之路/巡演活动中的支援卡加成"
   },
   "exchange.ticket_list.idol_card.potential_rank": {
     "japanese": "才能開花",
@@ -11269,7 +11269,7 @@
   },
   "memory.thumbnail.set_profile": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "produce.history.select_audition.success": {
     "japanese": "クリア",
@@ -11533,19 +11533,19 @@
   },
   "card.sort.produce_vocal": {
     "japanese": "初期ボーカル",
-    "chinese": "初期歌唱能力值"
+    "chinese": "初始歌唱能力值"
   },
   "card.sort.produce_dance": {
     "japanese": "初期ダンス",
-    "chinese": "初期舞蹈能力值"
+    "chinese": "初始舞蹈能力值"
   },
   "card.sort.produce_visual": {
     "japanese": "初期ビジュアル",
-    "chinese": "初期视觉能力值"
+    "chinese": "初始视觉能力值"
   },
   "card.sort.produce_dance_growth_rate_permil": {
     "japanese": "パラメータボーナス\nダンス",
-    "chinese": "课程奖励\n舞蹈能力值"
+    "chinese": "舞蹈能力值加成"
   },
   "card.sort.created_time": {
     "japanese": "獲得日付",
@@ -11561,7 +11561,7 @@
   },
   "story_event.bonus.description.idol": {
     "japanese": "対象のプロデュースアイドルをプロデュースするとイベントボーナスがつき、{0}の獲得数が増えます。\nまた才能開花段階が上がるほどボーナスの値が大きくなります。",
-    "chinese": "当培育目标偶像时会获得活动加成，活动点的获得量会增加。\n另外，才能开花阶段越高，加成值越大。"
+    "chinese": "培育目标偶像时会获得活动加成，{0}的获得量会增加。\n另外，才能开花阶段越高，加成值越大。"
   },
   "card.sort.idol_card_potential_rank": {
     "japanese": "才能開花段階",
@@ -11741,7 +11741,7 @@
   },
   "card.upgrade_status_list.parameter": {
     "japanese": "パラメータ・パラメータボーナスアップ",
-    "chinese": "数值・课程奖励提升"
+    "chinese": "能力值・课程加成提升"
   },
   "item.exchange.title": {
     "japanese": "ピース変換",
@@ -12009,7 +12009,7 @@
   },
   "card.idol_card.skin_change_sheet.current": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "contest.preparation.rehearsal.confirm_sheet.execute": {
     "japanese": "中止する",
@@ -12665,15 +12665,15 @@
   },
   "memory.filter.produce_effect.vocalgrowthrateaddition": {
     "japanese": "ボーカルレッスン\nボーナス増加",
-    "chinese": "Vo.课程\n奖励增加"
+    "chinese": "增加Vo.课程加成"
   },
   "memory.filter.produce_effect.dancegrowthrateaddition": {
     "japanese": "ダンスレッスン\nボーナス増加",
-    "chinese": "Da.课程\n奖励增加"
+    "chinese": "增加Da.课程加成"
   },
   "memory.filter.produce_effect.visualgrowthrateaddition": {
     "japanese": "ビジュアルレッスン\nボーナス増加",
-    "chinese": "Vi.课程\n奖励增加"
+    "chinese": "增加Vi.课程加成"
   },
   "memory.filter.produce_effect.producepointaddition": {
     "japanese": "Pポイント獲得",
@@ -12825,7 +12825,7 @@
   },
   "meishi_edit_custom.sub_menu.movie.selected": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "memory.review_photo_select.no_change.description": {
     "japanese": "メモリーのフォトを変更せずに終了しますか？",
@@ -13225,7 +13225,7 @@
   },
   "profile.support_select.toast.selected": {
     "japanese": "設定中のサポートカードです",
-    "chinese": "这是正在设置的支援卡"
+    "chinese": "这是设置中的支援卡"
   },
   "pvp.rate.reward.rate.description": {
     "japanese": "レートPtを一定数ためるごとに報酬を獲得できます",
@@ -13409,7 +13409,7 @@
   },
   "audition.battle_start.dearness": {
     "japanese": "親愛度ボーナス",
-    "chinese": "亲密度效果"
+    "chinese": "亲密度加成"
   },
   "audition.config.rank_description": {
     "japanese": "{0}位以上",
@@ -13757,7 +13757,7 @@
   },
   "story_event.event_coin_bonus_format": {
     "japanese": "{0}ボーナス",
-    "chinese": "{0}奖励"
+    "chinese": "加成{0}"
   },
   "story_event.get_score_bonus": {
     "japanese": "+{0}<size=30>%</size>",
@@ -15029,7 +15029,7 @@
   },
   "achievement.true_end.lesson_bonus": {
     "japanese": "パラメータボーナス",
-    "chinese": "能力值奖励"
+    "chinese": "能力值加成"
   },
   "achievement.true_end.sub_header": {
     "japanese": "True End条件アチーブメント",
@@ -15049,7 +15049,7 @@
   },
   "achievement.true_end.receive.lesson_bonus": {
     "japanese": "レッスンボーナス",
-    "chinese": "课程奖励"
+    "chinese": "课程加成"
   },
   "profile.common.fan.count": {
     "japanese": "{0:N0}人",
@@ -15261,7 +15261,7 @@
   },
   "profile.memory_select.toast.selected": {
     "japanese": "設定中のメモリーです",
-    "chinese": "这是正在设置的回忆"
+    "chinese": "这是设置中的回忆"
   },
   "profile.comment.edit.warning": {
     "japanese": "※個人情報や、公序良俗に反する内容は\n投稿しないでください。",
@@ -15401,7 +15401,7 @@
   },
   "meishi.top.list.profile_meishi": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "meishi.top.download.toast.success": {
     "japanese": "端末に保存しました",
@@ -15741,7 +15741,7 @@
   },
   "meishi.select.current": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "meishi.select.sheet.title": {
     "japanese": "名刺設定/編集確認",
@@ -15753,7 +15753,7 @@
   },
   "meishi.delete.setting": {
     "japanese": "設定中の名刺は削除できません",
-    "chinese": "无法删除正在设置的名片"
+    "chinese": "无法删除设置中的名片"
   },
   "photography.photo.camera_move_speed.fast": {
     "japanese": "はやい",
@@ -15917,7 +15917,7 @@
   },
   "photo.album.list.is_used": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "photo.album.check.box": {
     "japanese": "削除",
@@ -16341,7 +16341,7 @@
   },
   "picturebook.live.costume.select.selected": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "picturebook.live.costume.select.disabled": {
     "japanese": "髪型が固定されている衣装を選択中です",
@@ -18901,7 +18901,7 @@
   },
   "photography.setting.idol.list.lock": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "photography.setting.idol.slot.pose": {
     "japanese": "ポーズ一覧",
@@ -18929,7 +18929,7 @@
   },
   "photography.setting.dress.body_relation.disabled.costume": {
     "japanese": "この髪型は設定中の衣装では選択できません",
-    "chinese": "此发型无法与正在设置的服装匹配"
+    "chinese": "此发型无法与设置中的服装匹配"
   },
   "photography.setting.dress.random_confirm_sheet.body": {
     "japanese": "衣装",
@@ -19865,7 +19865,7 @@
   },
   "music.set_label": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "music.external_url_sheet.title": {
     "japanese": "確認",
@@ -19901,7 +19901,7 @@
   },
   "music.player.home_setting_button.on": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "music.player.home_setting_button.off": {
     "japanese": "設定",
@@ -20069,7 +20069,7 @@
   },
   "costume.select.cell.selected": {
     "japanese": "設定中",
-    "chinese": "正在设置"
+    "chinese": "设置中"
   },
   "costume.select.confirm_sheet.title": {
     "japanese": "衣装確認",
