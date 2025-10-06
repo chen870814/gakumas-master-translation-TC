@@ -501,7 +501,7 @@
   },
   "producer_ranking.season_select_overlay.title": {
     "japanese": "<size=28>プロデューサー\nランキング履歴</size>",
-    "chinese": "<size=28>制作人\n排行榜记录</size>"
+    "chinese": "<size=28>制作人排行榜记录</size>"
   },
   "producer_ranking.season_reward.no_rewards": {
     "japanese": "このシーズンにはランキング報酬はありません",
@@ -6529,7 +6529,7 @@
   },
   "home.story.idol.label": {
     "japanese": "アイドル\nコミュ",
-    "chinese": "偶像交流"
+    "chinese": "\u3000   偶像交流"
   },
   "produce_prepare.produce_campaign.short_name.ap_free": {
     "japanese": "AP無料",
@@ -6537,11 +6537,11 @@
   },
   "home.story.support.label": {
     "japanese": "サポート\nコミュ",
-    "chinese": "支援交流"
+    "chinese": "\u3000   支援交流"
   },
   "home.story.event.label": {
     "japanese": "イベント\nコミュ",
-    "chinese": "活动交流"
+    "chinese": "\u3000   活动交流"
   },
   "home.gasha.step_up.loop": {
     "japanese": "※STEP1に戻る",
@@ -10757,7 +10757,7 @@
   },
   "pvp.rate.support_bonus.sheet.bullet_point2": {
     "japanese": "・所持しているサポートカードのボーナスの合計が\n　コンテスト/アイドルへの道/ライブツアーイベン\n　トのスコアに対してかかるサポートボーナスにな\n　ります",
-    "chinese": "・持有的支援卡累计加成的总和\n　将成为竞技场/偶像之路/巡演活动中的支援卡加成"
+    "chinese": "・持有的支援卡累计加成的总和\n将成为竞技场/偶像之路/巡演活动中的支援卡加成"
   },
   "exchange.ticket_list.idol_card.potential_rank": {
     "japanese": "才能開花",
@@ -10961,7 +10961,7 @@
   },
   "produce_prepare.ap_less_sheet.description_1": {
     "japanese": "APが<color=#u:Negative>{0:N0}</color>不足しています",
-    "chinese": "AP不足<color=#u:Negative>{0:N0}</color>"
+    "chinese": "AP缺少<color=#u:Negative>{0:N0}</color>"
   },
   "story.fast_forward_setting_sheet.title": {
     "japanese": "コミュ早送り設定",
@@ -10985,7 +10985,7 @@
   },
   "produce_prepare.ap_recovery_confirm_sheet.description": {
     "japanese": "APが{0:N0}不足しています。APを回復しますか？",
-    "chinese": "AP不足{0:N0}。要回复AP吗？"
+    "chinese": "AP缺少{0:N0}。要回复AP吗？"
   },
   "achievement.master.reward_button": {
     "japanese": "報酬",
@@ -11697,7 +11697,7 @@
   },
   "card.info.idol_card.plan_condition.plan2": {
     "japanese": "ロジック限定",
-    "chinese": "仅限逻辑"
+    "chinese": "仅限理性"
   },
   "card.info.support_card.level_limit": {
     "japanese": "上限解放",
