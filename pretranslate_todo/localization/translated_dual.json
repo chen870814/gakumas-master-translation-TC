@@ -8693,7 +8693,7 @@
   },
   "mission.point_receive_overlay_title": {
     "japanese": "ポイント報酬獲得",
-    "chinese": "点数报酬获得"
+    "chinese": "获得点数奖励"
   },
   "produce.prepare.memory.rental.notice": {
     "japanese": "※1回につき1つまでレンタル可能です",
@@ -16485,7 +16485,7 @@
   },
   "tower.server_force_reset.confirm.description": {
     "japanese": "別の端末でアイドルへの道に挑戦中のデータが存在する場合、挑戦中のデータは破棄されます。\nこのまま移動してよろしいですか。\n\n※挑戦中のデータが存在しない場合にもこのメッセージが表示される場合があります。",
-    "chinese": "如果在其他设备上存在正在挑战偶像之路的数据，那么该数据将被废弃。\n确定吗继续移动？\n\n※即使不存在正在挑战的数据，也有可能显示此消息。"
+    "chinese": "如果在其他设备上存在正在挑战偶像之路的数据，那么该数据将被废弃。\n继续移动，确定吗？\n\n※即使不存在正在挑战的数据，也有可能显示此消息。"
   },
   "photography.look_target.disabled.angle_limit_over": {
     "japanese": "指定できる角度の範囲を超えています",
@@ -22001,7 +22001,7 @@
   },
   "angya.result.header_text.challenge_reward": {
     "japanese": "挑戦報酬獲得",
-    "chinese": "获得挑战报酬"
+    "chinese": "获得挑战奖励"
   },
   "angya.result.header_text.clear_reward": {
     "japanese": "ステージクリア報酬",

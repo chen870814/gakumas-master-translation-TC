@@ -847,6 +847,21 @@
             "text": "これは絶対驚いてないヤツだぁ～！？"
         },
         {
+            "supportCardId": "s_card-2-0063",
+            "number": 1,
+            "text": "この辺！　この辺りを押すといいよ。"
+        },
+        {
+            "supportCardId": "s_card-2-0063",
+            "number": 2,
+            "text": "あ、ちょっとま――ひぐっ！？"
+        },
+        {
+            "supportCardId": "s_card-2-0063",
+            "number": 3,
+            "text": "ここが痛いってことは、\n疲れが溜まっているのかも～！"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "はい、ひと口あげる！"
@@ -1975,6 +1990,21 @@
             "supportCardId": "s_card-3-0075",
             "number": 3,
             "text": "………………はわぁぁ！\nドラマの世界みた～～～いッ！"
+        },
+        {
+            "supportCardId": "s_card-3-0076",
+            "number": 1,
+            "text": "えっと、そ、その……わかるでしょ？"
+        },
+        {
+            "supportCardId": "s_card-3-0076",
+            "number": 2,
+            "text": "ふふ。いいえ、わかりません。"
+        },
+        {
+            "supportCardId": "s_card-3-0076",
+            "number": 3,
+            "text": "（フフ、あのふたり、仲直りしたのね）"
         },
         {
             "supportCardId": "s_card-3-0098",

@@ -1861,6 +1861,16 @@
             "description": "【Luna say maybe】'25ミラクルナナウ(ﾟ∀ﾟ)！ 月村 手毬を入手"
         },
         {
+            "id": "ttmr-cstm-0123",
+            "name": "がむしゃらに行こう！",
+            "description": "【がむしゃらに行こう！】月村 手毬を入手"
+        },
+        {
+            "id": "ttmr-cstm-0124",
+            "name": "がむしゃらに行こう！",
+            "description": "【がむしゃらに行こう！】月村 手毬の才能開花4段階目で入手"
+        },
+        {
             "id": "ttmr-othr-0002",
             "name": "温泉用水着",
             "description": "温泉用水着（月村手毬）を購入"

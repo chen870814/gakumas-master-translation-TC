@@ -3926,6 +3926,38 @@
             "name": "スキルカード「国民的アイドル」を所持してプロデュースをクリアしよう"
         },
         {
+            "id": "mission-research-event-002-mission_1",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "mission-research-event-002-mission_10",
+            "name": "スキルカード「アイドルになります」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-002-mission_11",
+            "name": "スキルカード「覚悟」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-002-mission_12",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "mission-research-event-002-mission_2",
+            "name": "プラン：ロジックのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-research-event-002-mission_3",
+            "name": "プロデュースの相談で{threshold}回交換しよう"
+        },
+        {
+            "id": "mission-research-event-002-mission_8",
+            "name": "スキルカード「全身全霊」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-002-mission_9",
+            "name": "スキルカード「心・技・体」を所持してプロデュースをクリアしよう"
+        },
+        {
             "id": "mission-story-event-001-mission_1",
             "name": "{threshold}日ログインしよう"
         },
@@ -6356,6 +6388,30 @@
         {
             "id": "achieve-i_card-ttmr-3-011-06",
             "name": "【雨上がりのアイリス】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-01",
+            "name": "【がむしゃらに行こう！】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-02",
+            "name": "【がむしゃらに行こう！】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-03",
+            "name": "【がむしゃらに行こう！】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-04",
+            "name": "【がむしゃらに行こう！】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-05",
+            "name": "【がむしゃらに行こう！】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-06",
+            "name": "【がむしゃらに行こう！】月村 手毬の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-m_amao-001",

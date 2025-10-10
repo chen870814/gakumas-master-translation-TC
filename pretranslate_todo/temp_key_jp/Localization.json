@@ -1,6 +1,7 @@
 {
   "achievement.true_end.receive.initial_status|description": "初期パラメータ",
   "achievement.true_end.receive.lesson_bonus|description": "パラメータボーナス",
+  "card.detail.enhance.invalid.point.exp.short|description": "トレーニングPtが足りません。",
   "dearness.dearness_level_detail_sheet.title|description": "親愛度Lv詳細",
   "high_score_event.top.adv.title_label|description": "アイドル強化月間\\n〜星々のきらめき〜",
   "home.gasha.detail.bonus_reward.idol_card.prefix|description": "対象のPアイドル獲得で",

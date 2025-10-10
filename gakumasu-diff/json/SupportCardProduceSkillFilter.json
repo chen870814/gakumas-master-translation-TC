@@ -57,6 +57,11 @@
             "title": "スキルカードチェンジ時パラメータ上昇"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
+            "order": 32,
+            "title": "スキルカードカスタマイズ時パラメータ上昇"
+        },
+        {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
             "order": 12,
             "title": "アクティブスキルカード削除時パラメータ上昇"
@@ -75,6 +80,11 @@
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
             "order": 25,
             "title": "試験・オーディション終了時パラメータ上昇"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
+            "order": 36,
+            "title": "SPレッスン終了時所持スキルカードが20枚以上の場合パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
@@ -110,6 +120,11 @@
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
             "order": 14,
             "title": "スキルカード獲得時パラメータ上昇"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000",
+            "order": 33,
+            "title": "元気効果のスキルカード獲得時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
@@ -152,9 +167,29 @@
             "title": "メンタルスキルカード獲得時パラメータ上昇"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
+            "order": 34,
+            "title": "スキルカード（SSR）獲得時パラメータ上昇"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",
+            "order": 31,
+            "title": "Pドリンク獲得時パラメータ上昇"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_item",
+            "order": 35,
+            "title": "Pアイテム獲得時パラメータ上昇"
+        },
+        {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-produce_start-initial",
             "order": 1,
             "title": "初期パラメータ上昇"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_customize",
+            "order": 37,
+            "title": "特別指導開始時パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",

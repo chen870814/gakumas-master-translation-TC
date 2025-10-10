@@ -14,6 +14,10 @@
             "description": "パラメータボーナス"
         },
         {
+            "id": "card.detail.enhance.invalid.point.exp.short",
+            "description": "トレーニングPtが足りません。"
+        },
+        {
             "id": "dearness.dearness_level_detail_sheet.title",
             "description": "親愛度Lv詳細"
         },

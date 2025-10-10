@@ -10974,6 +10974,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-ttmr-3-015-01",
+            "title": "がむしゃらに行こう！ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-015-02",
+            "title": "がむしゃらに行こう！ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-015-03",
+            "title": "がむしゃらに行こう！ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-1-0000-01",
             "title": "お願い？咲季トレーナー！",
             "produceEventHintProduceConditionDescriptions": []
@@ -11661,6 +11676,16 @@
         {
             "id": "p_story-s_card-2-0062-02",
             "title": "お礼は苦くて甘いゼリー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0063-01",
+            "title": "良ツボ足に痛し",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0063-02",
+            "title": "あったかさおすそ分け♪",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12786,6 +12811,21 @@
         {
             "id": "p_story-s_card-3-0075-03",
             "title": "退屈しない学園",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0076-01",
+            "title": "友達ランチ、最優先！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0076-02",
+            "title": "一番星と歌姫のユニゾン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0076-03",
+            "title": "楽しいダンスゲーム？",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
