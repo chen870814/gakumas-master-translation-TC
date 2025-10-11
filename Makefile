@@ -8,8 +8,5 @@ backup:
 gen-todo:
 	python scripts/pretranslate_process.py --gen_todo
 
-apply-changed:
-	python scripts/pretranslate_process.py --apply_changed
-
 merge:
 	python scripts/incremental_merge.py
