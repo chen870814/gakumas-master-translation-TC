@@ -33,10 +33,7 @@ make gen-todo
 
 # 4. 翻译内容（详见下方说明）
 
-# 5. 应用变化翻译（如有 changed/ 文件）
-python scripts/pretranslate_process.py --apply_changed
-
-# 6. 智能合并到最终文件
+# 5. 智能合并到最终文件
 make merge
 ```
 
@@ -127,12 +124,6 @@ make merge
 ```
 在第4列（新翻译）填入更新后的翻译
 
-### 3. 应用变化翻译
-```bash
-python scripts/pretranslate_process.py --apply_changed
-```
-自动将CSV中的翻译更新到系统中
-
 ---
 
 ## ⭐ 特殊映射系统
@@ -186,7 +177,6 @@ python scripts/pretranslate_process.py [选项]
 选项：
   --backup       备份当前temp_key_jp
   --gen_todo     生成待翻译文件
-  --apply_changed 应用changed文件夹中的新翻译
   --merge        合并翻译
 
 交互模式：
