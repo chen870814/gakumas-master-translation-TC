@@ -9,7 +9,7 @@
 - ✅ 自动化翻译应用系统
 - ✅ 增强的工作流程管理
 
-简体中文 | [English](README_EN.md) | [改进详情](IMPROVEMENTS_SUMMARY.md)
+简体中文 | [改进详情](IMPROVEMENTS_SUMMARY.md)
 
 ---
 
@@ -208,42 +208,6 @@ python scripts/incremental_merge.py
 - 详细统计报告
 - 冲突分析和建议
 ```
-
----
-
-## 🎯 常见场景
-
-### 场景1：首次使用
-```bash
-make update
-make gen-todo
-# 翻译todo/中的文件并移动到todo/new/
-make merge
-```
-
-### 场景2：日常更新
-```bash
-make backup
-make update  
-make gen-todo
-# 翻译todo/和changed/中的文件
-python scripts/pretranslate_process.py --apply_changed
-make merge
-```
-
-### 场景3：特殊翻译需求
-1. 识别需要特殊处理的条目
-2. 在 `special_mapping/` 中创建对应文件
-3. 正常执行翻译流程
-
----
-
-## 📚 相关文档
-
-- [改进详情](IMPROVEMENTS_SUMMARY.md) - 完整的改进功能列表
-- [Special Mapping详解](PROGRESS_SPECIAL_MAPPING.md) - 特殊映射系统实施记录
-- [快速使用指南](QUICK_START_SPECIAL_MAPPING.md) - Special Mapping快速上手
-- [完整使用说明](README_NEW.md) - 详细的功能说明
 
 ---
 
