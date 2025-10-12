@@ -11,67 +11,67 @@
     },
     {
       "id": "achievement.true_end.receive.lesson_bonus",
-      "description": "能力值加成"
+      "description": "能力值獎勵"
     },
-    {
+	{
       "id": "card.detail.enhance.invalid.point.exp.short",
-      "description": "训练Pt不足。"
+      "description": "訓練Pt不足。"
     },
     {
       "id": "dearness.dearness_level_detail_sheet.title",
-      "description": "亲密度Lv详情"
+      "description": "親密度Lv詳情"
     },
     {
       "id": "high_score_event.top.adv.title_label",
-      "description": "偶像强化月间\\n〜星光璀璨〜"
+      "description": "偶像強化月間\\n〜星光璀璨〜"
     },
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
-      "description": "获得作为目标的P偶像后"
+      "description": "獲得作為目標的P偶像後"
     },
     {
       "id": "idol_dearness.step3_condition",
-      "description": "亲密度强化活动结束后解锁"
+      "description": "親密度強化活動結束後解鎖"
     },
     {
       "id": "idol_dearness.top.mission_unlock_description",
-      "description": "{0}解锁"
+      "description": "{0}解鎖"
     },
     {
       "id": "produce_prepare.edit.warning",
-      "description": "编成可以针对每个培育进行设置。在不同培育中进行设置时，不会适用于其他培育。"
+      "description": "編成可以針對每個培育進行設定。在不同培育中進行設定時，不會適用於其他培育。"
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
-      "description": "在培育的报酬中可以获得星之闪耀"
+      "description": "在培育的報酬中可以獲得星之閃耀"
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
-      "description": "十王邦夫的偶像强化月"
+      "description": "十王邦夫的偶像強化月"
     },
     {
       "id": "produce.high_score_rush.gold.description",
-      "description": "「十王邦夫的偶像强化月～星光璀璨～」中可以获得的道具。可以在活动扭蛋中使用。"
+      "description": "「十王邦夫的偶像強化月～星光璀璨～」中可以獲得的道具。可以在活動扭蛋中使用。"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
-      "description": "由于指针处于悠闲状态，因此不会触发将指针变更为温存的效果。"
+      "description": "由於指針處於悠閑狀態，因此不會觸發將指針變更為溫存的效果。"
     },
     {
       "id": "produce.server_force_reset.confirm.description",
-      "description": "正在游玩中的培育数据已被清除。"
+      "description": "正在遊玩中的培育數據已被清除。"
     },
-    {
+	{
       "id": "producer_ranking.character_reward.description",
-      "description": "根据赛季结束时制作人排行榜的排名，在统计期间结束后可以获得奖励"
+      "description": "根據賽季結束時製作人排行榜的排名，在統計期間結束後可以獲得獎勵"
     },
     {
       "id": "profile.report.share.text",
-      "description": "#学マス #初星学園通知表"
+      "description": "#學マス #初星學園通知表"
     },
     {
       "id": "research_event.target_idol_sheet.description",
-      "description": "只有活动模式的P偶像才可以挑战活动模式的培育"
+      "description": "只有活動模式的P偶像才可以挑戰活動模式的培育"
     },
     {
       "id": "voice.idol_use_produce_card",

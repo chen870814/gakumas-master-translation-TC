@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主动技能卡"
+          "text": "主動技能卡"
         }
       ]
     },
@@ -58,7 +58,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主动技能卡"
+          "text": "主動技能卡"
         }
       ]
     },
@@ -73,7 +73,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆顶部开始的3张主动技能卡"
+          "text": "牌堆頂部開始的3張主動技能卡"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主动技能卡"
+          "text": "主動技能卡"
         }
       ]
     },
@@ -123,7 +123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主动技能卡"
+          "text": "主動技能卡"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主动技能卡"
+          "text": "主動技能卡"
         }
       ]
     },
@@ -153,7 +153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主动技能卡"
+          "text": "主動技能卡"
         }
       ]
     },
@@ -198,7 +198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-act-0_001",
-          "text": "魅力的基础"
+          "text": "魅力的基礎"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208,7 +208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1张"
+          "text": "1張"
         }
       ]
     },
@@ -223,7 +223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-men-0_003",
-          "text": "表现的基础"
+          "text": "表現的基礎"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -233,7 +233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1张"
+          "text": "1張"
         }
       ]
     },
@@ -248,7 +248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "元气"
+          "text": "元氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273,7 +273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "干劲"
+          "text": "幹勁"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -298,7 +298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -323,7 +323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -343,7 +343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "温存"
+          "text": "溫存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -413,7 +413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "温存"
+          "text": "溫存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -463,7 +463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "好调"
+          "text": "好調"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -488,7 +488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "温存"
+          "text": "溫存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -568,7 +568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_144",
-          "text": "点缀魔法"
+          "text": "點綴魔法"
         }
       ]
     },
@@ -598,7 +598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆或弃牌中的技能卡"
+          "text": "牌堆或棄牌中的技能卡"
         }
       ]
     },
@@ -613,7 +613,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆或弃牌中的"
+          "text": "牌堆或棄牌中的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -633,7 +633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1张"
+          "text": "1張"
         }
       ]
     },
@@ -648,7 +648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆或弃牌中的1张偶像固有技能卡"
+          "text": "牌堆或棄牌中的1張偶像固有技能卡"
         }
       ]
     },
@@ -663,7 +663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆或弃牌中的"
+          "text": "牌堆或棄牌中的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -688,7 +688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆中的1张技能卡"
+          "text": "牌堆中的1張技能卡"
         }
       ]
     },
@@ -703,7 +703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆顶部的技能卡"
+          "text": "牌堆頂部的技能卡"
         }
       ]
     },
@@ -718,7 +718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆顶部开始的5张技能卡"
+          "text": "牌堆頂部開始的5張技能卡"
         }
       ]
     },
@@ -748,7 +748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "手牌的1张技能卡"
+          "text": "手牌的1張技能卡"
         }
       ]
     },
@@ -763,7 +763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "手牌的2张技能卡"
+          "text": "手牌的2張技能卡"
         }
       ]
     },
@@ -778,7 +778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "手牌的3张技能卡"
+          "text": "手牌的3張技能卡"
         }
       ]
     },
@@ -833,7 +833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "除外中的1张偶像固有技能卡"
+          "text": "除外中的1張偶像固有技能卡"
         }
       ]
     },
@@ -848,7 +848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "除外中的消耗体力在4以上的技能卡"
+          "text": "除外中的消耗體力在4以上的技能卡"
         }
       ]
     },
@@ -873,7 +873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_104",
-          "text": "再次飞翔"
+          "text": "再次飛翔"
         }
       ]
     },
@@ -898,7 +898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_144",
-          "text": "点缀魔法"
+          "text": "點綴魔法"
         }
       ]
     },
@@ -913,7 +913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "辅助技能卡"
+          "text": "輔助技能卡"
         }
       ]
     },
@@ -938,7 +938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "辅助技能卡"
+          "text": "輔助技能卡"
         }
       ]
     },
@@ -953,7 +953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "辅助技能卡"
+          "text": "輔助技能卡"
         }
       ]
     },
@@ -968,7 +968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "辅助技能卡"
+          "text": "輔助技能卡"
         }
       ]
     },
@@ -996,8 +996,7 @@
           "text": "的技能卡"
         }
       ]
-    },
-    {
+    },{
       "id": "p_card_search-plan2-target",
       "produceDescriptions": [
         {
@@ -1033,7 +1032,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProducePlanType3",
-          "text": "异类"
+          "text": "異類"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1073,7 +1072,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "消耗体力在6以上的技能卡"
+          "text": "消耗體力在6以上的技能卡"
         }
       ]
     },
@@ -1088,7 +1087,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "粉丝服务"
+          "text": "粉絲服務"
         }
       ]
     },
@@ -1103,7 +1102,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "轻快步伐"
+          "text": "輕快步伐"
         }
       ]
     },
@@ -1118,7 +1117,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_022",
-          "text": "准备运动"
+          "text": "準備運動"
         }
       ]
     },
@@ -1133,7 +1132,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "凭势而行"
+          "text": "憑勢而行"
         }
       ]
     },
@@ -1148,7 +1147,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "国民级偶像"
+          "text": "國民級偶像"
         }
       ]
     },
@@ -1163,7 +1162,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_030",
-          "text": "重新开始"
+          "text": "重新開始"
         }
       ]
     },
@@ -1178,7 +1177,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "加油鼓劲"
+          "text": "加油鼓勁"
         }
       ]
     },
@@ -1193,7 +1192,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆微笑"
+          "text": "回憶微笑"
         }
       ]
     },
@@ -1223,7 +1222,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "魅力刚刚好"
+          "text": "魅力剛剛好"
         }
       ]
     },
@@ -1253,7 +1252,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "元气"
+          "text": "元氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1278,7 +1277,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "干劲"
+          "text": "幹勁"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1303,7 +1302,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1378,7 +1377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "绝好调"
+          "text": "絕好調"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1403,7 +1402,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "温存"
+          "text": "溫存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1453,7 +1452,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "消耗体力减少"
+          "text": "消耗體力減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1478,7 +1477,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "体力回复"
+          "text": "體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1533,7 +1532,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "原本的消耗体力值在4以上的技能卡"
+          "text": "原本的消耗體力值在4以上的技能卡"
         }
       ]
     },
@@ -1548,7 +1547,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "初次的褒奖"
+          "text": "初次的褒獎"
         }
       ]
     },
@@ -1563,7 +1562,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_066",
-          "text": "肾上腺素全开"
+          "text": "腎上腺素全開"
         }
       ]
     },
@@ -1578,7 +1577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "悠哉闲谈"
+          "text": "悠哉閑談"
         }
       ]
     },
@@ -1608,7 +1607,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "意外惊喜"
+          "text": "意外驚喜"
         }
       ]
     },
@@ -1638,7 +1637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "强化后的技能卡"
+          "text": "強化後的技能卡"
         }
       ]
     },
@@ -1653,7 +1652,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardCreateId",
-          "text": "生成"
+          "text": "產生"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1663,7 +1662,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "强化后的固有技能卡（SSR）"
+          "text": "強化後的固有技能卡（SSR）"
         }
       ]
     },
@@ -1678,7 +1677,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardCreateId",
-          "text": "生成"
+          "text": "產生"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1688,7 +1687,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "强化后的固有技能卡（SSR）"
+          "text": "強化後的固有技能卡（SSR）"
         }
       ]
     },
@@ -1703,7 +1702,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "强化后的技能卡（SSR）"
+          "text": "強化後的技能卡（SSR）"
         }
       ]
     },
@@ -1778,7 +1777,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆或弃牌中的技能卡（SSR）"
+          "text": "牌堆或棄牌中的技能卡（SSR）"
         }
       ]
     },
@@ -1823,7 +1822,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆或弃牌中的随机3张技能卡（SSR）"
+          "text": "牌堆或棄牌中的隨機3張技能卡（SSR）"
         }
       ]
     },
@@ -1883,7 +1882,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_001",
-          "text": "粉丝服务"
+          "text": "粉絲服務"
         }
       ]
     },
@@ -1898,7 +1897,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "轻快步伐"
+          "text": "輕快步伐"
         }
       ]
     },
@@ -1913,7 +1912,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_022",
-          "text": "准备运动"
+          "text": "準備運動"
         }
       ]
     },
@@ -1928,7 +1927,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "凭势而行"
+          "text": "憑勢而行"
         }
       ]
     },
@@ -1943,7 +1942,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "国民级偶像"
+          "text": "國民級偶像"
         }
       ]
     },
@@ -1958,7 +1957,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_030",
-          "text": "重新开始"
+          "text": "重新開始"
         }
       ]
     },
@@ -1973,7 +1972,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "回忆微笑"
+          "text": "回憶微笑"
         }
       ]
     },
@@ -2003,7 +2002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "魅力刚刚好"
+          "text": "魅力剛剛好"
         }
       ]
     },
@@ -2018,7 +2017,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "元气"
+          "text": "元氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2043,7 +2042,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2068,7 +2067,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "温存"
+          "text": "溫存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2118,7 +2117,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "体力回复"
+          "text": "體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2158,7 +2157,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-1_049",
-          "text": "意外惊喜"
+          "text": "意外驚喜"
         }
       ]
     },
@@ -2173,7 +2172,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "干擾卡"
         }
       ]
     },
@@ -2188,7 +2187,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "牌堆和弃牌的"
+          "text": "牌堆和棄牌的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -2198,7 +2197,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "干擾卡"
         }
       ]
     },
@@ -2223,7 +2222,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "干擾卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2233,7 +2232,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2张"
+          "text": "2張"
         }
       ]
     },
@@ -2248,7 +2247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "干扰卡"
+          "text": "干擾卡"
         }
       ]
     },
@@ -2263,7 +2262,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "干扰卡"
+          "text": "干擾卡"
         }
       ]
     }
