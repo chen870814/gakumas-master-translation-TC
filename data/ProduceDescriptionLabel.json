@@ -4113,7 +4113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "或者解除悠閑的時候，"
+          "text": "或者解除悠閒的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4183,7 +4183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "悠閑"
+          "text": "悠閒"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4223,7 +4223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "悠閑"
+          "text": "悠閒"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4283,7 +4283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "悠閑"
+          "text": "悠閒"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4316,7 +4316,7 @@
           "text": "解除時的效果不會發生"
         }
       ],
-      "name": "悠閑"
+      "name": "悠閒"
     },
     {
       "id": "Label_ExamOverPreservation_Produce",
@@ -4339,7 +4339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "悠閑"
+          "text": "悠閒"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4429,7 +4429,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "或者解除悠閑的時候，"
+          "text": "或者解除悠閒的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4499,7 +4499,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "悠閑"
+          "text": "悠閒"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4539,7 +4539,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "悠閑"
+          "text": "悠閒"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4599,7 +4599,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "悠閑"
+          "text": "悠閒"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4632,7 +4632,7 @@
           "text": "解除時的效果不會發生"
         }
       ],
-      "name": "悠閑"
+      "name": "悠閒"
     },
     {
       "id": "Label_ExamPanic",

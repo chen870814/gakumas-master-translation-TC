@@ -918,6 +918,51 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play_after-lesson_buff_up-13-p_card_search-active_skill-playing-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "主動技能卡"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用後，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在13以上的時候，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play_after-lesson_buff_up-13-p_card_search-mental_skill-playing-0_1",
       "produceDescriptions": [
         {
@@ -959,6 +1004,51 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "在13以上的時候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play_after-lesson_buff_up-5-p_card_search-active_skill-playing-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "主動技能卡"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用後，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在5以上的時候，"
         }
       ]
     },
@@ -1132,7 +1222,7 @@
         }
       ]
     },
-	{
+    {
       "id": "e_trigger-exam_card_play_after-p_card_search-plan2-target-0_1",
       "produceDescriptions": [
         {
@@ -1863,7 +1953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用後，"
+          "text": "狀態的時候，"
         }
       ]
     },
@@ -3588,6 +3678,31 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-01-ido-3_150-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-ido-3_150",
+          "text": "世界第一的勇氣"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用時，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-02-act-1_028-0_1",
       "produceDescriptions": [
         {
@@ -3598,7 +3713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "悠哉閑談"
+          "text": "悠哉閒談"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4343,7 +4458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用時，在5回合以後的時候，"
+          "text": "技能卡使用時，在第6回合以後的時候，"
         }
       ]
     },
@@ -5757,7 +5872,7 @@
         }
       ]
     },
-	{
+    {
       "id": "e_trigger-exam_end_turn-review_up-15",
       "produceDescriptions": [
         {
@@ -6632,7 +6747,7 @@
         }
       ]
     },
-	{
+    {
       "id": "e_trigger-exam_play_turn_count_interval-2-review_up-6-p_card_search-target",
       "produceDescriptions": [
         {
@@ -7429,9 +7544,7 @@
     },
     {
       "id": "e_trigger-exam_start_exam-no_description",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -10524,7 +10637,7 @@
       ]
     },
     {
-      "id": "e_trigger-exam_start_turn-turn_progress_up-3",
+      "id": "e_trigger-exam_start_turn-turn_progress_up-2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10535,6 +10648,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "在第3回合以後的回合開始時，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_start_turn-turn_progress_up-3",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在第4回合以後的回合開始時，"
         }
       ]
     },
@@ -11950,9 +12078,7 @@
     },
     {
       "id": "e_trigger-exam_turn_timer-1",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_turn_timer-1-description",
@@ -12575,6 +12701,56 @@
       ]
     },
     {
+      "id": "e_trigger-none-lesson_buff_up-10",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在10以上的時候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-lesson_buff_up-15",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "集中"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在15以上的時候，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-none-lesson_buff_up-6",
       "produceDescriptions": [
         {
@@ -12995,6 +13171,51 @@
       ]
     },
     {
+      "id": "e_trigger-none-stamina_up_multiple-500",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "體力在50%以上的時候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-turn_progress_up-2",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在3回合以上的時候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-turn_progress_up-3",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在4回合以上的時候，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-start_exam_play",
       "produceDescriptions": [
         {
@@ -13015,7 +13236,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "開始時，"
+          "text": "開始後，"
         }
       ]
     },
@@ -13030,7 +13251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         }
       ]
     },
@@ -13045,7 +13266,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13080,7 +13301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，牌堆或棄牌中的技能卡在12張以上時，"
+          "text": "回合開始後，牌堆或棄牌中的技能卡在12張以上時，"
         }
       ]
     },
@@ -13095,7 +13316,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，牌堆或棄牌中的技能卡在18張以上時，"
+          "text": "回合開始後，牌堆或棄牌中的技能卡在18張以上時，"
         }
       ]
     },
@@ -13110,7 +13331,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13145,7 +13366,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13190,7 +13411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         }
       ]
     },
@@ -13215,7 +13436,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         }
       ]
     },
@@ -13240,7 +13461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         }
       ]
     },
@@ -13255,7 +13476,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13290,7 +13511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13325,7 +13546,22 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "剩餘2回合內的回合開始時，"
+          "text": "剩餘2回合內的回合開始後，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-start_play-remaining_turn-3",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "剩餘3回合內的回合開始後，"
         }
       ]
     },
@@ -13340,7 +13576,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合開始後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13375,7 +13611,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，體力在50%以下的時候，"
+          "text": "回合開始後，體力在50%以下的情況，"
         }
       ]
     }

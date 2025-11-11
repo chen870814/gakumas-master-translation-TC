@@ -2,6 +2,7 @@
   "rules": {
     "primaryKeys": [
       "tutorialType",
+      "idolCardId",
       "step",
       "subStep"
     ]
@@ -9,30 +10,28 @@
   "data": [
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 2,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 3,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 1,
       "texts": [
@@ -41,6 +40,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 2,
       "texts": [
@@ -49,14 +49,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 3,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 4,
       "texts": [
@@ -65,14 +65,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 9,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 1,
       "texts": [
@@ -81,6 +81,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 2,
       "texts": [
@@ -89,6 +90,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 3,
       "texts": [
@@ -97,14 +99,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 4,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 11,
       "subStep": 1,
       "texts": [
@@ -113,6 +115,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 1,
       "texts": [
@@ -121,6 +124,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 2,
       "texts": [
@@ -129,6 +133,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 3,
       "texts": [
@@ -137,6 +142,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 4,
       "texts": [
@@ -145,6 +151,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 5,
       "texts": [
@@ -153,6 +160,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 6,
       "texts": [
@@ -161,6 +169,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 7,
       "texts": [
@@ -169,6 +178,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 8,
       "texts": [
@@ -177,30 +187,28 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 9,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 13,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 14,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 15,
       "subStep": 1,
       "texts": [
@@ -209,6 +217,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 1,
       "texts": [
@@ -217,6 +226,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 2,
       "texts": [
@@ -225,6 +235,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 3,
       "texts": [
@@ -233,6 +244,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 4,
       "texts": [
@@ -241,14 +253,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 17,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 17,
       "subStep": 2,
       "texts": [
@@ -257,6 +269,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 1,
       "texts": [
@@ -265,16 +278,18 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 2,
       "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
-        "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
+        "努力通過考試，爭取登上演唱會舞台吧！\n要參加演唱會演出，\n需先通過期中考試與最終考試。",
+        "考試通過的關鍵在於偶像的能力值。\n請針對考試目標提升能力值吧！",
+        "每場考試都有特定評審標準。\n根據評審標準重點提升對應能力值，\n將大幅提高合格機率。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 3,
       "texts": [
@@ -283,22 +298,23 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 4,
       "texts": [
-        "首先進行Da.課程\n提升Da.能力值吧！"
+        "首先進行Vi.課程\n提升Vi.能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 2,
       "texts": [
@@ -307,6 +323,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 3,
       "texts": [
@@ -315,6 +332,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 4,
       "texts": [
@@ -323,6 +341,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 5,
       "texts": [
@@ -331,14 +350,16 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 6,
       "texts": [
-        "Da.力的分數上升\n離課程通關更近了呢！"
+        "Vi.力的分數上升\n離課程通關更近了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 7,
       "texts": [
@@ -347,6 +368,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 8,
       "texts": [
@@ -355,6 +377,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 9,
       "texts": [
@@ -363,6 +386,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 10,
       "texts": [
@@ -372,6 +396,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 11,
       "texts": [
@@ -380,22 +405,23 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇Vo.課程\n試試看吧"
+        "接下來選擇Da.課程\n試試看吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 2,
       "texts": [
@@ -404,72 +430,90 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 3,
       "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
+        "受技能卡效果影響\n附加上了{ExamEffectType.ExamReview}好印象效果呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 4,
       "texts": [
-        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
+        "在回合結束的時候\n分數上升了呢！\n看來{ExamEffectType.ExamReview}好印象效果發動了的樣子"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 5,
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
+        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamReview}好印象的效果吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 6,
+      "texts": [
+        "{ExamEffectType.ExamReview}好印象效果在回合結束時\n有提升分數的效果的樣子"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
+      "step": 8,
+      "subStep": 7,
       "texts": [
         "所持的P道具效果也可以通過\n點選圖示進行確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 7,
-      "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 8,
       "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
+        "現在持有的P道具\n似乎很適合和{ExamEffectType.ExamReview}好印象效果配合呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 9,
       "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
+        "這次選擇附帶{ExamEffectType.ExamReview}好印象效果的\n技能卡使用看看吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 10,
       "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
+        "由於{ExamEffectType.ExamReview}好印象數值的增長\n分數增加了呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 11,
+      "texts": [
+        "而且，因為P道具的效果\n{ExamEffectType.ExamReview}好印象數值增加了呢！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
+      "step": 8,
+      "subStep": 12,
       "texts": [
         "課程中的效果可以通過\n點選圖示確認詳細資訊。",
         "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
@@ -477,22 +521,16 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
-      "subStep": 12,
+      "subStep": 13,
       "texts": [
         "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 13,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 14,
       "texts": [
@@ -501,14 +539,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 15,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 1,
       "texts": [
@@ -517,16 +555,18 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 2,
       "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
-        "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
+        "努力通過考試，爭取登上演唱會舞台吧！\n要參加演唱會演出，\n需先通過期中考試與最終考試。",
+        "考試通過的關鍵在於偶像的能力值。\n請針對考試目標提升能力值吧！",
+        "每場考試都有特定評審標準。\n根據評審標準重點提升對應能力值，\n將大幅提高合格機率。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 3,
       "texts": [
@@ -535,6 +575,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 4,
       "texts": [
@@ -543,14 +584,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 2,
       "texts": [
@@ -559,6 +600,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 3,
       "texts": [
@@ -567,6 +609,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 4,
       "texts": [
@@ -575,6 +618,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 5,
       "texts": [
@@ -583,6 +627,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 6,
       "texts": [
@@ -591,6 +636,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 7,
       "texts": [
@@ -599,6 +645,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 8,
       "texts": [
@@ -607,6 +654,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 9,
       "texts": [
@@ -615,6 +663,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 10,
       "texts": [
@@ -624,6 +673,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 11,
       "texts": [
@@ -632,22 +682,23 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇Vo.課程\n試試看吧"
+        "接下來選擇Vi.課程\n試試看吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 2,
       "texts": [
@@ -656,70 +707,79 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 3,
       "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
+        "受技能卡效果影響\n附加上了{ExamEffectType.ExamParameterBuff}好調效果呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 4,
       "texts": [
-        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
+        "由於這邊P道具的效果\n分數上升了呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 5,
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
+        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamParameterBuff}好調的效果吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 6,
+      "texts": [
+        "{ExamEffectType.ExamParameterBuff}好調似乎有增加\n上升的分數的效果呢"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
+      "step": 8,
+      "subStep": 7,
       "texts": [
         "所持的P道具效果也可以通過\n點選圖示進行確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 7,
-      "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 8,
       "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
+        "現在持有的P道具\n似乎很適合和{ExamEffectType.ExamParameterBuff}好調效果配合呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 9,
       "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
+        "在附帶{ExamEffectType.ExamParameterBuff}好調效果的狀態下\n選擇技能卡試試看吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 10,
       "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
+        "由於{ExamEffectType.ExamParameterBuff}好調效果\n分數增加了呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 11,
       "texts": [
@@ -729,6 +789,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 12,
       "texts": [
@@ -737,6 +798,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 13,
       "texts": [
@@ -745,14 +807,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 14,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 1,
       "texts": [
@@ -761,16 +823,18 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 2,
       "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
-        "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
+        "努力通過考試，爭取登上演唱會舞台吧！\n要參加演唱會演出，\n需先通過期中考試與最終考試。",
+        "考試通過的關鍵在於偶像的能力值。\n請針對考試目標提升能力值吧！",
+        "每場考試都有特定評審標準。\n根據評審標準重點提升對應能力值，\n將大幅提高合格機率。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 3,
       "texts": [
@@ -779,6 +843,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 4,
       "texts": [
@@ -787,14 +852,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 2,
       "texts": [
@@ -803,6 +868,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 3,
       "texts": [
@@ -811,6 +877,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 4,
       "texts": [
@@ -819,6 +886,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 5,
       "texts": [
@@ -827,6 +895,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 6,
       "texts": [
@@ -835,6 +904,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 7,
       "texts": [
@@ -843,6 +913,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 8,
       "texts": [
@@ -851,6 +922,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 9,
       "texts": [
@@ -859,6 +931,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 10,
       "texts": [
@@ -868,6 +941,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 11,
       "texts": [
@@ -876,6 +950,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 7,
       "subStep": 1,
       "texts": [
@@ -884,14 +959,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 2,
       "texts": [
@@ -900,14 +975,16 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 3,
       "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
+        "受技能卡效果影響\n附加上了{ExamEffectType.ExamLessonBuff}集中效果呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 4,
       "texts": [
@@ -916,14 +993,16 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 5,
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
+        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升的分數的效果呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 6,
       "texts": [
@@ -932,22 +1011,25 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 7,
       "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
+        "現在持有的P道具\n似乎很適合和{ExamEffectType.ExamLessonBuff}集中效果配合呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 8,
       "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
+        "在附帶{ExamEffectType.ExamLessonBuff}集中效果的狀態下\n選擇技能卡試試看吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 9,
       "texts": [
@@ -956,14 +1038,16 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 10,
       "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
+        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中數值增加了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 11,
       "texts": [
@@ -973,6 +1057,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 12,
       "texts": [
@@ -981,6 +1066,7 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 13,
       "texts": [
@@ -989,14 +1075,14 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 14,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_MainTask",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1005,6 +1091,7 @@
     },
     {
       "tutorialType": "TutorialType_Work",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1014,6 +1101,7 @@
     },
     {
       "tutorialType": "TutorialType_IdolCard",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1022,25 +1110,26 @@
     },
     {
       "tutorialType": "TutorialType_IdolCardSkin",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        ""
+        "您可以與全國的製作人展開對戰。\n在競技場中，可使用通過培育獲得的\n與回憶關聯的能力值、技能卡、\n以及P道具進行對戰。",
+        "每個舞台都將進行演出比拚，\n通過累計得分一決勝負。\n舞台勝利次數更多的製作人\n將獲得最終勝利。",
+        "競技場設有不同段位等級。\n排名靠前即可晉陞更高段位。\n段位越高可獲得的獎勵越豐厚。",
+        "收集競技場獎章後\n可在道具兌換所\n兌換豐厚獎勵。"
       ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
-      "step": 1,
-      "subStep": 1,
-      "texts": [
-        "可以與全國的製作人進行對戰。\n競賽中可以使用培育獲得的\n回憶相關的分數、技能卡和\nP道具來進行對戰。",
-        "在每個舞台進行表演對抗，\n通過得分來競爭勝負。\n贏得最多舞台比賽的製作人將獲勝。",
-        "競賽有評級。\n排行榜前列可以晉陞到\n更高的評級。\n評級越高獎勵越豐富。",
-        "收集競賽獎牌後\n可以在道具交換所\n兌換豐富的獎勵。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 2,
       "texts": [
@@ -1049,6 +1138,7 @@
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 3,
       "texts": [
@@ -1057,6 +1147,7 @@
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 4,
       "texts": [
@@ -1065,14 +1156,14 @@
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 5,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 6,
       "texts": [
@@ -1083,6 +1174,7 @@
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 7,
       "texts": [
@@ -1091,6 +1183,7 @@
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1099,6 +1192,7 @@
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1107,6 +1201,7 @@
     },
     {
       "tutorialType": "TutorialType_MissionPass",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1115,6 +1210,7 @@
     },
     {
       "tutorialType": "TutorialType_Profile",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1123,6 +1219,7 @@
     },
     {
       "tutorialType": "TutorialType_Meishi",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1131,6 +1228,7 @@
     },
     {
       "tutorialType": "TutorialType_Friend",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1139,16 +1237,18 @@
     },
     {
       "tutorialType": "TutorialType_Achievement",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "成就是通過滿足各種條件來獲得的。可以獲得如提升製作人Lv所需的經驗值等多種獎勵，所以積極收整合就吧。",
-        "獲得成就時，可以獲得一定數量的星星，達到一定數量時可以獲得大師成就。大師成就根據獲得的星星數量進行升級，並可以獲得獎勵。",
-        "True End成就是在達成True End時獲得的。獲得True End成就時，偶像的分數會提高。"
+        "成就可以通過滿足各種條件來獲得。通過獲取製作人等級提升所需的經驗值等多種獎勵，請積極收整合就吧。",
+        "當獲得成就時取得的星星達到指定數量後，即可獲得大師成就。大師成就將根據已獲得星星的數量進行等級提升，並能領取相應獎勵。",
+        "True End成就在達成True End時即可獲得。取得True End成就後，偶像的能力值將會提升。"
       ]
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1157,6 +1257,7 @@
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1166,63 +1267,59 @@
     },
     {
       "tutorialType": "TutorialType_Tower",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_Guild",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在社團中可以與全國的製作人組成社團進行交流。",
-        "在社團中可以向社團成員募集特訓道具，並領取捐贈的道具。此外，捐贈道具時可以獲得好友幣。"
+        "在社團中，您可以與全國的製作人組建社團並進行交流。",
+        "社團內可向成員募集特訓道具，\n接收其他成員捐贈的道具。\n捐贈道具時還可獲得好友硬幣。"
       ]
     },
     {
       "tutorialType": "TutorialType_TutorialReceiveIdolCard",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_PhotoTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_PhotoIdol",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_PhotoPrepare",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_Photo",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_MeishiEditCustom",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1236,38 +1333,35 @@
     },
     {
       "tutorialType": "TutorialType_MeishiEditCustomManual",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_IdolCardSkinUnit",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_DearnessPoint",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1277,6 +1371,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceSupportCardSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1286,6 +1381,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceMemorySelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1294,6 +1390,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceSchedule",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1305,6 +1402,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceEvent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1313,6 +1411,7 @@
     },
     {
       "tutorialType": "TutorialType_ProducePresentStep",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1321,6 +1420,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceShopStep",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1330,6 +1430,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1338,6 +1439,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 2,
       "texts": [
@@ -1346,6 +1448,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 3,
       "texts": [
@@ -1354,6 +1457,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceExamPerfect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1362,6 +1466,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceBeforeLiveEvaluation",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1371,6 +1476,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceDifficultySelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1379,6 +1485,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceCardUpgrade",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1387,6 +1494,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceCardDelete",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1395,6 +1503,7 @@
     },
     {
       "tutorialType": "TutorialType_ProduceChallenge",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1405,126 +1514,112 @@
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceStepBusiness",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceStepCustomize",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceStepFanPresent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_MissionPanel",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceHighScore",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEvent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEventMainStroy",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEventBoxGasha",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEventGuildMission",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GvgRaid",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
@@ -1534,35 +1629,31 @@
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_Tour",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_Research",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_ProducerRanking",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "texts": [
-        ""
-      ]
+      "texts": []
     }
   ]
 }

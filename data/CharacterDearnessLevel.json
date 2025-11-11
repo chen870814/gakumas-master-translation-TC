@@ -107,6 +107,41 @@
       "produceConditionDescription": "最終試鏡「FINALE」通過的狀態完成培育"
     },
     {
+      "characterId": "amao",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至有村麻央的親密度TOP"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
       "characterId": "fktn",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -875,6 +910,41 @@
       "characterId": "kcna",
       "dearnessLevel": 20,
       "produceConditionDescription": "最終試鏡「FINALE」通過的狀態完成培育"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至倉本千奈的親密度TOP"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
       "characterId": "kllj",

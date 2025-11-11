@@ -846,7 +846,7 @@
       "number": 3,
       "text": "你絕對没有被嚇到吧～！？"
     },
-	{
+    {
       "supportCardId": "s_card-2-0063",
       "number": 1,
       "text": "這邊！　按這附近就好哦。"
@@ -860,6 +860,36 @@
       "supportCardId": "s_card-2-0063",
       "number": 3,
       "text": "這裡痛的話，\n說不定是積累了疲勞哦～！"
+    },
+    {
+      "supportCardId": "s_card-2-0064",
+      "number": 1,
+      "text": "放鬆肩部肌肉的同時，\n把注意力往指尖集中――"
+    },
+    {
+      "supportCardId": "s_card-2-0064",
+      "number": 2,
+      "text": "特別好看呢――這﹑這樣可以嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0064",
+      "number": 3,
+      "text": "我覺得非常好哦！\n不愧是葛城同學哇♪"
+    },
+    {
+      "supportCardId": "s_card-2-0065",
+      "number": 1,
+      "text": "……哎呀。\n怎麼在這種地方呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0065",
+      "number": 2,
+      "text": "一定是因為\n宿舍長的工作太辛苦了吧。"
+    },
+    {
+      "supportCardId": "s_card-2-0065",
+      "number": 3,
+      "text": "……哈啊……嗯﹑美鈴……？"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -1084,7 +1114,7 @@
     {
       "supportCardId": "s_card-3-0014",
       "number": 3,
-      "text": "……這就是，一等星……"
+      "text": "……這就是，一番星……"
     },
     {
       "supportCardId": "s_card-3-0015",
@@ -1991,7 +2021,7 @@
       "number": 3,
       "text": "………………哇呀！\n就像電視劇的世界一樣～～～！"
     },
-	{
+    {
       "supportCardId": "s_card-3-0076",
       "number": 1,
       "text": "呃，那、那個…… 你懂的吧？"
@@ -2005,6 +2035,51 @@
       "supportCardId": "s_card-3-0076",
       "number": 3,
       "text": "（呵呵，那两個人和好了呢。）"
+    },
+    {
+      "supportCardId": "s_card-3-0077",
+      "number": 1,
+      "text": "呼哇～……感覺好舒服哇～～♡"
+    },
+    {
+      "supportCardId": "s_card-3-0077",
+      "number": 2,
+      "text": "在訓練後，\n得好好放鬆一下才行﹑喔。"
+    },
+    {
+      "supportCardId": "s_card-3-0077",
+      "number": 3,
+      "text": "這就是，\n超～級～管用的那種東西哇！"
+    },
+    {
+      "supportCardId": "s_card-3-0078",
+      "number": 1,
+      "text": "哼哼～下一個挑戰者是誰呀～。"
+    },
+    {
+      "supportCardId": "s_card-3-0078",
+      "number": 2,
+      "text": "讓我來吧。\n掰手腕我也是略懂一二的。"
+    },
+    {
+      "supportCardId": "s_card-3-0078",
+      "number": 3,
+      "text": "麻央前輩，我可是不會输的哦～。"
+    },
+    {
+      "supportCardId": "s_card-3-0080",
+      "number": 1,
+      "text": "又、又掉下來了……！\n再試一次……！"
+    },
+    {
+      "supportCardId": "s_card-3-0080",
+      "number": 2,
+      "text": "莉、莉莉婭？\n差不多該放棄了吧……"
+    },
+    {
+      "supportCardId": "s_card-3-0080",
+      "number": 3,
+      "text": "錢包裡還有錢，沒問題的！"
     },
     {
       "supportCardId": "s_card-3-0098",

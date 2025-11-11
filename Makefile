@@ -5,8 +5,17 @@ update:
 backup:
 	python scripts/pretranslate_process.py --backup
 
-gen-todo:
+gentodo:
 	python scripts/pretranslate_process.py --gen_todo
 
 merge:
 	python scripts/incremental_merge.py
+
+jpcn:
+	python scripts/jp_cn.py
+
+rename:
+	python scripts/rename.py
+
+tran:
+	python scripts/full_trans.py

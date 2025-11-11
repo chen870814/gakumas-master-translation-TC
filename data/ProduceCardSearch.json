@@ -583,7 +583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "名字包含「基本」的技能卡"
+          "text": "名字包含「基礎」的技能卡"
         }
       ]
     },
@@ -996,7 +996,8 @@
           "text": "的技能卡"
         }
       ]
-    },{
+    },
+    {
       "id": "p_card_search-plan2-target",
       "produceDescriptions": [
         {
@@ -1567,6 +1568,21 @@
       ]
     },
     {
+      "id": "p_card_search-playing-p_card-01-ido-3_150",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-ido-3_150",
+          "text": "世界第一的勇氣"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-playing-p_card-02-act-1_028",
       "produceDescriptions": [
         {
@@ -1577,7 +1593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "悠哉閑談"
+          "text": "悠哉閒談"
         }
       ]
     },

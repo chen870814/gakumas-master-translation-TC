@@ -90,6 +90,18 @@
       "acquisitionRouteDescription": "活動模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-006",
+      "name": "星之閃耀",
+      "description": "可以在十王邦夫的偶像強化月～星光璀璨～(倉本千奈/紫雲清夏)的活動扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活動模式的培育等方式"
+    },
+    {
+      "id": "item-coin-highscorerush-event-007",
+      "name": "星之閃耀",
+      "description": "可以在十王邦夫的偶像強化月～星光璀璨～(有村麻央/花海佑芽)的活動扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活動模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能開花中使用的道具",
@@ -132,6 +144,12 @@
       "acquisitionRouteDescription": "金幣兌換所等方式"
     },
     {
+      "id": "item-dearness-unlock-amao",
+      "name": "麻央的記錄之鑰",
+      "description": "解鎖有村麻央STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
       "id": "item-dearness-unlock-fktn",
       "name": "琴音的記錄之鑰",
       "description": "解鎖藤田琴音STEP3親密度交流的道具",
@@ -141,6 +159,12 @@
       "id": "item-dearness-unlock-hrnm",
       "name": "莉波的記錄之鑰",
       "description": "解鎖姬崎莉波STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
+      "id": "item-dearness-unlock-kcna",
+      "name": "千奈的記錄之鑰",
+      "description": "解鎖倉本千奈STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
@@ -175,62 +199,62 @@
     },
     {
       "id": "item-gashaitem-10_01",
-      "name": "初星印章★無料10連扭蛋票據",
+      "name": "初星印章★無料10連扭蛋票卷",
       "description": "可以在最多100連無料！TVCM放映紀念10連無料扭蛋中使用的道具",
       "acquisitionRouteDescription": "TVCM放映紀念登入獎勵"
     },
     {
       "id": "item-gashaticket-1",
-      "name": "白金扭蛋票據",
-      "description": "可以在白金扭蛋中使用的票據",
+      "name": "白金扭蛋票卷",
+      "description": "可以在白金扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-10",
-      "name": "白金10連扭蛋票據",
-      "description": "可以在白金扭蛋中使用的10連票據",
+      "name": "白金10連扭蛋票卷",
+      "description": "可以在白金扭蛋中使用的10連票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-fix_1",
-      "name": "SSR必得扭蛋票據",
-      "description": "可以在SSR必得扭蛋中使用的票據",
+      "name": "SSR必得扭蛋票卷",
+      "description": "可以在SSR必得扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-fix_1_1st-anniversary-001",
-      "name": "1st Anniversary紀念 SSR必得票據",
-      "description": "可以在1st Anniversary紀念 SSR必得票據扭蛋中使用的票據",
+      "name": "1st Anniversary紀念 SSR必得票卷",
+      "description": "可以在1st Anniversary紀念 SSR必得票卷扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-fix_10-hoten",
-      "name": "SSR10連扭蛋票據",
+      "name": "SSR10連扭蛋票卷",
       "description": "可以在入學紀念48小時限定SSR必得10連扭蛋中使用的道具",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-idol-fix_1",
-      "name": "SSR P偶像必得扭蛋票據",
-      "description": "可以在SSR P偶像必得扭蛋中使用的票據",
+      "name": "SSR P偶像必得扭蛋票卷",
+      "description": "可以在SSR P偶像必得扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-idol-fix_2",
-      "name": "The 1st Period 公演紀念 SSR P偶像確定票據",
-      "description": "可以在The 1st Period 公演紀念 SSR P偶像確定票據扭蛋中使用的票據",
+      "name": "The 1st Period 公演紀念 SSR P偶像確定票卷",
+      "description": "可以在The 1st Period 公演紀念 SSR P偶像確定票卷扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-support-fix_1",
-      "name": "SSR S卡必得扭蛋票據",
-      "description": "可以在SSR S卡必得扭蛋中使用的票據",
+      "name": "SSR S卡必得扭蛋票卷",
+      "description": "可以在SSR S卡必得扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-support-fix-nia-1",
-      "name": "N.I.A挑戰SSR 支援卡必得扭蛋票據",
-      "description": "可以在N.I.A挑戰SSR 支援卡必得扭蛋中使用的票據",
+      "name": "N.I.A挑戰SSR 支援卡必得扭蛋票卷",
+      "description": "可以在N.I.A挑戰SSR 支援卡必得扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
@@ -432,6 +456,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-story-event-009",
+      "name": "野餐的回憶",
+      "description": "可以在活動兌換所交換各式報酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-medal-story-event-013",
       "name": "修學旅行的土特產",
       "description": "可以在活動兌換所交換各式報酬的道具",
@@ -463,8 +493,8 @@
     },
     {
       "id": "item-memory-inherit",
-      "name": "回憶合成票據",
-      "description": "可以在回憶合成中使用的票據",
+      "name": "回憶合成票卷",
+      "description": "可以在回憶合成中使用的票卷",
       "acquisitionRouteDescription": "方案硬幣扭蛋等方式"
     },
     {
@@ -524,6 +554,12 @@
     {
       "id": "item-piece-idol_amao-3-013",
       "name": "[奇蹟正是現在(ﾟ∀ﾟ)！]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_amao-3-015",
+      "name": "[看著我]有村麻央的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -912,6 +948,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_kcna-3-014",
+      "name": "[向天空約定]倉本千奈的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_kllj-1-000",
       "name": "[學園生活]葛城莉莉婭的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1145,7 +1187,7 @@
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
-	{
+    {
       "id": "item-piece-idol_ttmr-3-015",
       "name": "[全力以赴！]月村手毬的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1159,14 +1201,14 @@
     },
     {
       "id": "item-produce_continue-1",
-      "name": "再挑戰票據",
-      "description": "可以在培育的再次挑戰時使用的票據",
+      "name": "再挑戰票卷",
+      "description": "可以在培育的再次挑戰時使用的票卷",
       "acquisitionRouteDescription": "AP兌換所等方式"
     },
     {
       "id": "item-produce-reroll-memory-001",
-      "name": "回憶再產生票據",
-      "description": "可以在培育的回憶再次產生時使用的票據",
+      "name": "回憶再產生票卷",
+      "description": "可以在培育的回憶再次產生時使用的票卷",
       "acquisitionRouteDescription": "AP兌換所等方式"
     },
     {
@@ -1201,20 +1243,26 @@
     },
     {
       "id": "item-selection-ticket-001",
-      "name": "半週年自選票據",
-      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
+      "name": "半週年自選票卷",
+      "description": "可以在票卷兌換所中兌換培育用偶像以及支援卡的票卷",
       "acquisitionRouteDescription": "商店等方式"
     },
     {
       "id": "item-selection-ticket-002",
-      "name": "1st Anniversary自選票據",
-      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
+      "name": "1st Anniversary自選票卷",
+      "description": "可以在票卷兌換所中兌換培育用偶像以及支援卡的票卷",
       "acquisitionRouteDescription": "商店等方式"
     },
     {
       "id": "item-selection-ticket-003",
-      "name": "300萬DL紀念自選票據",
-      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
+      "name": "300萬DL紀念自選票卷",
+      "description": "可以在票卷兌換所中兌換培育用偶像以及支援卡的票卷",
+      "acquisitionRouteDescription": "商店等方式"
+    },
+    {
+      "id": "item-selection-ticket-004",
+      "name": "1.5th Anniversary自選票卷",
+      "description": "可以在票卷兌換所中兌換培育用偶像以及支援卡的票卷",
       "acquisitionRouteDescription": "商店等方式"
     },
     {

@@ -755,7 +755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在回合開始時，"
+          "text": "回合開始後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

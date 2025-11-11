@@ -1,0 +1,73 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "CardPlayAggressive_group_20",
+      "description": "推薦以『增加幹勁』的技能卡來組成卡組"
+    },
+    {
+      "id": "CardPlayAggressive_group_35",
+      "description": "推薦以『增加幹勁』的技能卡來組成卡組"
+    },
+    {
+      "id": "CardPlayAggressive_Review_group_20",
+      "description": "推薦以『增加幹勁』的技能卡為中心搭配『增加好印象』的技能卡來組成卡組"
+    },
+    {
+      "id": "CardPlayAggressive_Review_group_35",
+      "description": "推薦以『增加幹勁』的技能卡為中心搭配『增加好印象』的技能卡來組成卡組"
+    },
+    {
+      "id": "Concentration_group_20",
+      "description": "推薦以『強氣變更』與『溫存變更』兩種技能卡均衡搭配來組成卡組"
+    },
+    {
+      "id": "Concentration_group_35",
+      "description": "推薦以『強氣變更』與『溫存變更』兩種技能卡均衡搭配來組成卡組"
+    },
+    {
+      "id": "FullPower_group_20",
+      "description": "推薦以『增加全力值』的技能卡為中心搭配『溫存變更』的技能卡來組成卡組"
+    },
+    {
+      "id": "FullPower_group_35",
+      "description": "推薦以『增加全力值』的技能卡為中心搭配『溫存變更』的技能卡來組成卡組"
+    },
+    {
+      "id": "LessonBuff_group_20",
+      "description": "推薦以『增加集中』與『增加好調』兩種技能卡均衡搭配來組成卡組"
+    },
+    {
+      "id": "LessonBuff_group_35",
+      "description": "推薦以『增加集中』與『增加好調』兩種技能卡均衡搭配來組成卡組"
+    },
+    {
+      "id": "ParameterBuff_group_20",
+      "description": "推薦以『增加好調』與『增加集中』兩種技能卡均衡搭配來組成卡組"
+    },
+    {
+      "id": "ParameterBuff_group_35",
+      "description": "推薦以『增加好調』與『增加集中』兩種技能卡均衡搭配來組成卡組"
+    },
+    {
+      "id": "Review_CardPlayAggressive_group_20",
+      "description": "推薦以『增加好印象』的技能卡為中心搭配『增加幹勁』的技能卡來組成卡組"
+    },
+    {
+      "id": "Review_CardPlayAggressive_group_35",
+      "description": "推薦以『增加好印象』的技能卡為中心搭配『增加幹勁』的技能卡來組成卡組"
+    },
+    {
+      "id": "Review_group_20",
+      "description": "推薦以『增加好印象』的技能卡來組成卡組"
+    },
+    {
+      "id": "Review_group_35",
+      "description": "推薦以『增加好印象』的技能卡來組成卡組"
+    }
+  ]
+}

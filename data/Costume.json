@@ -17,7 +17,7 @@
     },
     {
       "id": "amao-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -106,6 +106,16 @@
       "description": "【Fluorite】'25櫻花 有村麻央 獲得"
     },
     {
+      "id": "amao-cstm-0092",
+      "name": "看著我",
+      "description": "【看著我】有村麻央 獲得"
+    },
+    {
+      "id": "amao-cstm-0093",
+      "name": "看著我",
+      "description": "【看著我】有村麻央的才能開花第4階段 獲得"
+    },
+    {
       "id": "amao-cstm-0110",
       "name": "漆黑的光芒",
       "description": "有村麻央的偶像之路 通關第25關"
@@ -172,7 +182,7 @@
     },
     {
       "id": "fktn-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -318,7 +328,7 @@
     {
       "id": "fktn-cstm-0124",
       "name": "全力以赴！",
-      "description": "【全力以赴！】藤田琴音的才能开花第4階段 獲得"
+      "description": "【全力以赴！】藤田琴音的才能開花第4階段 獲得"
     },
     {
       "id": "fktn-othr-0002",
@@ -342,7 +352,7 @@
     },
     {
       "id": "hmsz-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -374,6 +384,11 @@
       "id": "hmsz-cstm-0063",
       "name": "冠菊",
       "description": "【月之龜】'25祭 秦谷美鈴 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【月之龜】'25萬聖節 秦谷美鈴 獲得"
     },
     {
       "id": "hmsz-cstm-0069",
@@ -452,7 +467,7 @@
     },
     {
       "id": "hrnm-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -632,7 +647,7 @@
     },
     {
       "id": "hski-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -792,7 +807,7 @@
     },
     {
       "id": "hume-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -927,7 +942,7 @@
     },
     {
       "id": "jsna-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -969,6 +984,11 @@
       "id": "jsna-cstm-0063",
       "name": "冠菊",
       "description": "【小小的野心】'25祭 十王星南 獲得"
+    },
+    {
+      "id": "jsna-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【小小的野心】'25萬聖節 十王星南 獲得"
     },
     {
       "id": "jsna-cstm-0069",
@@ -1077,7 +1097,7 @@
     },
     {
       "id": "kcna-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -1166,6 +1186,16 @@
       "description": "【Wonder Scale】'25櫻花 倉本千奈 獲得"
     },
     {
+      "id": "kcna-cstm-0090",
+      "name": "向天空約定",
+      "description": "【向天空約定】倉本千奈 獲得"
+    },
+    {
+      "id": "kcna-cstm-0091",
+      "name": "向天空約定",
+      "description": "【向天空約定】倉本千奈的才能開花第4階段 獲得"
+    },
+    {
       "id": "kcna-cstm-0110",
       "name": "漆黑的光芒",
       "description": "倉本千奈的偶像之路 通關第25關"
@@ -1226,8 +1256,13 @@
       "description": "購買初星學園體操服（倉本千奈）"
     },
     {
+      "id": "kllj-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "kllj-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -1355,7 +1390,7 @@
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【白線】'25奇蹟正是現在(ﾟ∀ﾟ)！ 葛城莉莉婭 獲得"
     },
-	{
+    {
       "id": "kllj-cstm-0125",
       "name": "全力以赴！",
       "description": "【白線】'25全力以赴！ 葛城莉莉婭 獲得"
@@ -1412,7 +1447,7 @@
     },
     {
       "id": "shro-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -1464,6 +1499,11 @@
       "id": "shro-cstm-0063",
       "name": "冠菊",
       "description": "【光景】'24祭典 篠澤廣 獲得"
+    },
+    {
+      "id": "shro-cstm-0065",
+      "name": "殭屍制服",
+      "description": "購買殭屍制服（篠澤廣）"
     },
     {
       "id": "shro-cstm-0067",
@@ -1566,8 +1606,13 @@
       "description": "購買初星學園體操服（篠澤廣）"
     },
     {
+      "id": "ssmk-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "ssmk-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -1737,7 +1782,7 @@
     },
     {
       "id": "ttmr-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -1789,6 +1834,11 @@
       "id": "ttmr-cstm-0063",
       "name": "冠菊",
       "description": "【Luna say maybe】'24祭典 月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0065",
+      "name": "殭屍制服",
+      "description": "購買殭屍制服（月村手毬）"
     },
     {
       "id": "ttmr-cstm-0067",

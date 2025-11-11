@@ -20,6 +20,10 @@
     {
       "id": "shop_pass",
       "name": "通行證"
+    },
+    {
+      "id": "shop_webstore",
+      "name": "應用外結算"
     }
   ]
 }

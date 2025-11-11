@@ -7,12 +7,22 @@
   },
   "data": [
     {
+      "missionPanelSheetGroupId": "dearness_panel-mission_amao_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
       "missionPanelSheetGroupId": "dearness_panel-mission_fktn_01",
       "number": 1,
       "name": "親密度任務"
     },
     {
       "missionPanelSheetGroupId": "dearness_panel-mission_hrnm_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_kcna_01",
       "number": 1,
       "name": "親密度任務"
     },

@@ -5,7 +5,7 @@
     ]
   },
   "data": [
-	{
+    {
       "id": "badge-producerranking-000-amao-01",
       "name": "P排行榜 有村麻央 賽季0 THE STAR(TOP100)"
     },
@@ -486,6 +486,22 @@
       "name": "強化月【銅】"
     },
     {
+      "id": "highscore-rush-amao-001-ranking-001",
+      "name": "強化月～星光璀璨～有村麻央【虹】"
+    },
+    {
+      "id": "highscore-rush-amao-001-ranking-002",
+      "name": "強化月～星光璀璨～有村麻央【金】"
+    },
+    {
+      "id": "highscore-rush-amao-001-ranking-003",
+      "name": "強化月～星光璀璨～有村麻央【銀】"
+    },
+    {
+      "id": "highscore-rush-amao-001-ranking-004",
+      "name": "強化月～星光璀璨～有村麻央【銅】"
+    },
+    {
       "id": "highscore-rush-fktn-001-ranking-001",
       "name": "強化月～星光璀璨～藤田琴音【虹】"
     },
@@ -516,6 +532,22 @@
     {
       "id": "highscore-rush-hrnm-001-ranking-004",
       "name": "強化月～星光璀璨～姬崎莉波【銅】"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-001",
+      "name": "強化月～星光璀璨～倉本千奈【虹】"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-002",
+      "name": "強化月～星光璀璨～倉本千奈【金】"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-003",
+      "name": "強化月～星光璀璨～倉本千奈【銀】"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-004",
+      "name": "強化月～星光璀璨～倉本千奈【銅】"
     },
     {
       "id": "highscore-rush-shro-001-ranking-001",

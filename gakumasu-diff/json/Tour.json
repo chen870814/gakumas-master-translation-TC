@@ -1,0 +1,13 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "tour-event-001",
+            "name": "ライブツアーイベント 大阪編"
+        }
+    ]
+}

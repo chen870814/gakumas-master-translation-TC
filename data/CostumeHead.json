@@ -61,6 +61,16 @@
       "description": "【Fluorite】'24萬聖節 有村麻央 獲得"
     },
     {
+      "id": "costume_head_amao-cstm-0092",
+      "name": "看著我",
+      "description": "【看著我】有村麻央 獲得"
+    },
+    {
+      "id": "costume_head_amao-cstm-0093",
+      "name": "看著我",
+      "description": "【看著我】有村麻央的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_amao-cstm-0120",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】有村麻央 獲得"
@@ -109,6 +119,11 @@
       "id": "costume_head_amao-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年10月 獲得"
+    },
+    {
+      "id": "costume_head_amao-hair-0014",
+      "name": "看著我（簡單搭配）",
+      "description": "【看著我】有村麻央 獲得"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -218,7 +233,7 @@
     {
       "id": "costume_head_fktn-cstm-0124",
       "name": "全力以赴！",
-      "description": "【全力以赴！】藤田琴音的才能开花第4階段 獲得"
+      "description": "【全力以赴！】藤田琴音的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_fktn-hair-0001",
@@ -256,6 +271,11 @@
       "description": "高級任務通行證 2025年8月 獲得"
     },
     {
+      "id": "costume_head_fktn-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年11月 獲得"
+    },
+    {
       "id": "costume_head_fktn-hair-0012",
       "name": "自我肯定感爆棚↑↑超愛琴音之歌（簡單搭配）",
       "description": "【自我肯定感爆棚↑↑超愛琴音之歌】藤田琴音 獲得"
@@ -284,6 +304,11 @@
       "id": "costume_head_hmsz-cstm-0063",
       "name": "冠菊",
       "description": "【月之龜】'25祭 秦谷美鈴 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【月之龜】'25萬聖節 秦谷美鈴 獲得"
     },
     {
       "id": "costume_head_hmsz-cstm-0114",
@@ -576,6 +601,11 @@
       "description": "高級任務通行證 2025年8月 獲得"
     },
     {
+      "id": "costume_head_hski-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年11月 獲得"
+    },
+    {
       "id": "costume_head_hski-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -721,6 +751,11 @@
       "description": "【小小的野心】'25祭 十王星南 獲得"
     },
     {
+      "id": "costume_head_jsna-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【小小的野心】'25萬聖節 十王星南 獲得"
+    },
+    {
       "id": "costume_head_jsna-cstm-0077",
       "name": "Our Chant",
       "description": "【Our Chant】十王星南 獲得"
@@ -831,6 +866,16 @@
       "description": "【變裝狂想曲】倉本千奈 獲得"
     },
     {
+      "id": "costume_head_kcna-cstm-0090",
+      "name": "向天空約定",
+      "description": "【向天空約定】倉本千奈 獲得"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0091",
+      "name": "向天空約定",
+      "description": "【向天空約定】倉本千奈的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_kcna-cstm-0116",
       "name": "Howling over the World",
       "description": "【Howling over the World】倉本千奈 獲得"
@@ -874,6 +919,11 @@
       "id": "costume_head_kcna-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年9月 獲得"
+    },
+    {
+      "id": "costume_head_kcna-hair-0013",
+      "name": "向天空約定（簡單搭配）",
+      "description": "【向天空約定】倉本千奈 獲得"
     },
     {
       "id": "costume_head_kllj-cstm-0007",
@@ -1029,6 +1079,11 @@
       "id": "costume_head_shro-cstm-0063",
       "name": "冠菊",
       "description": "【光景】'24祭典 篠澤廣 獲得"
+    },
+    {
+      "id": "costume_head_shro-cstm-0065",
+      "name": "殭屍制服",
+      "description": "購買殭屍制服（篠澤廣）"
     },
     {
       "id": "costume_head_shro-cstm-0088",
@@ -1231,6 +1286,11 @@
       "description": "【Luna say maybe】'24祭典 月村手毬 獲得"
     },
     {
+      "id": "costume_head_ttmr-cstm-0065",
+      "name": "殭屍制服",
+      "description": "購買殭屍制服（月村手毬）"
+    },
+    {
       "id": "costume_head_ttmr-cstm-0072",
       "name": "黃金光輝",
       "description": "月村手毬的偶像之路 通關第10關"
@@ -1299,6 +1359,11 @@
       "id": "costume_head_ttmr-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年8月 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年11月 獲得"
     }
   ]
 }
