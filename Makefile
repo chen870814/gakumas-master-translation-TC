@@ -19,3 +19,6 @@ rename:
 
 tran:
 	python scripts/full_trans.py
+
+check:
+	python scripts/check_different_files.py
