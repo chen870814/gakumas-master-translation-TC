@@ -26,12 +26,52 @@
             "name": "初星学園体操服（有村麻央）"
         },
         {
+            "id": "shop_costume_atbm-cstm-0069",
+            "name": "チャイルドスモック（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_atbm-cstm-0111",
+            "name": "セーラーミズギ（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_atbm-othr-0002",
+            "name": "温泉用水着（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_atbm-trng-0002",
+            "name": "初星学園体操服（雨夜燕）"
+        },
+        {
             "id": "shop_costume_costume_head_amao-hair-0001",
             "name": "紫陽花の髪飾り（有村麻央）"
         },
         {
             "id": "shop_costume_costume_head_amao-hair-0003",
             "name": "ラウンドメガネ（有村麻央）"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0001",
+            "name": "紫陽花の髪飾り（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0003",
+            "name": "ラウンドメガネ（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0004",
+            "name": "ネコミミ（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0006",
+            "name": "はつみ☆アクセサリー（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0007",
+            "name": "ティアドロップグラス（雨夜燕）"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0008",
+            "name": "イヌミミ（雨夜燕）"
         },
         {
             "id": "shop_costume_costume_head_fktn-hair-0001",
@@ -90,6 +130,10 @@
             "name": "ラウンドメガネ（花海佑芽）"
         },
         {
+            "id": "shop_costume_costume_head_hume-hair-0004",
+            "name": "ネコミミ（花海佑芽）"
+        },
+        {
             "id": "shop_costume_costume_head_jsna-hair-0001",
             "name": "紫陽花の髪飾り（十王星南）"
         },
@@ -98,12 +142,20 @@
             "name": "ラウンドメガネ（十王星南）"
         },
         {
+            "id": "shop_costume_costume_head_jsna-hair-0004",
+            "name": "ネコミミ（十王星南）"
+        },
+        {
             "id": "shop_costume_costume_head_kcna-hair-0001",
             "name": "紫陽花の髪飾り（倉本千奈）"
         },
         {
             "id": "shop_costume_costume_head_kcna-hair-0003",
             "name": "ラウンドメガネ（倉本千奈）"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0004",
+            "name": "ネコミミ（倉本千奈）"
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -120,6 +172,10 @@
         {
             "id": "shop_costume_costume_head_shro-hair-0003",
             "name": "ラウンドメガネ（篠澤広）"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0004",
+            "name": "ネコミミ（篠澤広）"
         },
         {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -486,6 +542,18 @@
             "name": "【1回きりお得！】ジュエル6,000個"
         },
         {
+            "id": "shop_jewel_item-0025",
+            "name": "【2回きりお得！】ジュエル12,300個"
+        },
+        {
+            "id": "shop_jewel_item-0026",
+            "name": "【2回きりお得！】ジュエル6,000個"
+        },
+        {
+            "id": "shop_pack_atbm-0001",
+            "name": "【72時間限定】プロデュースアイドルピースパック（燕）"
+        },
+        {
             "id": "shop_pack_hmsz-0001",
             "name": "【72時間限定】プロデュースアイドルピースパック（美鈴）"
         },
@@ -552,6 +620,18 @@
         {
             "id": "shop_pack_item-0050",
             "name": "初星大運動会開催記念パック"
+        },
+        {
+            "id": "shop_pack_item-0057",
+            "name": "1.5th アニバーサリー記念アイドルパック"
+        },
+        {
+            "id": "shop_pack_item-0058",
+            "name": "1.5th アニバーサリー記念サポートパック"
+        },
+        {
+            "id": "shop_pack_item-0061",
+            "name": "1.5th アニバーサリー記念シーズンパック"
         },
         {
             "id": "shop_pack_item-100dl",
@@ -736,6 +816,10 @@
         {
             "id": "shop_pass_item-0019",
             "name": "プレミアムミッションパス 2025年11月"
+        },
+        {
+            "id": "shop_pass_item-0020",
+            "name": "プレミアムミッションパス 2025年12月"
         }
     ]
 }

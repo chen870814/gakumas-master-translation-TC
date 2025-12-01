@@ -163,7 +163,7 @@
     {
       "id": "amao-trng-0001",
       "name": "練習服",
-      "description": "有村麻央的大師成就達到Rank3"
+      "description": "將有村麻央的大師成就提升到Rank3"
     },
     {
       "id": "amao-trng-0002",
@@ -171,9 +171,59 @@
       "description": "購買初星學園體操服（有村麻央）"
     },
     {
+      "id": "atbm-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
+      "id": "atbm-cstm-0000",
+      "name": "初（hajime）",
+      "description": "初始持有"
+    },
+    {
+      "id": "atbm-cstm-0069",
+      "name": "兒童罩衫",
+      "description": "購買兒童罩衫（雨夜燕）"
+    },
+    {
+      "id": "atbm-cstm-0106",
+      "name": "用理論武装",
+      "description": "【用理論武装】雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0107",
+      "name": "用理論武装",
+      "description": "【用理論武装】雨夜燕的才能開花第4階段 獲得"
+    },
+    {
+      "id": "atbm-cstm-0111",
+      "name": "水手服泳裝",
+      "description": "購買水手服泳裝（雨夜燕）"
+    },
+    {
+      "id": "atbm-othr-0002",
+      "name": "溫泉泳裝",
+      "description": "購買溫泉泳裝（雨夜燕）"
+    },
+    {
       "id": "atbm-schl-0000",
       "name": "初星學園制服",
       "description": "初始持有"
+    },
+    {
+      "id": "atbm-trng-0000",
+      "name": "練習服",
+      "description": "初始持有"
+    },
+    {
+      "id": "atbm-trng-0001",
+      "name": "練習服",
+      "description": "將雨夜燕的大師成就提升到Rank3"
+    },
+    {
+      "id": "atbm-trng-0002",
+      "name": "初星學園體操服",
+      "description": "購買初星學園體操服（雨夜燕）"
     },
     {
       "id": "fktn-casl-0000",
@@ -343,7 +393,7 @@
     {
       "id": "fktn-trng-0001",
       "name": "練習服",
-      "description": "藤田琴音的大師成就達到Rank3"
+      "description": "將藤田琴音的大師成就提升到Rank3"
     },
     {
       "id": "fktn-trng-0002",
@@ -426,6 +476,11 @@
       "description": "【Star-mine】秦谷美鈴的才能開花第4階段 獲得"
     },
     {
+      "id": "hmsz-cstm-0119",
+      "name": "何時何地簡簡單單",
+      "description": "【月之龜】'25 animate秦谷美鈴 獲得"
+    },
+    {
       "id": "hmsz-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【月之龜】'25奇蹟正是現在(ﾟ∀ﾟ)！ 秦谷美鈴 獲得"
@@ -453,7 +508,7 @@
     {
       "id": "hmsz-trng-0001",
       "name": "練習服",
-      "description": "秦谷美鈴的大師成就達到Rank3"
+      "description": "將秦谷美鈴的大師成就提升到Rank3"
     },
     {
       "id": "hmsz-trng-0002",
@@ -633,7 +688,7 @@
     {
       "id": "hrnm-trng-0001",
       "name": "練習服",
-      "description": "姬崎莉波的大師成就達到Rank3"
+      "description": "將姬崎莉波的大師成就提升到Rank3"
     },
     {
       "id": "hrnm-trng-0002",
@@ -798,7 +853,7 @@
     {
       "id": "hski-trng-0001",
       "name": "練習服",
-      "description": "花海咲季的大師成就達到Rank3"
+      "description": "將花海咲季的大師成就提升到Rank3"
     },
     {
       "id": "hski-trng-0002",
@@ -844,6 +899,16 @@
       "id": "hume-cstm-0054",
       "name": "Campus mode!!",
       "description": "【Campus mode!!】花海佑芽的才能開花第4階段 獲得"
+    },
+    {
+      "id": "hume-cstm-0057",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】花海佑芽 獲得"
+    },
+    {
+      "id": "hume-cstm-0058",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】花海佑芽的才能開花第4階段 獲得"
     },
     {
       "id": "hume-cstm-0063",
@@ -933,12 +998,17 @@
     {
       "id": "hume-trng-0001",
       "name": "練習服",
-      "description": "花海佑芽的大師成就達到Rank3"
+      "description": "將花海佑芽的大師成就提升到Rank3"
     },
     {
       "id": "hume-trng-0002",
       "name": "初星學園體操服",
       "description": "購買初星學園體操服（花海佑芽）"
+    },
+    {
+      "id": "jsna-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
     },
     {
       "id": "jsna-cstm-0000",
@@ -1083,7 +1153,7 @@
     {
       "id": "jsna-trng-0001",
       "name": "練習服",
-      "description": "十王星南的大師成就達到Rank3"
+      "description": "將十王星南的大師成就提升到Rank3"
     },
     {
       "id": "jsna-trng-0002",
@@ -1248,7 +1318,7 @@
     {
       "id": "kcna-trng-0001",
       "name": "練習服",
-      "description": "倉本千奈的大師成就達到Rank3"
+      "description": "將倉本千奈的大師成就提升到Rank3"
     },
     {
       "id": "kcna-trng-0002",
@@ -1413,7 +1483,7 @@
     {
       "id": "kllj-trng-0001",
       "name": "練習服",
-      "description": "葛城莉莉婭的大師成就達到Rank3"
+      "description": "將葛城莉莉婭的大師成就提升到Rank3"
     },
     {
       "id": "kllj-trng-0002",
@@ -1598,7 +1668,7 @@
     {
       "id": "shro-trng-0001",
       "name": "練習服",
-      "description": "篠澤廣的大師成就達到Rank3"
+      "description": "將篠澤廣的大師成就提升到Rank3"
     },
     {
       "id": "shro-trng-0002",
@@ -1768,7 +1838,7 @@
     {
       "id": "ssmk-trng-0001",
       "name": "練習服",
-      "description": "紫雲清夏的大師成就達到Rank3"
+      "description": "將紫雲清夏的大師成就提升到Rank3"
     },
     {
       "id": "ssmk-trng-0002",
@@ -1933,7 +2003,7 @@
     {
       "id": "ttmr-trng-0001",
       "name": "練習服",
-      "description": "月村手毬的大師成就達到Rank3"
+      "description": "將月村手毬的大師成就提升到Rank3"
     },
     {
       "id": "ttmr-trng-0002",

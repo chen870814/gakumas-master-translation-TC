@@ -54,7 +54,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "有村麻央",
-      "message": "還能挑戰競技場呢。\n想讓粉絲們看到\n我的各種模樣"
+      "message": "今天的競技場，還沒參加吧？\n我想讓你看看我的實力呢"
     },
     {
       "characterId": "amao",
@@ -97,6 +97,97 @@
       "number": 3,
       "title": "有村麻央",
       "message": "直播工作結束了。\n雖然還在摸索階段，\n但我覺得挺開心的"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "雨夜燕",
+      "message": "我狀態好得很。\n什麼訓練都完美\n達成給你看"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "雨夜燕",
+      "message": "看來你休息的不錯啊。\n走，快去訓練吧"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "雨夜燕",
+      "message": "你忘記領金幣了。\n我陪你去拿，快點過來"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "雨夜燕",
+      "message": "金幣都快存滿了。\n早點過來領"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "雨夜燕",
+      "message": "今天的任務還沒完成吧。\n我也來幫忙，\n盡快搞定"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "雨夜燕",
+      "message": "…………快給我回來"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_PvpRateRemainingPlayCount",
+      "number": 1,
+      "title": "雨夜燕",
+      "message": "今天的競技場還沒參加！\n沒時間磨蹭了。\n走了！"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "雨夜燕",
+      "message": "迷你Live工作完成了。\n確認一下報酬吧"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "雨夜燕",
+      "message": "這次迷你Live受益匪淺。\n趁還沒忘要好好復盤。\n你這傢伙也會參加吧？"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "雨夜燕",
+      "message": "這次的迷你Live，\n確實很有收穫。\n待會聽聽你的意見"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "雨夜燕",
+      "message": "直播工作完成了。\n麻煩來領報酬"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "雨夜燕",
+      "message": "通過直播，真切感受到了\n粉絲的心意。……哼，\n果然是被支持著呢"
+    },
+    {
+      "characterId": "atbm",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "雨夜燕",
+      "message": "今天的直播看了嗎？\n想聽聽你對內容的看法，\n來開復盤會吧"
     },
     {
       "characterId": "fktn",
@@ -145,7 +236,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "藤田琴音",
-      "message": "還能繼續挑戰\n競技場哦～？讓你看看\n超可愛的我♡"
+      "message": "今天的競技場，不參加嗎～？\n小琴音我，随時都可以哦～♪"
     },
     {
       "characterId": "fktn",
@@ -193,91 +284,91 @@
       "characterId": "hmsz",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "睡得很好。現在的話……\n可以開始課程了"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "休息好了嗎？ \n我也睡了很多，\n稍微上會兒課吧"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "好像有很多金幣了哦。\n要去領取一下嗎？"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "正在午睡嗎。\n金幣已經積攢起來了哦"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "今天的任務好像還沒完成。\n全部做完的話，\n就可以舒服地睡覺了哦？"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_Login",
       "number": 1,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "睡了很久的午覺呢。\n醒來後，\n請來見我吧。\n我會一直等著你哦"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "秦谷 美鈴",
-      "message": "好像還可以繼續挑戰\n競技場呢。既然如此，\n就慢慢來吧"
+      "title": "秦谷美铃",
+      "message": "今天還沒有參加競技場呢。\n那麼，我們要怎麼辦呢？"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "迷你Live結束了。\n今天看來可以睡個好覺了"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "迷你Live剛結束哦。\n等會兒，告訴我感想吧"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "很好的迷你Live。\n從製作人的角度來看，\n怎麼樣呢？"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "你有在看直播嗎？\n悠閒地聊天，\n看起來也不錯呢"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "直播結束了。\n我沒有偷懶，\n認真工作了吧？"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "秦谷 美鈴",
+      "title": "秦谷美铃",
       "message": "直播，結束了哦。\n那麼，晚安"
     },
     {
@@ -327,7 +418,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "姬崎莉波",
-      "message": "好像能挑戰競技場了。\n想讓你看看\n我努力的樣子"
+      "message": "今天不參加競技場嗎？\n我們去挑戰一下吧。\n好嗎？我會加油的"
     },
     {
       "characterId": "hrnm",
@@ -418,7 +509,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "花海咲季",
-      "message": "還能挑戰競技場呢。\n製作人！\n一起去奪冠吧！"
+      "message": "今天不參加競技場嗎？\n我會把最好的結果帶給你的！"
     },
     {
       "characterId": "hski",
@@ -509,7 +600,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "花海佑芽",
-      "message": "我能挑戰競技場了！\n大幹一場吧，\n製作人先生！"
+      "message": "參加競技場吧！\n我會全力以赴的～！"
     },
     {
       "characterId": "hume",
@@ -600,7 +691,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "十王星南",
-      "message": "還能挑戰競技場呢。\n狀態完美。讓我們去展現\n十王星南的全新可能性！"
+      "message": "今天還沒參加競技場呢。\n走吧，我們趕快去吧"
     },
     {
       "characterId": "jsna",
@@ -691,7 +782,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "倉本千奈",
-      "message": "聽說還能挑戰\n競技場。老師！\n我們一起去吧！"
+      "message": "老師，還沒參加今天的競技場呢。\n我可是鬥志滿滿哦。\n我們去參加吧！"
     },
     {
       "characterId": "kcna",
@@ -782,7 +873,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "葛城莉莉婭",
-      "message": "似乎還能挑戰競技場。\n我……想和前輩\n一起獲勝……！"
+      "message": "今天，不參加競技場嗎……？\n我，還能加油的！"
     },
     {
       "characterId": "kllj",
@@ -873,7 +964,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "篠澤廣",
-      "message": "還能挑戰競技場哦。\n去碰個頭破血流吧"
+      "message": "今天還沒參加競技場。\n我的體力的話……應該沒問題的。\n可以參加的哦"
     },
     {
       "characterId": "shro",
@@ -964,7 +1055,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "紫雲清夏",
-      "message": "還能挑戰競技場哦？\n只能上了對吧♪"
+      "message": "P親，今天還沒參加競技場吧？\n既然有空，就參加試試吧！"
     },
     {
       "characterId": "ssmk",
@@ -1055,7 +1146,7 @@
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "月村手毬",
-      "message": "還能挑戰競技場。\n看吧製作人，\n我們一起去"
+      "message": "競技場，今天還沒參加吧？\n不參加嗎？　我已經準備好了哦"
     },
     {
       "characterId": "ttmr",

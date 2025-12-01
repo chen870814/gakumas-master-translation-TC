@@ -69,6 +69,61 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story_002_atbm_after-audition-a-normal-02",
+      "title": "這才剛剛開始！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-a-normal-03",
+      "title": "這才剛剛開始",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-b-normal-02",
+      "title": "更加向前！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-b-normal-03",
+      "title": "更進一步",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-final-failure-01",
+      "title": "再一次一起",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-final-normal-01",
+      "title": "朝更高峰！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_after-audition-mid-failure-01",
+      "title": "下次一定要",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_before-audition-a-normal-01",
+      "title": "幹勁十足？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_before-audition-b-normal-01",
+      "title": "準備妥當？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_ending-normal-02",
+      "title": "Normal End",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_atbm_opening-normal-02",
+      "title": "目標『N.I.A』制霸！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story_002_fktn_after-audition-a-normal-02",
       "title": "這才剛剛開始！",
       "produceEventHintProduceConditionDescriptions": [
@@ -980,16 +1035,247 @@
     },
     {
       "id": "p_story-001-amao-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看有村麻央的True End"
       ]
     },
     {
       "id": "p_story-001-amao-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看有村麻央的True End"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-failure-01",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "最終考試不合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-01",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在最終考試中以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-02",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在最終考試中以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-03",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在最終考試中以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-final-normal-04",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-failure-01",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-01",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在期中考試中以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-02",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在期中考試中以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-03",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在期中考試中以第3名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-audition-mid-normal-04",
+      "title": "考試結果是…",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-step-1-normal-01",
+      "title": "引人關注的樣子",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到7以上",
+        "在培育考試前使全部分數達到審查標準的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-1-normal-02",
+      "title": "引人關注的樣子",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在培育考試前使全部分數達到審查標準的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-1-normal-03",
+      "title": "引人關注的樣子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-after-step-2-normal-01",
+      "title": "引人關注的樣子",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到7以上",
+        "在培育考試前使全部分數達到審查標準的80%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-2-normal-02",
+      "title": "引人關注的樣子",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在培育考試前使全部分數達到審查標準的50%以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-after-step-2-normal-03",
+      "title": "引人關注的樣子",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-before-audition-final-normal-01",
+      "title": "出發！最終考試",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-before-audition-mid-normal-01",
+      "title": "出發！期中考試",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-01",
+      "title": "【A End】非常自然的期望",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在最終考試中以第1名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-02",
+      "title": "【B End】過高的期待",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上",
+        "在最終考試中以第2名合格"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-03",
+      "title": "【C End】將我的命運託付給你",
+      "produceEventHintProduceConditionDescriptions": [
+        "通過最終考試"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-04",
+      "title": "【D End】我不會讓你逃走的",
+      "produceEventHintProduceConditionDescriptions": [
+        "在最終考試中取得第4或第5名"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-normal-05",
+      "title": "【E End】賭上性命的約定",
+      "produceEventHintProduceConditionDescriptions": [
+        "在最終考試中獲得第6名"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-ending-true-01",
+      "title": "True End",
+      "produceEventHintProduceConditionDescriptions": [
+        "最終試験を1位で合格する",
+        "アチーブメント「すべて一級品」を獲得する",
+        "アチーブメント「貴様は私を支えろ」を獲得する",
+        "アチーブメント「学園No.2の実力」を獲得する"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-fb-01",
+      "title": "研鑽向上",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-fb-02",
+      "title": "堅固磐石",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-fb-03",
+      "title": "臨戰態勢",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-01",
+      "title": "開始培育！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-02",
+      "title": "雨夜燕啟動！",
+      "produceEventHintProduceConditionDescriptions": [
+        "開始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-03",
+      "title": "雨夜燕啟動！",
+      "produceEventHintProduceConditionDescriptions": [
+        "開始培育"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-04",
+      "title": "雨夜燕啟動！",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-normal-05",
+      "title": "雨夜燕啟動！",
+      "produceEventHintProduceConditionDescriptions": [
+        "親密度達到4以上"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-true-01",
+      "title": "為了更接近夢想",
+      "produceEventHintProduceConditionDescriptions": [
+        "觀看雨夜燕的True End"
+      ]
+    },
+    {
+      "id": "p_story-001-atbm-opening-true-02",
+      "title": "為了更接近夢想",
+      "produceEventHintProduceConditionDescriptions": [
+        "觀看雨夜燕的True End"
       ]
     },
     {
@@ -1211,14 +1497,14 @@
     },
     {
       "id": "p_story-001-fktn-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看藤田琴音的True End"
       ]
     },
     {
       "id": "p_story-001-fktn-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看藤田琴音的True End"
       ]
@@ -1442,14 +1728,14 @@
     },
     {
       "id": "p_story-001-hmsz-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看秦谷美鈴的True End"
       ]
     },
     {
       "id": "p_story-001-hmsz-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看秦谷美鈴的True End"
       ]
@@ -1673,14 +1959,14 @@
     },
     {
       "id": "p_story-001-hrnm-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看姫崎莉波的True End"
       ]
     },
     {
       "id": "p_story-001-hrnm-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看姫崎莉波的True End"
       ]
@@ -1904,14 +2190,14 @@
     },
     {
       "id": "p_story-001-hski-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看花海咲季的True End"
       ]
     },
     {
       "id": "p_story-001-hski-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看花海咲季的True End"
       ]
@@ -2135,14 +2421,14 @@
     },
     {
       "id": "p_story-001-hume-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看花海佑芽的True End"
       ]
     },
     {
       "id": "p_story-001-hume-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看花海佑芽的True End"
       ]
@@ -2366,14 +2652,14 @@
     },
     {
       "id": "p_story-001-jsna-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看十王星南的True End"
       ]
     },
     {
       "id": "p_story-001-jsna-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看十王星南的True End"
       ]
@@ -2597,14 +2883,14 @@
     },
     {
       "id": "p_story-001-kcna-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看倉本千奈的True End"
       ]
     },
     {
       "id": "p_story-001-kcna-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看倉本千奈的True End"
       ]
@@ -2828,14 +3114,14 @@
     },
     {
       "id": "p_story-001-kllj-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看葛城莉莉婭的True End"
       ]
     },
     {
       "id": "p_story-001-kllj-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看葛城莉莉婭的True End"
       ]
@@ -3059,14 +3345,14 @@
     },
     {
       "id": "p_story-001-shro-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看篠澤広的True End"
       ]
     },
     {
       "id": "p_story-001-shro-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看篠澤広的True End"
       ]
@@ -3290,14 +3576,14 @@
     },
     {
       "id": "p_story-001-ssmk-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看紫雲清夏的True End"
       ]
     },
     {
       "id": "p_story-001-ssmk-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看紫雲清夏的True End"
       ]
@@ -3521,14 +3807,14 @@
     },
     {
       "id": "p_story-001-ttmr-opening-true-01",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看月村手毬的True End"
       ]
     },
     {
       "id": "p_story-001-ttmr-opening-true-02",
-      "title": "爲了更接近夢想",
+      "title": "為了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
         "觀看月村手毬的True End"
       ]
@@ -3696,6 +3982,171 @@
     {
       "id": "p_story-event-001_amao_school_011",
       "title": "麻央的課程",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_001",
+      "title": "商業工作燕",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_002",
+      "title": "今天的題目是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_003",
+      "title": "忍者是誰",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_004",
+      "title": "甜點的誘惑",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_005",
+      "title": "推薦的店舖是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_006",
+      "title": "君子不近『蟲』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_007",
+      "title": "你的點單是蕎麥麵對嗎？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_008",
+      "title": "該看的電影是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_009",
+      "title": "我的夥伴的名字是……！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_010",
+      "title": "睡眠不足的理由是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_011",
+      "title": "突擊，女僕咖啡廳！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_012",
+      "title": "換裝的雨夜小姐",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_013",
+      "title": "喜歡河畔？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_014",
+      "title": "書法的修行者",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_015",
+      "title": "批露出的粉絲魂",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_016",
+      "title": "雨夜燕的日常",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_017-01",
+      "title": "Fighting Game！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_017-02",
+      "title": "Fighting Game！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_018-01",
+      "title": "挑戰，百番賞！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_018-02",
+      "title": "挑戰，百番賞！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_019",
+      "title": "注意儀容整潔！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_activity_020",
+      "title": "飯糰是什麼味道的？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_001",
+      "title": "燕與學習",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_002",
+      "title": "燕是什麼類型的偶像？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_003",
+      "title": "完美的信賴關係？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_004",
+      "title": "好好地抓住韁繩",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_005",
+      "title": "3座『白』城",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_006",
+      "title": "價值的變化",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_007",
+      "title": "書法達人的名字是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_008",
+      "title": "既非正數也非負數",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_009",
+      "title": "能幹的秘書，雨夜燕",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_010",
+      "title": "宿命之戰！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_atbm_school_011",
+      "title": "今天的課程是什麼？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4025,7 +4476,7 @@
     },
     {
       "id": "p_story-event-001_hmsz_school_011",
-      "title": "課程是爲了什麼？",
+      "title": "今天的課程是什麼？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4520,7 +4971,7 @@
     },
     {
       "id": "p_story-event-001_hume_school_011",
-      "title": "課程是爲了什麼？",
+      "title": "今天的課程是什麼？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4685,7 +5136,7 @@
     },
     {
       "id": "p_story-event-001_jsna_school_011",
-      "title": "課程是爲了什麼？",
+      "title": "今天的課程是什麼？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5055,7 +5506,7 @@
     },
     {
       "id": "p_story-event-001_shro_activity_008",
-      "title": "化妝10",
+      "title": "湊成10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5125,7 +5576,7 @@
     },
     {
       "id": "p_story-event-001_shro_activity_020",
-      "title": "卡拉OK的鹽焗包菜",
+      "title": "卡拉OK的鹽焗高麗菜",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9895,32 +10346,32 @@
     },
     {
       "id": "p_story-i_card-amao-3-009-01",
-      "title": "雪解融化 1話",
+      "title": "雪解融化 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-009-02",
-      "title": "雪解融化 2話",
+      "title": "雪解融化 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-009-03",
-      "title": "雪解融化 3話",
+      "title": "雪解融化 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-013-01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 1話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-013-02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 2話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-013-03",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 3話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9936,6 +10387,21 @@
     {
       "id": "p_story-i_card-amao-3-015-03",
       "title": "看著我 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-000-01",
+      "title": "用理論武装 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-000-02",
+      "title": "用理論武装 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-000-03",
+      "title": "用理論武装 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9955,17 +10421,17 @@
     },
     {
       "id": "p_story-i_card-fktn-3-001-01",
-      "title": "Yellow Big Bang！ 1話",
+      "title": "Yellow Big Bang！ 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-001-02",
-      "title": "Yellow Big Bang！ 2話",
+      "title": "Yellow Big Bang！ 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-001-03",
-      "title": "Yellow Big Bang！ 3話",
+      "title": "Yellow Big Bang！ 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9995,7 +10461,7 @@
     },
     {
       "id": "p_story-i_card-fktn-3-006-03",
-      "title": "White Night! White Wish! 3話",
+      "title": "White Night! White Wish! 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10015,62 +10481,62 @@
     },
     {
       "id": "p_story-i_card-fktn-3-011-01",
-      "title": "雨後的鳶尾花 1話",
+      "title": "雨後的鳶尾花 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-011-02",
-      "title": "雨後的鳶尾花 2話",
+      "title": "雨後的鳶尾花 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-011-03",
-      "title": "雨後的鳶尾花 3話",
+      "title": "雨後的鳶尾花 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-013-01",
-      "title": "自我肯定感爆棚↑↑超愛琴音之歌 1話",
+      "title": "自我肯定感爆棚↑↑超愛琴音之歌 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-013-02",
-      "title": "自我肯定感爆棚↑↑超愛琴音之歌 2話",
+      "title": "自我肯定感爆棚↑↑超愛琴音之歌 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-013-03",
-      "title": "自我肯定感爆棚↑↑超愛琴音之歌 3話",
+      "title": "自我肯定感爆棚↑↑超愛琴音之歌 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-016-01",
-      "title": "全力以赴！ 1話",
+      "title": "全力以赴！ 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-016-02",
-      "title": "全力以赴！ 2話",
+      "title": "全力以赴！ 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-016-03",
-      "title": "全力以赴！ 3話",
+      "title": "全力以赴！ 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-000-01",
-      "title": "月之龜 1話",
+      "title": "月之龜 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-000-02",
-      "title": "月之龜 2話",
+      "title": "月之龜 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-000-03",
-      "title": "月之龜 3話",
+      "title": "月之龜 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10090,32 +10556,32 @@
     },
     {
       "id": "p_story-i_card-hmsz-3-010-01",
-      "title": "Star-mine 1話",
+      "title": "Star-mine 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-010-02",
-      "title": "Star-mine 2話",
+      "title": "Star-mine 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-010-03",
-      "title": "Star-mine 3話",
+      "title": "Star-mine 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-000-01",
-      "title": "clumsy trick 1話",
+      "title": "clumsy trick 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-000-02",
-      "title": "clumsy trick 2話",
+      "title": "clumsy trick 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-000-03",
-      "title": "clumsy trick 3話",
+      "title": "clumsy trick 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10135,32 +10601,32 @@
     },
     {
       "id": "p_story-i_card-hrnm-3-002-01",
-      "title": "L.U.V 1話",
+      "title": "L.U.V 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-002-02",
-      "title": "L.U.V 2話",
+      "title": "L.U.V 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-002-03",
-      "title": "L.U.V 3話",
+      "title": "L.U.V 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-004-01",
-      "title": "歡迎來到初星溫泉 1話",
+      "title": "歡迎來到初星溫泉 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-004-02",
-      "title": "歡迎來到初星溫泉 2話",
+      "title": "歡迎來到初星溫泉 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-004-03",
-      "title": "歡迎來到初星溫泉 3話",
+      "title": "歡迎來到初星溫泉 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10180,47 +10646,47 @@
     },
     {
       "id": "p_story-i_card-hrnm-3-008-01",
-      "title": "快樂的千層糕 1話",
+      "title": "幸福千層酥 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-008-02",
-      "title": "快樂的千層糕 2話",
+      "title": "幸福千層酥 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-008-03",
-      "title": "快樂的千層糕 3話",
+      "title": "幸福千層酥 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-012-01",
-      "title": "Howling over the World 1話",
+      "title": "Howling over the World 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-012-02",
-      "title": "Howling over the World 2話",
+      "title": "Howling over the World 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-012-03",
-      "title": "Howling over the World 3話",
+      "title": "Howling over the World 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-013-01",
-      "title": "36℃ U･B･U 1話",
+      "title": "36℃ U･B･U 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-013-02",
-      "title": "36℃ U･B･U 2話",
+      "title": "36℃ U･B･U 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-013-03",
-      "title": "36℃ U･B･U 3話",
+      "title": "36℃ U･B･U 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10270,17 +10736,17 @@
     },
     {
       "id": "p_story-i_card-hski-3-006-01",
-      "title": "古今東西不費吹灰之力 1話",
+      "title": "古今東西不費吹灰之力 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-006-02",
-      "title": "古今東西不費吹灰之力 2話",
+      "title": "古今東西不費吹灰之力 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-006-03",
-      "title": "古今東西不費吹灰之力 3話",
+      "title": "古今東西不費吹灰之力 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10300,62 +10766,62 @@
     },
     {
       "id": "p_story-i_card-hski-3-011-01",
-      "title": "櫻花相簿 1話",
+      "title": "櫻花相簿 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-011-02",
-      "title": "櫻花相簿 2話",
+      "title": "櫻花相簿 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-011-03",
-      "title": "櫻花相簿 3話",
+      "title": "櫻花相簿 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-012-01",
-      "title": "雨後的鳶尾花 1話",
+      "title": "雨後的鳶尾花 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-012-02",
-      "title": "雨後的鳶尾花 2話",
+      "title": "雨後的鳶尾花 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-012-03",
-      "title": "雨後的鳶尾花 3話",
+      "title": "雨後的鳶尾花 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-015-01",
-      "title": "全力以赴！ 1話",
+      "title": "全力以赴！ 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-015-02",
-      "title": "全力以赴！ 2話",
+      "title": "全力以赴！ 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-015-03",
-      "title": "全力以赴！ 3話",
+      "title": "全力以赴！ 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-000-01",
-      "title": "The Rolling Riceball 1話",
+      "title": "The Rolling Riceball 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-000-02",
-      "title": "The Rolling Riceball 2話",
+      "title": "The Rolling Riceball 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-000-03",
-      "title": "The Rolling Riceball 3話",
+      "title": "The Rolling Riceball 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10370,7 +10836,7 @@
     },
     {
       "id": "p_story-i_card-hume-3-005-03",
-      "title": "White Night! White Wish! 3話",
+      "title": "White Night! White Wish! 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10389,18 +10855,33 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hume-3-009-01",
+      "title": "呼嚕呼嚕 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hume-3-009-02",
+      "title": "呼嚕呼嚕 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hume-3-009-03",
+      "title": "呼嚕呼嚕 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hume-3-012-01",
-      "title": "Star-mine 1話",
+      "title": "Star-mine 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-012-02",
-      "title": "Star-mine 2話",
+      "title": "Star-mine 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-012-03",
-      "title": "Star-mine 3話",
+      "title": "Star-mine 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10435,62 +10916,62 @@
     },
     {
       "id": "p_story-i_card-jsna-3-003-01",
-      "title": "快樂的千層糕 1話",
+      "title": "幸福千層酥 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-003-02",
-      "title": "快樂的千層糕 2話",
+      "title": "幸福千層酥 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-003-03",
-      "title": "快樂的千層糕 3話",
+      "title": "幸福千層酥 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-006-01",
-      "title": "Our Chant 1話",
+      "title": "Our Chant 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-006-02",
-      "title": "Our Chant 2話",
+      "title": "Our Chant 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-006-03",
-      "title": "Our Chant 3話",
+      "title": "Our Chant 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-011-01",
-      "title": "Star-mine 1話",
+      "title": "Star-mine 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-011-02",
-      "title": "Star-mine 2話",
+      "title": "Star-mine 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-011-03",
-      "title": "Star-mine 3話",
+      "title": "Star-mine 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-000-01",
-      "title": "Wonder Scale 1話",
+      "title": "Wonder Scale 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-000-02",
-      "title": "Wonder Scale 2話",
+      "title": "Wonder Scale 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-000-03",
-      "title": "Wonder Scale 3話",
+      "title": "Wonder Scale 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10525,17 +11006,17 @@
     },
     {
       "id": "p_story-i_card-kcna-3-005-01",
-      "title": "歡迎來到初星溫泉 1話",
+      "title": "歡迎來到初星溫泉 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-005-02",
-      "title": "歡迎來到初星溫泉 2話",
+      "title": "歡迎來到初星溫泉 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-005-03",
-      "title": "歡迎來到初星溫泉 3話",
+      "title": "歡迎來到初星溫泉 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10555,32 +11036,32 @@
     },
     {
       "id": "p_story-i_card-kcna-3-009-01",
-      "title": "雪解融化 1話",
+      "title": "雪解融化 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-009-02",
-      "title": "雪解融化 2話",
+      "title": "雪解融化 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-009-03",
-      "title": "雪解融化 3話",
+      "title": "雪解融化 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-012-01",
-      "title": "Howling over the World 1話",
+      "title": "Howling over the World 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-012-02",
-      "title": "Howling over the World 2話",
+      "title": "Howling over the World 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-012-03",
-      "title": "Howling over the World 3話",
+      "title": "Howling over the World 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10600,17 +11081,17 @@
     },
     {
       "id": "p_story-i_card-kllj-3-000-01",
-      "title": "白線 1話",
+      "title": "白線 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-000-02",
-      "title": "白線 2話",
+      "title": "白線 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-000-03",
-      "title": "白線 3話",
+      "title": "白線 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10640,7 +11121,7 @@
     },
     {
       "id": "p_story-i_card-kllj-3-005-03",
-      "title": "White Night! White Wish! 3話",
+      "title": "White Night! White Wish! 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10660,47 +11141,47 @@
     },
     {
       "id": "p_story-i_card-kllj-3-008-01",
-      "title": "極光 1話",
+      "title": "極光 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-008-02",
-      "title": "極光 2話",
+      "title": "極光 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-008-03",
-      "title": "極光 3話",
+      "title": "極光 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-010-01",
-      "title": "櫻花相簿 1話",
+      "title": "櫻花相簿 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-010-02",
-      "title": "櫻花相簿 2話",
+      "title": "櫻花相簿 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-010-03",
-      "title": "櫻花相簿 3話",
+      "title": "櫻花相簿 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-012-01",
-      "title": "Howling over the World 1話",
+      "title": "Howling over the World 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-012-02",
-      "title": "Howling over the World 2話",
+      "title": "Howling over the World 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-012-03",
-      "title": "Howling over the World 3話",
+      "title": "Howling over the World 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10720,17 +11201,17 @@
     },
     {
       "id": "p_story-i_card-shro-3-001-01",
-      "title": "對比第1話",
+      "title": "對比 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-001-02",
-      "title": "對比第2話",
+      "title": "對比 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-001-03",
-      "title": "對比第3話",
+      "title": "對比 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10765,47 +11246,47 @@
     },
     {
       "id": "p_story-i_card-shro-3-008-01",
-      "title": "快樂的千層糕 1話",
+      "title": "幸福千層酥 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-008-02",
-      "title": "快樂的千層糕 2話",
+      "title": "幸福千層酥 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-008-03",
-      "title": "快樂的千層糕 3話",
+      "title": "幸福千層酥 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-012-01",
-      "title": "褪色 1話",
+      "title": "褪色 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-012-02",
-      "title": "褪色 2話",
+      "title": "褪色 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-012-03",
-      "title": "褪色 3話",
+      "title": "褪色 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-014-01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 1話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-014-02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 2話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-014-03",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 3話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10840,17 +11321,17 @@
     },
     {
       "id": "p_story-i_card-ssmk-3-002-01",
-      "title": "隱藏的我 1話",
+      "title": "隱藏的我 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-002-02",
-      "title": "隱藏的我 2話",
+      "title": "隱藏的我 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-002-03",
-      "title": "隱藏的我 3話",
+      "title": "隱藏的我 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10870,47 +11351,47 @@
     },
     {
       "id": "p_story-i_card-ssmk-3-010-01",
-      "title": "櫻花相簿 1話",
+      "title": "櫻花相簿 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-010-02",
-      "title": "櫻花相簿 2話",
+      "title": "櫻花相簿 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-010-03",
-      "title": "櫻花相簿 3話",
+      "title": "櫻花相簿 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-012-01",
-      "title": "Love & Joy 1話",
+      "title": "Love & Joy 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-012-02",
-      "title": "Love & Joy 2話",
+      "title": "Love & Joy 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-012-03",
-      "title": "Love & Joy 3話",
+      "title": "Love & Joy 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-014-01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 1話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-014-02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 2話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-014-03",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 3話",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！ 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10930,17 +11411,17 @@
     },
     {
       "id": "p_story-i_card-ttmr-3-001-01",
-      "title": "Ivy第1話",
+      "title": "Ivy 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-001-02",
-      "title": "Ivy第2話",
+      "title": "Ivy 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-001-03",
-      "title": "Ivy第3話",
+      "title": "Ivy 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10975,47 +11456,47 @@
     },
     {
       "id": "p_story-i_card-ttmr-3-009-01",
-      "title": "雪解融化 1話",
+      "title": "雪解融化 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-009-02",
-      "title": "雪解融化 2話",
+      "title": "雪解融化 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-009-03",
-      "title": "雪解融化 3話",
+      "title": "雪解融化 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-011-01",
-      "title": "雨後的鳶尾花 1話",
+      "title": "雨後的鳶尾花 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-011-02",
-      "title": "雨後的鳶尾花 2話",
+      "title": "雨後的鳶尾花 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-011-03",
-      "title": "雨後的鳶尾花 3話",
+      "title": "雨後的鳶尾花 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-015-01",
-      "title": "全力以赴！ 1話",
+      "title": "全力以赴！ 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-015-02",
-      "title": "全力以赴！ 2話",
+      "title": "全力以赴！ 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-015-03",
-      "title": "全力以赴！ 3話",
+      "title": "全力以赴！ 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -11136,6 +11617,16 @@
     {
       "id": "p_story-s_card-1-0011-02",
       "title": "有希望的新生們",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-1-0012-01",
+      "title": "前途無量的1年級生",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-1-0012-02",
+      "title": "考試結果，發表！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -11569,6 +12060,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0046-01",
+      "title": "絕不手下留情！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0046-02",
+      "title": "宿舍的祕寶",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-2-0047-01",
       "title": "用雙跳跳繩來決勝！",
       "produceEventHintProduceConditionDescriptions": []
@@ -11736,6 +12237,16 @@
     {
       "id": "p_story-s_card-2-0065-02",
       "title": "王子殿下意外的一面",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0066-01",
+      "title": "金閃閃的龍",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0066-02",
+      "title": "現在想全力專注在偶像",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12909,6 +13420,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0079-01",
+      "title": "麻煩但能幹的學妹",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0079-02",
+      "title": "午睡與偶爾的課程",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0079-03",
+      "title": "副會長的請求",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0080-01",
       "title": "夾娃娃達人，清夏",
       "produceEventHintProduceConditionDescriptions": []
@@ -12921,6 +13447,36 @@
     {
       "id": "p_story-s_card-3-0080-03",
       "title": "用動漫歌曲來一決勝負！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0081-01",
+      "title": "互相交換的最喜歡",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0081-02",
+      "title": "登場，姐姐聖誕老人！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0081-03",
+      "title": "目標送來的禮物",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0086-01",
+      "title": "挑戰超級可愛拍貼！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0086-02",
+      "title": "挑戰超大聖代！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0086-03",
+      "title": "挑戰青梅約會！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12940,17 +13496,17 @@
     },
     {
       "id": "story-dearness-amao-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12994,18 +13550,68 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "story-dearness-atbm-001",
+      "title": "第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-002",
+      "title": "第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-003",
+      "title": "第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-004",
+      "title": "第4話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-005",
+      "title": "第5話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-006",
+      "title": "第6話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-007",
+      "title": "第7話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-008",
+      "title": "第8話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-009",
+      "title": "第9話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-atbm-010",
+      "title": "第10話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "story-dearness-fktn-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13050,22 +13656,22 @@
     },
     {
       "id": "story-dearness-fktn-999",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13105,17 +13711,17 @@
     },
     {
       "id": "story-dearness-hrnm-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13160,17 +13766,17 @@
     },
     {
       "id": "story-dearness-hski-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13215,17 +13821,17 @@
     },
     {
       "id": "story-dearness-hume-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13270,17 +13876,17 @@
     },
     {
       "id": "story-dearness-jsna-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13320,17 +13926,17 @@
     },
     {
       "id": "story-dearness-kcna-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13375,17 +13981,17 @@
     },
     {
       "id": "story-dearness-kllj-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13430,17 +14036,17 @@
     },
     {
       "id": "story-dearness-shro-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13485,17 +14091,17 @@
     },
     {
       "id": "story-dearness-ssmk-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13540,17 +14146,17 @@
     },
     {
       "id": "story-dearness-ttmr-001",
-      "title": "1話",
+      "title": "第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-002",
-      "title": "2話",
+      "title": "第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-003",
-      "title": "3話",
+      "title": "第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

@@ -20,17 +20,19 @@
       "id": "help-box-gasha-event",
       "order": 24,
       "name": "巡演活動",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-circle-battle-event",
       "order": 26,
       "name": "地方巡演活動",
-      "texts": [
-        ""
-      ]
+      "texts": []
+    },
+    {
+      "id": "help-competition",
+      "order": 12,
+      "name": "接力競技",
+      "texts": []
     },
     {
       "id": "help-contest",
@@ -47,49 +49,37 @@
       "id": "help-dearness-doost-campaign",
       "order": 11,
       "name": "親密度強化活動",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-dearness-map",
       "order": 10,
       "name": "親密度地圖",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-dearness-top",
       "order": 9,
       "name": "親密度TOP",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-event_mission",
       "order": 25,
       "name": "活動任務",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-event-mission",
       "order": 22,
       "name": "特別任務",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-gasha",
       "order": 14,
       "name": "扭蛋",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-guild",
@@ -104,97 +94,73 @@
       "id": "help-highscore",
       "order": 24,
       "name": "十王邦夫的偶像強化月",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-highscorerush",
       "order": 23,
       "name": "十王邦夫的偶像強化月",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-home",
       "order": 1,
       "name": "主頁",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-idol",
       "order": 2,
       "name": "偶像",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-lesson",
       "order": 6,
       "name": "課程/考試",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-livetour-event",
       "order": 23,
       "name": "巡演活動",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-main-story-event",
       "order": 23,
       "name": "初星交流活動",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-memory",
       "order": 4,
       "name": "回憶",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-menu",
       "order": 19,
       "name": "菜單",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-mission",
       "order": 15,
       "name": "任務",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-panel-mission",
       "order": 21,
       "name": "拼圖任務活動",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-photography-prepare-top",
       "order": 23,
       "name": "偶像攝影",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-produce",
@@ -210,65 +176,49 @@
       "id": "help-producer-ranking",
       "order": 24,
       "name": "製作人排行榜",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-research-event",
       "order": 28,
       "name": "亞紗里老師的培育研討會",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-shop",
       "order": 18,
       "name": "商店",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-story",
       "order": 8,
       "name": "交流",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-story-event",
       "order": 20,
       "name": "故事活動",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-story-event-guild-mission",
       "order": 25,
       "name": "聯動任務",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-support",
       "order": 3,
       "name": "支援卡",
-      "texts": [
-        ""
-      ]
+      "texts": []
     },
     {
       "id": "help-tower",
       "order": 13,
       "name": "偶像之路",
-      "texts": [
-        ""
-      ]
+      "texts": []
     }
   ]
 }

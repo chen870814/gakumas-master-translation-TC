@@ -8,12 +8,12 @@
     {
       "characterId": "amao",
       "name": "有村 麻央",
-      "regexp": "麻央"
+      "regexp": "麻央$"
     },
     {
       "characterId": "atbm",
       "name": "雨夜 燕",
-      "regexp": "燕"
+      "regexp": "燕$"
     },
     {
       "characterId": "fktn",
@@ -33,17 +33,17 @@
     {
       "characterId": "hrnm",
       "name": "姬崎 莉波",
-      "regexp": "莉波"
+      "regexp": "莉波$"
     },
     {
       "characterId": "hski",
       "name": "花海 咲季",
-      "regexp": "咲季"
+      "regexp": "咲季$"
     },
     {
       "characterId": "hume",
       "name": "花海 佑芽",
-      "regexp": "佑芽"
+      "regexp": "佑芽$"
     },
     {
       "characterId": "jkno",
@@ -53,17 +53,17 @@
     {
       "characterId": "jsna",
       "name": "十王 星南",
-      "regexp": "星南"
+      "regexp": "星南$"
     },
     {
       "characterId": "kcna",
       "name": "倉本 千奈",
-      "regexp": "千奈"
+      "regexp": "千奈$"
     },
     {
       "characterId": "kllj",
       "name": "葛城 莉莉婭",
-      "regexp": "莉莉婭"
+      "regexp": "莉莉婭$"
     },
     {
       "characterId": "myu0",
@@ -72,18 +72,18 @@
     },
     {
       "characterId": "nasr",
-      "name": "根緒亞紗里",
+      "name": "根緒 亞紗里",
       "regexp": "亞紗里老師"
     },
     {
       "characterId": "shro",
       "name": "篠澤 廣",
-      "regexp": "廣"
+      "regexp": "廣$"
     },
     {
       "characterId": "ssmk",
-      "name": "紫雲清夏",
-      "regexp": "清夏"
+      "name": "紫雲 清夏",
+      "regexp": "清夏$"
     },
     {
       "characterId": "trda",
@@ -103,7 +103,7 @@
     {
       "characterId": "ttmr",
       "name": "月村 手毬",
-      "regexp": "手毬"
+      "regexp": "手毬$"
     }
   ]
 }

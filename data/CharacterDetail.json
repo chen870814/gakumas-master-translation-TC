@@ -83,13 +83,91 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "照顧他人、觀劇"
+      "content": "照顧他人、觀看戲劇表演"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
       "content": "以帥氣偶像為目標的小巧三年級生。被後輩們仰慕為「小小的王子殿下」。\n自幼憧憬歌劇明星，曾作為童星活躍，\n但最近因理想形象與身體成長產生的落差而煩惱。"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "三年級生"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "169"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "51"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "80/55/82"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "金牛座"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "天音 ゆかり"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "5月20日"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "東京都"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "秘書綜合技能、數學、書法"
+    },
+    {
+      "characterId": "atbm",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "書法、歷史（日本史）、閱讀"
     },
     {
       "characterId": "fktn",

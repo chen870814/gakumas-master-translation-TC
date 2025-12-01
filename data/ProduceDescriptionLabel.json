@@ -50,86 +50,62 @@
     },
     {
       "id": "Convert_001",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "課程"
     },
     {
       "id": "Convert_002",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "課程"
     },
     {
       "id": "Convert_ConditionThreshold",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "課程CLEAR的"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "課程未CLEAR"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "10%"
     },
     {
       "id": "Convert_ConditionThreshold_Value_1000",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "100%"
     },
     {
       "id": "Convert_ConditionThreshold_Value_300",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "30%"
     },
     {
       "id": "Convert_ConditionThreshold_Value_500",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "50%"
     },
     {
       "id": "Convert_StepLessonType_DanceLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【僅限Da.課程・Da.回合】"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【僅限SP課程】"
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【僅限Vi.課程・Vi.回合】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "【僅限Vo.課程・Vo.回合】"
     },
     {
@@ -218,9 +194,7 @@
     },
     {
       "id": "Label_Audition",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "考試・試鏡"
     },
     {
@@ -2098,7 +2072,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "從弱體狀態中回復"
+          "text": "從低下狀態中回復"
         }
       ],
       "name": "低下狀態回復"
@@ -3371,9 +3345,7 @@
     },
     {
       "id": "Label_ExamLesson",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "打分"
     },
     {
@@ -3896,26 +3868,6 @@
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_ExamLesson",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "",
-          "text": "打分"
-        },
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "",
-          "text": "上升量將"
-        },
-        {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
           "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
@@ -3951,7 +3903,27 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的最小值中適用，每有1點增加10%"
+          "text": "二者間的最小值，每有1點，"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLesson",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "打分"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "上升量增加2%（最大50%）"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3964,7 +3936,7 @@
           "text": ""
         }
       ],
-      "name": "自尊"
+      "name": "自豪感"
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
@@ -5780,9 +5752,7 @@
     },
     {
       "id": "Label_ExamStaminaDamage",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "體力減少"
     },
     {
@@ -5823,9 +5793,7 @@
     },
     {
       "id": "Label_ExamStaminaRecoverFix",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "體力回復"
     },
     {
@@ -7100,37 +7068,27 @@
     },
     {
       "id": "Label_ProduceCardPositionType_DeckFirst",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "牌堆的最頂部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckLast",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "牌堆的最底部"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "牌堆中隨機位置"
     },
     {
       "id": "Label_ProduceCardPositionType_Grave",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "棄牌"
     },
     {
       "id": "Label_ProduceCardPositionType_Hand",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "手牌"
     },
     {
@@ -7171,9 +7129,7 @@
     },
     {
       "id": "Label_ProduceCardPositionType_Lost",
-      "produceDescriptions": [
-        ""
-      ],
+      "produceDescriptions": [],
       "name": "除外"
     },
     {

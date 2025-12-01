@@ -126,6 +126,51 @@
       "description": "【看著我】有村麻央 獲得"
     },
     {
+      "id": "costume_head_atbm-cstm-0000",
+      "name": "初（hajime）",
+      "description": "初始持有"
+    },
+    {
+      "id": "costume_head_atbm-cstm-0106",
+      "name": "用理論武装",
+      "description": "【用理論武装】雨夜燕 獲得"
+    },
+    {
+      "id": "costume_head_atbm-cstm-0107",
+      "name": "用理論武装",
+      "description": "【用理論武装】雨夜燕的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_atbm-hair-0001",
+      "name": "紫陽花髮飾",
+      "description": "購買紫陽花髮飾（雨夜燕）"
+    },
+    {
+      "id": "costume_head_atbm-hair-0003",
+      "name": "圓框眼鏡",
+      "description": "購買圓框眼鏡（雨夜燕）"
+    },
+    {
+      "id": "costume_head_atbm-hair-0004",
+      "name": "貓耳",
+      "description": "購買貓耳（雨夜燕）"
+    },
+    {
+      "id": "costume_head_atbm-hair-0006",
+      "name": "初星☆配飾",
+      "description": "購買初星☆配飾（雨夜燕）"
+    },
+    {
+      "id": "costume_head_atbm-hair-0007",
+      "name": "淚滴形眼鏡",
+      "description": "購買淚滴形眼鏡（雨夜燕）"
+    },
+    {
+      "id": "costume_head_atbm-hair-0008",
+      "name": "狗耳",
+      "description": "購買狗耳（雨夜燕）"
+    },
+    {
       "id": "costume_head_atbm-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -137,7 +182,7 @@
     },
     {
       "id": "costume_head_fktn-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -248,12 +293,12 @@
     {
       "id": "costume_head_fktn-hair-0003",
       "name": "圓框眼鏡",
-      "description": "高級任務通行證 2024年10月 獲得"
+      "description": "高級任務通行證 2024年10月 等方式獲得"
     },
     {
       "id": "costume_head_fktn-hair-0004",
       "name": "貓耳",
-      "description": "高級任務通行證 2024年11月 獲得"
+      "description": "高級任務通行證 2024年11月 等方式獲得"
     },
     {
       "id": "costume_head_fktn-hair-0006",
@@ -362,7 +407,7 @@
     },
     {
       "id": "costume_head_hrnm-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -458,7 +503,7 @@
     {
       "id": "costume_head_hrnm-hair-0003",
       "name": "圓框眼鏡",
-      "description": "高級任務通行證 2024年10月 獲得"
+      "description": "高級任務通行證 2024年10月 等方式獲得"
     },
     {
       "id": "costume_head_hrnm-hair-0004",
@@ -487,7 +532,7 @@
     },
     {
       "id": "costume_head_hski-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -583,7 +628,7 @@
     {
       "id": "costume_head_hski-hair-0004",
       "name": "貓耳",
-      "description": "高級任務通行證 2024年11月 獲得"
+      "description": "高級任務通行證 2024年11月 等方式獲得"
     },
     {
       "id": "costume_head_hski-hair-0006",
@@ -612,7 +657,7 @@
     },
     {
       "id": "costume_head_hume-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -644,6 +689,16 @@
       "id": "costume_head_hume-cstm-0054",
       "name": "Campus mode!!",
       "description": "【Campus mode!!】花海佑芽的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_hume-cstm-0057",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】花海佑芽 獲得"
+    },
+    {
+      "id": "costume_head_hume-cstm-0058",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】花海佑芽的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_hume-cstm-0063",
@@ -693,12 +748,12 @@
     {
       "id": "costume_head_hume-hair-0003",
       "name": "圓框眼鏡",
-      "description": "高級任務通行證 2024年10月 獲得"
+      "description": "高級任務通行證 2024年10月 等方式獲得"
     },
     {
       "id": "costume_head_hume-hair-0004",
       "name": "貓耳",
-      "description": "高級任務通行證 2024年12月 獲得"
+      "description": "高級任務通行證 2024年12月 等方式獲得"
     },
     {
       "id": "costume_head_hume-hair-0006",
@@ -714,6 +769,11 @@
       "id": "costume_head_hume-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年9月 獲得"
+    },
+    {
+      "id": "costume_head_hume-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年12月 獲得"
     },
     {
       "id": "costume_head_hume-schl-0000",
@@ -793,7 +853,7 @@
     {
       "id": "costume_head_jsna-hair-0004",
       "name": "貓耳",
-      "description": "高級任務通行證 2024年12月 獲得"
+      "description": "高級任務通行證 2024年12月 等方式獲得"
     },
     {
       "id": "costume_head_jsna-hair-0006",
@@ -898,12 +958,12 @@
     {
       "id": "costume_head_kcna-hair-0003",
       "name": "圓框眼鏡",
-      "description": "高級任務通行證 2024年10月 獲得"
+      "description": "高級任務通行證 2024年10月 等方式獲得"
     },
     {
       "id": "costume_head_kcna-hair-0004",
       "name": "貓耳",
-      "description": "高級任務通行證 2024年12月 獲得"
+      "description": "高級任務通行證 2024年12月 等方式獲得"
     },
     {
       "id": "costume_head_kcna-hair-0006",
@@ -919,6 +979,11 @@
       "id": "costume_head_kcna-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年9月 獲得"
+    },
+    {
+      "id": "costume_head_kcna-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年12月 獲得"
     },
     {
       "id": "costume_head_kcna-hair-0013",
@@ -1123,7 +1188,7 @@
     {
       "id": "costume_head_shro-hair-0004",
       "name": "貓耳",
-      "description": "高級任務通行證 2024年12月 獲得"
+      "description": "高級任務通行證 2024年12月 等方式獲得"
     },
     {
       "id": "costume_head_shro-hair-0006",
@@ -1139,6 +1204,11 @@
       "id": "costume_head_shro-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年9月 獲得"
+    },
+    {
+      "id": "costume_head_shro-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年12月 獲得"
     },
     {
       "id": "costume_head_shro-hair-0011",
@@ -1252,7 +1322,7 @@
     },
     {
       "id": "costume_head_ttmr-cstm-0000",
-      "name": "初始",
+      "name": "初（hajime）",
       "description": "初始持有"
     },
     {
@@ -1343,7 +1413,7 @@
     {
       "id": "costume_head_ttmr-hair-0004",
       "name": "貓耳",
-      "description": "高級任務通行證 2024年11月 獲得"
+      "description": "高級任務通行證 2024年11月 等方式獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0006",

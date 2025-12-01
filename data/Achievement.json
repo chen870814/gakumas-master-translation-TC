@@ -216,6 +216,66 @@
       "description": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-atbm-2-000-01",
+      "name": "紫電一閃",
+      "description": "【初志貫徹】在雨夜燕的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-02",
+      "name": "初志貫徹",
+      "description": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-03",
+      "name": "畢竟我是你負責的偶像嘛！",
+      "description": "【初志貫徹】在雨夜燕的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-04",
+      "name": "初志貫徹+",
+      "description": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-05",
+      "name": "初志貫徹++",
+      "description": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-06",
+      "name": "初志貫徹+++",
+      "description": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-01",
+      "name": "我，絕不",
+      "description": "【用理論武装】在雨夜燕的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-02",
+      "name": "用理論武装",
+      "description": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-03",
+      "name": "因為，我就是想這麼做",
+      "description": "【用理論武装】在雨夜燕的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-04",
+      "name": "用理論武装+",
+      "description": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-05",
+      "name": "用理論武装++",
+      "description": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-06",
+      "name": "用理論武装+++",
+      "description": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-fktn-2-000-04",
       "name": "可愛♡開始啦 +",
       "description": "【可愛♡開始啦】將藤田琴音的特訓階段提升至{threshold}級"
@@ -1174,6 +1234,36 @@
       "id": "achieve-i_card-hume-3-006-06",
       "name": "Campus mode!! +++",
       "description": "【Campus mode!!】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-01",
+      "name": "石頭剪刀布",
+      "description": "【呼嚕呼嚕】在花海佑芽的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-02",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-03",
+      "name": "我們一起，去尋找那答案！",
+      "description": "【呼嚕呼嚕】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-04",
+      "name": "呼嚕呼嚕 +",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-05",
+      "name": "呼嚕呼嚕 ++",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-06",
+      "name": "呼嚕呼嚕 +++",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-012-01",
@@ -2468,62 +2558,67 @@
     {
       "id": "achieve-m_amao-001",
       "name": "大師成就",
-      "description": "有村麻央的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的有村麻央的成就★"
+    },
+    {
+      "id": "achieve-m_atbm-001",
+      "name": "大師成就",
+      "description": "獲得{threshold}個的雨夜燕的成就★"
     },
     {
       "id": "achieve-m_fktn-001",
       "name": "大師成就",
-      "description": "藤田琴音的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的藤田琴音的成就★"
     },
     {
       "id": "achieve-m_hmsz-001",
       "name": "大師成就",
-      "description": "秦谷美鈴的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的秦谷美鈴的成就★"
     },
     {
       "id": "achieve-m_hrnm-001",
       "name": "大師成就",
-      "description": "姬崎莉波的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的姬崎莉波的成就★"
     },
     {
       "id": "achieve-m_hski-001",
       "name": "大師成就",
-      "description": "花海咲季的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的花海咲季的成就★"
     },
     {
       "id": "achieve-m_hume-001",
       "name": "大師成就",
-      "description": "花海佑芽的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的花海佑芽的成就★"
     },
     {
       "id": "achieve-m_jsna-001",
       "name": "大師成就",
-      "description": "十王星南的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的十王星南的成就★"
     },
     {
       "id": "achieve-m_kcna-001",
       "name": "大師成就",
-      "description": "倉本千奈的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的倉本千奈的成就★"
     },
     {
       "id": "achieve-m_kllj-001",
       "name": "大師成就",
-      "description": "葛城莉莉婭的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的葛城莉莉婭的成就★"
     },
     {
       "id": "achieve-m_shro-001",
       "name": "大師成就",
-      "description": "篠澤廣的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的篠澤廣的成就★"
     },
     {
       "id": "achieve-m_ssmk-001",
       "name": "大師成就",
-      "description": "紫雲清夏的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的紫雲清夏的成就★"
     },
     {
       "id": "achieve-m_ttmr-001",
       "name": "大師成就",
-      "description": "月村手毬的成就★獲得了{threshold}個"
+      "description": "獲得{threshold}個的月村手毬的成就★"
     },
     {
       "id": "achieve-o_001",
@@ -2838,7 +2933,7 @@
     {
       "id": "achieve-p_idol-amao-008",
       "name": "理想與現實",
-      "description": "有村麻央的特訓階段提升至{threshold}級"
+      "description": "將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-amao-009",
@@ -2873,7 +2968,7 @@
     {
       "id": "achieve-p_idol-amao-015",
       "name": "「偶像之路」有村麻央",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-amao-016",
@@ -2908,7 +3003,107 @@
     {
       "id": "achieve-p_idol-amao-022",
       "name": "理想與現實",
-      "description": "有村麻央的特訓階段提升至{threshold}級"
+      "description": "將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000",
+      "name": "價值的證明",
+      "description": "觀看雨夜燕的True End"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000-1",
+      "name": "如果沒有你，我將",
+      "description": "觀看雨夜燕的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-atbm-001",
+      "name": "把握現狀",
+      "description": "在雨夜燕的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-002",
+      "name": "學園No.2的實力",
+      "description": "使用雨夜燕完成{threshold}次課程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-003",
+      "name": "天生的才能",
+      "description": "使用雨夜燕完成{threshold}次SP課程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-004",
+      "name": "過高的自尊",
+      "description": "使用雨夜燕通過最終考試並獲得{threshold}次B以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-005",
+      "name": "超越的道路",
+      "description": "使用雨夜燕通過最終考試並獲得{threshold}次A以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-006",
+      "name": "吞噬頂點的覺悟",
+      "description": "使用雨夜燕通過最終考試並獲得{threshold}次S以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-007",
+      "name": "反叛的狼煙",
+      "description": "完成雨夜燕的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-008",
+      "name": "突破禁錮之後",
+      "description": "將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-p_idol-atbm-009",
+      "name": "不滅的火焰",
+      "description": "在有村麻央的培育中通過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-atbm-010",
+      "name": "反派系偶像",
+      "description": "使有村麻央獲得{threshold}粉絲"
+    },
+    {
+      "id": "achieve-p_idol-atbm-011",
+      "name": "你要支持我到底",
+      "description": "將有村麻央的親密度提升至Lv{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-012",
+      "name": "滋養強壯",
+      "description": "在有村麻央的培育中使用P飲料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-013",
+      "name": "為了打敗對手",
+      "description": "在雨夜燕的培育中累計獲得{threshold}點元氣"
+    },
+    {
+      "id": "achieve-p_idol-atbm-014",
+      "name": "一切都是頂級",
+      "description": "將雨夜燕的Da.能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "achieve-p_idol-atbm-015",
+      "name": "「偶像之路」雨夜燕",
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
+    },
+    {
+      "id": "achieve-p_idol-atbm-016",
+      "name": "至高的喜悅",
+      "description": "使用雨夜燕通過最終考試並獲得S+以上評價{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-017",
+      "name": "雨夜燕大師",
+      "description": "在雨夜燕的定期公演『初』難易度：Master下獲得最終考試第一名"
+    },
+    {
+      "id": "achieve-p_idol-atbm-020",
+      "name": "應當前進的道路",
+      "description": "使用雨夜燕通過最終考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -3263,7 +3458,7 @@
     {
       "id": "achieve-p_idol-fktn-015",
       "name": "「偶像之路」藤田琴音",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-fktn-016",
@@ -3348,7 +3543,7 @@
     {
       "id": "achieve-p_idol-hmsz-008",
       "name": "能睡的孩子長得壯",
-      "description": "秦谷美鈴的特訓階段提升至{threshold}級"
+      "description": "將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-hmsz-009",
@@ -3383,7 +3578,7 @@
     {
       "id": "achieve-p_idol-hmsz-015",
       "name": "「偶像之路」秦谷美鈴",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hmsz-016",
@@ -3498,7 +3693,7 @@
     {
       "id": "achieve-p_idol-hrnm-015",
       "name": "「偶像之路」姬崎莉波",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hrnm-016",
@@ -3618,7 +3813,7 @@
     {
       "id": "achieve-p_idol-hski-015",
       "name": "「偶像之路」花海咲季",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hski-016",
@@ -3738,7 +3933,7 @@
     {
       "id": "achieve-p_idol-hume-015",
       "name": "「偶像之路」花海佑芽",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hume-016",
@@ -3853,7 +4048,7 @@
     {
       "id": "achieve-p_idol-jsna-015",
       "name": "「偶像之路」十王星南",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-jsna-016",
@@ -3968,7 +4163,7 @@
     {
       "id": "achieve-p_idol-kcna-015",
       "name": "「偶像之路」倉本千奈",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-kcna-016",
@@ -4048,7 +4243,7 @@
     {
       "id": "achieve-p_idol-kllj-008",
       "name": "即使是以步行的速度",
-      "description": "葛城莉莉婭的特訓階段提升至{threshold}級"
+      "description": "將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-kllj-009",
@@ -4083,7 +4278,7 @@
     {
       "id": "achieve-p_idol-kllj-015",
       "name": "「偶像之路」葛城莉莉婭",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-kllj-016",
@@ -4198,7 +4393,7 @@
     {
       "id": "achieve-p_idol-shro-015",
       "name": "「偶像之路」篠澤廣",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-shro-016",
@@ -4318,7 +4513,7 @@
     {
       "id": "achieve-p_idol-ssmk-015",
       "name": "「偶像之路」紫雲清夏",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-ssmk-016",
@@ -4433,7 +4628,7 @@
     {
       "id": "achieve-p_idol-ttmr-015",
       "name": "「偶像之路」月村手毬",
-      "description": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "description": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-ttmr-016",
@@ -4478,7 +4673,7 @@
     {
       "id": "achievement_char_kllj-024",
       "name": "即使是以步行的速度",
-      "description": "葛城莉莉婭的特訓階段提升至{threshold}級"
+      "description": "將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achievement_char_ssmk-024",

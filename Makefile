@@ -22,3 +22,9 @@ tran:
 
 check:
 	python scripts/check_different_files.py
+
+diff:
+	python pretranslate_todo/localization/make_dual.py
+
+difffin:
+	python pretranslate_todo/localization/extract_chinese.py

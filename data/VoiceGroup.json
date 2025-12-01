@@ -29,12 +29,12 @@
     {
       "id": "voice_group-amao-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-amao-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-amao-cstm-0004-cmmn",
@@ -264,6 +264,96 @@
     {
       "id": "voice_group-amao-trng-0002-cmmn",
       "voiceAssetId": "sud_vo_system_amao-trng-0002_02",
+      "title": "初星學園體操服"
+    },
+    {
+      "id": "voice_group-atbm-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-casl-0002_01",
+      "title": "鐘意的便服"
+    },
+    {
+      "id": "voice_group-atbm-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-casl-0002_02",
+      "title": "鐘意的便服"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0000_01",
+      "title": "初（hajime）"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0000_02",
+      "title": "初（hajime）"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0069-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0069_01",
+      "title": "兒童罩衫"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0069-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0069_02",
+      "title": "兒童罩衫"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0106-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0107_01",
+      "title": "用理論武装"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0106-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0107_02",
+      "title": "用理論武装"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0111-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0111_01",
+      "title": "水手服泳裝"
+    },
+    {
+      "id": "voice_group-atbm-cstm-0111-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0111_02",
+      "title": "水手服泳裝"
+    },
+    {
+      "id": "voice_group-atbm-othr-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-othr-0002_01",
+      "title": "溫泉泳裝"
+    },
+    {
+      "id": "voice_group-atbm-othr-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-othr-0002_02",
+      "title": "溫泉泳裝"
+    },
+    {
+      "id": "voice_group-atbm-schl-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-schl-0000_01",
+      "title": "日常制服"
+    },
+    {
+      "id": "voice_group-atbm-schl-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-schl-0000_02",
+      "title": "日常制服"
+    },
+    {
+      "id": "voice_group-atbm-trng-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-trng-0000_01",
+      "title": "練習服"
+    },
+    {
+      "id": "voice_group-atbm-trng-0000-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-trng-0000_02",
+      "title": "練習服"
+    },
+    {
+      "id": "voice_group-atbm-trng-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-trng-0002_01",
+      "title": "初星學園體操服"
+    },
+    {
+      "id": "voice_group-atbm-trng-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_atbm-trng-0002_02",
       "title": "初星學園體操服"
     },
     {
@@ -1034,6 +1124,86 @@
     {
       "id": "voice_group-cidol-amao-3-015-produce_schedule",
       "voiceAssetId": "sud_vo_system_cidol-amao-3-015_produce_schedule-04",
+      "title": "培育④"
+    },
+    {
+      "id": "voice_group-cidol-atbm-1-000-detail",
+      "voiceAssetId": "sud_vo_system_atbm-schl-0000_01",
+      "title": "換裝①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-1-000-detail",
+      "voiceAssetId": "sud_vo_system_atbm-schl-0000_02",
+      "title": "換裝②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-2-000-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0000_01",
+      "title": "換裝①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-2-000-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0000_02",
+      "title": "換裝②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000_home",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0107_01",
+      "title": "換裝①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-detail",
+      "voiceAssetId": "sud_vo_system_atbm-cstm-0107_02",
+      "title": "換裝②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-detail",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-atbm-3-000-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_produce_schedule-04",
       "title": "培育④"
     },
     {
@@ -2135,6 +2305,46 @@
       "id": "voice_group-cidol-hmsz-3-005-produce_schedule",
       "voiceAssetId": "sud_vo_system_cidol-hmsz-3-005_produce_schedule-04",
       "title": "培育④"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_01",
+      "title": "換裝①"
+    },
+    {
+      "id": "voice_group-cidol-hmsz-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_02",
+      "title": "換裝②"
     },
     {
       "id": "voice_group-cidol-hmsz-3-010_home",
@@ -4224,6 +4434,66 @@
     {
       "id": "voice_group-cidol-hume-3-006-produce_schedule",
       "voiceAssetId": "sud_vo_system_cidol-hume-3-006_produce_schedule-04",
+      "title": "培育④"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009_home",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_01",
+      "title": "換裝①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-detail",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_02",
+      "title": "換裝②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-hume-3-009-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-04",
       "title": "培育④"
     },
     {
@@ -9019,12 +9289,12 @@
     {
       "id": "voice_group-fktn-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-fktn-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-fktn-cstm-0001-cmmn",
@@ -9279,12 +9549,12 @@
     {
       "id": "voice_group-hmsz-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hmsz-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hmsz-cstm-0011-cmmn",
@@ -9397,6 +9667,16 @@
       "title": "Star-mine"
     },
     {
+      "id": "voice_group-hmsz-cstm-0119-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_01",
+      "title": "何時何地簡簡單單"
+    },
+    {
+      "id": "voice_group-hmsz-cstm-0119-cmmn",
+      "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_02",
+      "title": "何時何地簡簡單單"
+    },
+    {
       "id": "voice_group-hmsz-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0122_01",
       "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
@@ -9469,12 +9749,12 @@
     {
       "id": "voice_group-hrnm-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hrnm-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hrnm-cstm-0005-cmmn",
@@ -9739,12 +10019,12 @@
     {
       "id": "voice_group-hski-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hski-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hski-cstm-0002-cmmn",
@@ -9989,12 +10269,12 @@
     {
       "id": "voice_group-hume-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hume-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-hume-cstm-0010-cmmn",
@@ -10035,6 +10315,16 @@
       "id": "voice_group-hume-cstm-0053-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0053_02",
       "title": "Campus mode!!"
+    },
+    {
+      "id": "voice_group-hume-cstm-0057-cmmn",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_01",
+      "title": ""
+    },
+    {
+      "id": "voice_group-hume-cstm-0057-cmmn",
+      "voiceAssetId": "sud_vo_system_hume-cstm-0057_02",
+      "title": ""
     },
     {
       "id": "voice_group-hume-cstm-0063-cmmn",
@@ -10197,14 +10487,24 @@
       "title": "初星學園體操服"
     },
     {
+      "id": "voice_group-jsna-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_jsna-casl-0002_01",
+      "title": "鐘意的便服"
+    },
+    {
+      "id": "voice_group-jsna-casl-0002-cmmn",
+      "voiceAssetId": "sud_vo_system_jsna-casl-0002_02",
+      "title": "鐘意的便服"
+    },
+    {
       "id": "voice_group-jsna-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-jsna-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-jsna-cstm-0012-cmmn",
@@ -10449,12 +10749,12 @@
     {
       "id": "voice_group-kcna-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-kcna-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-kcna-cstm-0008-cmmn",
@@ -10699,12 +10999,12 @@
     {
       "id": "voice_group-kllj-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-kllj-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-kllj-cstm-0007-cmmn",
@@ -10999,12 +11299,12 @@
     {
       "id": "voice_group-shro-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-shro-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-shro-cstm-0006-cmmn",
@@ -11259,12 +11559,12 @@
     {
       "id": "voice_group-ssmk-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-ssmk-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-ssmk-cstm-0009-cmmn",
@@ -11534,12 +11834,12 @@
     {
       "id": "voice_group-ttmr-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0000_01",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-ttmr-cstm-0000-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0000_02",
-      "title": "初始"
+      "title": "初（hajime）"
     },
     {
       "id": "voice_group-ttmr-cstm-0003-cmmn",

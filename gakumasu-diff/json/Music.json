@@ -136,6 +136,11 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-atbm-001",
+            "title": "初",
+            "displayTitle": "初（はじめ）"
+        },
+        {
             "id": "music-all-fktn-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -224,6 +229,11 @@
             "id": "music-all-hmsz-005",
             "title": "仮装狂騒曲",
             "displayTitle": "仮装狂騒曲"
+        },
+        {
+            "id": "music-all-hmsz-008",
+            "title": "古今東西ちょちょいのちょい",
+            "displayTitle": "古今東西ちょちょいのちょい"
         },
         {
             "id": "music-all-hmsz-012",
@@ -976,6 +986,16 @@
             "displayTitle": "幕間にキミと"
         },
         {
+            "id": "music-bgm-01_035",
+            "title": "アイドルへの道",
+            "displayTitle": "アイドルへの道"
+        },
+        {
+            "id": "music-bgm-01_036",
+            "title": "標 [BGM Arrange]",
+            "displayTitle": "標 [BGM Arrange]"
+        },
+        {
             "id": "music-char-amao-001",
             "title": "Fluorite",
             "displayTitle": ""
@@ -1014,6 +1034,16 @@
             "id": "music-char-amao-004-inst",
             "title": "見て [Instrumental]",
             "displayTitle": "見て [Instrumental]"
+        },
+        {
+            "id": "music-char-atbm-001",
+            "title": "理論武装して",
+            "displayTitle": "理論武装して"
+        },
+        {
+            "id": "music-char-atbm-001-inst",
+            "title": "理論武装して [Instrumental]",
+            "displayTitle": "理論武装して [Instrumental]"
         },
         {
             "id": "music-char-fktn-001",
@@ -1156,6 +1186,16 @@
             "displayTitle": "The Rolling Riceball [Instrumental]"
         },
         {
+            "id": "music-char-hume-002",
+            "title": "グースーピー",
+            "displayTitle": "グースーピー"
+        },
+        {
+            "id": "music-char-hume-002-inst",
+            "title": "グースーピー [Instrumental]",
+            "displayTitle": "グースーピー [Instrumental]"
+        },
+        {
             "id": "music-char-hume-003",
             "title": "つよつよ最強エクササイズ",
             "displayTitle": "つよつよ最強エクササイズ"
@@ -1194,6 +1234,16 @@
             "id": "music-char-jsna-003-inst",
             "title": "Cosmetic [Instrumental]",
             "displayTitle": "Cosmetic [Instrumental]"
+        },
+        {
+            "id": "music-char-jsna-005",
+            "title": "Choo Choo Choo",
+            "displayTitle": "Choo Choo Choo"
+        },
+        {
+            "id": "music-char-jsna-005-inst",
+            "title": "Choo Choo Choo [Instrumental]",
+            "displayTitle": "Choo Choo Choo [Instrumental]"
         },
         {
             "id": "music-char-kcna-001",

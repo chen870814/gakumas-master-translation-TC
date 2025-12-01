@@ -351,51 +351,55 @@
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-amao-3-000-b",
-      "name": "SSR麻央獲得B評價"
+      "name": "使用SSR麻央獲得B評價"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-atbm-3-000-b",
+      "name": "使用SSR燕達成B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-fktn-3-000-b",
-      "name": "SSR琴音獲得B評價"
+      "name": "使用SSR琴音獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
-      "name": "SSR美鈴獲得B評價"
+      "name": "使用SSR美鈴獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-hrnm-3-000-b",
-      "name": "SSR莉波獲得B評價"
+      "name": "使用SSR莉波獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-hski-3-000-b",
-      "name": "SSR咲季獲得B評價"
+      "name": "使用SSR咲季獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-hume-3-000-b",
-      "name": "SSR佑芽獲得B評價"
+      "name": "使用SSR佑芽獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-jsna-3-000-b",
-      "name": "SSR星南獲得B評價"
+      "name": "使用SSR星南獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-kcna-3-000-b",
-      "name": "SSR千奈獲得B評價"
+      "name": "使用SSR千奈獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-kllj-3-000-b",
-      "name": "SSR莉莉婭獲得B評價"
+      "name": "使用SSR莉莉婭獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-shro-3-000-b",
-      "name": "SSR廣獲得B評價"
+      "name": "使用SSR廣獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-ssmk-3-000-b",
-      "name": "SSR清夏獲得B評價"
+      "name": "使用SSR清夏獲得B評價"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-ttmr-3-000-b",
-      "name": "SSR手毬獲得B評價"
+      "name": "使用SSR手毬獲得B評價"
     },
     {
       "id": "hidden_mission-normal-shro-piece-pack-remind",
@@ -530,6 +534,10 @@
       "name": "觀看麻央的A End"
     },
     {
+      "id": "hidden_mission-view-ending-normal-a-atbm",
+      "name": "觀看燕的A-End"
+    },
+    {
       "id": "hidden_mission-view-ending-normal-a-fktn",
       "name": "觀看琴音的A End"
     },
@@ -572,6 +580,10 @@
     {
       "id": "hidden_mission-view-ending-normal-b-amao",
       "name": "觀看麻央的B End"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-atbm",
+      "name": "觀看燕的B-End"
     },
     {
       "id": "hidden_mission-view-ending-normal-b-fktn",
@@ -618,6 +630,10 @@
       "name": "觀看麻央的C End"
     },
     {
+      "id": "hidden_mission-view-ending-normal-c-atbm",
+      "name": "觀看燕的C-End"
+    },
+    {
       "id": "hidden_mission-view-ending-normal-c-fktn",
       "name": "觀看琴音的C End"
     },
@@ -660,6 +676,10 @@
     {
       "id": "hidden_mission-view-ending-true-amao",
       "name": "觀看麻央的True End"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-atbm",
+      "name": "觀看燕的True End"
     },
     {
       "id": "hidden_mission-view-ending-true-fktn",
@@ -768,6 +788,10 @@
     {
       "id": "hidden_mission-view-gasha-00540-free-10-005",
       "name": "抽取{threshold}次來自亞紗里老師的禮物！最多100連無料！10連無料扭蛋"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00640-pickup-002",
+      "name": "抽取{threshold}次1.5th記念 期間限定&Re;IRIS登場！SSR15%扭蛋"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -1323,7 +1347,7 @@
     },
     {
       "id": "mission-daily-incrementpvpratewincount-1",
-      "name": "挑戰{threshold}次競技場吧"
+      "name": "挑戰{threshold}次接力競技吧"
     },
     {
       "id": "mission-daily-incrementreceivemoney-1",
@@ -3851,55 +3875,63 @@
     },
     {
       "id": "mission-normal-produce-clear-amao-c",
-      "name": "麻央達成C評價"
+      "name": "使用麻央達成C評價"
+    },
+    {
+      "id": "mission-normal-produce-clear-atbm-c",
+      "name": "使用燕達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-fktn-c",
-      "name": "琴音達成C評價"
+      "name": "使用琴音達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-hmsz-c",
-      "name": "美鈴達成C評價"
+      "name": "使用美鈴達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-hrnm-c",
-      "name": "莉波達成C評價"
+      "name": "使用莉波達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-hski-c",
-      "name": "咲季達成C評價"
+      "name": "使用咲季達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-hume-c",
-      "name": "佑芽達成C評價"
+      "name": "使用佑芽達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-jsna-c",
-      "name": "星南達成C評價"
+      "name": "使用星南達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-kcna-c",
-      "name": "千奈達成C評價"
+      "name": "使用千奈達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-kllj-c",
-      "name": "莉莉婭達成C評價"
+      "name": "使用莉莉婭達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-shro-c",
-      "name": "廣達成C評價"
+      "name": "使用廣達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-ssmk-c",
-      "name": "清夏達成C評價"
+      "name": "使用清夏達成C評價"
     },
     {
       "id": "mission-normal-produce-clear-ttmr-c",
-      "name": "手毬達成C評價"
+      "name": "使用手毬達成C評價"
     },
     {
       "id": "mission-normal-profileupdate-1",
       "name": "設定個人資料吧"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_atbm-0001",
+      "name": "燕碎片禮包觸發條件"
     },
     {
       "id": "mission-normal-view-shop_pack_hmsz-0001",
@@ -4454,6 +4486,30 @@
       "name": "完成{threshold}次SP課程吧"
     },
     {
+      "id": "mission-story-event-010-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_2",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_3",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_4",
+      "name": "在培育的諮詢中兌換{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-010-mission_5",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-story-event-010-mission_6",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
       "id": "mission-story-event-013-mission_1",
       "name": "登入{threshold}天吧"
     },
@@ -4504,6 +4560,10 @@
     {
       "id": "mission-tour-event-001-mission_7",
       "name": "完成{threshold}次SP課程吧"
+    },
+    {
+      "id": "mission-weekly-competitionplaycount-1",
+      "name": "挑戰{threshold}次接力競技吧"
     },
     {
       "id": "mission-weekly-incrementgashadrawcount-1",
@@ -4988,6 +5048,54 @@
     {
       "id": "achieve-i_card-amao-3-015-06",
       "name": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-01",
+      "name": "【初志貫徹】在雨夜燕的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-02",
+      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-03",
+      "name": "【初志貫徹】在雨夜燕的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-04",
+      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-05",
+      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-06",
+      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-01",
+      "name": "【用理論武装】在雨夜燕的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-02",
+      "name": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-03",
+      "name": "【用理論武装】在雨夜燕的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-04",
+      "name": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-05",
+      "name": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-06",
+      "name": "【用理論武装】將雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
@@ -5756,6 +5864,30 @@
     {
       "id": "achieve-i_card-hume-3-006-06",
       "name": "【Campus mode!!】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-01",
+      "name": "【呼嚕呼嚕】在花海佑芽的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-02",
+      "name": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-03",
+      "name": "【呼嚕呼嚕】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-04",
+      "name": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-05",
+      "name": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-06",
+      "name": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-012-01",
@@ -6791,51 +6923,55 @@
     },
     {
       "id": "achieve-m_amao-001",
-      "name": "有村麻央的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的有村麻央的成就★"
+    },
+    {
+      "id": "achieve-m_atbm-001",
+      "name": "獲得{threshold}個的雨夜燕的成就★"
     },
     {
       "id": "achieve-m_fktn-001",
-      "name": "藤田琴音的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的藤田琴音的成就★"
     },
     {
       "id": "achieve-m_hmsz-001",
-      "name": "秦谷美鈴的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的秦谷美鈴的成就★"
     },
     {
       "id": "achieve-m_hrnm-001",
-      "name": "姬崎莉波的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的姬崎莉波的成就★"
     },
     {
       "id": "achieve-m_hski-001",
-      "name": "花海咲季的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的花海咲季的成就★"
     },
     {
       "id": "achieve-m_hume-001",
-      "name": "花海佑芽的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的花海佑芽的成就★"
     },
     {
       "id": "achieve-m_jsna-001",
-      "name": "十王星南的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的十王星南的成就★"
     },
     {
       "id": "achieve-m_kcna-001",
-      "name": "倉本千奈的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的倉本千奈的成就★"
     },
     {
       "id": "achieve-m_kllj-001",
-      "name": "葛城莉莉婭的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的葛城莉莉婭的成就★"
     },
     {
       "id": "achieve-m_shro-001",
-      "name": "篠澤廣的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的篠澤廣的成就★"
     },
     {
       "id": "achieve-m_ssmk-001",
-      "name": "紫雲清夏的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的紫雲清夏的成就★"
     },
     {
       "id": "achieve-m_ttmr-001",
-      "name": "月村手毬的成就★獲得了{threshold}個"
+      "name": "獲得{threshold}個的月村手毬的成就★"
     },
     {
       "id": "achieve-o_001",
@@ -7087,7 +7223,7 @@
     },
     {
       "id": "achieve-p_idol-amao-008",
-      "name": "有村麻央的特訓階段提升至{threshold}級"
+      "name": "將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-amao-009",
@@ -7115,7 +7251,7 @@
     },
     {
       "id": "achieve-p_idol-amao-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-amao-016",
@@ -7143,7 +7279,87 @@
     },
     {
       "id": "achieve-p_idol-amao-022",
-      "name": "有村麻央的特訓階段提升至{threshold}級"
+      "name": "將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000",
+      "name": "觀看雨夜燕的True End"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000-1",
+      "name": "觀看雨夜燕的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-atbm-001",
+      "name": "在雨夜燕的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-002",
+      "name": "使用雨夜燕完成{threshold}次課程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-003",
+      "name": "使用雨夜燕完成{threshold}次SP課程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-004",
+      "name": "使用雨夜燕通過最終考試並獲得{threshold}次B以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-005",
+      "name": "使用雨夜燕通過最終考試並獲得{threshold}次A以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-006",
+      "name": "使用雨夜燕通過最終考試並獲得{threshold}次S以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-007",
+      "name": "完成雨夜燕的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-008",
+      "name": "將雨夜燕的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-p_idol-atbm-009",
+      "name": "在雨夜燕的培育中通過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-atbm-010",
+      "name": "使雨夜燕獲得{threshold}粉絲"
+    },
+    {
+      "id": "achieve-p_idol-atbm-011",
+      "name": "將雨夜燕的親密度提升至Lv{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-012",
+      "name": "在雨夜燕的培育中使用P飲料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-013",
+      "name": "在雨夜燕的培育中累計獲得{threshold}點元氣"
+    },
+    {
+      "id": "achieve-p_idol-atbm-014",
+      "name": "將雨夜燕的Da.能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "achieve-p_idol-atbm-015",
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
+    },
+    {
+      "id": "achieve-p_idol-atbm-016",
+      "name": "使用雨夜燕通過最終考試並獲得S+以上評價{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-017",
+      "name": "在雨夜燕的定期公演『初』難易度：Master下獲得最終考試第一名"
+    },
+    {
+      "id": "achieve-p_idol-atbm-020",
+      "name": "使用雨夜燕通過最終考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -7427,7 +7643,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-fktn-016",
@@ -7495,7 +7711,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-008",
-      "name": "秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-hmsz-009",
@@ -7523,7 +7739,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hmsz-016",
@@ -7615,7 +7831,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hrnm-016",
@@ -7711,7 +7927,7 @@
     },
     {
       "id": "achieve-p_idol-hski-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hski-016",
@@ -7807,7 +8023,7 @@
     },
     {
       "id": "achieve-p_idol-hume-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-hume-016",
@@ -7899,7 +8115,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-jsna-016",
@@ -7991,7 +8207,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-kcna-016",
@@ -8055,7 +8271,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-008",
-      "name": "葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-kllj-009",
@@ -8083,7 +8299,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-kllj-016",
@@ -8175,7 +8391,7 @@
     },
     {
       "id": "achieve-p_idol-shro-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-shro-016",
@@ -8271,7 +8487,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-ssmk-016",
@@ -8363,7 +8579,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-015",
-      "name": "在「偶像之路」中獲得{threshold}個★的完成條件"
+      "name": "在「偶像之路」中獲得{threshold}個完成條件的★"
     },
     {
       "id": "achieve-p_idol-ttmr-016",
@@ -8399,7 +8615,7 @@
     },
     {
       "id": "achievement_char_kllj-024",
-      "name": "葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achievement_char_ssmk-024",

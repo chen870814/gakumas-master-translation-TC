@@ -185,8 +185,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 26,
       "title": "初星課題26",
-      "description": "去編成競技場隊伍吧",
-      "homeDescription": "去編成競技場隊伍吧"
+      "description": "去接力競技編成隊伍吧",
+      "homeDescription": "去接力競技編成隊伍吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -339,8 +339,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 48,
       "title": "初星課題48",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -430,8 +430,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 1,
       "title": "P課題1",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -451,8 +451,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 4,
       "title": "P課題4",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -570,15 +570,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 21,
       "title": "P課題21",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 22,
       "title": "P課題22",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -612,8 +612,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 27,
       "title": "P課題27",
-      "description": "去挑戰競技場吧",
-      "homeDescription": "去挑戰競技場吧"
+      "description": "在接力競技中使用{threshold}次技能卡吧",
+      "homeDescription": "在接力競技中使用{threshold}次技能卡吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -640,8 +640,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 31,
       "title": "P課題31",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -689,8 +689,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 38,
       "title": "P課題38",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -717,8 +717,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 42,
       "title": "P課題42",
-      "description": "去挑戰競技場吧",
-      "homeDescription": "去挑戰競技場吧"
+      "description": "在接力競技中使用{threshold}次技能卡吧",
+      "homeDescription": "在接力競技中使用{threshold}次技能卡吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -766,8 +766,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 49,
       "title": "P課題49",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -815,15 +815,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 56,
       "title": "P課題56",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 57,
       "title": "P課題57",
-      "description": "去挑戰競技場吧",
-      "homeDescription": "去挑戰競技場吧"
+      "description": "在接力競技中使用{threshold}次技能卡吧",
+      "homeDescription": "在接力競技中使用{threshold}次技能卡吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -864,8 +864,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 63,
       "title": "P課題63",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -927,8 +927,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 72,
       "title": "P課題72",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -955,8 +955,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 76,
       "title": "P課題76",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -983,8 +983,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 80,
       "title": "P課題80",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1032,8 +1032,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 87,
       "title": "P課題87",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1228,8 +1228,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 15,
       "title": "P課題2-15",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1263,8 +1263,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 20,
       "title": "P課題2-20",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1298,8 +1298,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 25,
       "title": "P課題2-25",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1340,8 +1340,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 31,
       "title": "P課題2-31",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1375,8 +1375,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 36,
       "title": "P課題2-36",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1501,22 +1501,22 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 54,
       "title": "P課題54",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 55,
       "title": "P課題55",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 56,
       "title": "P課題56",
-      "description": "去挑戰競技場吧",
-      "homeDescription": "去挑戰競技場吧"
+      "description": "在接力競技中使用{threshold}次技能卡吧",
+      "homeDescription": "在接力競技中使用{threshold}次技能卡吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1557,15 +1557,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 62,
       "title": "P課題62",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 63,
       "title": "P課題63",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1648,15 +1648,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 75,
       "title": "P課題75",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 76,
       "title": "P課題76",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1795,15 +1795,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 96,
       "title": "P課題96",
-      "description": "讓競技場組合的綜合實力超過{threshold}吧",
-      "homeDescription": "讓競技場組合的綜合實力超過{threshold}吧"
+      "description": "讓接力競技的組合綜合實力超過{threshold}吧",
+      "homeDescription": "讓接力競技的組合綜合實力超過{threshold}吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 97,
       "title": "P課題97",
-      "description": "在競技場中得分{threshold}以上吧",
-      "homeDescription": "在競技場中得分{threshold}以上吧"
+      "description": "在接力競技上獲得{threshold}以上的舞台累計高分吧",
+      "homeDescription": "在接力競技上獲得{threshold}以上的舞台累計高分吧"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",

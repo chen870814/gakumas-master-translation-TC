@@ -186,8 +186,14 @@
       "acquisitionRouteDescription": "出租、社團捐贈等方式"
     },
     {
+      "id": "item-gacha-coin-18m-aniv-001",
+      "name": "1.5th 初美醬硬幣",
+      "description": "可以在1.5th Anniversary硬幣扭蛋中使用的硬幣",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-gacha-coin-anniversary-001",
-      "name": "初星醬硬幣",
+      "name": "初美醬硬幣",
       "description": "可以在1st Anniversary硬幣扭蛋中使用的硬幣",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -196,6 +202,12 @@
       "name": "初星福引券 2025",
       "description": "可以在謹賀新年！福引扭蛋中使用的道具",
       "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
+      "name": "1.5th Anniversary季節紀念限定SSR確定扭蛋票卷",
+      "description": "1.5th Anniversary季節紀念限定SSR確定扭蛋中使用的票卷",
+      "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaitem-10_01",
@@ -217,8 +229,8 @@
     },
     {
       "id": "item-gashaticket-ssr-fix_1",
-      "name": "SSR必得扭蛋票卷",
-      "description": "可以在SSR必得扭蛋中使用的票卷",
+      "name": "SSR確定扭蛋票卷",
+      "description": "可以在SSR確定扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
@@ -234,9 +246,15 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-fix_5",
+      "name": "1.5th Anniversary紀念 SSR必得票卷",
+      "description": "可以在1.5th Anniversary紀念 SSR必得票卷扭蛋中使用的票卷",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-idol-fix_1",
-      "name": "SSR P偶像必得扭蛋票卷",
-      "description": "可以在SSR P偶像必得扭蛋中使用的票卷",
+      "name": "SSR P偶像確定扭蛋票卷",
+      "description": "可以在SSR P偶像確定扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
@@ -247,14 +265,14 @@
     },
     {
       "id": "item-gashaticket-ssr-support-fix_1",
-      "name": "SSR S卡必得扭蛋票卷",
-      "description": "可以在SSR S卡必得扭蛋中使用的票卷",
+      "name": "SSR S卡確定扭蛋票卷",
+      "description": "可以在SSR S卡確定扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gashaticket-ssr-support-fix-nia-1",
-      "name": "N.I.A挑戰SSR 支援卡必得扭蛋票卷",
-      "description": "可以在N.I.A挑戰SSR 支援卡必得扭蛋中使用的票卷",
+      "name": "N.I.A挑戰SSR 支援卡確定扭蛋票卷",
+      "description": "可以在N.I.A挑戰SSR 支援卡確定扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
@@ -462,6 +480,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-story-event-010",
+      "name": "繁星閃爍的景色",
+      "description": "可以在活動兌換所交換各式報酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-medal-story-event-013",
       "name": "修學旅行的土特產",
       "description": "可以在活動兌換所交換各式報酬的道具",
@@ -560,6 +584,24 @@
     {
       "id": "item-piece-idol_amao-3-015",
       "name": "[看著我]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-1-000",
+      "name": "[學園生活]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-2-000",
+      "name": "[初志貫徹]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-3-000",
+      "name": "[用理論武装]有村麻央的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -830,6 +872,12 @@
     {
       "id": "item-piece-idol_hume-3-006",
       "name": "[Campus mode!!]花海佑芽的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hume-3-009",
+      "name": "[呼嚕呼嚕]花海佑芽的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

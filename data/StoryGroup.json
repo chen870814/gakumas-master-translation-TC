@@ -114,6 +114,10 @@
       "title": "STEP3"
     },
     {
+      "id": "story_dearness_atbm_step-01",
+      "title": "STEP1"
+    },
+    {
       "id": "story_dearness_fktn_step-01",
       "title": "STEP1"
     },
@@ -258,6 +262,10 @@
       "title": "莉莉婭與清夏的日常"
     },
     {
+      "id": "story_event_group-21-01",
+      "title": "星南與燕的日常"
+    },
+    {
       "id": "story_gvg_group-01-01",
       "title": "#Animate氣氛活躍隊"
     },
@@ -268,6 +276,10 @@
     {
       "id": "story-aprilfool-group-2025-01",
       "title": "4月1日之夢"
+    },
+    {
+      "id": "story-atbm-group-2025-1113",
+      "title": "雨夜燕 STEP1 0.5話"
     }
   ]
 }

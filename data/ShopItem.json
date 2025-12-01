@@ -26,12 +26,52 @@
       "name": "初星學園體操服（有村麻央）"
     },
     {
+      "id": "shop_costume_atbm-cstm-0069",
+      "name": "兒童罩衫（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_atbm-cstm-0111",
+      "name": "水手服泳裝（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_atbm-othr-0002",
+      "name": "溫泉泳裝（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_atbm-trng-0002",
+      "name": "初星學園體操服（雨夜燕）"
+    },
+    {
       "id": "shop_costume_costume_head_amao-hair-0001",
       "name": "紫陽花髮飾（有村麻央）"
     },
     {
       "id": "shop_costume_costume_head_amao-hair-0003",
       "name": "圓框眼鏡（有村麻央）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0001",
+      "name": "紫陽花髮飾（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0003",
+      "name": "圓框眼鏡（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0004",
+      "name": "貓耳（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0006",
+      "name": "初星☆配飾（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0007",
+      "name": "淚滴形眼鏡（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0008",
+      "name": "狗耳（雨夜燕）"
     },
     {
       "id": "shop_costume_costume_head_fktn-hair-0001",
@@ -90,6 +130,10 @@
       "name": "圓框眼鏡（花海佑芽）"
     },
     {
+      "id": "shop_costume_costume_head_hume-hair-0004",
+      "name": "貓耳（花海佑芽）"
+    },
+    {
       "id": "shop_costume_costume_head_jsna-hair-0001",
       "name": "紫陽花髮飾（十王星南）"
     },
@@ -98,12 +142,20 @@
       "name": "圓框眼鏡（十王星南）"
     },
     {
+      "id": "shop_costume_costume_head_jsna-hair-0004",
+      "name": "貓耳（十王星南）"
+    },
+    {
       "id": "shop_costume_costume_head_kcna-hair-0001",
       "name": "紫陽花髮飾（倉本千奈）"
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0003",
       "name": "圓框眼鏡（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_costume_head_kcna-hair-0004",
+      "name": "貓耳（倉本千奈）"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -120,6 +172,10 @@
     {
       "id": "shop_costume_costume_head_shro-hair-0003",
       "name": "圓框眼鏡（篠澤廣）"
+    },
+    {
+      "id": "shop_costume_costume_head_shro-hair-0004",
+      "name": "貓耳（篠澤廣）"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -486,6 +542,18 @@
       "name": "【僅限1次優惠！】寶石6000個"
     },
     {
+      "id": "shop_jewel_item-0025",
+      "name": "【僅限2次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0026",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_pack_atbm-0001",
+      "name": "【72小時限定】培育偶像優勝禮包（燕）"
+    },
+    {
       "id": "shop_pack_hmsz-0001",
       "name": "【72小時限定】培育偶像優勝禮包（美鈴）"
     },
@@ -552,6 +620,18 @@
     {
       "id": "shop_pack_item-0050",
       "name": "初星大運動會舉辦紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-0057",
+      "name": "1.5th Anniversary偶像紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-0058",
+      "name": "1.5th Anniversary支援紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-0061",
+      "name": "1.5th Anniversary季節紀念禮包"
     },
     {
       "id": "shop_pack_item-100dl",
@@ -736,6 +816,10 @@
     {
       "id": "shop_pass_item-0019",
       "name": "高級任務通行證 2025年11月"
+    },
+    {
+      "id": "shop_pass_item-0020",
+      "name": "高級任務通行證 2025年12月"
     }
   ]
 }

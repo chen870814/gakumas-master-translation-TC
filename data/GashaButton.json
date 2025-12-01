@@ -13,6 +13,12 @@
       "description": "10連扭蛋"
     },
     {
+      "id": "gasha_button_animate-ssr-00630",
+      "order": 1,
+      "name": "有償10連扭蛋",
+      "description": "有償10連扭蛋"
+    },
+    {
       "id": "gasha_button_merge-ssr-00530",
       "order": 1,
       "name": "有償10連扭蛋",
@@ -51,8 +57,8 @@
     {
       "id": "gasha_button-001-10-ssr-anniversary",
       "order": 2,
-      "name": "SSR必得10連扭蛋 僅限2次",
-      "description": "SSR必得10連扭蛋 僅限2次"
+      "name": "SSR確定10連扭蛋 僅限2次",
+      "description": "SSR確定10連扭蛋 僅限2次"
     },
     {
       "id": "gasha_button-001-ticket",
@@ -71,6 +77,12 @@
       "order": 3,
       "name": "10連票卷扭蛋",
       "description": "10連票卷扭蛋"
+    },
+    {
+      "id": "gasha_button-640-fes",
+      "order": 1,
+      "name": "5次扭蛋",
+      "description": "5次扭蛋"
     },
     {
       "id": "gasha_button-free-10-01",
@@ -153,44 +165,56 @@
     {
       "id": "gasha_ticket_ssr_10_button-001",
       "order": 1,
-      "name": "用SSR必得票卷抽取",
-      "description": "SSR必得10連扭蛋"
+      "name": "用SSR確定票卷抽取",
+      "description": "SSR確定10連扭蛋"
     },
     {
       "id": "gasha_ticket_ssr_button",
       "order": 1,
-      "name": "用SSR必得票卷抽取",
-      "description": "SSR必得單抽"
+      "name": "用SSR確定票卷抽取",
+      "description": "SSR確定單抽"
     },
     {
       "id": "gasha_ticket_ssr_button_1st-anniv",
       "order": 1,
-      "name": "用1st Anniversary紀念 SSR必得票卷抽取",
-      "description": "SSR必得單抽"
+      "name": "用1st Anniversary紀念 SSR確定票卷抽取",
+      "description": "SSR確定單抽"
     },
     {
       "id": "gasha_ticket_ssr_button_idol",
       "order": 1,
-      "name": "用SSR必得票卷抽取",
-      "description": "SSR偶像必得單抽"
+      "name": "用SSR確定票卷抽取",
+      "description": "SSR偶像確定單抽"
     },
     {
       "id": "gasha_ticket_ssr_button_idol_2",
       "order": 1,
       "name": "用The 1st Period 公演紀念 SSR P偶像確定票卷抽取",
-      "description": "SSR必得單抽"
+      "description": "SSR確定單抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_seasons-2511-001",
+      "order": 1,
+      "name": "用1.5th Anniversary季節紀念限定SSR確定票卷抽取",
+      "description": "SSR確定單抽"
     },
     {
       "id": "gasha_ticket_ssr_button_support",
       "order": 1,
-      "name": "用SSR必得票卷抽取",
-      "description": "SSR支援卡必得單抽"
+      "name": "用SSR確定票卷抽取",
+      "description": "SSR支援卡確定單抽"
     },
     {
       "id": "gasha_ticket_ssr_button_support-2",
       "order": 1,
-      "name": "用SSR必得票卷抽取",
-      "description": "SSR支援卡必得單抽"
+      "name": "用SSR確定票卷抽取",
+      "description": "SSR支援卡確定單抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button-5",
+      "order": 1,
+      "name": "用1.5th Anniversary紀念SSR確定票卷抽取",
+      "description": "SSR確定單抽"
     }
   ]
 }

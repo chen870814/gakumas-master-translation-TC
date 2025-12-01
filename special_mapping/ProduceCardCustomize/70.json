@@ -1,0 +1,21 @@
+{
+    "p_card_custom-070-g_effect-aggressive_add-3|1|description": "幹勁 +",
+    "p_card_custom-070-g_effect-block_add-4|1|description": "元氣 +",
+    "p_card_custom-070-g_effect-block_add-9|1|description": "元氣 +",
+    "p_card_custom-070-g_effect-initial_add|1|description": "開始時加入手牌",
+    "p_card_custom-070-g_effect-lesson_add-12|1|description": "打分 +",
+    "p_card_custom-070-g_effect-lesson_add-6|1|description": "打分 +",
+    "p_card_custom-070-g_effect-lesson_buff_add-2|1|description": "集中 +",
+    "p_card_custom-070-g_effect-lesson_depend_exam_card_play_aggressive_add-1400|1|description": "幹勁值打分 +",
+    "p_card_custom-070-g_effect-lesson_depend_exam_review_add-800|1|description": "好印象值打分 +",
+    "p_card_custom-070-g_effect-parameter_buff_multiple_per_turn_add-2|1|description": "絕好調 +",
+    "p_card_custom-070-g_effect-parameter_buff_turn_add-2|1|description": "好調 +",
+    "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-lesson_buff_up-15-e_trigger-none-lesson_buff_up-10|1|description": "使用條件 -",
+    "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-parameter_buff_up-12-e_trigger-none-parameter_buff_up-8|1|description": "使用條件 -",
+    "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-review_up-15-e_trigger-none-review_up-10|1|description": "加成條件 -",
+    "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-block_up-30-e_trigger-none-block_up-15|1|description": "使用條件 -",
+    "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1|1|description": "使用條件 -",
+    "p_card_custom-070-g_effect-review_add-2|1|description": "好印象 +",
+    "p_card_custom-070-g_effect-review_add-3|1|description": "好印象 +",
+    "p_card_custom-070-g_effect-stamina_consumption_down_turn_add-2|1|description": "消耗體力減少 +"
+}

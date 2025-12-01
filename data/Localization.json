@@ -7,15 +7,23 @@
   "data": [
     {
       "id": "achievement.true_end.receive.initial_status",
-      "description": "初始能力值"
+      "description": "初始狀態"
     },
     {
       "id": "achievement.true_end.receive.lesson_bonus",
-      "description": "能力值獎勵"
+      "description": "課程加成"
     },
     {
       "id": "card.detail.enhance.invalid.point.exp.short",
       "description": "訓練Pt不足。"
+    },
+    {
+      "id": "competition.rehearsal_battle_confirm.label.description",
+      "description": "※不會消耗挑戰次數 / 無法獲得評分點"
+    },
+    {
+      "id": "competition.unit.score",
+      "description": "Pt"
     },
     {
       "id": "dearness.dearness_level_detail_sheet.title",
@@ -28,6 +36,10 @@
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
       "description": "獲得作為目標的P偶像後"
+    },
+    {
+      "id": "home.pvp.contest.out_of_term_toast",
+      "description": "當前非活動期間"
     },
     {
       "id": "idol_dearness.step3_condition",
@@ -83,7 +95,7 @@
     },
     {
       "id": "shop.web_store.confirm.description",
-      "description": "要開啟網頁瀏覽器嗎？\\出生年月日可以在【選單>其他>設定出生年月日】中設定。"
+      "description": "是否打開網頁瀏覽器？\n要使用官方WEB SHOP\n必須填寫出生年月日。\n出生年月日可以在【選單>其他>設定出生年月日】中設定。"
     },
     {
       "id": "voice.idol_use_produce_card",

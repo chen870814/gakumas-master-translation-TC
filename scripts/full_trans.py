@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import glob
 
@@ -33,7 +34,7 @@ def fill_translations(jsonfile):
             continue
             
         file_path = os.path.join(jp_cn_dir, filename)
-        
+        print(f"文件：{filename}")
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
                 translation_data = json.load(file)
@@ -44,6 +45,13 @@ def fill_translations(jsonfile):
         # 3. 查找匹配的键并填充翻译
         for key in list(empty_keys):  # 使用list创建副本以便在迭代时修改
             if key in translation_data and translation_data[key]:
+                '''
+                if "（" in main_data[key]:
+                    main_data[key] = re.sub(r'（*）', '', translation_data[key])
+                else:
+                    main_data[key] = translation_data[key]
+                '''
+                
                 main_data[key] = translation_data[key]
                 empty_keys.remove(key)
                 translations_found += 1

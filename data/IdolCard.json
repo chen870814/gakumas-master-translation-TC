@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "i_card-amao-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-amao-1-001",
@@ -46,8 +46,20 @@
       "name": "看著我"
     },
     {
+      "id": "i_card-atbm-1-000",
+      "name": "校園生活"
+    },
+    {
+      "id": "i_card-atbm-2-000",
+      "name": "初志貫徹"
+    },
+    {
+      "id": "i_card-atbm-3-000",
+      "name": "用理論武装"
+    },
+    {
       "id": "i_card-fktn-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-fktn-1-001",
@@ -91,7 +103,7 @@
     },
     {
       "id": "i_card-hmsz-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-hmsz-1-001",
@@ -115,7 +127,7 @@
     },
     {
       "id": "i_card-hrnm-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-hrnm-1-001",
@@ -159,7 +171,7 @@
     },
     {
       "id": "i_card-hski-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-hski-1-001",
@@ -191,7 +203,7 @@
     },
     {
       "id": "i_card-hski-3-011",
-      "name": "樱花相册"
+      "name": "櫻花相簿"
     },
     {
       "id": "i_card-hski-3-012",
@@ -203,7 +215,7 @@
     },
     {
       "id": "i_card-hume-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-hume-1-001",
@@ -226,12 +238,16 @@
       "name": "Campus mode!!"
     },
     {
+      "id": "i_card-hume-3-009",
+      "name": "呼嚕呼嚕"
+    },
+    {
       "id": "i_card-hume-3-012",
       "name": "Star-mine"
     },
     {
       "id": "i_card-jsna-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-jsna-1-001",
@@ -263,7 +279,7 @@
     },
     {
       "id": "i_card-kcna-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-kcna-1-001",
@@ -307,7 +323,7 @@
     },
     {
       "id": "i_card-kllj-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-kllj-1-001",
@@ -339,7 +355,7 @@
     },
     {
       "id": "i_card-kllj-3-010",
-      "name": "樱花相册"
+      "name": "櫻花相簿"
     },
     {
       "id": "i_card-kllj-3-012",
@@ -347,7 +363,7 @@
     },
     {
       "id": "i_card-shro-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-shro-1-001",
@@ -387,7 +403,7 @@
     },
     {
       "id": "i_card-ssmk-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-ssmk-1-001",
@@ -415,7 +431,7 @@
     },
     {
       "id": "i_card-ssmk-3-010",
-      "name": "樱花相册"
+      "name": "櫻花相簿"
     },
     {
       "id": "i_card-ssmk-3-012",
@@ -427,7 +443,7 @@
     },
     {
       "id": "i_card-ttmr-1-000",
-      "name": "學園生活"
+      "name": "校園生活"
     },
     {
       "id": "i_card-ttmr-1-001",
