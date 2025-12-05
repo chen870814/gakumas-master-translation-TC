@@ -9,27 +9,27 @@
     {
       "id": "p_card_custom-020-g_effect-cost_penetrate_reduce-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用體力消耗 -"
     },
     {
       "id": "p_card_custom-020-g_effect-cost_reduce-2",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用消耗 -"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-2-g_effect-aggressive_add-5",
       "customizeCount": 1,
-      "description": ""
+      "description": "幹勁 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-2-g_effect-aggressive_add-5",
       "customizeCount": 2,
-      "description": ""
+      "description": "幹勁 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-2-g_effect-aggressive_add-5",
       "customizeCount": 3,
-      "description": ""
+      "description": "幹勁 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-2-g_effect-block_add-4-g_effect-block_add-8",
@@ -49,17 +49,17 @@
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-4-g_effect-block_add-8-g_effect-block_add-17",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-4-g_effect-block_add-8-g_effect-block_add-17",
       "customizeCount": 2,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-4-g_effect-block_add-8-g_effect-block_add-17",
       "customizeCount": 3,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-2-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-5",
@@ -109,77 +109,77 @@
     {
       "id": "p_card_custom-040_040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-2-g_effect-full_power_point_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "全力值 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-2-g_effect-full_power_point_add-4",
       "customizeCount": 2,
-      "description": ""
+      "description": "全力值 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-2-g_effect-full_power_point_add-4",
       "customizeCount": 3,
-      "description": ""
+      "description": "全力值 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-3-g_effect-lesson_add-6-g_effect-lesson_add-15",
       "customizeCount": 1,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-3-g_effect-lesson_add-6-g_effect-lesson_add-15",
       "customizeCount": 2,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-3-g_effect-lesson_add-6-g_effect-lesson_add-15",
       "customizeCount": 3,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-6-g_effect-lesson_add-12-g_effect-lesson_add-30",
       "customizeCount": 1,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-6-g_effect-lesson_add-12-g_effect-lesson_add-30",
       "customizeCount": 2,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-6-g_effect-lesson_add-12-g_effect-lesson_add-30",
       "customizeCount": 3,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-2-g_effect-lesson_buff_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-2-g_effect-lesson_buff_add-4",
       "customizeCount": 2,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-2-g_effect-lesson_buff_add-4",
       "customizeCount": 3,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-400-g_effect-lesson_depend_block_add-800",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-400-g_effect-lesson_depend_block_add-800",
       "customizeCount": 2,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-400-g_effect-lesson_depend_block_add-800",
       "customizeCount": 3,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-1400-g_effect-lesson_depend_exam_card_play_aggressive_add-2800",
@@ -199,122 +199,122 @@
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-700-g_effect-lesson_depend_exam_review_add-1500",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-700-g_effect-lesson_depend_exam_review_add-1500",
       "customizeCount": 2,
-      "description": ""
+      "description": "好印象值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-700-g_effect-lesson_depend_exam_review_add-1500",
       "customizeCount": 3,
-      "description": ""
+      "description": "好印象值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 1,
-      "description": "持續效果 +"
+      "description": "後續回合\n元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 2,
-      "description": "持續效果 +"
+      "description": "後續回合\n元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 3,
-      "description": "持續效果 +"
+      "description": "後續回合\n元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "絕好調 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
       "customizeCount": 2,
-      "description": ""
+      "description": "絕好調 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
       "customizeCount": 3,
-      "description": ""
+      "description": "絕好調 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-2-g_effect-parameter_buff_turn_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-2-g_effect-parameter_buff_turn_add-4",
       "customizeCount": 2,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-2-g_effect-parameter_buff_turn_add-4",
       "customizeCount": 3,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-review_add-1-g_effect-review_add-2-g_effect-review_add-5",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-review_add-1-g_effect-review_add-2-g_effect-review_add-5",
       "customizeCount": 2,
-      "description": ""
+      "description": "好印象 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-review_add-1-g_effect-review_add-2-g_effect-review_add-5",
       "customizeCount": 3,
-      "description": ""
+      "description": "好印象 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-2-g_effect-stamina_consumption_down_turn_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "消耗體力減少 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-2-g_effect-stamina_consumption_down_turn_add-4",
       "customizeCount": 2,
-      "description": ""
+      "description": "消耗體力減少 +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-2-g_effect-stamina_consumption_down_turn_add-4",
       "customizeCount": 3,
-      "description": ""
+      "description": "消耗體力減少 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "幹勁 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-4",
       "customizeCount": 2,
-      "description": ""
+      "description": "幹勁 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-2-g_effect-block_add-6",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-2-g_effect-block_add-6",
       "customizeCount": 2,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-4-g_effect-block_add-13",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-4-g_effect-block_add-13",
       "customizeCount": 2,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-1-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-3",
@@ -389,147 +389,147 @@
     {
       "id": "p_card_custom-040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-3",
       "customizeCount": 1,
-      "description": ""
+      "description": "全力值 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-3",
       "customizeCount": 2,
-      "description": ""
+      "description": "全力值 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-3-g_effect-lesson_add-11",
       "customizeCount": 1,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-3-g_effect-lesson_add-11",
       "customizeCount": 2,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-6-g_effect-lesson_add-22",
       "customizeCount": 1,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-6-g_effect-lesson_add-22",
       "customizeCount": 2,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-3",
       "customizeCount": 1,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-3",
       "customizeCount": 2,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-600",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-600",
       "customizeCount": 2,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-300-g_effect-lesson_depend_block_add-900",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-300-g_effect-lesson_depend_block_add-900",
       "customizeCount": 2,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-2100",
       "customizeCount": 1,
-      "description": ""
+      "description": "幹勁值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-2100",
       "customizeCount": 2,
-      "description": ""
+      "description": "幹勁值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-1150",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-1150",
       "customizeCount": 2,
-      "description": ""
+      "description": "好印象值打分 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-3",
       "customizeCount": 1,
-      "description": ""
+      "description": "絕好調 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-3",
       "customizeCount": 2,
-      "description": ""
+      "description": "絕好調 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-3",
       "customizeCount": 1,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-3",
       "customizeCount": 2,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-review_add-1-g_effect-review_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-review_add-1-g_effect-review_add-4",
       "customizeCount": 2,
-      "description": ""
+      "description": "好印象 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-3",
       "customizeCount": 1,
-      "description": ""
+      "description": "消耗體力減少 +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-3",
       "customizeCount": 2,
-      "description": ""
+      "description": "消耗體力減少 +"
     },
     {
       "id": "p_card_custom-040-g_effect-cost_aggressive_reduce-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "幹勁消耗 -"
     },
     {
       "id": "p_card_custom-040-g_effect-cost_full_power_point_reduce-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "全力值消耗 -"
     },
     {
       "id": "p_card_custom-040-g_effect-cost_lesson_buff_reduce-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "集中消耗 -"
     },
     {
       "id": "p_card_custom-040-g_effect-cost_parameter_buff_reduce-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "好調消耗 -"
     },
     {
       "id": "p_card_custom-040-g_effect-cost_review_reduce-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象消耗 -"
     },
     {
       "id": "p_card_custom-040-g_effect-play_move_position_type_change-grave",
@@ -539,17 +539,17 @@
     {
       "id": "p_card_custom-070-g_effect-aggressive_add-3",
       "customizeCount": 1,
-      "description": ""
+      "description": "幹勁 +"
     },
     {
       "id": "p_card_custom-070-g_effect-block_add-4",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-070-g_effect-block_add-9",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣 +"
     },
     {
       "id": "p_card_custom-070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-3",
@@ -694,22 +694,22 @@
     {
       "id": "p_card_custom-070-g_effect-initial_add",
       "customizeCount": 1,
-      "description": ""
+      "description": "開始時加入手牌"
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_add-12",
       "customizeCount": 1,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_add-6",
       "customizeCount": 1,
-      "description": ""
+      "description": "打分 +"
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_buff_add-2",
       "customizeCount": 1,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_depend_block_add-400",
@@ -719,42 +719,42 @@
     {
       "id": "p_card_custom-070-g_effect-lesson_depend_exam_card_play_aggressive_add-1400",
       "customizeCount": 1,
-      "description": ""
+      "description": "幹勁值打分 +"
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_depend_exam_review_add-800",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象值打分 +"
     },
     {
       "id": "p_card_custom-070-g_effect-parameter_buff_multiple_per_turn_add-2",
       "customizeCount": 1,
-      "description": ""
+      "description": "絕好調 +"
     },
     {
       "id": "p_card_custom-070-g_effect-parameter_buff_turn_add-2",
       "customizeCount": 1,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-lesson_buff_up-15-e_trigger-none-lesson_buff_up-10",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -"
     },
     {
       "id": "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-parameter_buff_up-12-e_trigger-none-parameter_buff_up-8",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -"
     },
     {
       "id": "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-review_up-15-e_trigger-none-review_up-10",
       "customizeCount": 1,
-      "description": ""
+      "description": "加成條件 -"
     },
     {
       "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-block_up-30-e_trigger-none-block_up-15",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -"
     },
     {
       "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-parameter_buff_up-8-e_trigger-none-parameter_buff_up-4",
@@ -764,22 +764,22 @@
     {
       "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -"
     },
     {
       "id": "p_card_custom-070-g_effect-review_add-2",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象 +"
     },
     {
       "id": "p_card_custom-070-g_effect-review_add-3",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象 +"
     },
     {
       "id": "p_card_custom-070-g_effect-stamina_consumption_down_turn_add-2",
       "customizeCount": 1,
-      "description": ""
+      "description": "消耗體力減少 +"
     },
     {
       "id": "p_card_custom-100-g_effect-effect_add-e_effect-exam_playable_value_add-01",
@@ -789,17 +789,17 @@
     {
       "id": "p_card_custom-100-g_effect-lesson_count_add-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "打分次數 +"
     },
     {
       "id": "p_card_custom-100-g_effect-lesson_depend_block_add-1000",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-100-g_effect-p_card-02-act-3_001-enc_1",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象值打分 +"
     },
     {
       "id": "p_card_custom-100-g_effect-p_card-02-act-3_050-enc_1",
@@ -809,7 +809,7 @@
     {
       "id": "p_card_custom-p_card-01-ido-3_013-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "回合數 +"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_013-2",
@@ -819,7 +819,7 @@
     {
       "id": "p_card_custom-p_card-01-ido-3_014-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "後續回合\n打分 追加"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_014-2",
@@ -829,7 +829,7 @@
     {
       "id": "p_card_custom-p_card-01-ido-3_016-1-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "好調&集中\n倍率 追加"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_016-1-2",
@@ -849,7 +849,7 @@
     {
       "id": "p_card_custom-p_card-01-ido-3_017-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "後續回合\n集中 + 變更"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_017-2",
@@ -869,7 +869,7 @@
     {
       "id": "p_card_custom-p_card-02-ido-3_015-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "好印象強化 追加"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_015-2",
@@ -889,7 +889,7 @@
     {
       "id": "p_card_custom-p_card-02-ido-3_019-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "開始時加入手牌"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_019-2",
@@ -899,7 +899,7 @@
     {
       "id": "p_card_custom-p_card-02-ido-3_021-1",
       "customizeCount": 1,
-      "description": ""
+      "description": "元氣值打分 +"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_021-2",
@@ -909,7 +909,7 @@
     {
       "id": "p_card_custom-wrapper-p_card-00-sup-3_158-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "開始時加入手牌"
     },
     {
       "id": "p_card_custom-wrapper-p_card-00-sup-3_158-b-01",
@@ -919,7 +919,7 @@
     {
       "id": "p_card_custom-wrapper-p_card-00-sup-3_161-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用體力消耗 -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-00-sup-3_161-b-01",
@@ -929,32 +929,32 @@
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
       "customizeCount": 2,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
       "customizeCount": 3,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
       "customizeCount": 2,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
       "customizeCount": 3,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-c-01",
@@ -964,17 +964,17 @@
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-b-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-b-01",
       "customizeCount": 2,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-c-01",
@@ -984,17 +984,17 @@
     {
       "id": "p_card_custom-wrapper-p_card-01-men-3_034-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "集中 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-men-3_034-b-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "好調 +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-sup-3_157-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-sup-3_157-b-01",
@@ -1004,17 +1004,17 @@
     {
       "id": "p_card_custom-wrapper-p_card-01-sup-3_160-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -\n（好調）"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-sup-3_160-b-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用條件 -\n（集中）"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-sup-3_156-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用消耗 -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-sup-3_156-b-01",
@@ -1024,7 +1024,7 @@
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "全力值消耗 -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-b-01",
@@ -1049,7 +1049,7 @@
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_078-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用消耗 -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_078-b-01",
@@ -1059,7 +1059,7 @@
     {
       "id": "p_card_custom-wrapper-p_card-03-sup-3_162-a-01",
       "customizeCount": 1,
-      "description": ""
+      "description": "使用消耗 -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-sup-3_162-b-01",

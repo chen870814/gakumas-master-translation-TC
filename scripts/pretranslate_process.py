@@ -151,6 +151,26 @@ def gen_todo(new_files_dir: str):
                 output_path = os.path.join(temp_key_jp_dir, file)
                 export_db_json.ex_main(input_path, output_path)
 
+                # 特例处理：ProduceCardCustomize.json
+                if file == "ProduceCardCustomize.json":
+                    with open(input_path, 'r', encoding='utf-8') as f:
+                        jp_data = json.load(f)
+
+                    # 讀取原始 data 陣列，組合扁平化 key
+                    with open(output_path, 'r', encoding='utf-8') as f:
+                        out_data = json.load(f)
+
+                    for entry in jp_data.get("data", []):
+                        composite_key = f"{entry['id']}|{entry['customizeCount']}|description"
+                        # 即使 description 是空字串也要寫入
+                        out_data[composite_key] = entry.get("description", "")
+
+                    # 覆寫回輸出檔案
+                    with open(output_path, 'w', encoding='utf-8') as f:
+                        json.dump(out_data, f, ensure_ascii=False, indent=4)
+
+                    print(f"特例處理完成: {output_path}")
+
     # 遍历新的 jp 文件
     for root, dirs, files in os.walk(temp_key_jp_dir):
         for file in files:
@@ -167,7 +187,7 @@ def gen_todo(new_files_dir: str):
             if os.path.exists(temp_key_jp_old_dir) and os.path.exists(jp_old_file):
                 with open(jp_old_file, 'r', encoding='utf-8') as f:
                     jp_old_data = json.load(f)
-
+            
             if not os.path.exists(cn_file):
                 # 如果没有旧的翻译文件，所有日文都需要翻译
                 for _, v in jp_data.items():
@@ -175,7 +195,6 @@ def gen_todo(new_files_dir: str):
             else:
                 with open(cn_file, 'r', encoding='utf-8') as f:
                     cn_data = json.load(f)
-                
                 for k, v in jp_data.items():
                     # 检查条件：
                     # 1. 键不存在于旧翻译中 (新增的键)
@@ -187,20 +206,17 @@ def gen_todo(new_files_dir: str):
                         # 键存在，日文值发生变化，且之前有翻译
                         change_info = f"文件: {file}\n键: {k}\n旧值: {jp_old_data[k]}\n新值: {v}\n原翻译: {cn_data[k]}\n{'='*50}"
                         changes_log.append(change_info)
-                        
                         # 记录到变化文件字典（去重相同的旧值->新值变化）
                         if file not in changed_files:
                             changed_files[file] = {}
                         change_key = (jp_old_data[k], v)
                         if change_key not in changed_files[file]:
                             changed_files[file][change_key] = cn_data[k]
-                        
                         print(f"检测到日文值变化: {file} - {k}")
                         print(f"  旧值: {jp_old_data[k]}")
                         print(f"  新值: {v}")
                         print(f"  原翻译: {cn_data[k]}")
                         out_data[v] = ""
-
             if out_data:
                 todo_file = os.path.join(todo_out_dir, file)
                 with open(todo_file, 'w', encoding='utf-8') as f:

@@ -159,7 +159,7 @@ def save_smart_resolved_exceptions(json_filename, smart_exceptions):
 def is_special_key(key, special_keys):
     """检查键是否属于特殊映射"""
     for special_prefix in special_keys:
-        if key.startswith(special_prefix + "|"):
+        if key.startswith(special_prefix):
             return True
     return False
 
@@ -232,7 +232,7 @@ def incremental_merge():
         print(f"  📥 加载特殊映射...")
         special_mappings, special_keys = load_special_mappings(json_filename)
         if special_mappings:
-            print(f"    ✅ 加载了 {len(special_mappings)} 条特殊映射")
+            print(f"    ✅ 加载了 {len(special_mappings)} 条特殊映射，涉及 {len(special_keys)} 个前缀")
         else:
             print(f"    ℹ️  未找到特殊映射")
         
@@ -276,7 +276,7 @@ def incremental_merge():
                 final_key_cn_data[key] = used_translation
                 # 特殊映射不参与冲突检测
                 continue
-            
+
             # 检查所有可用的翻译来源
             available_translations = {}
             
