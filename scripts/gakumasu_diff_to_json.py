@@ -154,7 +154,7 @@ primary_key_rules = {
                                  "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                                  "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], 
                                 ["name", "produceDescriptions.text"]],
-    "ProduceDescriptionProduceCardGrowEffect": [["type"], ["name"]],
+    "ProduceDescriptionProduceCardGrowEffect": [["type", "produceDescriptionLabelId"], ["produceCardCustomizeDescription"]],
     # "ProduceDescriptionProduceCardMovePosition": [[], []],
     "ProduceDescriptionProduceEffect": [["type"], ["name"]],
     "ProduceDescriptionProducePlan": [["type"], ["name"]],
