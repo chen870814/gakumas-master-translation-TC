@@ -79,12 +79,12 @@
     {
       "id": "voice_group-amao-cstm-0061-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0061_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-amao-cstm-0061-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0061_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-amao-cstm-0063-cmmn",
@@ -149,32 +149,32 @@
     {
       "id": "voice_group-amao-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-amao-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-amao-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-amao-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-amao-cstm-0093-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0093_01",
-      "title": "看著我"
+      "title": "見て"
     },
     {
       "id": "voice_group-amao-cstm-0093-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0093_02",
-      "title": "看著我"
+      "title": "見て"
     },
     {
       "id": "voice_group-amao-cstm-0110-cmmn",
@@ -209,32 +209,32 @@
     {
       "id": "voice_group-amao-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-amao-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-amao-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0120_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-amao-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0120_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-amao-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-amao-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-amao-othr-0002-cmmn",
@@ -299,12 +299,12 @@
     {
       "id": "voice_group-atbm-cstm-0106-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0107_01",
-      "title": "用理論武装"
+      "title": "理論武装して"
     },
     {
       "id": "voice_group-atbm-cstm-0106-cmmn",
       "voiceAssetId": "sud_vo_system_atbm-cstm-0107_02",
-      "title": "用理論武装"
+      "title": "理論武装して"
     },
     {
       "id": "voice_group-atbm-cstm-0111-cmmn",
@@ -6967,6 +6967,66 @@
       "title": "換裝②"
     },
     {
+      "id": "voice_group-cidol-kllj-3-015_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015_home",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-01",
+      "title": "主頁①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-02",
+      "title": "主頁②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-detail",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_home_cmmn-03",
+      "title": "主頁③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-detail",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0099_02",
+      "title": "換裝②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-detail",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0099_03",
+      "title": "換裝①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_produce_schedule-01",
+      "title": "培育①"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_produce_schedule-02",
+      "title": "培育②"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_produce_schedule-03",
+      "title": "培育③"
+    },
+    {
+      "id": "voice_group-cidol-kllj-3-015-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-kllj-3-015_produce_schedule-04",
+      "title": "培育④"
+    },
+    {
       "id": "voice_group-cidol-shro-1-000-detail",
       "voiceAssetId": "sud_vo_system_shro-casl-0000_01",
       "title": "換裝①"
@@ -9299,12 +9359,12 @@
     {
       "id": "voice_group-fktn-cstm-0001-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0001_01",
-      "title": "世界第一可愛的我"
+      "title": "世界一可愛い私"
     },
     {
       "id": "voice_group-fktn-cstm-0001-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0001_02",
-      "title": "世界第一可愛的我"
+      "title": "世界一可愛い私"
     },
     {
       "id": "voice_group-fktn-cstm-0027-cmmn",
@@ -9409,42 +9469,42 @@
     {
       "id": "voice_group-fktn-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-fktn-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-fktn-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-fktn-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-fktn-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-fktn-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-fktn-cstm-0086-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0086_01",
-      "title": "自我肯定感爆棚↑↑超愛琴音之歌"
+      "title": "自己肯定感爆上げ↑↑しゅきしゅきソング"
     },
     {
       "id": "voice_group-fktn-cstm-0086-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0086_02",
-      "title": "自我肯定感爆棚↑↑超愛琴音之歌"
+      "title": "自己肯定感爆上げ↑↑しゅきしゅきソング"
     },
     {
       "id": "voice_group-fktn-cstm-0110-cmmn",
@@ -9469,12 +9529,12 @@
     {
       "id": "voice_group-fktn-cstm-0112-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0112_01",
-      "title": "雨後的鳶尾花"
+      "title": "雨上がりのアイリス"
     },
     {
       "id": "voice_group-fktn-cstm-0112-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0112_02",
-      "title": "雨後的鳶尾花"
+      "title": "雨上がりのアイリス"
     },
     {
       "id": "voice_group-fktn-cstm-0118-cmmn",
@@ -9489,32 +9549,32 @@
     {
       "id": "voice_group-fktn-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-fktn-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-fktn-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-fktn-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-fktn-cstm-0123-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0123_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-fktn-cstm-0123-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0123_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-fktn-othr-0002-cmmn",
@@ -9599,12 +9659,12 @@
     {
       "id": "voice_group-hmsz-cstm-0065-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0065_01",
-      "title": "變裝狂想曲"
+      "title": "仮装狂騒曲"
     },
     {
       "id": "voice_group-hmsz-cstm-0065-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0065_02",
-      "title": "變裝狂想曲"
+      "title": "仮装狂騒曲"
     },
     {
       "id": "voice_group-hmsz-cstm-0069-cmmn",
@@ -9669,32 +9729,32 @@
     {
       "id": "voice_group-hmsz-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hmsz-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hmsz-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hmsz-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hmsz-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hmsz-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hmsz-othr-0002-cmmn",
@@ -9809,12 +9869,12 @@
     {
       "id": "voice_group-hrnm-cstm-0055-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0055_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-hrnm-cstm-0055-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0055_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-hrnm-cstm-0063-cmmn",
@@ -9879,22 +9939,22 @@
     {
       "id": "voice_group-hrnm-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-hrnm-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-hrnm-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-hrnm-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-hrnm-cstm-0094-cmmn",
@@ -9939,42 +9999,42 @@
     {
       "id": "voice_group-hrnm-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hrnm-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hrnm-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hrnm-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hrnm-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hrnm-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hrnm-othr-0002-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-othr-0002_01",
-      "title": "【歡迎來到初星溫泉】姬崎莉波"
+      "title": "【ようこそ初星温泉】姬崎莉波"
     },
     {
       "id": "voice_group-hrnm-othr-0002-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-othr-0002_02",
-      "title": "【歡迎來到初星溫泉】姬崎莉波"
+      "title": "【ようこそ初星温泉】姬崎莉波"
     },
     {
       "id": "voice_group-hrnm-schl-0000-cmmn",
@@ -10109,12 +10169,12 @@
     {
       "id": "voice_group-hski-cstm-0070-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0070_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hski-cstm-0070-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0070_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hski-cstm-0072-cmmn",
@@ -10139,32 +10199,32 @@
     {
       "id": "voice_group-hski-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-hski-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-hski-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-hski-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-hski-cstm-0079-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0079_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-hski-cstm-0079-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0079_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-hski-cstm-0110-cmmn",
@@ -10189,12 +10249,12 @@
     {
       "id": "voice_group-hski-cstm-0112-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0112_01",
-      "title": "雨後的鳶尾花"
+      "title": "雨上がりのアイリス"
     },
     {
       "id": "voice_group-hski-cstm-0112-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0112_02",
-      "title": "雨後的鳶尾花"
+      "title": "雨上がりのアイリス"
     },
     {
       "id": "voice_group-hski-cstm-0118-cmmn",
@@ -10209,22 +10269,22 @@
     {
       "id": "voice_group-hski-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hski-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hski-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hski-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hski-othr-0002-cmmn",
@@ -10319,12 +10379,12 @@
     {
       "id": "voice_group-hume-cstm-0057-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0057_01",
-      "title": ""
+      "title": "グースーピー"
     },
     {
       "id": "voice_group-hume-cstm-0057-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0057_02",
-      "title": ""
+      "title": "グースーピー"
     },
     {
       "id": "voice_group-hume-cstm-0063-cmmn",
@@ -10419,32 +10479,32 @@
     {
       "id": "voice_group-hume-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hume-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-hume-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hume-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-hume-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hume-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-hume-othr-0002-cmmn",
@@ -10509,12 +10569,12 @@
     {
       "id": "voice_group-jsna-cstm-0012-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0012_01",
-      "title": "小小的野心"
+      "title": "小さな野望"
     },
     {
       "id": "voice_group-jsna-cstm-0012-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0012_02",
-      "title": "小小的野心"
+      "title": "小さな野望"
     },
     {
       "id": "voice_group-jsna-cstm-0051-cmmn",
@@ -10539,12 +10599,12 @@
     {
       "id": "voice_group-jsna-cstm-0055-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0055_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-jsna-cstm-0055-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0055_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-jsna-cstm-0063-cmmn",
@@ -10559,12 +10619,12 @@
     {
       "id": "voice_group-jsna-cstm-0065-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0065_01",
-      "title": "變裝狂想曲"
+      "title": "仮装狂騒曲"
     },
     {
       "id": "voice_group-jsna-cstm-0065-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0065_02",
-      "title": "變裝狂想曲"
+      "title": "仮装狂騒曲"
     },
     {
       "id": "voice_group-jsna-cstm-0069-cmmn",
@@ -10599,12 +10659,12 @@
     {
       "id": "voice_group-jsna-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-jsna-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-jsna-cstm-0077-cmmn",
@@ -10619,12 +10679,12 @@
     {
       "id": "voice_group-jsna-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-jsna-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-jsna-cstm-0110-cmmn",
@@ -10669,32 +10729,32 @@
     {
       "id": "voice_group-jsna-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-jsna-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-jsna-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-jsna-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-jsna-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-jsna-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-jsna-othr-0002-cmmn",
@@ -10769,12 +10829,12 @@
     {
       "id": "voice_group-kcna-cstm-0033-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0033_01",
-      "title": "每天發現的腳步"
+      "title": "日々発見的ステップ"
     },
     {
       "id": "voice_group-kcna-cstm-0033-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0033_02",
-      "title": "每天發現的腳步"
+      "title": "日々発見的ステップ"
     },
     {
       "id": "voice_group-kcna-cstm-0051-cmmn",
@@ -10799,12 +10859,12 @@
     {
       "id": "voice_group-kcna-cstm-0061-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0061_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-kcna-cstm-0061-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0061_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-kcna-cstm-0063-cmmn",
@@ -10869,32 +10929,32 @@
     {
       "id": "voice_group-kcna-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-kcna-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-kcna-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-kcna-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-kcna-cstm-0090-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0091_01",
-      "title": "向天空約定"
+      "title": "空と約束"
     },
     {
       "id": "voice_group-kcna-cstm-0090-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0091_02",
-      "title": "向天空約定"
+      "title": "空と約束"
     },
     {
       "id": "voice_group-kcna-cstm-0110-cmmn",
@@ -10929,42 +10989,42 @@
     {
       "id": "voice_group-kcna-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-kcna-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-kcna-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-kcna-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-kcna-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-kcna-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-kcna-othr-0002-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-othr-0002_01",
-      "title": "【歡迎來到初星溫泉】倉本千奈"
+      "title": "【ようこそ初星温泉】倉本千奈"
     },
     {
       "id": "voice_group-kcna-othr-0002-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-othr-0002_02",
-      "title": "【歡迎來到初星溫泉】倉本千奈"
+      "title": "【ようこそ初星温泉】倉本千奈"
     },
     {
       "id": "voice_group-kcna-trng-0000-cmmn",
@@ -11119,32 +11179,42 @@
     {
       "id": "voice_group-kllj-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-kllj-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-kllj-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-kllj-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-kllj-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-kllj-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
+    },
+    {
+      "id": "voice_group-kllj-cstm-0099-cmmn",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0099_02",
+      "title": "Atmosphere"
+    },
+    {
+      "id": "voice_group-kllj-cstm-0099-cmmn",
+      "voiceAssetId": "sud_vo_system_kllj-cstm-0099_03",
+      "title": "Atmosphere"
     },
     {
       "id": "voice_group-kllj-cstm-0110-cmmn",
@@ -11179,32 +11249,32 @@
     {
       "id": "voice_group-kllj-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-kllj-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-kllj-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-kllj-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-kllj-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-kllj-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-kllj-othr-0002-cmmn",
@@ -11269,12 +11339,12 @@
     {
       "id": "voice_group-nasr-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_nasr-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-nasr-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_nasr-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-nasr-cstm-0135-cmmn",
@@ -11319,12 +11389,12 @@
     {
       "id": "voice_group-shro-cstm-0031-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0031_01",
-      "title": "反差"
+      "title": "コントラスト"
     },
     {
       "id": "voice_group-shro-cstm-0031-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0031_02",
-      "title": "反差"
+      "title": "コントラスト"
     },
     {
       "id": "voice_group-shro-cstm-0047-cmmn",
@@ -11419,42 +11489,42 @@
     {
       "id": "voice_group-shro-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-shro-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-shro-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-shro-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-shro-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-shro-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-shro-cstm-0088-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0088_01",
-      "title": "褪色"
+      "title": "サンフェーデッド"
     },
     {
       "id": "voice_group-shro-cstm-0088-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0088_02",
-      "title": "褪色"
+      "title": "サンフェーデッド"
     },
     {
       "id": "voice_group-shro-cstm-0110-cmmn",
@@ -11489,32 +11559,32 @@
     {
       "id": "voice_group-shro-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-shro-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-shro-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0120_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-shro-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0120_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-shro-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-shro-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-shro-othr-0002-cmmn",
@@ -11579,12 +11649,12 @@
     {
       "id": "voice_group-ssmk-cstm-0039-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0039_01",
-      "title": "隱藏的我"
+      "title": "カクシタワタシ"
     },
     {
       "id": "voice_group-ssmk-cstm-0039-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0039_02",
-      "title": "隱藏的我"
+      "title": "カクシタワタシ"
     },
     {
       "id": "voice_group-ssmk-cstm-0043-cmmn",
@@ -11619,7 +11689,7 @@
     {
       "id": "voice_group-ssmk-cstm-0061-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0061_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-ssmk-cstm-0063-cmmn",
@@ -11684,32 +11754,32 @@
     {
       "id": "voice_group-ssmk-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-ssmk-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-ssmk-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-ssmk-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-ssmk-cstm-0079-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0079_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-ssmk-cstm-0079-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0079_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-ssmk-cstm-0096-cmmn",
@@ -11754,32 +11824,32 @@
     {
       "id": "voice_group-ssmk-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-ssmk-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-ssmk-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-ssmk-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-ssmk-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0125_01",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-ssmk-cstm-0125-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0125_02",
-      "title": "全力以赴！"
+      "title": "がむしゃらに行こう！"
     },
     {
       "id": "voice_group-ssmk-othr-0002-cmmn",
@@ -11854,12 +11924,12 @@
     {
       "id": "voice_group-ttmr-cstm-0025-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0025_01",
-      "title": "常春藤"
+      "title": "アイヴイ"
     },
     {
       "id": "voice_group-ttmr-cstm-0025-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0025_02",
-      "title": "常春藤"
+      "title": "アイヴイ"
     },
     {
       "id": "voice_group-ttmr-cstm-0047-cmmn",
@@ -11954,32 +12024,32 @@
     {
       "id": "voice_group-ttmr-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0075_01",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-ttmr-cstm-0075-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0075_02",
-      "title": "幸福千層酥"
+      "title": "ハッピーミルフィーユ"
     },
     {
       "id": "voice_group-ttmr-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0076_01",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-ttmr-cstm-0076-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0076_02",
-      "title": "雪融之時"
+      "title": "雪解けに"
     },
     {
       "id": "voice_group-ttmr-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0081_01",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-ttmr-cstm-0081-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0081_02",
-      "title": "櫻花相簿"
+      "title": "桜フォトグラフ"
     },
     {
       "id": "voice_group-ttmr-cstm-0110-cmmn",
@@ -12004,12 +12074,12 @@
     {
       "id": "voice_group-ttmr-cstm-0112-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0112_01",
-      "title": "雨後的鳶尾花"
+      "title": "雨上がりのアイリス"
     },
     {
       "id": "voice_group-ttmr-cstm-0112-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0112_02",
-      "title": "雨後的鳶尾花"
+      "title": "雨上がりのアイリス"
     },
     {
       "id": "voice_group-ttmr-cstm-0118-cmmn",
@@ -12024,22 +12094,22 @@
     {
       "id": "voice_group-ttmr-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0119_01",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-ttmr-cstm-0119-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0119_02",
-      "title": "何時何地簡簡單單"
+      "title": "古今東西ちょちょいのちょい"
     },
     {
       "id": "voice_group-ttmr-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0122_01",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-ttmr-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0122_02",
-      "title": "奇蹟正是現在(ﾟ∀ﾟ)！"
+      "title": "ミラクルナナウ(ﾟ∀ﾟ)！"
     },
     {
       "id": "voice_group-ttmr-cstm-0123-cmmn",

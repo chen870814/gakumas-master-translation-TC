@@ -30,6 +30,10 @@
       "description": "親密度Lv詳情"
     },
     {
+      "id": "exchange.complete.confirm",
+      "description": ""
+    },
+    {
       "id": "high_score_event.top.adv.title_label",
       "description": "偶像強化月間\\n〜星光璀璨〜"
     },
@@ -60,6 +64,10 @@
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
       "description": "十王邦夫的偶像強化月"
+    },
+    {
+      "id": "produce.card.move_position.deckall",
+      "description": ""
     },
     {
       "id": "produce.high_score_rush.gold.description",
@@ -96,6 +104,10 @@
     {
       "id": "shop.web_store.confirm.description",
       "description": "是否打開網頁瀏覽器？\n要使用官方WEB SHOP\n必須填寫出生年月日。\n出生年月日可以在【選單>其他>設定出生年月日】中設定。"
+    },
+    {
+      "id": "story.story_event.section.normal_condition_lock_text",
+      "description": ""
     },
     {
       "id": "voice.idol_use_produce_card",

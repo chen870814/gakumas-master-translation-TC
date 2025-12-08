@@ -7,17 +7,17 @@
   "data": [
     {
       "id": "achieve-i_card-amao-2-000-04",
-      "name": "始於帥氣 +",
+      "name": "はじまりはカッコよく +",
       "description": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-2-000-05",
-      "name": "始於帥氣 ++",
+      "name": "はじまりはカッコよく ++",
       "description": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-2-000-06",
-      "name": "始於帥氣 +++",
+      "name": "はじまりはカッコよく +++",
       "description": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-02",
-      "name": "與你共度的湛藍夏日",
+      "name": "キミとセミブルー",
       "description": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -52,17 +52,17 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-04",
-      "name": "與你共度的湛藍夏日 +",
+      "name": "キミとセミブルー +",
       "description": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-001-05",
-      "name": "與你共度的湛藍夏日 ++",
+      "name": "キミとセミブルー ++",
       "description": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-001-06",
-      "name": "與你共度的湛藍夏日 +++",
+      "name": "キミとセミブルー +++",
       "description": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-007-03",
-      "name": "爲了能夠成為憧憬的對象",
+      "name": "為了能夠成為憧憬的對象",
       "description": "【Campus mode!!】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-009-02",
-      "name": "雪融之時",
+      "name": "雪解けに",
       "description": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -142,17 +142,17 @@
     },
     {
       "id": "achieve-i_card-amao-3-009-04",
-      "name": "雪融之時 +",
+      "name": "雪解けに +",
       "description": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-009-05",
-      "name": "雪融之時 ++",
+      "name": "雪解けに ++",
       "description": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-009-06",
-      "name": "雪融之時 +++",
+      "name": "雪解けに +++",
       "description": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-013-02",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -172,17 +172,17 @@
     },
     {
       "id": "achieve-i_card-amao-3-013-04",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ +",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ +",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-013-05",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ ++",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ ++",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-013-06",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ +++",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ +++",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -202,17 +202,17 @@
     },
     {
       "id": "achieve-i_card-amao-3-015-04",
-      "name": "看著我+",
+      "name": "見て+",
       "description": "【見て】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-015-05",
-      "name": "看著我++",
+      "name": "見て++",
       "description": "【見て】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-015-06",
-      "name": "看著我+++",
+      "name": "見て+++",
       "description": "【見て】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "id": "achieve-i_card-atbm-3-000-02",
-      "name": "用理論武装",
+      "name": "理論武装して",
       "description": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
     },
     {
@@ -262,47 +262,47 @@
     },
     {
       "id": "achieve-i_card-atbm-3-000-04",
-      "name": "用理論武装+",
+      "name": "理論武装して+",
       "description": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-000-05",
-      "name": "用理論武装++",
+      "name": "理論武装して++",
       "description": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-000-06",
-      "name": "用理論武装+++",
+      "name": "理論武装して+++",
       "description": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
-      "name": "可愛♡開始啦 +",
+      "name": "カワイイ♡はじめました +",
       "description": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-05",
-      "name": "可愛♡開始啦 ++",
+      "name": "カワイイ♡はじめました ++",
       "description": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-06",
-      "name": "可愛♡開始啦 ++",
+      "name": "カワイイ♡はじめました +++",
       "description": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-000-04",
-      "name": "世界第一可愛的我 +",
+      "name": "世界一可愛い私 +",
       "description": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-000-05",
-      "name": "世界第一可愛的我 ++",
+      "name": "世界一可愛い私 ++",
       "description": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-000-06",
-      "name": "世界第一可愛的我 +++",
+      "name": "世界一可愛い私 +++",
       "description": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -432,7 +432,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-011-02",
-      "name": "雨後的鳶尾花",
+      "name": "雨上がりのアイリス",
       "description": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -442,17 +442,17 @@
     },
     {
       "id": "achieve-i_card-fktn-3-011-04",
-      "name": "雨後的鳶尾花 +",
+      "name": "雨上がりのアイリス +",
       "description": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-011-05",
-      "name": "雨後的鳶尾花 ++",
+      "name": "雨上がりのアイリス ++",
       "description": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-011-06",
-      "name": "雨後的鳶尾花 +++",
+      "name": "雨上がりのアイリス +++",
       "description": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -462,7 +462,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-013-02",
-      "name": "自我肯定感爆棚↑↑超愛琴音之歌",
+      "name": "自己肯定感爆上げ↑↑しゅきしゅきソング",
       "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -472,17 +472,17 @@
     },
     {
       "id": "achieve-i_card-fktn-3-013-04",
-      "name": "自我肯定感爆棚↑↑超愛琴音之歌 +",
+      "name": "自己肯定感爆上げ↑↑しゅきしゅきソング +",
       "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-013-05",
-      "name": "自我肯定感爆棚↑↑超愛琴音之歌 ++",
+      "name": "自己肯定感爆上げ↑↑しゅきしゅきソング ++",
       "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-013-06",
-      "name": "自我肯定感爆棚↑↑超愛琴音之歌 +++",
+      "name": "自己肯定感爆上げ↑↑しゅきしゅきソング +++",
       "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -492,7 +492,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-016-02",
-      "name": "全力以赴！",
+      "name": "がむしゃらに行こう！",
       "description": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -502,17 +502,17 @@
     },
     {
       "id": "achieve-i_card-fktn-3-016-04",
-      "name": "全力以赴！ +",
+      "name": "がむしゃらに行こう！ +",
       "description": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-016-05",
-      "name": "全力以赴！ ++",
+      "name": "がむしゃらに行こう！ ++",
       "description": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-016-06",
-      "name": "全力以赴！ +++",
+      "name": "がむしゃらに行こう！ +++",
       "description": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -522,7 +522,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-2-000-02",
-      "name": "慢慢地，一步一步來",
+      "name": "ゆっくり、一歩ずつ",
       "description": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
@@ -532,17 +532,17 @@
     },
     {
       "id": "achieve-i_card-hmsz-2-000-04",
-      "name": "慢慢地，一步一步來 +",
+      "name": "ゆっくり、一歩ずつ +",
       "description": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-05",
-      "name": "慢慢地，一步一步來 ++",
+      "name": "ゆっくり、一歩ずつ ++",
       "description": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-06",
-      "name": "慢慢地，一步一步來 +++",
+      "name": "ゆっくり、一歩ずつ +++",
       "description": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
@@ -552,7 +552,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-000-02",
-      "name": "月之龜",
+      "name": "ツキノカメ",
       "description": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
@@ -562,17 +562,17 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-000-04",
-      "name": "月之龜 +",
+      "name": "ツキノカメ +",
       "description": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-05",
-      "name": "月之龜 ++",
+      "name": "ツキノカメ ++",
       "description": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-06",
-      "name": "月之龜 +++",
+      "name": "ツキノカメ +++",
       "description": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
@@ -637,17 +637,17 @@
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",
-      "name": "『我的風格』的開始 +",
+      "name": "『私らしさ』のはじまり +",
       "description": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-05",
-      "name": "『我的風格』的開始 ++",
+      "name": "『私らしさ』のはじまり ++",
       "description": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-06",
-      "name": "『我的風格』的開始 +++",
+      "name": "『私らしさ』のはじまり +++",
       "description": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
@@ -672,7 +672,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
-      "name": "與你共度的湛藍夏日",
+      "name": "キミとセミブルー",
       "description": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
@@ -682,17 +682,17 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-04",
-      "name": "與你共度的湛藍夏日 +",
+      "name": "キミとセミブルー +",
       "description": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-05",
-      "name": "與你共度的湛藍夏日 ++",
+      "name": "キミとセミブルー ++",
       "description": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-06",
-      "name": "與你共度的湛藍夏日 +++",
+      "name": "キミとセミブルー +++",
       "description": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-02",
-      "name": "歡迎來到初星溫泉",
+      "name": "ようこそ初星温泉",
       "description": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
@@ -742,22 +742,22 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-04",
-      "name": "歡迎來到初星溫泉 +",
+      "name": "ようこそ初星温泉 +",
       "description": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-05",
-      "name": "歡迎來到初星溫泉 ++",
+      "name": "ようこそ初星温泉 ++",
       "description": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-06",
-      "name": "歡迎來到初星溫泉 +++",
+      "name": "ようこそ初星温泉 +++",
       "description": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
-      "name": "讓我成爲了偶像",
+      "name": "讓我成為了偶像",
       "description": "【Campus mode!!】在姬崎莉波的培育中通過最終考試"
     },
     {
@@ -792,7 +792,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-02",
-      "name": "幸福千層酥",
+      "name": "ハッピーミルフィーユ",
       "description": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
@@ -802,17 +802,17 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-04",
-      "name": "幸福千層酥 +",
+      "name": "ハッピーミルフィーユ +",
       "description": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-05",
-      "name": "幸福千層酥 ++",
+      "name": "ハッピーミルフィーユ ++",
       "description": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-06",
-      "name": "幸福千層酥 +++",
+      "name": "ハッピーミルフィーユ +++",
       "description": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
@@ -877,17 +877,17 @@
     },
     {
       "id": "achieve-i_card-hski-2-000-04",
-      "name": "我是第一名！ +",
+      "name": "わたしが一番！ +",
       "description": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-2-000-05",
-      "name": "我是第一名！ ++",
+      "name": "わたしが一番！ ++",
       "description": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-2-000-06",
-      "name": "我是第一名！ +++",
+      "name": "わたしが一番！ +++",
       "description": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -972,7 +972,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-02",
-      "name": "何時何地簡簡單單",
+      "name": "古今東西ちょちょいのちょい",
       "description": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -982,17 +982,17 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-04",
-      "name": "何時何地簡簡單單 +",
+      "name": "古今東西ちょちょいのちょい +",
       "description": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-006-05",
-      "name": "何時何地簡簡單單 ++",
+      "name": "古今東西ちょちょいのちょい ++",
       "description": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-006-06",
-      "name": "何時何地簡簡單單 +++",
+      "name": "古今東西ちょちょいのちょい +++",
       "description": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-011-02",
-      "name": "櫻花相簿",
+      "name": "桜フォトグラフ",
       "description": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -1042,17 +1042,17 @@
     },
     {
       "id": "achieve-i_card-hski-3-011-04",
-      "name": "櫻花相簿 +",
+      "name": "桜フォトグラフ +",
       "description": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-011-05",
-      "name": "櫻花相簿 ++",
+      "name": "桜フォトグラフ ++",
       "description": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-011-06",
-      "name": "櫻花相簿 +++",
+      "name": "桜フォトグラフ +++",
       "description": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -1062,7 +1062,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-012-02",
-      "name": "雨後的鳶尾花",
+      "name": "雨上がりのアイリス",
       "description": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -1072,17 +1072,17 @@
     },
     {
       "id": "achieve-i_card-hski-3-012-04",
-      "name": "雨後的鳶尾花 +",
+      "name": "雨上がりのアイリス +",
       "description": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-012-05",
-      "name": "雨後的鳶尾花 ++",
+      "name": "雨上がりのアイリス ++",
       "description": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-012-06",
-      "name": "雨後的鳶尾花 +++",
+      "name": "雨上がりのアイリス +++",
       "description": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -1092,7 +1092,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-015-02",
-      "name": "全力以赴！",
+      "name": "がむしゃらに行こう！",
       "description": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -1102,17 +1102,17 @@
     },
     {
       "id": "achieve-i_card-hski-3-015-04",
-      "name": "全力以赴！ +",
+      "name": "がむしゃらに行こう！ +",
       "description": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-015-05",
-      "name": "全力以赴！ ++",
+      "name": "がむしゃらに行こう！ ++",
       "description": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-015-06",
-      "name": "全力以赴！ +++",
+      "name": "がむしゃらに行こう！ +++",
       "description": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -1122,7 +1122,7 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-02",
-      "name": "偶像，開始！",
+      "name": "アイドル、はじめっ！",
       "description": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
@@ -1132,17 +1132,17 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-04",
-      "name": "偶像，開始！ +",
+      "name": "アイドル、はじめっ！ +",
       "description": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-05",
-      "name": "偶像，開始！ ++",
+      "name": "アイドル、はじめっ！ ++",
       "description": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-06",
-      "name": "偶像，開始！ +++",
+      "name": "アイドル、はじめっ！ +++",
       "description": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-009-02",
-      "name": "呼嚕呼嚕",
+      "name": "グースーピー",
       "description": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
@@ -1252,17 +1252,17 @@
     },
     {
       "id": "achieve-i_card-hume-3-009-04",
-      "name": "呼嚕呼嚕 +",
+      "name": "グースーピー +",
       "description": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-009-05",
-      "name": "呼嚕呼嚕 ++",
+      "name": "グースーピー ++",
       "description": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-009-06",
-      "name": "呼嚕呼嚕 +++",
+      "name": "グースーピー +++",
       "description": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
@@ -1332,7 +1332,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-000-02",
-      "name": "小小的野心",
+      "name": "小さな野望",
       "description": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
     },
     {
@@ -1342,17 +1342,17 @@
     },
     {
       "id": "achieve-i_card-jsna-3-000-04",
-      "name": "小小的野心 +",
+      "name": "小さな野望 +",
       "description": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-000-05",
-      "name": "小小的野心 ++",
+      "name": "小さな野望 ++",
       "description": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-000-06",
-      "name": "小小的野心 +++",
+      "name": "小さな野望 +++",
       "description": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
     },
     {
@@ -1392,7 +1392,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-02",
-      "name": "幸福千層酥",
+      "name": "ハッピーミルフィーユ",
       "description": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
     },
     {
@@ -1402,17 +1402,17 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-04",
-      "name": "幸福千層酥 +",
+      "name": "ハッピーミルフィーユ +",
       "description": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-003-05",
-      "name": "幸福千層酥 ++",
+      "name": "ハッピーミルフィーユ ++",
       "description": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-003-06",
-      "name": "幸福千層酥 +++",
+      "name": "ハッピーミルフィーユ +++",
       "description": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
     },
     {
@@ -1477,17 +1477,17 @@
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",
-      "name": "挺起胸膛一步步前進 +",
+      "name": "胸を張って一歩ずつ +",
       "description": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-2-000-05",
-      "name": "挺起胸膛一步步前進 ++",
+      "name": "胸を張って一歩ずつ ++",
       "description": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-2-000-06",
-      "name": "挺起胸膛一步步前進 +++",
+      "name": "胸を張って一歩ずつ +++",
       "description": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1512,7 +1512,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "每天、都有新發現！",
+      "name": "日々、発見的ステップ！",
       "description": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1522,17 +1522,17 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-04",
-      "name": "每天、都有新發現！ +",
+      "name": "日々、発見的ステップ！ +",
       "description": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-001-05",
-      "name": "每天、都有新發現！ ++",
+      "name": "日々、発見的ステップ！ ++",
       "description": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-001-06",
-      "name": "每天、都有新發現！ +++",
+      "name": "日々、発見的ステップ！ +++",
       "description": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1542,7 +1542,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-02",
-      "name": "變裝狂想曲",
+      "name": "仮装狂騒曲",
       "description": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1552,17 +1552,17 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-04",
-      "name": "變裝狂想曲 +",
+      "name": "仮装狂騒曲 +",
       "description": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-002-05",
-      "name": "變裝狂想曲 ++",
+      "name": "仮装狂騒曲 ++",
       "description": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-002-06",
-      "name": "變裝狂想曲 +++",
+      "name": "仮装狂騒曲 +++",
       "description": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1582,17 +1582,17 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-04",
-      "name": "歡迎來到初星溫泉 +",
+      "name": "ようこそ初星温泉 +",
       "description": "【ようこそ初星温泉】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-005-05",
-      "name": "歡迎來到初星溫泉 ++",
+      "name": "ようこそ初星温泉 ++",
       "description": "【ようこそ初星温泉】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-005-06",
-      "name": "歡迎來到初星溫泉 +++",
+      "name": "ようこそ初星温泉 +++",
       "description": "【ようこそ初星温泉】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1632,7 +1632,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-009-02",
-      "name": "雪融之時",
+      "name": "雪解けに",
       "description": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1642,17 +1642,17 @@
     },
     {
       "id": "achieve-i_card-kcna-3-009-04",
-      "name": "雪融之時 +",
+      "name": "雪解けに +",
       "description": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-009-05",
-      "name": "雪融之時 ++",
+      "name": "雪解けに ++",
       "description": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-009-06",
-      "name": "雪融之時 +++",
+      "name": "雪解けに +++",
       "description": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1692,7 +1692,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-014-02",
-      "name": "向天空約定",
+      "name": "空と約束",
       "description": "【空と約束】將將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -1702,32 +1702,32 @@
     },
     {
       "id": "achieve-i_card-kcna-3-014-04",
-      "name": "向天空約定 +",
+      "name": "空と約束 +",
       "description": "【空と約束】將將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-05",
-      "name": "向天空約定 ++",
+      "name": "空と約束 ++",
       "description": "【空と約束】將將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-06",
-      "name": "向天空約定 +++",
+      "name": "空と約束 +++",
       "description": "【空と約束】將將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-04",
-      "name": "邁出第一步的前方 +",
+      "name": "一つ踏み出した先に +",
       "description": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-05",
-      "name": "邁出第一步的前方 ++",
+      "name": "一つ踏み出した先に ++",
       "description": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-06",
-      "name": "邁出第一步的前方 +++",
+      "name": "一つ踏み出した先に +++",
       "description": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
@@ -1872,7 +1872,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-010-02",
-      "name": "櫻花相簿",
+      "name": "桜フォトグラフ",
       "description": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
@@ -1882,17 +1882,17 @@
     },
     {
       "id": "achieve-i_card-kllj-3-010-04",
-      "name": "櫻花相簿 +",
+      "name": "桜フォトグラフ +",
       "description": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-010-05",
-      "name": "櫻花相簿 ++",
+      "name": "桜フォトグラフ ++",
       "description": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-010-06",
-      "name": "櫻花相簿 +++",
+      "name": "桜フォトグラフ +++",
       "description": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
@@ -1926,18 +1926,48 @@
       "description": "【Howling over the World】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-kllj-3-015-01",
+      "name": "滿溢出的情感",
+      "description": "【Atmosphere】在葛城莉莉婭的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-02",
+      "name": "Atmosphere",
+      "description": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-03",
+      "name": "發動準備，完成！",
+      "description": "【Atmosphere】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-04",
+      "name": "Atmosphere +",
+      "description": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-05",
+      "name": "Atmosphere ++",
+      "description": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-015-06",
+      "name": "Atmosphere +++",
+      "description": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-shro-2-000-04",
-      "name": "最不適合的事 +",
+      "name": "一番向いてないこと +",
       "description": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-05",
-      "name": "最不適合的事 ++",
+      "name": "一番向いてないこと ++",
       "description": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-06",
-      "name": "最不適合的事 +++",
+      "name": "一番向いてないこと +++",
       "description": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -1972,17 +2002,17 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-04",
-      "name": "反差 +",
+      "name": "コントラスト +",
       "description": "【コントラスト】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-05",
-      "name": "反差 ++",
+      "name": "コントラスト ++",
       "description": "【コントラスト】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-06",
-      "name": "反差 +++",
+      "name": "コントラスト +++",
       "description": "【コントラスト】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -1992,7 +2022,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-002-02",
-      "name": "變裝狂想曲",
+      "name": "仮装狂騒曲",
       "description": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -2002,17 +2032,17 @@
     },
     {
       "id": "achieve-i_card-shro-3-002-04",
-      "name": "變裝狂想曲 +",
+      "name": "仮装狂騒曲 +",
       "description": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-05",
-      "name": "變裝狂想曲 ++",
+      "name": "仮装狂騒曲 ++",
       "description": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-06",
-      "name": "變裝狂想曲 +++",
+      "name": "仮装狂騒曲 +++",
       "description": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -2052,7 +2082,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-008-02",
-      "name": "幸福千層酥",
+      "name": "ハッピーミルフィーユ",
       "description": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -2062,17 +2092,17 @@
     },
     {
       "id": "achieve-i_card-shro-3-008-04",
-      "name": "幸福千層酥 +",
+      "name": "ハッピーミルフィーユ +",
       "description": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-05",
-      "name": "幸福千層酥 ++",
+      "name": "ハッピーミルフィーユ ++",
       "description": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-06",
-      "name": "幸福千層酥 +++",
+      "name": "ハッピーミルフィーユ +++",
       "description": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -2082,7 +2112,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-012-02",
-      "name": "褪色",
+      "name": "サンフェーデッド",
       "description": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -2092,17 +2122,17 @@
     },
     {
       "id": "achieve-i_card-shro-3-012-04",
-      "name": "褪色 +",
+      "name": "サンフェーデッド +",
       "description": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-05",
-      "name": "褪色 ++",
+      "name": "サンフェーデッド ++",
       "description": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-06",
-      "name": "褪色 +++",
+      "name": "サンフェーデッド +++",
       "description": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -2112,7 +2142,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-014-02",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -2122,32 +2152,32 @@
     },
     {
       "id": "achieve-i_card-shro-3-014-04",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ +",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ +",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-05",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ ++",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ ++",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-06",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ +++",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ +++",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
-      "name": "爲了夢想的再出發 +",
+      "name": "夢へのリスタート +",
       "description": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-05",
-      "name": "爲了夢想的再出發 ++",
+      "name": "夢へのリスタート ++",
       "description": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-06",
-      "name": "爲了夢想的再出發 +++",
+      "name": "夢へのリスタート +++",
       "description": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2172,7 +2202,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
-      "name": "與你共度的湛藍夏日",
+      "name": "キミとセミブルー",
       "description": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2182,17 +2212,17 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-04",
-      "name": "與你共度的湛藍夏日 +",
+      "name": "キミとセミブルー +",
       "description": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-05",
-      "name": "與你共度的湛藍夏日 ++",
+      "name": "キミとセミブルー ++",
       "description": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-06",
-      "name": "與你共度的湛藍夏日 +++",
+      "name": "キミとセミブルー +++",
       "description": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2212,17 +2242,17 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-002-04",
-      "name": "與你共度的湛藍夏日 +",
+      "name": "カクシタワタシ +",
       "description": "【カクシタワタシ】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-05",
-      "name": "與你共度的湛藍夏日 ++",
+      "name": "カクシタワタシ ++",
       "description": "【カクシタワタシ】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-06",
-      "name": "與你共度的湛藍夏日 +++",
+      "name": "カクシタワタシ +++",
       "description": "【カクシタワタシ】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2262,7 +2292,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-010-02",
-      "name": "櫻花相簿",
+      "name": "桜フォトグラフ",
       "description": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2272,17 +2302,17 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-010-04",
-      "name": "櫻花相簿 +",
+      "name": "桜フォトグラフ +",
       "description": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-05",
-      "name": "櫻花相簿 ++",
+      "name": "桜フォトグラフ ++",
       "description": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-06",
-      "name": "櫻花相簿 +++",
+      "name": "桜フォトグラフ +++",
       "description": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2322,7 +2352,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-014-02",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2332,17 +2362,17 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-014-04",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ +",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ +",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-05",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ ++",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ ++",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-06",
-      "name": "奇蹟正是現在(ﾟ∀ﾟ)！ +++",
+      "name": "ミラクルナナウ(ﾟ∀ﾟ)！ +++",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
@@ -2382,7 +2412,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-02",
-      "name": "常春藤",
+      "name": "アイヴイ",
       "description": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2392,17 +2422,17 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-04",
-      "name": "常春藤 +",
+      "name": "アイヴイ +",
       "description": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-05",
-      "name": "常春藤 ++",
+      "name": "アイヴイ ++",
       "description": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-06",
-      "name": "常春藤 +++",
+      "name": "アイヴイ +++",
       "description": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2412,7 +2442,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-002-02",
-      "name": "變裝狂想曲",
+      "name": "仮装狂騒曲",
       "description": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2422,17 +2452,17 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-002-04",
-      "name": "變裝狂想曲 +",
+      "name": "仮装狂騒曲 +",
       "description": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-05",
-      "name": "變裝狂想曲 ++",
+      "name": "仮装狂騒曲 ++",
       "description": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-06",
-      "name": "變裝狂想曲 +++",
+      "name": "仮装狂騒曲 +++",
       "description": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2472,7 +2502,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-009-02",
-      "name": "雪融之時",
+      "name": "雪解けに",
       "description": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2482,17 +2512,17 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-009-04",
-      "name": "雪融之時 +",
+      "name": "雪解けに +",
       "description": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-05",
-      "name": "雪融之時 ++",
+      "name": "雪解けに ++",
       "description": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-06",
-      "name": "雪融之時 +++",
+      "name": "雪解けに +++",
       "description": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2502,7 +2532,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-02",
-      "name": "雨後的鳶尾花",
+      "name": "雨上がりのアイリス",
       "description": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2512,17 +2542,17 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-04",
-      "name": "雨後的鳶尾花 +",
+      "name": "雨上がりのアイリス +",
       "description": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-05",
-      "name": "雨後的鳶尾花 ++",
+      "name": "雨上がりのアイリス ++",
       "description": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-06",
-      "name": "雨後的鳶尾花 +++",
+      "name": "雨上がりのアイリス +++",
       "description": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2532,7 +2562,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-015-02",
-      "name": "全力以赴！",
+      "name": "がむしゃらに行こう！",
       "description": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -2542,17 +2572,17 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-015-04",
-      "name": "全力以赴！ +",
+      "name": "がむしゃらに行こう！ +",
       "description": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-05",
-      "name": "全力以赴！ ++",
+      "name": "がむしゃらに行こう！ ++",
       "description": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-06",
-      "name": "全力以赴！ +++",
+      "name": "がむしゃらに行こう！ +++",
       "description": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
     },
     {
@@ -3112,7 +3142,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-002-2",
-      "name": "始於帥氣",
+      "name": "はじまりはカッコよく",
       "description": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
@@ -3142,7 +3172,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-002-2",
-      "name": "可愛♡開始啦",
+      "name": "カワイイ♡はじめました",
       "description": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -3157,7 +3187,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-2",
-      "name": "世界第一可愛的我",
+      "name": "世界一可愛い私",
       "description": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
     },
     {
@@ -3172,7 +3202,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-2",
-      "name": "『我的風格』的開始",
+      "name": "『私らしさ』のはじまり",
       "description": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
@@ -3202,7 +3232,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-002-2",
-      "name": "我是第一名！",
+      "name": "わたしが一番！",
       "description": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
     },
     {
@@ -3232,7 +3262,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-002-2",
-      "name": "挺起胸膛一步步前進",
+      "name": "胸を張って一歩ずつ",
       "description": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
@@ -3262,7 +3292,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-002-2",
-      "name": "邁出第一步的前方",
+      "name": "一つ踏み出した先に",
       "description": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
@@ -3292,7 +3322,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-002-2",
-      "name": "最不適合的事",
+      "name": "一番向いてないこと",
       "description": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
@@ -3322,7 +3352,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-2",
-      "name": "爲了夢想的再出發",
+      "name": "夢へのリスタート",
       "description": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
     },
     {

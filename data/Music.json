@@ -1187,13 +1187,13 @@
     },
     {
       "id": "music-char-hume-002",
-      "title": "",
-      "displayTitle": ""
+      "title": "グースーピー",
+      "displayTitle": "グースーピー"
     },
     {
       "id": "music-char-hume-002-inst",
-      "title": "",
-      "displayTitle": ""
+      "title": "グースーピー [Instrumental]",
+      "displayTitle": "グースーピー [Instrumental]"
     },
     {
       "id": "music-char-hume-003",
@@ -1237,13 +1237,13 @@
     },
     {
       "id": "music-char-jsna-005",
-      "title": "",
-      "displayTitle": ""
+      "title": "Choo Choo Choo",
+      "displayTitle": "Choo Choo Choo"
     },
     {
       "id": "music-char-jsna-005-inst",
-      "title": "",
-      "displayTitle": ""
+      "title": "Choo Choo Choo [Instrumental]",
+      "displayTitle": "Choo Choo Choo [Instrumental]"
     },
     {
       "id": "music-char-kcna-001",
@@ -1324,6 +1324,16 @@
       "id": "music-char-kllj-003-inst",
       "title": "Wake up!! [Instrumental]",
       "displayTitle": "Wake up!! [Instrumental]"
+    },
+    {
+      "id": "music-char-kllj-004",
+      "title": "Atmosphere",
+      "displayTitle": "Atmosphere"
+    },
+    {
+      "id": "music-char-kllj-004-inst",
+      "title": "Atmosphere [Instrumental]",
+      "displayTitle": "Atmosphere [Instrumental]"
     },
     {
       "id": "music-char-kllj-005",
