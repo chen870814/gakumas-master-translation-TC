@@ -215,6 +215,12 @@
       "order": 1,
       "name": "用1.5th Anniversary紀念SSR確定票卷抽取",
       "description": "SSR確定單抽"
+    },
+    {
+      "id": "gasha_ticket_ssr_button-6",
+      "order": 1,
+      "name": "用MOIW2025紀念 SSR P偶像確定票卷抽取",
+      "description": "SSR偶像確定單抽"
     }
   ]
 }

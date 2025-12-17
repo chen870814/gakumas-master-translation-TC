@@ -378,6 +378,14 @@
             "name": "コンテストで1位以内に入ろう"
         },
         {
+            "id": "hidden_mission-achieve-o_015_001",
+            "name": "リンクコンテストで100位以内に入ろう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_015_002",
+            "name": "コンテストで100位以内に入ろう"
+        },
+        {
             "id": "hidden_mission-achieve-o_016_001",
             "name": "リンクコンテストでグレード1に到達しよう"
         },
@@ -432,6 +440,22 @@
         {
             "id": "hidden_mission-achieve-o_022_002",
             "name": "コンテストでグレード7に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_026_001",
+            "name": "hidden_mission-achieve-o_026_001"
+        },
+        {
+            "id": "hidden_mission-achieve-o_026_002",
+            "name": "hidden_mission-achieve-o_026_002"
+        },
+        {
+            "id": "hidden_mission-achieve-o_027_001",
+            "name": "hidden_mission-achieve-o_027_001"
+        },
+        {
+            "id": "hidden_mission-achieve-o_027_002",
+            "name": "hidden_mission-achieve-o_027_002"
         },
         {
             "id": "hidden_mission-app-review-main-task-clear",

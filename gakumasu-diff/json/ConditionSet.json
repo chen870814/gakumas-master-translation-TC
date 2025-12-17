@@ -17,6 +17,16 @@
             "description": ""
         },
         {
+            "id": "cd_achieve-o_015",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_achieve-o_015",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd_achieve-o_016",
             "number": 1,
             "description": ""
@@ -83,6 +93,26 @@
         },
         {
             "id": "cd_achieve-o_022",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_achieve-o_026",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_achieve-o_026",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_achieve-o_027",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_achieve-o_027",
             "number": 2,
             "description": ""
         },
@@ -902,6 +932,11 @@
             "description": ""
         },
         {
+            "id": "cd_gasha_have_ticket_item-gashaticket-ssr-idol-fix_3",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_gasha_have_ticket_seasons-2511-001",
             "number": 1,
             "description": ""
@@ -1573,6 +1608,11 @@
         },
         {
             "id": "cd_login_bonus_wednesday-25-1210",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-25-1217",
             "number": 1,
             "description": ""
         },
@@ -5177,12 +5217,27 @@
             "description": ""
         },
         {
+            "id": "cd_time_25_12015-1100",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_25_1207-0000",
             "number": 1,
             "description": ""
         },
         {
             "id": "cd_time_25_1208-1100",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1213-2030_26_0201-1059",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1215_1100_25_1218_1100",
             "number": 1,
             "description": ""
         },
@@ -13082,6 +13137,11 @@
             "description": ""
         },
         {
+            "id": "cd-purchase-shop_pack_item-0062",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-purchase-shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
             "number": 1,
             "description": ""
@@ -16764,6 +16824,11 @@
         {
             "id": "cd-view-shop_pack_item-0050",
             "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-view-shop_pack_item-0062",
+            "number": 1,
             "description": ""
         },
         {

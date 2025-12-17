@@ -270,6 +270,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-ssr-idol-fix_3",
+            "name": "MOIW2025記念 SSR Pアイドル確定ガシャチケット",
+            "description": "MOIW2025記念 SSR Pアイドル確定チケットガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-support-fix_1",
             "name": "SSR Sカード確定ガシャチケット",
             "description": "SSR Sカード確定チケットガシャで使用するチケット",

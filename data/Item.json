@@ -270,6 +270,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-idol-fix_3",
+      "name": "MOIW2025紀念 SSR P偶像確定票卷",
+      "description": "可以在MOIW2025紀念 SSR P偶像確定票卷扭蛋中使用的票卷",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-support-fix_1",
       "name": "SSR S卡確定扭蛋票卷",
       "description": "可以在SSR S卡確定扭蛋中使用的票卷",
