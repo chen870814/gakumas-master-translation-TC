@@ -23,8 +23,8 @@ tran:
 check:
 	python scripts/check_different_files.py
 
-diff:
+L18ND:
 	python pretranslate_todo/localization/make_dual.py
 
-difffin:
+L18NF:
 	python pretranslate_todo/localization/extract_chinese.py

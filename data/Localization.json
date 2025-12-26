@@ -18,6 +18,10 @@
       "description": "訓練Pt不足。"
     },
     {
+      "id": "card.produce_card_customize.detail_sheet.nia_condition",
+      "description": "※自定義是在特別指導中進行的特殊強化"
+    },
+    {
       "id": "competition.rehearsal_battle_confirm.label.description",
       "description": "※不會消耗挑戰次數 / 無法獲得評分點"
     },
@@ -31,15 +35,31 @@
     },
     {
       "id": "exchange.complete.confirm",
-      "description": ""
+      "description": "已交換"
     },
     {
       "id": "high_score_event.top.adv.title_label",
       "description": "偶像強化月間\\n〜星光璀璨〜"
     },
     {
+      "id": "home.gasha.continuous_share.share_text",
+      "description": "＼ TV廣告放映紀念抽到飽扭蛋舉辦中 ／\n\n只要「繼續」有出現，就能免費繼續抽到飽!\n扭蛋確定至少SSR卡1張以上!\n\n#学マス #引き放題って好き"
+    },
+    {
+      "id": "home.gasha.continuous_share.title",
+      "description": "TV廣告放映紀念抽到飽扭蛋抽取結果"
+    },
+    {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
       "description": "獲得作為目標的P偶像後"
+    },
+    {
+      "id": "home.gasha.draw_button.item",
+      "description": "道具"
+    },
+    {
+      "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
+      "description": "持有數量不足"
     },
     {
       "id": "home.pvp.contest.out_of_term_toast",
@@ -67,7 +87,11 @@
     },
     {
       "id": "produce.card.move_position.deckall",
-      "description": ""
+      "description": "其他的編成位"
+    },
+    {
+      "id": "produce.card.rarity.legend",
+      "description": "Legend"
     },
     {
       "id": "produce.high_score_rush.gold.description",
@@ -84,6 +108,10 @@
     {
       "id": "producer_ranking.character_reward.description",
       "description": "根據賽季結束時製作人排行榜的排名，在統計期間結束後可以獲得獎勵"
+    },
+    {
+      "id": "profile.badge_select.thumb_empty.empty.toast",
+      "description": "可以在製作人排行榜中獲得"
     },
     {
       "id": "profile.report.share.text",
@@ -107,7 +135,7 @@
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
-      "description": ""
+      "description": "獲得活動Pt，並閱讀前一個交流劇情後解鎖"
     },
     {
       "id": "voice.idol_use_produce_card",

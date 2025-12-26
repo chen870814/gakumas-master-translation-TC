@@ -332,6 +332,12 @@
       "content": "睡午覺、散步"
     },
     {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "國中部第一組合「SyngUp!」的原成員。\n雖然常被月村手毬的光芒掩蓋，評價稍顯平淡，但她的實力絕對是真材實料。\n給人一種幾乎沒有缺點、已臻成熟的偶像印象。未來仍可期待她有更進一步的成長。"
+    },
+    {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,

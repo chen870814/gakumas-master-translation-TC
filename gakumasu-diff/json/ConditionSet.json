@@ -932,6 +932,11 @@
             "description": ""
         },
         {
+            "id": "cd_gasha_have_ticket_christmas-001",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_gasha_have_ticket_item-gashaticket-ssr-idol-fix_3",
             "number": 1,
             "description": ""
@@ -972,7 +977,17 @@
             "description": ""
         },
         {
+            "id": "cd_gasha_have_ticket-ssr-idol-seasons-260101",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_gasha_have_ticket-ssr-support-fix-nia-1",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_gasha_have_ticket-ssr-supportcard-seasons-260101",
             "number": 1,
             "description": ""
         },
@@ -1057,7 +1072,17 @@
             "description": ""
         },
         {
+            "id": "cd_login_bonus_akeome-26-0101",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_login_bonus_campaign_newyear-001-25-0101",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_campaign_newyear-002-26-0101",
             "number": 1,
             "description": ""
         },
@@ -1613,6 +1638,21 @@
         },
         {
             "id": "cd_login_bonus_wednesday-25-1217",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-25-1218",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-25-1224",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-25-1231",
             "number": 1,
             "description": ""
         },
@@ -3317,6 +3357,11 @@
             "description": ""
         },
         {
+            "id": "cd_not_purchase_shop_pack_item-newyearpack-02",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_photo-pose-hotsping-costume-non",
             "number": 1,
             "description": "ロケーションで撮影できる衣装を所持していません"
@@ -3462,6 +3507,46 @@
             "description": ""
         },
         {
+            "id": "cd_producer_level-001",
+            "number": 1,
+            "description": "プロデューサーLv1以上で解放"
+        },
+        {
+            "id": "cd_producer_level-051",
+            "number": 1,
+            "description": "プロデューサーLv51以上で解放"
+        },
+        {
+            "id": "cd_producer_level-052",
+            "number": 1,
+            "description": "プロデューサーLv52以上で解放"
+        },
+        {
+            "id": "cd_producer_level-053",
+            "number": 1,
+            "description": "プロデューサーLv53以上で解放"
+        },
+        {
+            "id": "cd_producer_level-054",
+            "number": 1,
+            "description": "プロデューサーLv54以上で解放"
+        },
+        {
+            "id": "cd_producer_level-056",
+            "number": 1,
+            "description": "プロデューサーLv56以上で解放"
+        },
+        {
+            "id": "cd_producer_level-057",
+            "number": 1,
+            "description": "プロデューサーLv57以上で解放"
+        },
+        {
+            "id": "cd_producer_level-058",
+            "number": 1,
+            "description": "プロデューサーLv58以上で解放"
+        },
+        {
             "id": "cd_producerlevel-10",
             "number": 1,
             "description": "PLv10に到達"
@@ -3503,6 +3588,16 @@
         },
         {
             "id": "cd_purchase_shop_pack_item-newyearpack",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_purchase_shop_pack_item-newyearpack-02",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_purchase_shop_pack_item-newyearpack-02",
             "number": 2,
             "description": ""
         },
@@ -5212,6 +5307,11 @@
             "description": ""
         },
         {
+            "id": "cd_time_25_1201_1100_26_0101_1000",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_25_1201_26_0501",
             "number": 1,
             "description": ""
@@ -5242,12 +5342,62 @@
             "description": ""
         },
         {
+            "id": "cd_time_25_1215_1400",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1221-0000",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1224",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_25_1224_0000",
             "number": 1,
             "description": ""
         },
         {
+            "id": "cd_time_25_1224_25_0101",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1226_0000",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1226_1100-26_0201_0459",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1226_1100-26_0201_1059",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1226_1100-26_0201_2359",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1226-1100",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_25_1231_0000",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_25_1231-1100",
             "number": 1,
             "description": ""
         },
@@ -5258,6 +5408,11 @@
         },
         {
             "id": "cd_time_26_0101_0000",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0101-0000_26_0201-0459",
             "number": 1,
             "description": ""
         },
@@ -5297,7 +5452,17 @@
             "description": ""
         },
         {
+            "id": "cd_time_26_1201_1100_27_0101_1000",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_atbm_produce-character-open",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_badge-edit-view",
             "number": 1,
             "description": ""
         },
@@ -5363,6 +5528,11 @@
         },
         {
             "id": "cd_time-view_open-i_card-atbm-3-000",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time-view_open-i_card-atbm-3-012",
             "number": 1,
             "description": ""
         },
@@ -5887,6 +6057,16 @@
             "description": "有村麻央のクリア条件の★を40個獲得"
         },
         {
+            "id": "cd_tower_open_atbm",
+            "number": 1,
+            "description": "True End\n達成で解放"
+        },
+        {
+            "id": "cd_tower_open_atbm_stage16",
+            "number": 1,
+            "description": "雨夜燕のクリア条件の★を40個獲得"
+        },
+        {
             "id": "cd_tower_open_fktn",
             "number": 1,
             "description": "True End\n達成で解放"
@@ -6143,6 +6323,16 @@
         },
         {
             "id": "cd_view_shop_costume_item-00065",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-00067",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-00067",
             "number": 2,
             "description": ""
         },
@@ -7042,6 +7232,11 @@
             "description": ""
         },
         {
+            "id": "cd-birthday-shro-2025",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-birthday-ssmk",
             "number": 1,
             "description": ""
@@ -7257,8 +7452,173 @@
             "description": ""
         },
         {
+            "id": "cd-clear-hidden_mission-view-gasha-200limit-select-pickup-001",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-close-view-homebanner",
             "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback",
+            "number": 1,
+            "description": "未ログイン30日ユーザー"
+        },
+        {
+            "id": "cd-comeback-unlock_open-01",
+            "number": 1,
+            "description": "12月26日開始"
+        },
+        {
+            "id": "cd-comeback-unlock_open-01",
+            "number": 2,
+            "description": "PLv9以上のユーザー"
+        },
+        {
+            "id": "cd-comeback-unlock_open-01",
+            "number": 3,
+            "description": "N.I.A未開放"
+        },
+        {
+            "id": "cd-comeback-unlock_open-01",
+            "number": 4,
+            "description": "既存の条件"
+        },
+        {
+            "id": "cd-comeback-unlock_open-01",
+            "number": 5,
+            "description": "未ログイン30日ユーザー"
+        },
+        {
+            "id": "cd-comeback-unlock_open-02",
+            "number": 1,
+            "description": "12月26日11時未ログイン30日以上"
+        },
+        {
+            "id": "cd-comeback-unlock_open-02",
+            "number": 2,
+            "description": "P課題35達成か「N.I.A」に挑戦できる"
+        },
+        {
+            "id": "cd-comeback-unlock_open-02",
+            "number": 3,
+            "description": "既存の条件"
+        },
+        {
+            "id": "cd-comeback-unlock_open-02",
+            "number": 4,
+            "description": "未ログイン30日ユーザー"
+        },
+        {
+            "id": "cd-comeback-unlock_open-03",
+            "number": 1,
+            "description": "12月26日11時未ログイン30日未満ユーザー"
+        },
+        {
+            "id": "cd-comeback-unlock_open-03",
+            "number": 2,
+            "description": "既存の条件"
+        },
+        {
+            "id": "cd-comeback-unlock_open-03",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-04",
+            "number": 1,
+            "description": "12月26日開始"
+        },
+        {
+            "id": "cd-comeback-unlock_open-04",
+            "number": 2,
+            "description": "PLv9未満のユーザー"
+        },
+        {
+            "id": "cd-comeback-unlock_open-04",
+            "number": 3,
+            "description": "N.I.A未開放"
+        },
+        {
+            "id": "cd-comeback-unlock_open-04",
+            "number": 4,
+            "description": "既存の条件"
+        },
+        {
+            "id": "cd-comeback-unlock_open-04",
+            "number": 5,
+            "description": "未ログイン30日ユーザー"
+        },
+        {
+            "id": "cd-comeback-unlock_open-05",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-05",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-06",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-06",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-07",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-07",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-08",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-08",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-09",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-09",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-10",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-10",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-comeback-unlock_open-11",
+            "number": 1,
+            "description": "パネル未開放なら"
+        },
+        {
+            "id": "cd-comeback-unlock_open-11",
+            "number": 2,
             "description": ""
         },
         {
@@ -7635,6 +7995,11 @@
             "id": "cd-dearness_level-atbm-10",
             "number": 1,
             "description": "雨夜 燕の親愛度Lvを10にする"
+        },
+        {
+            "id": "cd-dearness_level-atbm-20",
+            "number": 1,
+            "description": "雨夜 燕の親愛度Lvを20にする"
         },
         {
             "id": "cd-dearness_level-fktn-01",
@@ -8819,7 +9184,7 @@
         {
             "id": "cd-dearness_normal-mission_kllj-0001",
             "number": 1,
-            "description": "親愛度ブーストキャンペーン終了後"
+            "description": "親愛度Lv20達成時"
         },
         {
             "id": "cd-dearness_normal-mission_kllj-0001",
@@ -8849,12 +9214,42 @@
         {
             "id": "cd-dearness_shro-20",
             "number": 1,
-            "description": "篠澤 広の親愛度Lv20達成"
+            "description": "篠澤広の親愛度Lv20達成"
+        },
+        {
+            "id": "cd-dearness_someone-20",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_someone-20",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_someone-20",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_someone-20",
+            "number": 4,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_someone-20",
+            "number": 5,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_someone-20",
+            "number": 6,
+            "description": ""
         },
         {
             "id": "cd-dearness_ssmk-20",
             "number": 1,
-            "description": "紫雲 清夏の親愛度Lv20達成"
+            "description": "紫雲清夏の親愛度Lv20達成"
         },
         {
             "id": "cd-dearness-top_motion_amao_dearness_level-1-20",
@@ -9082,6 +9477,31 @@
             "description": ""
         },
         {
+            "id": "cd-hajime_legend_produce-unlock_open",
+            "number": 1,
+            "description": "いずれかのアイドルの親愛度Lv10かつPLv50以上で解放"
+        },
+        {
+            "id": "cd-hajime_legend_produce-unlock_open",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-hajime_legend_produce-unlock_open",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
+            "number": 1,
+            "description": "プロデューサーLv50以上で解放"
+        },
+        {
+            "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
+            "number": 2,
+            "description": "いずれかのアイドルの親愛度Lv10で解放"
+        },
+        {
             "id": "cd-half-anniversary-2024",
             "number": 1,
             "description": ""
@@ -9252,6 +9672,11 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_head_amao-hair-0004",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_head_fktn-hair-0001",
             "number": 1,
             "description": ""
@@ -9273,6 +9698,11 @@
         },
         {
             "id": "cd-have_costume_head_hrnm-hair-0003",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_head_hrnm-hair-0004",
             "number": 1,
             "description": ""
         },
@@ -9332,6 +9762,11 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_head_kllj-hair-0004",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_head_shro-hair-0001",
             "number": 1,
             "description": ""
@@ -9353,6 +9788,11 @@
         },
         {
             "id": "cd-have_costume_head_ssmk-hair-0003",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_head_ssmk-hair-0004",
             "number": 1,
             "description": ""
         },
@@ -9412,6 +9852,11 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_hume-cstm-0067",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_hume-cstm-0069",
             "number": 1,
             "description": ""
@@ -9444,6 +9889,21 @@
         {
             "id": "cd-have_costume_kllj-cstm-0063",
             "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_kllj-cstm-0067",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_kllj-cstm-0067-hume-cstm-0067",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_kllj-cstm-0067-hume-cstm-0067",
+            "number": 2,
             "description": ""
         },
         {
@@ -9733,6 +10193,26 @@
         },
         {
             "id": "cd-highscore_event-ignore",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_background-birthday-shro-2025",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_background-christmas-2025",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_background-christmas-2025-02",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_background-nomal-01",
             "number": 1,
             "description": ""
         },
@@ -10762,6 +11242,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_object_newyear-00",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home-banner_shop_costume-0002",
             "number": 1,
             "description": ""
@@ -11358,6 +11843,11 @@
         },
         {
             "id": "cd-mission_complete_mission-normal-incrementmemorygradecount-ss-1",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-mission-continuous-gasha-mission_001",
             "number": 1,
             "description": ""
         },
@@ -12122,6 +12612,11 @@
             "description": ""
         },
         {
+            "id": "cd-produce_group-002-a-atbm",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-produce_group-002-a-fktn",
             "number": 1,
             "description": ""
@@ -12182,6 +12677,11 @@
             "description": ""
         },
         {
+            "id": "cd-produce_group-002-first-atbm",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-produce_group-002-first-fktn",
             "number": 1,
             "description": ""
@@ -12238,6 +12738,11 @@
         },
         {
             "id": "cd-produce_group-002-trueend-amao",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-produce_group-002-trueend-atbm",
             "number": 1,
             "description": ""
         },
@@ -12317,7 +12822,17 @@
             "description": ""
         },
         {
+            "id": "cd-purchase_costume_head_amao-hair-0004",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-purchase_costume_head_fktn-hair-0004",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_costume_head_hrnm-hair-0004",
             "number": 1,
             "description": ""
         },
@@ -12342,7 +12857,17 @@
             "description": ""
         },
         {
+            "id": "cd-purchase_costume_head_kllj-hair-0004",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-purchase_costume_head_shro-hair-0004",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_costume_head_ssmk-hair-0004",
             "number": 1,
             "description": ""
         },
@@ -12777,6 +13302,16 @@
             "description": ""
         },
         {
+            "id": "cd-purchase_shop_jewel_item-0063-0064",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_shop_jewel_item-0063-0064",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-purchase_shop_pack_childsmock-01",
             "number": 1,
             "description": ""
@@ -12848,6 +13383,21 @@
         },
         {
             "id": "cd-purchase_shop_pack_item-0014",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_shop_pack_item-0063",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_shop_pack_item-0063-0064",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_shop_pack_item-0064",
             "number": 1,
             "description": ""
         },
@@ -13178,6 +13728,11 @@
         },
         {
             "id": "cd-ralease_dearness-story-kcna",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-ralease_dearness-story-kllj",
             "number": 1,
             "description": ""
         },
@@ -13922,6 +14477,11 @@
             "description": ""
         },
         {
+            "id": "cd-release-music-inst-all-002",
+            "number": 13,
+            "description": ""
+        },
+        {
             "id": "cd-release-music-inst-all-003",
             "number": 1,
             "description": ""
@@ -14149,6 +14709,16 @@
         {
             "id": "cd-release-music-inst-all-006",
             "number": 10,
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-006",
+            "number": 11,
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-006",
+            "number": 12,
             "description": ""
         },
         {
@@ -14717,6 +15287,11 @@
             "description": ""
         },
         {
+            "id": "cd-release-music-inst-shro-005",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-release-music-inst-shro-01",
             "number": 1,
             "description": ""
@@ -15132,6 +15707,16 @@
             "description": ""
         },
         {
+            "id": "cd-shop_costume_hume-cstm-0067",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_hume-cstm-0067",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-shop_costume_hume-cstm-0069_revival-1",
             "number": 1,
             "description": ""
@@ -15198,6 +15783,16 @@
         },
         {
             "id": "cd-shop_costume_kllj-cstm-0063",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_kllj-cstm-0067",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_kllj-cstm-0067",
             "number": 2,
             "description": ""
         },
@@ -16232,6 +16827,16 @@
             "description": "P課題04-25達成で解放"
         },
         {
+            "id": "cd-task_clear-panel_mission-event-006",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-task_clear-panel_mission-event-006",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-time-view_open-producer_ranking-1006_1100",
             "number": 1,
             "description": "2025/010/06 11:00:00に解放"
@@ -16314,6 +16919,11 @@
         {
             "id": "cd-unlock-produce-next-idol-audition-master-ranking",
             "number": 14,
+            "description": ""
+        },
+        {
+            "id": "cd-unlock-producer-ranking_tower-score",
+            "number": 1,
             "description": ""
         },
         {
@@ -16458,6 +17068,31 @@
         },
         {
             "id": "cd-view_home-banner-shop_jewel_item-0026",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-shop_jewel_item-0063",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-shop_jewel_item-0063",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-shop_jewel_item-0064",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-shop_jewel_item-0064",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-shop_jewel_item-0064",
             "number": 3,
             "description": ""
         },
@@ -16692,6 +17327,46 @@
             "description": ""
         },
         {
+            "id": "cd-view-gasha-200limit-select-pickup-001",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view-gasha-200limit-select-pickup-001",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-view-gasha-200limit-select-pickup-001",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd-view-gasha-200limit-select-pickup-002",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view-gasha-200limit-select-pickup-002",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-view-gasha-200limit-select-pickup-exchenge-01",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view-gasha-200limit-select-pickup-item-001-01",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view-gasha-200limit-select-pickup-item-001-01",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-view-home-banner-aprilfool-2025-001",
             "number": 1,
             "description": ""
@@ -16760,6 +17435,16 @@
             "id": "cd-view-nia_produce",
             "number": 2,
             "description": ""
+        },
+        {
+            "id": "cd-view-panel_mission-event-006",
+            "number": 1,
+            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+        },
+        {
+            "id": "cd-view-panel_mission-event-006",
+            "number": 2,
+            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
         },
         {
             "id": "cd-view-shop_jewel_item-0008-0009",
@@ -16854,6 +17539,26 @@
         {
             "id": "cd-view-shop_pass_item-0001",
             "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view-start-up-notification-panel_mission-event-007",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view-start-up-notification-panel_mission-event-007",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-view-start-up-notification-panel_mission-event-008",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-view-start-up-notification-panel_mission-event-008",
+            "number": 2,
             "description": ""
         },
         {
@@ -17132,6 +17837,41 @@
             "description": ""
         },
         {
+            "id": "pannel-mission-event-007_time",
+            "number": 1,
+            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+        },
+        {
+            "id": "pannel-mission-event-007_time",
+            "number": 2,
+            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+        },
+        {
+            "id": "pannel-mission-event-007_time",
+            "number": 3,
+            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+        },
+        {
+            "id": "pannel-mission-event-007_time",
+            "number": 4,
+            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+        },
+        {
+            "id": "pannel-mission-event-008_time",
+            "number": 1,
+            "description": "いずれかのアイドルの親愛度Lv20で解放"
+        },
+        {
+            "id": "pannel-mission-event-008_time",
+            "number": 2,
+            "description": "いずれかのアイドルの親愛度Lv20で解放"
+        },
+        {
+            "id": "pannel-mission-event-008_time",
+            "number": 3,
+            "description": "いずれかのアイドルの親愛度Lv20で解放"
+        },
+        {
             "id": "pannel-mission-event-halfaniv_time",
             "number": 1,
             "description": ""
@@ -17348,6 +18088,11 @@
         },
         {
             "id": "view-home-boards-christmas-00",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "view-home-boards-christmas-01",
             "number": 1,
             "description": ""
         },

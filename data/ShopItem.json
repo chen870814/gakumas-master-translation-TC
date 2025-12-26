@@ -50,6 +50,10 @@
       "name": "圓框眼鏡（有村麻央）"
     },
     {
+      "id": "shop_costume_costume_head_amao-hair-0004",
+      "name": "貓耳（有村麻央）"
+    },
+    {
       "id": "shop_costume_costume_head_atbm-hair-0001",
       "name": "紫陽花髮飾（雨夜燕）"
     },
@@ -110,6 +114,10 @@
       "name": "圓框眼鏡（姬崎莉波）"
     },
     {
+      "id": "shop_costume_costume_head_hrnm-hair-0004",
+      "name": "貓耳（姫崎莉波）"
+    },
+    {
       "id": "shop_costume_costume_head_hski-hair-0001",
       "name": "紫陽花髮飾（花海咲季）"
     },
@@ -166,6 +174,10 @@
       "name": "圓框眼鏡（葛城莉莉婭）"
     },
     {
+      "id": "shop_costume_costume_head_kllj-hair-0004",
+      "name": "貓耳（葛城莉莉婭）"
+    },
+    {
       "id": "shop_costume_costume_head_shro-hair-0001",
       "name": "紫陽花髮飾（篠澤廣）"
     },
@@ -184,6 +196,10 @@
     {
       "id": "shop_costume_costume_head_ssmk-hair-0003",
       "name": "圓框眼鏡（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0004",
+      "name": "貓耳（紫雲清夏）"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -286,6 +302,10 @@
       "name": "初星學園體操服（花海咲季）"
     },
     {
+      "id": "shop_costume_hume-cstm-0067",
+      "name": "聖誕披肩套裝（花海佑芽）"
+    },
+    {
       "id": "shop_costume_hume-cstm-0069",
       "name": "兒童罩衫（花海佑芽）"
     },
@@ -352,6 +372,10 @@
     {
       "id": "shop_costume_kllj-cstm-0063",
       "name": "祭典法批（葛城莉莉亞）"
+    },
+    {
+      "id": "shop_costume_kllj-cstm-0067",
+      "name": "聖誕披肩套裝（葛城莉莉婭）"
     },
     {
       "id": "shop_costume_kllj-cstm-0069_revival-1",
@@ -638,6 +662,14 @@
       "name": "MOIW2025紀念禮包"
     },
     {
+      "id": "shop_pack_item-0063",
+      "name": "TV廣告放映紀念 育成優惠禮包A"
+    },
+    {
+      "id": "shop_pack_item-0064",
+      "name": "TV廣告放映紀念 育成優惠禮包B"
+    },
+    {
       "id": "shop_pack_item-100dl",
       "name": "【100萬下載紀念】育成禮包（6/28截止）"
     },
@@ -702,8 +734,16 @@
       "name": "福袋禮包2025銀"
     },
     {
+      "id": "shop_pack_item-newyear_2500_02",
+      "name": "福袋禮包2026銀"
+    },
+    {
       "id": "shop_pack_item-newyear_5000_01",
       "name": "福袋禮包2025金"
+    },
+    {
+      "id": "shop_pack_item-newyear_5000_02",
+      "name": "福袋禮包2026金"
     },
     {
       "id": "shop_pack_item-onsen-costume-amao",
@@ -824,6 +864,10 @@
     {
       "id": "shop_pass_item-0020",
       "name": "高級任務通行證 2025年12月"
+    },
+    {
+      "id": "shop_pass_item-0021",
+      "name": "高級任務通行證 2026年1月"
     }
   ]
 }

@@ -98,6 +98,10 @@
       "name": "每週任務"
     },
     {
+      "id": "mission-continuous-gasha-mission_001",
+      "name": "TV廣告放映紀念任務 (〜2026/2/1 4:59)"
+    },
+    {
       "id": "mission-group-box-gasha-event-001",
       "name": "BOX故事活動任務001"
     },
@@ -626,6 +630,10 @@
       "name": "亞紗里研討002"
     },
     {
+      "id": "mission-group-research-event-003",
+      "name": "亞紗里研討003"
+    },
+    {
       "id": "mission-group-story-event-001",
       "name": "1年級1班的偶像們"
     },
@@ -696,6 +704,22 @@
     {
       "id": "panel_mission-event-006-group_2",
       "name": "第4次拼圖任務 第2片"
+    },
+    {
+      "id": "panel_mission-event-007-group_1",
+      "name": "拼圖任務第1組"
+    },
+    {
+      "id": "panel_mission-event-007-group_2",
+      "name": "拼圖任務第2組"
+    },
+    {
+      "id": "panel_mission-event-008-group_1",
+      "name": "拼圖任務第1組"
+    },
+    {
+      "id": "panel_mission-event-008-group_2",
+      "name": "拼圖任務第2組"
     },
     {
       "id": "panel_mission-event-niv-group_1",

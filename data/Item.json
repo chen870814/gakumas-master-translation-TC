@@ -6,6 +6,12 @@
   },
   "data": [
     {
+      "id": "item_gacha-coin-continuous-001",
+      "name": "TV廣告放映紀念抽到飽扭蛋代幣",
+      "description": "可以在TV廣告放映紀念抽到飽扭蛋中使用的代幣",
+      "acquisitionRouteDescription": "TV廣告放映紀念登入獎勵、TV廣告放映紀念任務"
+    },
+    {
       "id": "item-coin-box-gasha-event-001",
       "name": "海豹仔",
       "description": "可以在活動扭蛋中使用的道具",
@@ -174,6 +180,12 @@
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
+      "id": "item-dearness-unlock-kllj",
+      "name": "莉莉婭的記錄之鑰",
+      "description": "解鎖葛城莉莉婭STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
       "id": "item-dearness-unlock-shro",
       "name": "廣的記錄之鑰",
       "description": "解鎖篠澤廣STEP3親密度交流的道具",
@@ -205,9 +217,21 @@
     },
     {
       "id": "item-gacha-coin-newyear-001",
-      "name": "初星福引券 2025",
+      "name": "初星福引卷 2025",
       "description": "可以在謹賀新年！福引扭蛋中使用的道具",
       "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-gacha-coin-newyear-002",
+      "name": "初星福引卷 2026",
+      "description": "可以在謹賀新年！福引扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-gasha_200limit-exchange",
+      "name": "Story of Re;IRIS放映紀念兌換卷",
+      "description": "收集20張即可在道具兌換所中換取培育偶像或是支援卡的票卷",
+      "acquisitionRouteDescription": "Story of Re;IRIS放映紀念SSR1.5倍自選PickUp扭蛋"
     },
     {
       "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
@@ -231,6 +255,12 @@
       "id": "item-gashaticket-10",
       "name": "白金10連扭蛋票卷",
       "description": "可以在白金扭蛋中使用的10連票卷",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-christmas-001",
+      "name": "聖誕10連扭蛋票卷",
+      "description": "可以在聖誕登入獎勵票卷扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
@@ -276,6 +306,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-idol-season-fix_4",
+      "name": "季節限定SSR P偶像確定票卷",
+      "description": "可以在季節限定SSR P偶像確定票卷扭蛋中使用的票卷",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-support-fix_1",
       "name": "SSR S卡確定扭蛋票卷",
       "description": "可以在SSR S卡確定扭蛋中使用的票卷",
@@ -285,6 +321,12 @@
       "id": "item-gashaticket-ssr-support-fix-nia-1",
       "name": "N.I.A挑戰SSR 支援卡確定扭蛋票卷",
       "description": "可以在N.I.A挑戰SSR 支援卡確定扭蛋中使用的票卷",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-support-season-fix_1",
+      "name": "季節限定SSR 支援卡確定扭蛋票卷",
+      "description": "可以在季節限定SSR 支援卡確定扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
@@ -614,6 +656,12 @@
     {
       "id": "item-piece-idol_atbm-3-000",
       "name": "[理論武装して]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-3-012",
+      "name": "[Campus mode!!]雨夜燕的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1303,6 +1351,12 @@
     },
     {
       "id": "item-research-event-002",
+      "name": "亞紗里老師貼紙",
+      "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-003",
       "name": "亞紗里老師貼紙",
       "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
       "acquisitionRouteDescription": "培育等方式"

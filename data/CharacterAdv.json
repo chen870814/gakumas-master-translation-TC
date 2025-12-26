@@ -97,8 +97,8 @@
     },
     {
       "characterId": "trvo",
-      "name": "歌唱訓練員",
-      "regexp": "歌唱訓練員"
+      "name": "聲樂訓練員",
+      "regexp": "聲樂訓練員"
     },
     {
       "characterId": "ttmr",

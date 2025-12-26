@@ -59,12 +59,12 @@
     {
       "characterId": "amao",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "amao",
@@ -192,6 +192,56 @@
       "produceConditionDescription": "培育以A+的評價結束"
     },
     {
+      "characterId": "atbm",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "開始N.I.A的培育"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的第1次試鏡突破"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的第1次試鏡通過以後，N.I.A的第2次試鏡突破"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」通過的狀態完成培育"
+    },
+    {
       "characterId": "fktn",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -244,12 +294,12 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "fktn",
@@ -379,12 +429,12 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "hmsz",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "hmsz",
@@ -479,12 +529,12 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "hrnm",
@@ -614,12 +664,12 @@
     {
       "characterId": "hski",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "hski",
@@ -714,12 +764,12 @@
     {
       "characterId": "hume",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "hume",
@@ -814,12 +864,12 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "jsna",
@@ -914,12 +964,12 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "kcna",
@@ -1049,12 +1099,12 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "kllj",
@@ -1184,12 +1234,12 @@
     {
       "characterId": "shro",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "shro",
@@ -1319,12 +1369,12 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "ssmk",
@@ -1454,12 +1504,12 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.A的培育開始"
+      "produceConditionDescription": "開始N.I.A的培育"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.A的培育更進一步"
+      "produceConditionDescription": "在N.I.A的培育中更進一步"
     },
     {
       "characterId": "ttmr",

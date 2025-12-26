@@ -199,35 +199,35 @@
         },
         {
             "id": "dearness_event_ssmk-001",
-            "name": "紫雲清夏のダンスを1800以上に育成してプロデュースをクリア"
+            "name": "紫雲 清夏のダンスを1800以上に育成してプロデュースをクリア"
         },
         {
             "id": "dearness_event_ssmk-002",
-            "name": "紫雲清夏のプロデュースで相談を{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで相談を{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-003",
-            "name": "紫雲清夏のプロデュースでおでかけを{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースでおでかけを{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-004",
-            "name": "紫雲清夏のプロデュースで営業を{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで営業を{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-005",
-            "name": "紫雲清夏のプロデュースで差し入れを{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで差し入れを{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-006",
-            "name": "紫雲清夏でダンスレッスンを{threshold}回クリアしよう"
+            "name": "紫雲 清夏でダンスレッスンを{threshold}回クリアしよう"
         },
         {
             "id": "dearness_event_ssmk-007",
-            "name": "紫雲清夏のプロデュースで特別指導を{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで特別指導を{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-008",
-            "name": "紫雲清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
             "id": "dearness_normal-mission_amao-001",
@@ -566,6 +566,10 @@
             "name": "「アイドルへの道」で星を獲得"
         },
         {
+            "id": "hidden_mission-tower_atbm-clear_star_40",
+            "name": "「アイドルへの道」で星を獲得"
+        },
+        {
             "id": "hidden_mission-tower_fktn-clear_star_40",
             "name": "「アイドルへの道」で星を獲得"
         },
@@ -616,6 +620,10 @@
         {
             "id": "hidden_mission-view-ending-a-produce_group-002-amao",
             "name": "麻央でA-End達成"
+        },
+        {
+            "id": "hidden_mission-view-ending-a-produce_group-002-atbm",
+            "name": "燕でA-End達成"
         },
         {
             "id": "hidden_mission-view-ending-a-produce_group-002-fktn",
@@ -862,6 +870,10 @@
             "name": "麻央でTrueEnd達成"
         },
         {
+            "id": "hidden_mission-view-ending-true-produce_group-002-atbm",
+            "name": "燕でTrueEnd達成"
+        },
+        {
             "id": "hidden_mission-view-ending-true-produce_group-002-fktn",
             "name": "ことねでTrueEnd達成"
         },
@@ -932,6 +944,10 @@
         {
             "id": "hidden_mission-view-gasha-00640-pickup-002",
             "name": "1.5th記念 シーズン限定&Re;IRIS登場！SSR15%ガシャを{threshold}回引こう"
+        },
+        {
+            "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
+            "name": "Story of Re;IRIS放映記念SSR1.5倍セレクトピックアップガシャを{threshold}回引こう"
         },
         {
             "id": "mission-box-gasha-event-001-mission_1",
@@ -1304,6 +1320,18 @@
         {
             "id": "mission-comeback_daily_release_mission_001-mission_77",
             "name": "7日目のミッションをすべてクリア"
+        },
+        {
+            "id": "mission-continuous-gasha-mission_001-mission_1",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-continuous-gasha-mission_001-mission_2",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-continuous-gasha-mission_001-mission_3",
+            "name": "最終試験に{threshold}回合格しよう"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_11",
@@ -4251,7 +4279,7 @@
         },
         {
             "id": "mission-panel-mission-1-7",
-            "name": "プロデュースでお出かけを{threshold}回選択しよう"
+            "name": "プロデュースでおでかけを{threshold}回選択しよう"
         },
         {
             "id": "mission-panel-mission-1-8",
@@ -4532,6 +4560,38 @@
         {
             "id": "mission-research-event-002-mission_9",
             "name": "スキルカード「心・技・体」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_1",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_10",
+            "name": "スキルカード「星屑センセーション」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_11",
+            "name": "スキルカード「ノートの端の決意」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_12",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_2",
+            "name": "プラン：センスのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_3",
+            "name": "プロデュースの相談で{threshold}回交換しよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_8",
+            "name": "スキルカード「私がスター」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_9",
+            "name": "スキルカード「虹色ドリーマー」を所持してプロデュースをクリアしよう"
         },
         {
             "id": "mission-story-event-001-mission_1",
@@ -4895,7 +4955,7 @@
         },
         {
             "id": "panel_mission-event-002-mission_7",
-            "name": "プロデュースでお出かけを{threshold}回選択しよう"
+            "name": "プロデュースでおでかけを{threshold}回選択しよう"
         },
         {
             "id": "panel_mission-event-002-mission_8",
@@ -5003,7 +5063,7 @@
         },
         {
             "id": "panel_mission-event-004-mission_7",
-            "name": "プロデュースでお出かけを{threshold}回選択しよう"
+            "name": "プロデュースでおでかけを{threshold}回選択しよう"
         },
         {
             "id": "panel_mission-event-004-mission_8",
@@ -5075,7 +5135,7 @@
         },
         {
             "id": "panel_mission-event-006-mission_7",
-            "name": "プロデュースでお出かけを{threshold}回選択しよう"
+            "name": "プロデュースでおでかけを{threshold}回選択しよう"
         },
         {
             "id": "panel_mission-event-006-mission_8",
@@ -5084,6 +5144,150 @@
         {
             "id": "panel_mission-event-006-mission_9",
             "name": "Pドリンクを{threshold}回使おう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_1",
+            "name": "N.I.Aでボーカルレッスンを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_11",
+            "name": "最終試験をスコアA+以上で{threshold}回合格しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_12",
+            "name": "最終試験をスコアS以上で{threshold}回合格しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_13",
+            "name": "最終試験をスコアS+以上で{threshold}回合格しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_14",
+            "name": "Pドリンクを合計{threshold}獲得しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_15",
+            "name": "Pポイントを合計{threshold}獲得しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_16",
+            "name": "プロデュースで体力を合計{threshold}消費しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_17",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_18",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_19",
+            "name": "True End : N.I.Aを{threshold}人みよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_2",
+            "name": "N.I.Aでダンスレッスンを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_3",
+            "name": "N.I.Aでビジュアルレッスンを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_4",
+            "name": "N.I.AでSPレッスンを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_5",
+            "name": "スキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_6",
+            "name": "N.I.Aでファン投票数を{threshold}獲得しよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_7",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_8",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-007-mission_9",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_1",
+            "name": "ボーカルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_11",
+            "name": "最終試験をスコアS+以上で{threshold}回合格しよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_12",
+            "name": "最終試験をスコアSS以上で{threshold}回合格しよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_13",
+            "name": "N.I.Aで営業を{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_14",
+            "name": "N.I.Aで差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_15",
+            "name": "プロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_16",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_17",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_18",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_19",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_2",
+            "name": "ダンスレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_3",
+            "name": "ビジュアルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_4",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_5",
+            "name": "プロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_6",
+            "name": "プロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_7",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_8",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-008-mission_9",
+            "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
         },
         {
             "id": "panel_mission-event-niv-mission_1",
@@ -5336,6 +5540,30 @@
         {
             "id": "achieve-i_card-atbm-3-000-06",
             "name": "【理論武装して】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-01",
+            "name": "【Campus mode!!】雨夜 燕のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-02",
+            "name": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-03",
+            "name": "【Campus mode!!】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-04",
+            "name": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-05",
+            "name": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-06",
+            "name": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",
@@ -7450,6 +7678,10 @@
             "name": "最終試験をスコアSSS以上で{threshold}回合格"
         },
         {
+            "id": "achieve-p_common-029",
+            "name": "最終試験をスコアSSS+以上で{threshold}回合格"
+        },
+        {
             "id": "achieve-p_idol-amao-000",
             "name": "有村 麻央でTrue Endをみる"
         },
@@ -7546,6 +7778,14 @@
             "name": "有村 麻央の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-amao-023",
+            "name": "有村 麻央で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-024",
+            "name": "有村 麻央で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-atbm-000",
             "name": "雨夜 燕でTrue Endをみる"
         },
@@ -7622,8 +7862,28 @@
             "name": "雨夜 燕の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
+            "id": "achieve-p_idol-atbm-018",
+            "name": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-atbm-019",
+            "name": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
             "id": "achieve-p_idol-atbm-020",
             "name": "雨夜 燕で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-021",
+            "name": "雨夜 燕で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-023",
+            "name": "雨夜 燕で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-024",
+            "name": "雨夜 燕で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -7938,6 +8198,14 @@
             "name": "藤田 ことねの特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-fktn-023",
+            "name": "藤田 ことねで最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-024",
+            "name": "藤田 ことねで最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "秦谷 美鈴でTrue Endをみる"
         },
@@ -8028,6 +8296,14 @@
         {
             "id": "achieve-p_idol-hmsz-021",
             "name": "秦谷 美鈴で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-023",
+            "name": "秦谷 美鈴で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-024",
+            "name": "秦谷 美鈴で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hrnm-000",
@@ -8126,6 +8402,14 @@
             "name": "姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-hrnm-023",
+            "name": "姫崎 莉波で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-024",
+            "name": "姫崎 莉波で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hski-000",
             "name": "花海 咲季でTrue Endをみる"
         },
@@ -8222,6 +8506,14 @@
             "name": "花海 咲季の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-hski-023",
+            "name": "花海 咲季で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-024",
+            "name": "花海 咲季で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hume-000",
             "name": "花海 佑芽でTrue Endをみる"
         },
@@ -8312,6 +8604,14 @@
         {
             "id": "achieve-p_idol-hume-021",
             "name": "花海 佑芽で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-023",
+            "name": "花海 佑芽で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-024",
+            "name": "花海 佑芽で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -8406,6 +8706,14 @@
             "name": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-jsna-023",
+            "name": "十王 星南で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-024",
+            "name": "十王 星南で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-kcna-000",
             "name": "倉本 千奈でTrue Endをみる"
         },
@@ -8498,6 +8806,14 @@
             "name": "倉本 千奈で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-kcna-023",
+            "name": "倉本 千奈で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-024",
+            "name": "倉本 千奈で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-kllj-000",
             "name": "葛城 リーリヤでTrue Endをみる"
         },
@@ -8588,6 +8904,14 @@
         {
             "id": "achieve-p_idol-kllj-021",
             "name": "葛城 リーリヤで最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-023",
+            "name": "葛城 リーリヤで最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-024",
+            "name": "葛城 リーリヤで最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -8686,6 +9010,14 @@
             "name": "篠澤 広の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-shro-023",
+            "name": "篠澤 広で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-024",
+            "name": "篠澤 広で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-ssmk-000",
             "name": "紫雲 清夏でTrue Endをみる"
         },
@@ -8776,6 +9108,14 @@
         {
             "id": "achieve-p_idol-ssmk-021",
             "name": "紫雲 清夏で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-023",
+            "name": "紫雲 清夏で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-024",
+            "name": "紫雲 清夏で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -8872,6 +9212,18 @@
         {
             "id": "achieve-p_idol-ttmr-022",
             "name": "月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-023",
+            "name": "月村 手毬で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-024",
+            "name": "月村 手毬で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achievement_char_hume-024",
+            "name": "花海 佑芽の特訓段階を{threshold}にする"
         },
         {
             "id": "achievement_char_kcna-024",
@@ -9751,7 +10103,7 @@
         },
         {
             "id": "main_task_group-03-01#57",
-            "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "スキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "main_task_group-03-01#58",
@@ -9799,7 +10151,7 @@
         },
         {
             "id": "main_task_group-03-01#69",
-            "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "スキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "main_task_group-03-01#70",
@@ -9895,7 +10247,7 @@
         },
         {
             "id": "main_task_group-03-01#93",
-            "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "スキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "main_task_group-03-01#94",
@@ -10023,7 +10375,7 @@
         },
         {
             "id": "main_task_group-04-01#25",
-            "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "スキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "main_task_group-04-01#26",
@@ -10103,7 +10455,7 @@
         },
         {
             "id": "main_task_group-04-01#45",
-            "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "スキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "main_task_group-04-01#46",

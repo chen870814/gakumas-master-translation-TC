@@ -6,6 +6,370 @@
   },
   "data": [
     {
+      "id": "badge-producerranking_001-amao_01",
+      "name": "P排行榜 有村麻央 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-amao_02",
+      "name": "P排行榜 有村麻央 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-amao_03",
+      "name": "P排行榜 有村麻央 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-amao_04",
+      "name": "P排行榜 有村麻央 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-amao_05",
+      "name": "P排行榜 有村麻央 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-amao_06",
+      "name": "P排行榜 有村麻央 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-amao_07",
+      "name": "P排行榜 有村麻央 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_01",
+      "name": "P排行榜 雨夜燕 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_02",
+      "name": "P排行榜 雨夜燕 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_03",
+      "name": "P排行榜 雨夜燕 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_04",
+      "name": "P排行榜 雨夜燕 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_05",
+      "name": "P排行榜 雨夜燕 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_06",
+      "name": "P排行榜 雨夜燕 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_07",
+      "name": "P排行榜 雨夜燕 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_01",
+      "name": "P排行榜 藤田琴音 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_02",
+      "name": "P排行榜 藤田琴音 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_03",
+      "name": "P排行榜 藤田琴音 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_04",
+      "name": "P排行榜 藤田琴音 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_05",
+      "name": "P排行榜 藤田琴音 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_06",
+      "name": "P排行榜 藤田琴音 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_07",
+      "name": "P排行榜 藤田琴音 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_01",
+      "name": "P排行榜 秦谷美鈴 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_02",
+      "name": "P排行榜 秦谷美鈴 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_03",
+      "name": "P排行榜 秦谷美鈴 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_04",
+      "name": "P排行榜 秦谷美鈴 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_05",
+      "name": "P排行榜 秦谷美鈴 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_06",
+      "name": "P排行榜 秦谷美鈴 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_07",
+      "name": "P排行榜 秦谷美鈴 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_01",
+      "name": "P排行榜 姬崎莉波 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_02",
+      "name": "P排行榜 姬崎莉波 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_03",
+      "name": "P排行榜 姬崎莉波 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_04",
+      "name": "P排行榜 姬崎莉波 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_05",
+      "name": "P排行榜 姬崎莉波 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_06",
+      "name": "P排行榜 姬崎莉波 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_07",
+      "name": "P排行榜 姬崎莉波 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-hski_01",
+      "name": "P排行榜 花海咲季 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-hski_02",
+      "name": "P排行榜 花海咲季 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hski_03",
+      "name": "P排行榜 花海咲季 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hski_04",
+      "name": "P排行榜 花海咲季 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hski_05",
+      "name": "P排行榜 花海咲季 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-hski_06",
+      "name": "P排行榜 花海咲季 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-hski_07",
+      "name": "P排行榜 花海咲季 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-hume_01",
+      "name": "P排行榜 花海佑芽 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-hume_02",
+      "name": "P排行榜 花海佑芽 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hume_03",
+      "name": "P排行榜 花海佑芽 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hume_04",
+      "name": "P排行榜 花海佑芽 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hume_05",
+      "name": "P排行榜 花海佑芽 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-hume_06",
+      "name": "P排行榜 花海佑芽 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-hume_07",
+      "name": "P排行榜 花海佑芽 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_01",
+      "name": "P排行榜 十王星南 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_02",
+      "name": "P排行榜 十王星南 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_03",
+      "name": "P排行榜 十王星南 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_04",
+      "name": "P排行榜 十王星南 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_05",
+      "name": "P排行榜 十王星南 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_06",
+      "name": "P排行榜 十王星南 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_07",
+      "name": "P排行榜 十王星南 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_01",
+      "name": "P排行榜 倉本千奈 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_02",
+      "name": "P排行榜 倉本千奈 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_03",
+      "name": "P排行榜 倉本千奈 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_04",
+      "name": "P排行榜 倉本千奈 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_05",
+      "name": "P排行榜 倉本千奈 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_06",
+      "name": "P排行榜 倉本千奈 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_07",
+      "name": "P排行榜 倉本千奈 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_01",
+      "name": "P排行榜 葛城莉莉婭 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_02",
+      "name": "P排行榜 葛城莉莉婭 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_03",
+      "name": "P排行榜 葛城莉莉婭 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_04",
+      "name": "P排行榜 葛城莉莉婭 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_05",
+      "name": "P排行榜 葛城莉莉婭 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_06",
+      "name": "P排行榜 葛城莉莉婭 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_07",
+      "name": "P排行榜 葛城莉莉婭 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-shro_01",
+      "name": "P排行榜 篠澤廣 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-shro_02",
+      "name": "P排行榜 篠澤廣 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-shro_03",
+      "name": "P排行榜 篠澤廣 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-shro_04",
+      "name": "P排行榜 篠澤廣 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-shro_05",
+      "name": "P排行榜 篠澤廣 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-shro_06",
+      "name": "P排行榜 篠澤廣 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-shro_07",
+      "name": "P排行榜 篠澤廣 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_01",
+      "name": "P排行榜 紫雲清夏 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_02",
+      "name": "P排行榜 紫雲清夏 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_03",
+      "name": "P排行榜 紫雲清夏 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_04",
+      "name": "P排行榜 紫雲清夏 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_05",
+      "name": "P排行榜 紫雲清夏 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_06",
+      "name": "P排行榜 紫雲清夏 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_07",
+      "name": "P排行榜 紫雲清夏 賽季1 牽牛星"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_01",
+      "name": "P排行榜 月村手毬 賽季1 THE STAR(TOP100)"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_02",
+      "name": "P排行榜 月村手毬 賽季1 THE STAR(TOP1000)"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_03",
+      "name": "P排行榜 月村手毬 賽季1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_04",
+      "name": "P排行榜 月村手毬 賽季1 天狼星(TOP5000)"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_05",
+      "name": "P排行榜 月村手毬 賽季1 天狼星"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_06",
+      "name": "P排行榜 月村手毬 賽季1 織女星"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_07",
+      "name": "P排行榜 月村手毬 賽季1 牽牛星"
+    },
+    {
       "id": "badge-producerranking-000-amao-01",
       "name": "P排行榜 有村麻央 賽季0 THE STAR(TOP100)"
     },

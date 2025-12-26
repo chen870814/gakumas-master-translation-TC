@@ -843,6 +843,41 @@
     },
     {
       "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_result-10",
+      "title": "培育結果（True End）①"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_result-11",
+      "title": "培育結果（True End）②"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_result-12",
+      "title": "培育結果（True End）③"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_result-13",
+      "title": "培育結果①"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_result-14",
+      "title": "培育結果②"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_result-15",
+      "title": "培育結果③"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_result-16",
+      "title": "培育結果（不合格）"
+    },
+    {
+      "characterId": "atbm",
       "assetId": "sud_vo_system_atbm_produce_schedule-01",
       "title": "活動據點①"
     },
@@ -935,6 +970,51 @@
       "characterId": "atbm",
       "assetId": "sud_vo_system_atbm_produce_schedule-19",
       "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-20",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-21",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-22",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-23",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-24",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-25",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-26",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-27",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "atbm",
+      "assetId": "sud_vo_system_atbm_produce_schedule-28",
+      "title": "屋頂③"
     },
     {
       "characterId": "atbm",
@@ -2398,8 +2478,23 @@
     },
     {
       "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-09",
+      "title": "主頁（2026新年）"
+    },
+    {
+      "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_transition-11",
       "title": "主頁（2025萬聖節）"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-12",
+      "title": "主頁（2025聖誕節）"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-13",
+      "title": "主頁（2025跨年日）"
     },
     {
       "characterId": "hmsz",

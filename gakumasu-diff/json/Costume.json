@@ -181,9 +181,29 @@
             "description": "最初から所持"
         },
         {
+            "id": "atbm-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】雨夜 燕を入手"
+        },
+        {
+            "id": "atbm-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】雨夜 燕の才能開花4段階目で入手"
+        },
+        {
             "id": "atbm-cstm-0069",
             "name": "チャイルドスモック",
             "description": "チャイルドスモック（雨夜燕）を購入"
+        },
+        {
+            "id": "atbm-cstm-0072",
+            "name": "ゴールドの輝き",
+            "description": "雨夜燕のアイドルへの道 ステージ10をクリア"
+        },
+        {
+            "id": "atbm-cstm-0073",
+            "name": "プラチナの輝き",
+            "description": "雨夜燕のアイドルへの道 ステージ15をクリア"
         },
         {
             "id": "atbm-cstm-0106",
@@ -194,6 +214,11 @@
             "id": "atbm-cstm-0107",
             "name": "理論武装して",
             "description": "【理論武装して】雨夜 燕の才能開花4段階目で入手"
+        },
+        {
+            "id": "atbm-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "雨夜燕のアイドルへの道 ステージ25をクリア"
         },
         {
             "id": "atbm-cstm-0111",
@@ -439,6 +464,11 @@
             "id": "hmsz-cstm-0065",
             "name": "仮装狂騒曲",
             "description": "【ツキノカメ】'25ハロウィン 秦谷 美鈴を入手"
+        },
+        {
+            "id": "hmsz-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【ツキノカメ】'25クリスマス 秦谷 美鈴を入手"
         },
         {
             "id": "hmsz-cstm-0069",
@@ -921,6 +951,11 @@
             "description": "【The Rolling Riceball】'24ハロウィン 花海 佑芽を入手"
         },
         {
+            "id": "hume-cstm-0067",
+            "name": "サンタケープ",
+            "description": "サンタケープ（花海佑芽）を購入"
+        },
+        {
             "id": "hume-cstm-0069",
             "name": "チャイルドスモック",
             "description": "チャイルドスモック（花海佑芽）を購入"
@@ -1059,6 +1094,11 @@
             "id": "jsna-cstm-0065",
             "name": "仮装狂騒曲",
             "description": "【小さな野望】'25ハロウィン 十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【小さな野望】'25クリスマス 十王 星南を入手"
         },
         {
             "id": "jsna-cstm-0069",
@@ -1399,6 +1439,11 @@
             "id": "kllj-cstm-0065",
             "name": "仮装狂騒曲",
             "description": "【白線】'24ハロウィン 葛城 リーリヤを入手"
+        },
+        {
+            "id": "kllj-cstm-0067",
+            "name": "サンタケープ",
+            "description": "サンタケープ（葛城リーリヤ）を購入"
         },
         {
             "id": "kllj-cstm-0069",

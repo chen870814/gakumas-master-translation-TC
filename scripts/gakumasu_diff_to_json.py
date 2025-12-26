@@ -5,6 +5,8 @@ from typing import List
 from yaml.reader import Reader
 
 
+
+
 primary_key_rules = {
     "Achievement": [["id"], ["name", "description"]],
     # "AchievementProgress": [[], []],
@@ -61,6 +63,8 @@ primary_key_rules = {
     "HelpCategory": [["id", "order"], ["name", "texts"]],
     "HelpContent": [["helpCategoryId", "id", "order"], ["name"]],
     # "HelpInfo": [[], []],
+    # "HomeBackground": [[], []],
+    # "HomeBackgroundPrefabGroup": [[], []],
     # "HomeBoard": [[], []],
     # "HomeMonitor": [[], []],
     # "HomeMotion": [[], []],
@@ -125,44 +129,32 @@ primary_key_rules = {
     # "PhotoWaitVoiceGroup": [[], []],
     "Produce": [["id"], ["name"]],
     "ProduceAdv": [["produceType", "type"], ["title"]],
-    "ProduceCard": [["id", "upgradeCount", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                     "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"
-                     ],
-                    ["name", "produceDescriptions.text"]],  # 嵌套
+    "ProduceCard": [["id", "upgradeCount", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套
+    # "ProduceCardConversion": [[], []],
     "ProduceCardCustomize": [["id", "customizeCount"], ["description"]],
     # "ProduceCardCustomizeRarityEvaluation": [[], []],
     # "ProduceCardGrowEffect": [[], []],
     # "ProduceCardPool": [[], []],
     # "ProduceCardRandomPool": [[], []],
-    "ProduceCardSearch": [["id", 
-                           "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                           "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                          ["produceDescriptions.text"]],  # 嵌套
+    "ProduceCardSearch": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套
     # "ProduceCardSimulation": [[], []],
     # "ProduceCardSimulationGroup": [[], []],
     # "ProduceCardStatusEffect": [[], []],
-    "ProduceCardStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                                  "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                                 ["produceDescriptions.text"]],  # 嵌套
+    "ProduceCardStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套
     "ProduceCardTag": [["id"], ["name"]],
     # "ProduceChallengeCharacter": [[], []],
     "ProduceChallengeSlot": [["id", "produceId", "number"], ["unlockDescription"]],
     # "ProduceCharacter": [[], []],
     "ProduceCharacterAdv": [["assetId"], ["title"]],
     "ProduceDescriptionExamEffect": [["type"], ["name"]],
-    "ProduceDescriptionLabel": [["id", 
-                                 "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                                 "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], 
-                                ["name", "produceDescriptions.text"]],
+    "ProduceDescriptionLabel": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],
     "ProduceDescriptionProduceCardGrowEffect": [["type", "produceDescriptionLabelId"], ["produceCardCustomizeDescription"]],
     # "ProduceDescriptionProduceCardMovePosition": [[], []],
     "ProduceDescriptionProduceEffect": [["type"], ["name"]],
     "ProduceDescriptionProducePlan": [["type"], ["name"]],
     "ProduceDescriptionProduceStep": [["type"], ["name"]],
     "ProduceDescriptionSwap": [["id", "swapType"], ["text"]],
-    "ProduceDrink": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                      "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                     ["name", "produceDescriptions.text"]],  # 嵌套
+    "ProduceDrink": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套
     # "ProduceDrinkEffect": [[], []],
     # "ProduceEffect": [[], []],
     # "ProduceEffectIcon": [[], []],
@@ -179,19 +171,10 @@ primary_key_rules = {
     # "ProduceExamBattleNpcGroup": [[], []],
     "ProduceExamBattleNpcMob": [["id"], ["name"]],
     # "ProduceExamBattleScoreConfig": [[], []],
-    "ProduceExamEffect": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                          "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                          ["produceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceExamGimmickEffectGroup": [["id", "priority", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                                      "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                                      ["produceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceExamStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                                  "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                                 ["produceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceExamTrigger": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                            "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId",
-                            ],
-                           ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceExamEffect": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceExamGimmickEffectGroup": [["id", "priority", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceExamStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceExamTrigger": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
     # "ProduceGrade": [[], []],
     "ProduceGroup": [["id"], ["name", "description"]],
     # "ProduceGroupLiveCommon": [[], []],
@@ -202,9 +185,7 @@ primary_key_rules = {
     # "ProduceGuideProduceCardSampleDeckCategoryGroup": [[], []],
     "ProduceHighScore": [["id"], ["name"]],
     # "ProduceInitialDeck": [[], []],
-    "ProduceItem": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                     "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                    ["name", "produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceItem": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套List Obj
     # "ProduceItemChallengeGroup": [[], []],
     # "ProduceItemEffect": [[], []],
     # "ProduceItemSimulation": [[], []],
@@ -225,25 +206,13 @@ primary_key_rules = {
     "ProduceSeason": [["id"], ["name"]],
     # "ProduceSeasonZeroGrade": [[], []],
     # "ProduceSetting": [[], []],
-    "ProduceSkill": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                      "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                     ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceSkill": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
     # "ProduceStartMotion": [[], []],
     # "ProduceStepAuditionCharacter": [[], []],
     # "ProduceStepAuditionDifficulty": [[], []],
     # "ProduceStepAuditionMotion": [[], []],
-    "ProduceStepEventDetail": [["id", 
-                                "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType",
-                                "produceDescriptions.examEffectType",
-                                "produceDescriptions.produceCardCategory",
-                                "produceDescriptions.produceCardMovePositionType",
-                                "produceDescriptions.produceStepType", "produceDescriptions.targetId"
-                                ],
-                               ["produceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceStepEventSuggestion": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                                    "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId",
-                                    ],
-                                   ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceStepEventDetail": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceStepEventSuggestion": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
     # "ProduceStepFanPresentMotion": [[], []],
     "ProduceStepLesson": [["id"], ["name"]],
     # "ProduceStepLessonLevel": [[], []],
@@ -260,7 +229,7 @@ primary_key_rules = {
     # "PvpRateUnitSlotUnlock": [[], []],
     # "ResearchMemoryRerollCost": [[], []],
     # "ResultGradePattern": [[], []],
-    "Rule": [["type", "platformType", "number"], ["html"]],
+    # "Rule": [["type", "platformType", "number"], ["html"]],
     "SeminarExamTransition": [["examEffectType", "isLessonInt", "seminarExamId"], ["description", "seminarExamGroupName", "seminarExamName"]],
     "Setting": [["id"], ["initialUserName", "banWarningMessage"]],
     "Shop": [["id"], ["name"]],
@@ -269,9 +238,7 @@ primary_key_rules = {
     "Story": [["id"], ["title"]],
     "StoryEvent": [["id"], ["title"]],
     "StoryGroup": [["id"], ["title"]],
-    "SupportCard": [["id", "upgradeProduceCardProduceDescriptions.produceDescriptionType", "upgradeProduceCardProduceDescriptions.examDescriptionType", "upgradeProduceCardProduceDescriptions.examEffectType", 
-                     "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardCategory", "upgradeProduceCardProduceDescriptions.produceCardMovePositionType", "upgradeProduceCardProduceDescriptions.produceStepType"],
-                    ["name", "upgradeProduceCardProduceDescriptions.text"]],  # 嵌套List Obj
+    "SupportCard": [["id", "upgradeProduceCardProduceDescriptions.produceDescriptionType", "upgradeProduceCardProduceDescriptions.examDescriptionType", "upgradeProduceCardProduceDescriptions.examEffectType",  "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardCategory", "upgradeProduceCardProduceDescriptions.produceCardMovePositionType", "upgradeProduceCardProduceDescriptions.produceStepType"], ["name", "upgradeProduceCardProduceDescriptions.text"]],  # 嵌套List Obj
     # "SupportCardBonus": [[], []],
     "SupportCardFlavor": [["supportCardId", "number"], ["text"]],
     # "SupportCardLevel": [[], []],
@@ -572,8 +539,12 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
                     # 预处理文件：替换制表符为 4 个空格
                     with open(file_path, 'r', encoding='utf-8') as f:
                         content = f.read()
-                    # content = content.replace('\t', '    ')  # 替换制表符
-                    content = content.replace(": \t", ": \"\t\"")  # 替换制表符
+                    
+                    content = content.replace("text:\t（", 'text: "（"')
+                    content = content.replace("text: \t（", 'text: "（"')
+                    # 修复：text: <TAB> → text: ""
+                    content = content.replace("text:\t\n", 'text: ""\n')
+                    content = content.replace("text: \t\n", 'text: ""\n')
 
                     # 解析 YAML 内容
                     # data = yaml.safe_load(content)
