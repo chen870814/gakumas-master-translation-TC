@@ -5398,7 +5398,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ReviewAdd",
-          "text": ""
+          "text": "好印象值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5436,7 +5436,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ReviewAdd",
-          "text": ""
+          "text": "好印象值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14013,7 +14013,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "未定義のパターン(Type: ExamAddGrowEffect, EffectValue1: 0, EffectValue2: 0, EffectCount: 0, EffectTurn: 0, ProduceCardSearchID: p_card_search-target_is_self, PickRangeType: , PickCountMin: 0, PickCountMax: 0)"
         }
       ],
       "customizeProduceDescriptions": [
@@ -14027,7 +14027,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "未定義のパターン(Type: ExamAddGrowEffect, EffectValue1: 0, EffectValue2: 0, EffectCount: 0, EffectTurn: 0, ProduceCardSearchID: p_card_search-target_is_self, PickRangeType: , PickCountMin: 0, PickCountMax: 0)"
         }
       ]
     },
@@ -34417,7 +34417,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "名字包含「基礎」的技能卡向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -34455,7 +34455,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "名字包含「基礎」的技能卡向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -35916,7 +35916,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-01-ido-3_164",
-          "text": ""
+          "text": "暗黑英雄的誕生"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35978,7 +35978,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-01-ido-3_164",
-          "text": ""
+          "text": "暗黑英雄的誕生"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51724,7 +51724,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "<nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -51810,7 +51810,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "<nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -65793,7 +65793,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "中的技能卡無需花費值使用"
         }
       ],
       "customizeProduceDescriptions": [
@@ -65819,7 +65819,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "中的技能卡無需花費值使用"
         }
       ]
     },
@@ -65836,7 +65836,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "手牌中隨機2張技能卡（R）無需花費值使用"
         }
       ],
       "customizeProduceDescriptions": [
@@ -65850,7 +65850,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "手牌中隨機2張技能卡（R）無需花費值使用"
         }
       ]
     },
@@ -69580,7 +69580,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "<nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -69630,7 +69630,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "<nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -212248,7 +212248,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "回合開始後，手牌中的技能卡（R）在1張以上時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212260,7 +212260,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "手牌中隨機2張技能卡（R）無需花費值使用"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212298,7 +212298,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "回合開始後，手牌中的技能卡（R）在1張以上時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212310,7 +212310,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "手牌中隨機2張技能卡（R）無需花費值使用"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -228232,7 +228232,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "<nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -228594,7 +228594,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": ""
+          "text": "<nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
