@@ -114,6 +114,12 @@
       "acquisitionRouteDescription": "活動模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-009",
+      "name": "星之閃耀",
+      "description": "可以在十王邦夫的偶像強化月～星光璀璨～(月村手毬/花海咲季)的活動扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活動模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能開花中使用的道具",
@@ -540,6 +546,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-story-event-011",
+      "name": "來自宿舍大家的慰問",
+      "description": "可以在活動兌換所交換各式報酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-medal-story-event-013",
       "name": "修學旅行的土特產",
       "description": "可以在活動兌換所交換各式報酬的道具",
@@ -764,6 +776,12 @@
     {
       "id": "item-piece-idol_hmsz-3-010",
       "name": "[Star-mine]秦谷美鈴的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-014",
+      "name": "[Superlative]秦谷美鈴的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1304,6 +1322,12 @@
     {
       "id": "item-piece-idol_ttmr-3-015",
       "name": "[がむしゃらに行こう！]月村手毬的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-016",
+      "name": "[一体いつから]月村手毬的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

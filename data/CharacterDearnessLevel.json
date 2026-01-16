@@ -1550,6 +1550,41 @@
       "characterId": "ttmr",
       "dearnessLevel": 20,
       "produceConditionDescription": "最終試鏡「FINALE」通過的狀態完成培育"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至月村手毬的親密度TOP"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     }
   ]
 }

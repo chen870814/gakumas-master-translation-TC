@@ -16,6 +16,11 @@
       "description": "有村麻央的親密度Lv達到10"
     },
     {
+      "id": "amao-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "amao-cstm-0000",
       "name": "初（hajime）",
       "description": "初始持有"
@@ -256,6 +261,11 @@
       "description": "初始持有"
     },
     {
+      "id": "fktn-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "fktn-cstm-0000",
       "name": "初（hajime）",
       "description": "初始持有"
@@ -454,6 +464,16 @@
       "id": "hmsz-cstm-0054",
       "name": "Campus mode!!",
       "description": "【Campus mode!!】秦谷美鈴的才能開花第4階段 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0059",
+      "name": "Superlative",
+      "description": "【Superlative】秦谷美鈴 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0060",
+      "name": "Superlative",
+      "description": "【Superlative】秦谷美鈴的才能開花第4階段 獲得"
     },
     {
       "id": "hmsz-cstm-0063",
@@ -1999,6 +2019,16 @@
       "id": "ttmr-cstm-0081",
       "name": "桜フォトグラフ",
       "description": "【Luna say maybe】'25 櫻花 月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0084",
+      "name": "一体いつから",
+      "description": "【一体いつから】月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0085",
+      "name": "一体いつから",
+      "description": "【一体いつから】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "ttmr-cstm-0110",

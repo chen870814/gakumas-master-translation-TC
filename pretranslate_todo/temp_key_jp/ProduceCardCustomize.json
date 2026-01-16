@@ -84,6 +84,7 @@
     "p_card_custom-wrapper-p_card-02-act-1_071-a-01|1|description": "好印象追加",
     "p_card_custom-wrapper-p_card-02-men-2_100-b-01|1|description": "元気追加",
     "p_card_custom-wrapper-p_card-02-men-2_101-b-01|1|description": "好印象追加",
+    "p_card_custom-wrapper-p_card-02-sup-2_089-c-01|1|description": "消費体力減少追加",
     "p_card_custom-wrapper-p_card-02-sup-3_156-b-01|1|description": "好印象追加",
     "p_card_custom-wrapper-p_card-03-act-1_072-a-01|1|description": "温存追加",
     "p_card_custom-wrapper-p_card-03-act-1_072-c-01|1|description": "元気追加",
@@ -254,7 +255,13 @@
     "p_card_custom-wrapper-p_card-02-men-2_101-a-01|1|description": "",
     "p_card_custom-wrapper-p_card-02-men-2_111-a-01|1|description": "",
     "p_card_custom-wrapper-p_card-02-men-2_111-b-01|1|description": "",
+    "p_card_custom-wrapper-p_card-02-sup-2_089-a-01|1|description": "",
+    "p_card_custom-wrapper-p_card-02-sup-2_089-a-01|2|description": "",
+    "p_card_custom-wrapper-p_card-02-sup-2_089-b-01|1|description": "",
+    "p_card_custom-wrapper-p_card-02-sup-2_089-b-01|2|description": "",
     "p_card_custom-wrapper-p_card-02-sup-3_156-a-01|1|description": "",
+    "p_card_custom-wrapper-p_card-02-sup-3_178-a-01|1|description": "",
+    "p_card_custom-wrapper-p_card-02-sup-3_178-b-01|1|description": "",
     "p_card_custom-wrapper-p_card-03-act-1_072-b-01|1|description": "",
     "p_card_custom-wrapper-p_card-03-act-1_072-b-01|2|description": "",
     "p_card_custom-wrapper-p_card-03-act-1_072-b-01|3|description": "",
@@ -264,5 +271,7 @@
     "p_card_custom-wrapper-p_card-03-act-2_102-a-01|1|description": "",
     "p_card_custom-wrapper-p_card-03-men-1_050-a-01|1|description": "",
     "p_card_custom-wrapper-p_card-03-men-2_078-a-01|1|description": "",
-    "p_card_custom-wrapper-p_card-03-sup-3_162-a-01|1|description": ""
+    "p_card_custom-wrapper-p_card-03-sup-3_162-a-01|1|description": "",
+    "p_card_custom-wrapper-p_card-03-sup-3_179-a-01|1|description": "",
+    "p_card_custom-wrapper-p_card-03-sup-3_179-b-01|1|description": ""
 }

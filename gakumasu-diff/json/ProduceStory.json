@@ -10953,6 +10953,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hmsz-3-014-01",
+            "title": "Superlative 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-014-02",
+            "title": "Superlative 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-014-03",
+            "title": "Superlative 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hrnm-3-000-01",
             "title": "clumsy trick 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -11898,6 +11913,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-ttmr-3-016-01",
+            "title": "一体いつから 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-016-02",
+            "title": "一体いつから 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-ttmr-3-016-03",
+            "title": "一体いつから 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-1-0000-01",
             "title": "お願い？咲季トレーナー！",
             "produceEventHintProduceConditionDescriptions": []
@@ -12278,6 +12308,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0026-01",
+            "title": "ご一緒させてください",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0026-02",
+            "title": "また明日",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-2-0027-01",
             "title": "王子様の知らない一面",
             "produceEventHintProduceConditionDescriptions": []
@@ -12655,6 +12695,16 @@
         {
             "id": "p_story-s_card-2-0066-02",
             "title": "今はアイドルを全力で",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0067-01",
+            "title": "佑芽に似てる？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0067-02",
+            "title": "遊びたいのは、犬！",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -13888,6 +13938,36 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-3-0083-01",
+            "title": "憧れの不良さん",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0083-02",
+            "title": "不良さんに弟子入り",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0083-03",
+            "title": "不良さんとレッスン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0084-01",
+            "title": "乗せられた気がする！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0084-02",
+            "title": "一緒に解いてみよう",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0084-03",
+            "title": "お料理リベンジ成功！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0085-01",
             "title": "理想的な先輩後輩",
             "produceEventHintProduceConditionDescriptions": []
@@ -13915,6 +13995,21 @@
         {
             "id": "p_story-s_card-3-0086-03",
             "title": "幼馴染デートに挑戦！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0087-01",
+            "title": "着せ替えはカッコ可愛く",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0087-02",
+            "title": "たこ焼きのプリンス？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0087-03",
+            "title": "受けた恩を返すために",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

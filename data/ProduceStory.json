@@ -10945,6 +10945,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hmsz-3-014-01",
+      "title": "Superlative 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-014-02",
+      "title": "Superlative 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-014-03",
+      "title": "Superlative 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hrnm-3-000-01",
       "title": "clumsy trick 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -11890,6 +11905,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-ttmr-3-016-01",
+      "title": "一体いつから 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-016-02",
+      "title": "一体いつから 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-016-03",
+      "title": "一体いつから 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-1-0000-01",
       "title": "拜託了？咲季教練！",
       "produceEventHintProduceConditionDescriptions": []
@@ -12270,6 +12300,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0026-01",
+      "title": "請讓我也一起",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0026-02",
+      "title": "那就明天再見",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-2-0027-01",
       "title": "王子未知的一面",
       "produceEventHintProduceConditionDescriptions": []
@@ -12647,6 +12687,16 @@
     {
       "id": "p_story-s_card-2-0066-02",
       "title": "現在想全力專注在偶像",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0067-01",
+      "title": "跟佑芽有點像？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0067-02",
+      "title": "想玩的是，狗狗！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13236,7 +13286,7 @@
     },
     {
       "id": "p_story-s_card-3-0039-01",
-      "title": "異常的週迴速度",
+      "title": "異常的週回速度",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13880,6 +13930,36 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0083-01",
+      "title": "憧憬的不良少女",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0083-02",
+      "title": "向不良少女拜師學藝",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0083-03",
+      "title": "與不良少女一起訓練",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0084-01",
+      "title": "總覺得被利用了！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0084-02",
+      "title": "一起學怎麼解吧",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0084-03",
+      "title": "烹飪料理再挑戰成功！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0085-01",
       "title": "理想的前輩與後輩",
       "produceEventHintProduceConditionDescriptions": []
@@ -13907,6 +13987,21 @@
     {
       "id": "p_story-s_card-3-0086-03",
       "title": "挑戰青梅約會！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0087-01",
+      "title": "換裝也要帥氣又可愛",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0087-02",
+      "title": "章魚燒的王子？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0087-03",
+      "title": "為了報答我所受過的恩",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

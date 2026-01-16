@@ -1051,6 +1051,16 @@
       "displayTitle": "見て [Instrumental]"
     },
     {
+      "id": "music-char-amao-005",
+      "title": "Top Secret",
+      "displayTitle": "Top Secret"
+    },
+    {
+      "id": "music-char-amao-005-inst",
+      "title": "Top Secret [Instrumental]",
+      "displayTitle": "Top Secret [Instrumental]"
+    },
+    {
       "id": "music-char-atbm-001",
       "title": "理論武装して",
       "displayTitle": "理論武装して"
@@ -1109,6 +1119,16 @@
       "id": "music-char-hmsz-001-inst",
       "title": "ツキノカメ [Instrumental]",
       "displayTitle": "ツキノカメ [Instrumental]"
+    },
+    {
+      "id": "music-char-hmsz-002",
+      "title": "Superlative",
+      "displayTitle": "Superlative"
+    },
+    {
+      "id": "music-char-hmsz-002-inst",
+      "title": "Superlative [Instrumental]",
+      "displayTitle": "Superlative [Instrumental]"
     },
     {
       "id": "music-char-hmsz-003",
@@ -1489,6 +1509,16 @@
       "id": "music-char-ttmr-003-inst",
       "title": "叶えたい、ことばかり [Instrumental]",
       "displayTitle": "叶えたい、ことばかり [Instrumental]"
+    },
+    {
+      "id": "music-char-ttmr-004",
+      "title": "一体いつから",
+      "displayTitle": "一体いつから"
+    },
+    {
+      "id": "music-char-ttmr-004-inst",
+      "title": "一体いつから [Instrumental]",
+      "displayTitle": "一体いつから [Instrumental]"
     },
     {
       "id": "music-char-ttmr-005",

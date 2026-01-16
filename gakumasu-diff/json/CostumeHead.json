@@ -376,6 +376,16 @@
             "description": "【Campus mode!!】秦谷 美鈴の才能開花4段階目で入手"
         },
         {
+            "id": "costume_head_hmsz-cstm-0059",
+            "name": "Superlative",
+            "description": "【Superlative】秦谷 美鈴を入手"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0060",
+            "name": "Superlative",
+            "description": "【Superlative】秦谷 美鈴の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0063",
             "name": "冠菊",
             "description": "【ツキノカメ】'25祭 秦谷 美鈴を入手"
@@ -1441,6 +1451,11 @@
             "description": "月村手毬のアイドルへの道 ステージ15をクリア"
         },
         {
+            "id": "costume_head_ttmr-cstm-0084",
+            "name": "一体いつから",
+            "description": "【一体いつから】月村 手毬を入手"
+        },
+        {
             "id": "costume_head_ttmr-cstm-0110",
             "name": "漆黒の輝き",
             "description": "月村手毬のアイドルへの道 ステージ25をクリア"
@@ -1504,6 +1519,11 @@
             "id": "costume_head_ttmr-hair-0009",
             "name": "大きめリボン",
             "description": "プレミアムミッションパス 2025年11月で獲得"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0025",
+            "name": "一体いつから（ポイントカラーアレンジ）",
+            "description": "【一体いつから】月村 手毬を入手"
         }
     ]
 }

@@ -367,6 +367,21 @@
       "text": "呵呵——我看見你了哦"
     },
     {
+      "supportCardId": "s_card-2-0026",
+      "number": 1,
+      "text": "小美鈴你經常做料理嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0026",
+      "number": 2,
+      "text": "和食的話，\n在老家的時候常常做。"
+    },
+    {
+      "supportCardId": "s_card-2-0026",
+      "number": 3,
+      "text": "那下次就拜托你教我做和食吧。"
+    },
+    {
       "supportCardId": "s_card-2-0027",
       "number": 1,
       "text": "今年的新生怎麼樣？"
@@ -935,6 +950,21 @@
       "supportCardId": "s_card-2-0066",
       "number": 3,
       "text": "哼，跟你這傢伙，\n只有電影跟閱讀的興趣還算合得來。"
+    },
+    {
+      "supportCardId": "s_card-2-0067",
+      "number": 1,
+      "text": "你好啊！　好可愛～！\n想一起玩嗎～？　真開心～♪"
+    },
+    {
+      "supportCardId": "s_card-2-0067",
+      "number": 2,
+      "text": "嗚哇！　好，好大……！"
+    },
+    {
+      "supportCardId": "s_card-2-0067",
+      "number": 3,
+      "text": "不可怕喔～手毬醬！\n我在旁邊所以沒事的！"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -2172,6 +2202,36 @@
       "text": "不、不是，我是因為……那個……"
     },
     {
+      "supportCardId": "s_card-3-0083",
+      "number": 1,
+      "text": "呼啊……\n稍微小睡一下好了。"
+    },
+    {
+      "supportCardId": "s_card-3-0083",
+      "number": 2,
+      "text": "秦、秦谷同學，\n你要去哪……？"
+    },
+    {
+      "supportCardId": "s_card-3-0083",
+      "number": 3,
+      "text": "難道說……是不良少女嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0084",
+      "number": 1,
+      "text": "ひとつ～の～ゆ～め～♪"
+    },
+    {
+      "supportCardId": "s_card-3-0084",
+      "number": 2,
+      "text": "喔喔。真不愧是手毬。"
+    },
+    {
+      "supportCardId": "s_card-3-0084",
+      "number": 3,
+      "text": "非常的厲害哇～！"
+    },
+    {
       "supportCardId": "s_card-3-0085",
       "number": 1,
       "text": "聽好了，把一切雜念都拋開，\n集中精神。"
@@ -2200,6 +2260,21 @@
       "supportCardId": "s_card-3-0086",
       "number": 3,
       "text": "這、這樣不會做過頭了嗎！？"
+    },
+    {
+      "supportCardId": "s_card-3-0087",
+      "number": 1,
+      "text": "嗯―，用成這樣的髮型，如何～？\n把兩側編起來～。"
+    },
+    {
+      "supportCardId": "s_card-3-0087",
+      "number": 2,
+      "text": "不愧是琴音呢。\n我也不会輸哦―。"
+    },
+    {
+      "supportCardId": "s_card-3-0087",
+      "number": 3,
+      "text": "你們，是不是在拿我換裝玩？"
     },
     {
       "supportCardId": "s_card-3-0098",

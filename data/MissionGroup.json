@@ -7,31 +7,35 @@
   "data": [
     {
       "id": "dearness_normal-mission_amao_01",
-      "name": "偶像任務麻央"
+      "name": "偶像任務 麻央"
     },
     {
       "id": "dearness_normal-mission_fktn_01",
-      "name": "偶像任務琴音"
+      "name": "偶像任務 琴音"
     },
     {
       "id": "dearness_normal-mission_hrnm_01",
-      "name": "偶像任務莉波"
+      "name": "偶像任務 莉波"
     },
     {
       "id": "dearness_normal-mission_kcna_01",
-      "name": "偶像任務千奈"
+      "name": "偶像任務 千奈"
     },
     {
       "id": "dearness_normal-mission_kllj_01",
-      "name": "偶像任務莉莉婭"
+      "name": "偶像任務 莉莉婭"
     },
     {
       "id": "dearness_normal-mission_shro_01",
-      "name": "偶像任務廣"
+      "name": "偶像任務 廣"
     },
     {
       "id": "dearness_normal-mission_ssmk_01",
-      "name": "偶像任務清夏"
+      "name": "偶像任務 清夏"
+    },
+    {
+      "id": "dearness_normal-mission_ttmr_01",
+      "name": "偶像任務 手毬"
     },
     {
       "id": "dearness_panel-mission_amao_01",
@@ -59,6 +63,10 @@
     },
     {
       "id": "dearness_panel-mission_ssmk_01",
+      "name": "親密度強化活動"
+    },
+    {
+      "id": "dearness_panel-mission_ttmr_01",
       "name": "親密度強化活動"
     },
     {
@@ -414,6 +422,26 @@
       "name": "高分衝刺活動任務"
     },
     {
+      "id": "mission-group-highscorerush-event-009_1",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-009_2",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-009_3",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-009_4",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-009_5",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
       "id": "mission-group-main-story-event-001_1",
       "name": "初星交流活動任務"
     },
@@ -668,6 +696,10 @@
     {
       "id": "mission-group-story-event-010",
       "name": "故事活動任務010"
+    },
+    {
+      "id": "mission-group-story-event-011",
+      "name": "故事活動任務011"
     },
     {
       "id": "mission-group-story-event-013",

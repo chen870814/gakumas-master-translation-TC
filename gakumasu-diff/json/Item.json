@@ -114,6 +114,12 @@
             "acquisitionRouteDescription": "イベントモードのプロデュースなど"
         },
         {
+            "id": "item-coin-highscorerush-event-009",
+            "name": "ほしのきらめき",
+            "description": "十王邦夫のアイドル強化月間〜星々のきらめき〜(月村手毬/花海咲季)のイベントガシャで使用するアイテム",
+            "acquisitionRouteDescription": "イベントモードのプロデュースなど"
+        },
+        {
             "id": "item-common-idol_card-piece-r",
             "name": "Rアイドルのピース",
             "description": "Rプロデュースアイドルの才能開花に使用できるアイテム",
@@ -540,6 +546,12 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-medal-story-event-011",
+            "name": "寮一同より",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-medal-story-event-013",
             "name": "修学旅行のお土産",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
@@ -764,6 +776,12 @@
         {
             "id": "item-piece-idol_hmsz-3-010",
             "name": "[Star-mine]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-014",
+            "name": "[Superlative]秦谷美鈴のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },
@@ -1304,6 +1322,12 @@
         {
             "id": "item-piece-idol_ttmr-3-015",
             "name": "[がむしゃらに行こう！]月村手毬のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_ttmr-3-016",
+            "name": "[一体いつから]月村手毬のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },

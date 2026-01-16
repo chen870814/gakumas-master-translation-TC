@@ -12,6 +12,7 @@
   "i_card-atbm-1-000|name": "学園生活",
   "i_card-atbm-2-000|name": "初志貫徹",
   "i_card-atbm-3-000|name": "理論武装して",
+  "i_card-atbm-3-012|name": "Campus mode!!",
   "i_card-fktn-1-000|name": "学園生活",
   "i_card-fktn-1-001|name": "初声",
   "i_card-fktn-2-000|name": "カワイイ♡はじめました",
@@ -29,6 +30,7 @@
   "i_card-hmsz-3-000|name": "ツキノカメ",
   "i_card-hmsz-3-005|name": "Campus mode!!",
   "i_card-hmsz-3-010|name": "Star-mine",
+  "i_card-hmsz-3-014|name": "Superlative",
   "i_card-hrnm-1-000|name": "学園生活",
   "i_card-hrnm-1-001|name": "初心",
   "i_card-hrnm-2-000|name": "『私らしさ』のはじまり",
@@ -118,5 +120,6 @@
   "i_card-ttmr-3-007|name": "Campus mode!!",
   "i_card-ttmr-3-009|name": "雪解けに",
   "i_card-ttmr-3-011|name": "雨上がりのアイリス",
-  "i_card-ttmr-3-015|name": "がむしゃらに行こう！"
+  "i_card-ttmr-3-015|name": "がむしゃらに行こう！",
+  "i_card-ttmr-3-016|name": "一体いつから"
 }
