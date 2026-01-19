@@ -294,5 +294,12 @@
   "ttmr|17|produceConditionDescription": "最終試鏡選擇「QUARTET」後通過",
   "ttmr|18|produceConditionDescription": "最終試鏡選擇「FINALE」",
   "ttmr|19|produceConditionDescription": "最終試鏡選擇「FINALE」後通過",
-  "ttmr|20|produceConditionDescription": "最終試鏡「FINALE」通過的狀態完成培育"
+  "ttmr|20|produceConditionDescription": "最終試鏡「FINALE」通過的狀態完成培育",
+  "ttmr|21|produceConditionDescription": "移動至月村手毬的親密度TOP",
+  "ttmr|22|produceConditionDescription": "累計獲得100親密度Pt並通過最終考試/最終試鏡",
+  "ttmr|23|produceConditionDescription": "累計獲得200親密度Pt並通過最終考試/最終試鏡",
+  "ttmr|24|produceConditionDescription": "累計獲得300親密度Pt並通過最終考試/最終試鏡",
+  "ttmr|25|produceConditionDescription": "累計獲得400親密度Pt並通過最終考試/最終試鏡",
+  "ttmr|26|produceConditionDescription": "累計獲得500親密度Pt並通過最終考試/最終試鏡",
+  "ttmr|27|produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
 }

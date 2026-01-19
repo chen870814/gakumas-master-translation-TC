@@ -1672,6 +1672,11 @@
             "description": ""
         },
         {
+            "id": "cd_login_bonus_wednesday-26-0121",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_main-story-event-001_story-release",
             "number": 1,
             "description": "直前のコミュをみることで解放"
@@ -6312,6 +6317,11 @@
             "description": "チュートリアルクリア"
         },
         {
+            "id": "cd_view_20260127",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_view_gasha-00430-select-pickup-002",
             "number": 1,
             "description": ""
@@ -7744,6 +7754,11 @@
         {
             "id": "cd-comeback-unlock_open-11",
             "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-competition-pre-seasonresult-for-homedisable",
+            "number": 1,
             "description": ""
         },
         {
@@ -13928,6 +13943,11 @@
         },
         {
             "id": "cd-pvp_grade_s",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-pvprate-result-for-homedisable",
             "number": 1,
             "description": ""
         },

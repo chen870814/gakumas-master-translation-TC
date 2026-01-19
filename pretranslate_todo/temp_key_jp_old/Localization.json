@@ -28,8 +28,6 @@
   "profile.badge_select.thumb_empty.empty.toast|description": "プロデューサーランキングで獲得できます",
   "profile.report.share.text|description": "#学マス #初星学園通知表",
   "research_event.target_idol_sheet.description|description": "イベントモード対象のPアイドルのみイベントモードのプロデュースへの挑戦が可能です",
-  "setting.produce.legend_card_get_confirm|description": "準備中",
-  "setting.produce.legend_card_get_confirm.description|description": "今後のアップデートで追加予定です。",
   "shop.web_store.confirm.description|description": "Webブラウザを開きますか？\\n生年月日は【メニュー>その他>生年月日入力】から設定できます。",
   "story.story_event.section.normal_condition_lock_text|description": "イベントPtを獲得し、前のコミュを読むことで解放",
   "voice.idol_use_produce_card|description": "Pアイドル固有スキルカード使用"
