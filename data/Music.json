@@ -1141,6 +1141,16 @@
       "displayTitle": "たいせつなもの [Instrumental]"
     },
     {
+      "id": "music-char-hmsz-005",
+      "title": "ヨルニテ",
+      "displayTitle": "ヨルニテ"
+    },
+    {
+      "id": "music-char-hmsz-005-inst",
+      "title": "ヨルニテ [Instrumental]",
+      "displayTitle": "ヨルニテ [Instrumental]"
+    },
+    {
       "id": "music-char-hrnm-001",
       "title": "clumsy trick",
       "displayTitle": ""
@@ -1539,6 +1549,16 @@
       "id": "music-unit-begrazia-002 -inst",
       "title": "Star-mine [Instrumental]",
       "displayTitle": "Star-mine [Instrumental]"
+    },
+    {
+      "id": "music-unit-kcnashro-003",
+      "title": "みちなるひろがる",
+      "displayTitle": "みちなるひろがる"
+    },
+    {
+      "id": "music-unit-kcnashro-003-inst",
+      "title": "みちなるひろがる [Instrumental]",
+      "displayTitle": "みちなるひろがる [Instrumental]"
     },
     {
       "id": "music-unit-reiris-001",

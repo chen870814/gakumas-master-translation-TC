@@ -74,6 +74,10 @@
       "description": "{0}解鎖"
     },
     {
+      "id": "mission.mission_list.max_point_text.event",
+      "description": "每週任務點數已達到最大"
+    },
+    {
       "id": "produce_prepare.edit.warning",
       "description": "編成可以針對每個培育進行設定。在不同培育中進行設定時，不會適用於其他培育。"
     },
@@ -120,14 +124,6 @@
     {
       "id": "research_event.target_idol_sheet.description",
       "description": "只有活動模式的P偶像才可以挑戰活動模式的培育"
-    },
-    {
-      "id": "setting.produce.legend_card_get_confirm",
-      "description": "準備中"
-    },
-    {
-      "id": "setting.produce.legend_card_get_confirm.description",
-      "description": "預定追加於日後的更新中。"
     },
     {
       "id": "shop.web_store.confirm.description",

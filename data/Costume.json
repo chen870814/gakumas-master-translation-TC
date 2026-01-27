@@ -1361,6 +1361,16 @@
       "description": "【Wonder Scale】'25 がむしゃらに行こう！ 倉本千奈 獲得"
     },
     {
+      "id": "kcna-cstm-0131",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】倉本千奈 獲得"
+    },
+    {
+      "id": "kcna-cstm-0132",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】倉本千奈的才能開花第4階段 獲得"
+    },
+    {
       "id": "kcna-othr-0002",
       "name": "ようこそ初星温泉",
       "description": "【ようこそ初星温泉】倉本千奈 獲得"
@@ -1591,6 +1601,11 @@
       "description": "初始持有"
     },
     {
+      "id": "shro-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "shro-cstm-0000",
       "name": "初（hajime）",
       "description": "初始持有"
@@ -1729,6 +1744,16 @@
       "id": "shro-cstm-0125",
       "name": "がむしゃらに行こう！",
       "description": "【光景】'25 がむしゃらに行こう！ 篠澤廣 獲得"
+    },
+    {
+      "id": "shro-cstm-0131",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】篠澤廣 獲得"
+    },
+    {
+      "id": "shro-cstm-0132",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-othr-0002",
@@ -1924,6 +1949,11 @@
       "id": "ttmr-casl-0000",
       "name": "日常便服",
       "description": "初始持有"
+    },
+    {
+      "id": "ttmr-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
     },
     {
       "id": "ttmr-cstm-0000",

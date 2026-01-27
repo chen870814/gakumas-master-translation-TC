@@ -121,6 +121,11 @@
       "description": "高級任務通行證 2025年10月 獲得"
     },
     {
+      "id": "costume_head_amao-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2026年2月 獲得"
+    },
+    {
       "id": "costume_head_amao-hair-0014",
       "name": "見て（簡單搭配）",
       "description": "【見て】有村麻央 獲得"
@@ -199,6 +204,11 @@
       "id": "costume_head_atbm-hair-0008",
       "name": "狗耳",
       "description": "購買狗耳（雨夜燕）"
+    },
+    {
+      "id": "costume_head_atbm-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2026年2月 獲得"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -333,7 +343,7 @@
     {
       "id": "costume_head_fktn-hair-0006",
       "name": "初星☆配飾",
-      "description": "高級任務通行證 2025年2月 獲得"
+      "description": "高級任務通行證 2025年2月 等方式獲得"
     },
     {
       "id": "costume_head_fktn-hair-0007",
@@ -571,6 +581,11 @@
       "description": "高級任務通行證 2025年10月 獲得"
     },
     {
+      "id": "costume_head_hrnm-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2026年2月 獲得"
+    },
+    {
       "id": "costume_head_hrnm-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -678,7 +693,7 @@
     {
       "id": "costume_head_hski-hair-0006",
       "name": "初星☆配飾",
-      "description": "高級任務通行證 2025年2月 獲得"
+      "description": "高級任務通行證 2025年2月 等方式獲得"
     },
     {
       "id": "costume_head_hski-hair-0007",
@@ -916,6 +931,11 @@
       "description": "高級任務通行證 2025年8月 獲得"
     },
     {
+      "id": "costume_head_jsna-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2026年2月 獲得"
+    },
+    {
       "id": "costume_head_jsna-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -989,6 +1009,16 @@
       "id": "costume_head_kcna-cstm-0117",
       "name": "Howling over the World",
       "description": "【Howling over the World】倉本千奈的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0131",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】倉本千奈 獲得"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0132",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】倉本千奈的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_kcna-hair-0001",
@@ -1244,6 +1274,16 @@
       "id": "costume_head_shro-cstm-0121",
       "name": "ミラクルナナウ(ﾟ∀ﾟ)！",
       "description": "【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤廣的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_shro-cstm-0131",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】篠澤廣 獲得"
+    },
+    {
+      "id": "costume_head_shro-cstm-0132",
+      "name": "みちなるひろがる",
+      "description": "【みちなるひろがる】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_shro-hair-0001",
@@ -1503,7 +1543,7 @@
     {
       "id": "costume_head_ttmr-hair-0006",
       "name": "初星☆配飾",
-      "description": "高級任務通行證 2025年2月 獲得"
+      "description": "高級任務通行證 2025年2月 等方式獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0007",

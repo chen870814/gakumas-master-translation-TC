@@ -163,44 +163,50 @@
     },
     {
       "id": "item-dearness-unlock-amao",
-      "name": "麻央的記錄之鑰",
+      "name": "與麻央的記錄之鑰",
       "description": "解鎖有村麻央STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
       "id": "item-dearness-unlock-fktn",
-      "name": "琴音的記錄之鑰",
+      "name": "與琴音的記錄之鑰",
       "description": "解鎖藤田琴音STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
       "id": "item-dearness-unlock-hrnm",
-      "name": "莉波的記錄之鑰",
+      "name": "與莉波的記錄之鑰",
       "description": "解鎖姬崎莉波STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
       "id": "item-dearness-unlock-kcna",
-      "name": "千奈的記錄之鑰",
+      "name": "與千奈的記錄之鑰",
       "description": "解鎖倉本千奈STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
       "id": "item-dearness-unlock-kllj",
-      "name": "莉莉婭的記錄之鑰",
+      "name": "與莉莉婭的記錄之鑰",
       "description": "解鎖葛城莉莉婭STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
       "id": "item-dearness-unlock-shro",
-      "name": "廣的記錄之鑰",
+      "name": "與廣的記錄之鑰",
       "description": "解鎖篠澤廣STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
       "id": "item-dearness-unlock-ssmk",
-      "name": "清夏的記錄之鑰",
+      "name": "與清夏的記錄之鑰",
       "description": "解鎖紫雲清夏STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
+      "id": "item-dearness-unlock-ttmr",
+      "name": "與手毬的記錄之鑰",
+      "description": "解鎖月村手毬STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
@@ -548,6 +554,12 @@
     {
       "id": "item-medal-story-event-011",
       "name": "來自宿舍大家的慰問",
+      "description": "可以在活動兌換所交換各式報酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-story-event-012",
+      "name": "生日禮物",
       "description": "可以在活動兌換所交換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -1080,6 +1092,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_kcna-3-016",
+      "name": "[みちなるひろがる]倉本千奈的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_kllj-1-000",
       "name": "[學園生活]葛城莉莉婭的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1202,6 +1220,12 @@
     {
       "id": "item-piece-idol_shro-3-014",
       "name": "[ミラクルナナウ(ﾟ∀ﾟ)！]篠澤廣的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_shro-3-016",
+      "name": "[みちなるひろがる]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
