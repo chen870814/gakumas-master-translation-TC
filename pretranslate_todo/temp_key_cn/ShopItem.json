@@ -20,6 +20,7 @@
   "shop_costume_costume_head_fktn-hair-0001|name": "紫陽花髮飾（藤田琴音）",
   "shop_costume_costume_head_fktn-hair-0003|name": "圓框眼鏡（藤田琴音）",
   "shop_costume_costume_head_fktn-hair-0004|name": "貓耳（藤田琴音）",
+  "shop_costume_costume_head_fktn-hair-0006|name": "初星☆配飾（藤田ことね）",
   "shop_costume_costume_head_hmsz-hair-0001|name": "紫陽花髮飾（秦谷美鈴）",
   "shop_costume_costume_head_hmsz-hair-0003|name": "圓框眼鏡（秦谷美鈴）",
   "shop_costume_costume_head_hmsz-hair-0004|name": "貓耳（秦谷美鈴）",
@@ -30,6 +31,7 @@
   "shop_costume_costume_head_hski-hair-0001|name": "紫陽花髮飾（花海咲季）",
   "shop_costume_costume_head_hski-hair-0003|name": "圓框眼鏡（花海咲季）",
   "shop_costume_costume_head_hski-hair-0004|name": "貓耳（花海咲季）",
+  "shop_costume_costume_head_hski-hair-0006|name": "初星☆配飾（花海咲季）",
   "shop_costume_costume_head_hume-hair-0001|name": "紫陽花髮飾（花海佑芽）",
   "shop_costume_costume_head_hume-hair-0003|name": "圓框眼鏡（花海佑芽）",
   "shop_costume_costume_head_hume-hair-0004|name": "貓耳（花海佑芽）",
@@ -51,6 +53,7 @@
   "shop_costume_costume_head_ttmr-hair-0001|name": "紫陽花髮飾（月村手毬）",
   "shop_costume_costume_head_ttmr-hair-0003|name": "圓框眼鏡（月村手毬）",
   "shop_costume_costume_head_ttmr-hair-0004|name": "貓耳（月村手毬）",
+  "shop_costume_costume_head_ttmr-hair-0006|name": "初星☆配飾（月村手毬）",
   "shop_costume_fktn-cstm-0063|name": "祭典法批（藤田琴音）",
   "shop_costume_fktn-cstm-0069_revival-1|name": "兒童罩衫（藤田琴音）",
   "shop_costume_fktn-cstm-0111|name": "水手服泳裝（藤田琴音）",
@@ -65,6 +68,7 @@
   "shop_costume_hmsz-trng-0002-resale|name": "初星學園體操服（秦谷美鈴）",
   "shop_costume_hrnm-cstm-0051|name": "連帽衫泳衣（姬崎莉波）",
   "shop_costume_hrnm-cstm-0069_revival-1|name": "兒童罩衫（姬崎莉波）",
+  "shop_costume_hrnm-cstm-0075|name": "愛心圍裙（姫崎莉波）",
   "shop_costume_hrnm-cstm-0111|name": "水手服泳裝（姬崎莉波）",
   "shop_costume_hrnm-trng-0002|name": "初星學園體操服（姬崎莉波）",
   "shop_costume_hrnm-trng-0002-resale|name": "初星學園體操服（姬崎莉波）",
@@ -81,6 +85,7 @@
   "shop_costume_hume-trng-0002-resale|name": "初星學園體操服（花海佑芽）",
   "shop_costume_jsna-cstm-0069|name": "兒童罩衫（十王星南）",
   "shop_costume_jsna-cstm-0069_revival-1|name": "兒童罩衫（十王星南）",
+  "shop_costume_jsna-cstm-0075|name": "愛心圍裙（十王星南）",
   "shop_costume_jsna-cstm-0111|name": "水手服泳裝（十王星南）",
   "shop_costume_jsna-othr-0002|name": "溫泉用泳裝（十王星南）",
   "shop_costume_jsna-othr-0002-resale|name": "溫泉用泳裝（十王星南）",
@@ -214,5 +219,6 @@
   "shop_pass_item-0018|name": "高級任務通行證 2025年10月",
   "shop_pass_item-0019|name": "高級任務通行證 2025年11月",
   "shop_pass_item-0020|name": "高級任務通行證 2025年12月",
-  "shop_pass_item-0021|name": "高級任務通行證 2026年1月"
+  "shop_pass_item-0021|name": "高級任務通行證 2026年1月",
+  "shop_pass_item-0022|name": "高級任務通行證 2026年2月"
 }

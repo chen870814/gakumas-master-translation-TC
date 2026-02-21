@@ -877,6 +877,51 @@
             "description": ""
         },
         {
+            "id": "cd_dis-costume_head_fktn-hair-0032",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_fktn-hair-0032",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_fktn-hair-0032",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_shro-hair-0031",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_shro-hair-0031",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_shro-hair-0031",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_ssmk-hair-0030",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_ssmk-hair-0030",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_ssmk-hair-0030",
+            "number": 3,
+            "description": ""
+        },
+        {
             "id": "cd_draw_gasha-000240-ssr-idol-1",
             "number": 1,
             "description": ""
@@ -972,6 +1017,16 @@
             "description": ""
         },
         {
+            "id": "cd_gasha_have_ticket_valentine-001",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_gasha_have_ticket_valentine-001",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd_gasha_have_ticket-ssr-fix_10",
             "number": 1,
             "description": ""
@@ -998,6 +1053,21 @@
         },
         {
             "id": "cd_gasha_not_have_ticket_10",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_have_costume_head_fktn-hair-0032",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_have_costume_head_shro-hair-0031",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_have_costume_head_ssmk-hair-0030",
             "number": 1,
             "description": ""
         },
@@ -1063,6 +1133,11 @@
         },
         {
             "id": "cd_highscorerush-event-009-release",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_highscorerush-event-010-release",
             "number": 1,
             "description": ""
         },
@@ -1682,7 +1757,27 @@
             "description": ""
         },
         {
+            "id": "cd_login_bonus_wednesday-26-02018",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_login_bonus_wednesday-26-0204",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-26-0211",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-26-0219",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-26-0225",
             "number": 1,
             "description": ""
         },
@@ -2702,6 +2797,11 @@
             "description": ""
         },
         {
+            "id": "cd_memory-dearness-unlock-jsna-release_open",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_memory-dearness-unlock-kcna-release_open",
             "number": 1,
             "description": ""
@@ -3585,6 +3685,11 @@
             "id": "cd_producer_level-058",
             "number": 1,
             "description": "プロデューサーLv58以上で解放"
+        },
+        {
+            "id": "cd_producer_level-075",
+            "number": 1,
+            "description": "プロデューサーLv75以上で解放"
         },
         {
             "id": "cd_producerlevel-10",
@@ -5652,7 +5757,17 @@
             "description": ""
         },
         {
+            "id": "cd_time_26_0209-1100",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_26_0214_0000",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0214_26_0227",
             "number": 1,
             "description": ""
         },
@@ -5968,6 +6083,11 @@
         },
         {
             "id": "cd_time-view_open-i_card-jsna-3-011",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time-view_open-i_card-jsna-3-015",
             "number": 1,
             "description": ""
         },
@@ -6593,6 +6713,16 @@
         },
         {
             "id": "cd_view_shop_costume_item-00067",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-00075",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-00075",
             "number": 2,
             "description": ""
         },
@@ -7937,6 +8067,11 @@
             "description": "姫崎莉波の親愛度Lv20達成"
         },
         {
+            "id": "cd-dearness_jsna-20",
+            "number": 1,
+            "description": "十王星南の親愛度Lv20達成"
+        },
+        {
             "id": "cd-dearness_kcna-20",
             "number": 1,
             "description": "倉本千奈の親愛度Lv20達成"
@@ -8872,6 +9007,41 @@
             "description": "十王 星南の親愛度Lvを20にする"
         },
         {
+            "id": "cd-dearness_level-jsna-21",
+            "number": 1,
+            "description": "十王 星南の親愛度Lvを21にする"
+        },
+        {
+            "id": "cd-dearness_level-jsna-22",
+            "number": 1,
+            "description": "十王 星南の親愛度Lvを22にする"
+        },
+        {
+            "id": "cd-dearness_level-jsna-23",
+            "number": 1,
+            "description": "十王 星南の親愛度Lvを23にする"
+        },
+        {
+            "id": "cd-dearness_level-jsna-24",
+            "number": 1,
+            "description": "十王 星南の親愛度Lvを24にする"
+        },
+        {
+            "id": "cd-dearness_level-jsna-25",
+            "number": 1,
+            "description": "十王 星南の親愛度Lvを25にする"
+        },
+        {
+            "id": "cd-dearness_level-jsna-26",
+            "number": 1,
+            "description": "十王 星南の親愛度Lvを26にする"
+        },
+        {
+            "id": "cd-dearness_level-jsna-27",
+            "number": 1,
+            "description": "十王 星南の親愛度Lvを27にする"
+        },
+        {
             "id": "cd-dearness_level-kcna-01",
             "number": 1,
             "description": "倉本 千奈の親愛度Lvを1にする"
@@ -9452,6 +9622,51 @@
             "description": "月村 手毬の親愛度Lvを27にする"
         },
         {
+            "id": "cd-dearness_level10over-ssmk-shro-fktn",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level10over-ssmk-shro-fktn",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level10over-ssmk-shro-fktn",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level20-ssmk-shro-fktn",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level20-ssmk-shro-fktn",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level20-ssmk-shro-fktn",
+            "number": 3,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level27under-ssmk-shro-fktn",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level27under-ssmk-shro-fktn",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level27under-ssmk-shro-fktn",
+            "number": 3,
+            "description": ""
+        },
+        {
             "id": "cd-dearness_normal-mission_amao-0001",
             "number": 1,
             "description": "親愛度Lv20達成時"
@@ -9478,6 +9693,16 @@
         },
         {
             "id": "cd-dearness_normal-mission_hrnm-0001",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_normal-mission_jsna-0001",
+            "number": 1,
+            "description": "親愛度Lv20達成時"
+        },
+        {
+            "id": "cd-dearness_normal-mission_jsna-0001",
             "number": 2,
             "description": ""
         },
@@ -10177,6 +10402,21 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_hrnm-cstm-0075",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_hrnm-cstm-0075-jsna-cstm-0075",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_hrnm-cstm-0075-jsna-cstm-0075",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_hrnm-cstm-0111",
             "number": 1,
             "description": ""
@@ -10208,6 +10448,11 @@
         },
         {
             "id": "cd-have_costume_jsna-cstm-0069",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_jsna-cstm-0075",
             "number": 1,
             "description": ""
         },
@@ -11252,6 +11497,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-1-20-jsna",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-1-20-kcna",
             "number": 1,
             "description": ""
@@ -11302,6 +11552,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-21-jsna",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-21-kcna",
             "number": 1,
             "description": ""
@@ -11338,6 +11593,11 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-22-hrnm",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-22-jsna",
             "number": 1,
             "description": ""
         },
@@ -11382,6 +11642,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-23-jsna",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-23-kcna",
             "number": 1,
             "description": ""
@@ -11418,6 +11683,11 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-24-hrnm",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-24-jsna",
             "number": 1,
             "description": ""
         },
@@ -11462,6 +11732,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-25-jsna",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-25-kcna",
             "number": 1,
             "description": ""
@@ -11502,6 +11777,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-26-jsna",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-26-kcna",
             "number": 1,
             "description": ""
@@ -11538,6 +11818,11 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-27-hrnm",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-27-jsna",
             "number": 1,
             "description": ""
         },
@@ -11633,6 +11918,11 @@
         },
         {
             "id": "cd-home_object_newyear-00",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_object_valentine-00",
             "number": 1,
             "description": ""
         },
@@ -14137,6 +14427,11 @@
             "description": ""
         },
         {
+            "id": "cd-ralease_dearness-story-jsna",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-ralease_dearness-story-kcna",
             "number": 1,
             "description": ""
@@ -15187,6 +15482,16 @@
             "description": ""
         },
         {
+            "id": "cd-release-music-inst-all-007",
+            "number": 11,
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-007",
+            "number": 12,
+            "description": ""
+        },
+        {
             "id": "cd-release-music-inst-all-008",
             "number": 1,
             "description": ""
@@ -15667,6 +15972,11 @@
             "description": ""
         },
         {
+            "id": "cd-release-music-inst-jsna-04",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-release-music-inst-kcna-005",
             "number": 1,
             "description": ""
@@ -16122,6 +16432,16 @@
             "description": ""
         },
         {
+            "id": "cd-shop_costume_hrnm-cstm-0075",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_hrnm-cstm-0075",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-shop_costume_hrnm-cstm-0111",
             "number": 1,
             "description": ""
@@ -16188,6 +16508,16 @@
         },
         {
             "id": "cd-shop_costume_jsna-cstm-0069_revival-1",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_jsna-cstm-0075",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_jsna-cstm-0075",
             "number": 2,
             "description": ""
         },
@@ -16444,6 +16774,26 @@
         {
             "id": "cd-shop_pack_item-item-first-live_003",
             "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_dearness-event-000-rev-002-add-001",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_dearness-event-000-rev-002-add-001",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_gasha-00760-pickup-000",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_gasha-00760-pickup-000",
+            "number": 2,
             "description": ""
         },
         {

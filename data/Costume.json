@@ -506,6 +506,11 @@
       "description": "秦谷美鈴的偶像之路 通關第15關"
     },
     {
+      "id": "hmsz-cstm-0075",
+      "name": "ハッピーミルフィーユ",
+      "description": "【ツキノカメ】'26 情人節 秦谷美鈴 獲得"
+    },
+    {
       "id": "hmsz-cstm-0110",
       "name": "漆黑的光芒",
       "description": "秦谷美鈴的偶像之路 通關第25關"
@@ -659,6 +664,11 @@
       "id": "hrnm-cstm-0073",
       "name": "白金光輝",
       "description": "姬崎莉波的偶像之路 通關第15關"
+    },
+    {
+      "id": "hrnm-cstm-0075",
+      "name": "愛心圍裙",
+      "description": "購買愛心圍裙（姫崎莉波）"
     },
     {
       "id": "hrnm-cstm-0076",
@@ -991,6 +1001,11 @@
       "description": "花海佑芽的偶像之路 通關第15關"
     },
     {
+      "id": "hume-cstm-0075",
+      "name": "ハッピーミルフィーユ",
+      "description": "【The Rolling Riceball】'26 情人節 花海佑芽 獲得"
+    },
+    {
       "id": "hume-cstm-0110",
       "name": "漆黑的光芒",
       "description": "花海佑芽的偶像之路 通關第25關"
@@ -1136,6 +1151,11 @@
       "description": "十王星南的偶像之路 通關第15關"
     },
     {
+      "id": "jsna-cstm-0075",
+      "name": "愛心圍裙",
+      "description": "購買愛心圍裙（十王星南）"
+    },
+    {
       "id": "jsna-cstm-0076",
       "name": "雪解けに",
       "description": "【小さな野望】'25 女兒節 十王星南 獲得"
@@ -1154,6 +1174,16 @@
       "id": "jsna-cstm-0081",
       "name": "桜フォトグラフ",
       "description": "【小さな野望】'25 櫻花 十王星南 獲得"
+    },
+    {
+      "id": "jsna-cstm-0104",
+      "name": "赤裸々",
+      "description": "【赤裸々】十王星南 獲得"
+    },
+    {
+      "id": "jsna-cstm-0105",
+      "name": "赤裸々",
+      "description": "【赤裸々】十王星南的才能開花第4階段 獲得"
     },
     {
       "id": "jsna-cstm-0110",

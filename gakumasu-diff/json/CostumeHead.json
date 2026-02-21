@@ -366,6 +366,11 @@
             "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねを入手"
         },
         {
+            "id": "costume_head_fktn-hair-0032",
+            "name": "自己肯定感爆上げ↑↑しゅきしゅきソング（ポイントカラーアレンジ）",
+            "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田 ことねを入手"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0011",
             "name": "ツキノカメ",
             "description": "【ツキノカメ】秦谷 美鈴を入手"
@@ -886,6 +891,16 @@
             "description": "【Our Chant】十王 星南の才能開花4段階目で入手"
         },
         {
+            "id": "costume_head_jsna-cstm-0104",
+            "name": "赤裸々",
+            "description": "【赤裸々】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0105",
+            "name": "赤裸々",
+            "description": "【赤裸々】十王 星南の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_jsna-cstm-0114",
             "name": "Star-mine",
             "description": "【Star-mine】十王 星南を入手"
@@ -934,6 +949,21 @@
             "id": "costume_head_jsna-hair-0009",
             "name": "大きめリボン",
             "description": "プレミアムミッションパス 2026年2月で獲得"
+        },
+        {
+            "id": "costume_head_jsna-hair-0015",
+            "name": "赤裸々（いつものメイク）",
+            "description": "【赤裸々】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-hair-0017",
+            "name": "赤裸々（いつものメイク）",
+            "description": "【赤裸々】十王 星南の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_jsna-hair-0026",
+            "name": "赤裸々（ポイントカラーアレンジ）",
+            "description": "【赤裸々】十王 星南を入手"
         },
         {
             "id": "costume_head_jsna-schl-0000",
@@ -1331,6 +1361,11 @@
             "description": "【サンフェーデッド】篠澤 広を入手"
         },
         {
+            "id": "costume_head_shro-hair-0031",
+            "name": "サンフェーデッド（ポイントカラーアレンジ）",
+            "description": "【サンフェーデッド】篠澤 広を入手"
+        },
+        {
             "id": "costume_head_ssmk-cstm-0009",
             "name": "Tame-Lie-One-Step",
             "description": "【Tame-Lie-One-Step】紫雲 清夏を入手"
@@ -1428,6 +1463,11 @@
         {
             "id": "costume_head_ssmk-hair-0010",
             "name": "Love & Joy（いつものメイク）",
+            "description": "【Love & Joy】紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0030",
+            "name": "Love & Joy（ポイントカラーアレンジ）",
             "description": "【Love & Joy】紫雲 清夏を入手"
         },
         {

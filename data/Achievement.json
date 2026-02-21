@@ -1536,6 +1536,36 @@
       "description": "【Star-mine】將十王星南的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-jsna-3-015-01",
+      "name": "超越自我",
+      "description": "【赤裸々】在十王星南的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-02",
+      "name": "赤裸々",
+      "description": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-03",
+      "name": "給我自身，帶來指引的曲子",
+      "description": "【赤裸々】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-04",
+      "name": "赤裸々+",
+      "description": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-05",
+      "name": "赤裸々++",
+      "description": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-015-06",
+      "name": "赤裸々+++",
+      "description": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-kcna-2-000-04",
       "name": "胸を張って一歩ずつ +",
       "description": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"

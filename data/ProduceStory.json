@@ -11350,6 +11350,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-jsna-3-015-01",
+      "title": "赤裸々 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-015-02",
+      "title": "赤裸々 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-015-03",
+      "title": "赤裸々 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-kcna-3-000-01",
       "title": "Wonder Scale 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -12740,6 +12755,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0069-01",
+      "title": "甜蜜又令人開心的禮物",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0069-02",
+      "title": "給學園留下的東西",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0000-01",
       "title": "『友情』午餐",
       "produceEventHintProduceConditionDescriptions": []
@@ -14057,6 +14082,21 @@
     {
       "id": "p_story-s_card-3-0088-03",
       "title": "在我心中的你",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0089-01",
+      "title": "姐姐大人參觀！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0089-02",
+      "title": "姐姐大人檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0089-03",
+      "title": "後輩們，就交給我吧！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

@@ -241,6 +241,11 @@
       "displayTitle": "White Night! White Wish!"
     },
     {
+      "id": "music-all-hmsz-007",
+      "title": "ハッピーミルフィーユ",
+      "displayTitle": "ハッピーミルフィーユ"
+    },
+    {
       "id": "music-all-hmsz-008",
       "title": "古今東西ちょちょいのちょい",
       "displayTitle": "古今東西ちょちょいのちょい"
@@ -414,6 +419,11 @@
       "id": "music-all-hume-006",
       "title": "White Night! White Wish!",
       "displayTitle": "White Night! White Wish!"
+    },
+    {
+      "id": "music-all-hume-007",
+      "title": "ハッピーミルフィーユ",
+      "displayTitle": "ハッピーミルフィーユ"
     },
     {
       "id": "music-all-hume-008",
@@ -1279,6 +1289,16 @@
       "id": "music-char-jsna-003-inst",
       "title": "Cosmetic [Instrumental]",
       "displayTitle": "Cosmetic [Instrumental]"
+    },
+    {
+      "id": "music-char-jsna-004",
+      "title": "赤裸々",
+      "displayTitle": "赤裸々"
+    },
+    {
+      "id": "music-char-jsna-004-inst",
+      "title": "赤裸々 [Instrumental]",
+      "displayTitle": "赤裸々 [Instrumental]"
     },
     {
       "id": "music-char-jsna-005",

@@ -18,6 +18,10 @@
       "name": "偶像任務 莉波"
     },
     {
+      "id": "dearness_normal-mission_jsna_01",
+      "name": "偶像任務 星南"
+    },
+    {
       "id": "dearness_normal-mission_kcna_01",
       "name": "偶像任務 千奈"
     },
@@ -50,11 +54,27 @@
       "name": "親密度強化活動"
     },
     {
+      "id": "dearness_panel-mission_jsna_01",
+      "name": "親密度強化活動"
+    },
+    {
       "id": "dearness_panel-mission_kcna_01",
       "name": "親密度強化活動"
     },
     {
       "id": "dearness_panel-mission_kllj_01",
+      "name": "親密度強化活動"
+    },
+    {
+      "id": "dearness_panel-mission_relaunch_fktn_01",
+      "name": "親密度強化活動"
+    },
+    {
+      "id": "dearness_panel-mission_relaunch_shro_01",
+      "name": "親密度強化活動"
+    },
+    {
+      "id": "dearness_panel-mission_relaunch_ssmk_01",
       "name": "親密度強化活動"
     },
     {
@@ -442,6 +462,26 @@
       "name": "十王邦夫的偶像強化月～星光璀璨～"
     },
     {
+      "id": "mission-group-highscorerush-event-010_1",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-010_2",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-010_3",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-010_4",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
+      "id": "mission-group-highscorerush-event-010_5",
+      "name": "十王邦夫的偶像強化月～星光璀璨～"
+    },
+    {
       "id": "mission-group-main-story-event-001_1",
       "name": "初星交流活動任務"
     },
@@ -660,6 +700,10 @@
     {
       "id": "mission-group-research-event-003",
       "name": "亞紗里研討003"
+    },
+    {
+      "id": "mission-group-research-event-004",
+      "name": "亞紗里研討004"
     },
     {
       "id": "mission-group-story-event-001",

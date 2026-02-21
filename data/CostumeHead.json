@@ -366,6 +366,11 @@
       "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音 獲得"
     },
     {
+      "id": "costume_head_fktn-hair-0032",
+      "name": "自己肯定感爆上げ↑↑しゅきしゅきソング（局部挑染）",
+      "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音 獲得"
+    },
+    {
       "id": "costume_head_hmsz-cstm-0011",
       "name": "ツキノカメ",
       "description": "【ツキノカメ】秦谷美鈴 獲得"
@@ -886,6 +891,16 @@
       "description": "【Our Chant】十王星南的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_jsna-cstm-0104",
+      "name": "赤裸々",
+      "description": "【赤裸々】十王星南 獲得"
+    },
+    {
+      "id": "costume_head_jsna-cstm-0105",
+      "name": "赤裸々",
+      "description": "【赤裸々】十王星南的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_jsna-cstm-0114",
       "name": "Star-mine",
       "description": "【Star-mine】十王星南 獲得"
@@ -934,6 +949,21 @@
       "id": "costume_head_jsna-hair-0009",
       "name": "大蝴蝶結",
       "description": "高級任務通行證 2026年2月 獲得"
+    },
+    {
+      "id": "costume_head_jsna-hair-0015",
+      "name": "赤裸々（日常妝容）",
+      "description": "【赤裸々】十王星南 獲得"
+    },
+    {
+      "id": "costume_head_jsna-hair-0017",
+      "name": "赤裸々（日常妝容）",
+      "description": "【赤裸々】十王星南的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_jsna-hair-0026",
+      "name": "赤裸々（局部挑染）",
+      "description": "【赤裸々】十王星南 獲得"
     },
     {
       "id": "costume_head_jsna-schl-0000",
@@ -1331,6 +1361,11 @@
       "description": "【サンフェーデッド】篠澤廣 獲得"
     },
     {
+      "id": "costume_head_shro-hair-0031",
+      "name": "サンフェーデッド（局部挑染）",
+      "description": "【サンフェーデッド】篠澤廣 獲得"
+    },
+    {
       "id": "costume_head_ssmk-cstm-0009",
       "name": "Tame-Lie-One-Step",
       "description": "【Tame-Lie-One-Step】紫雲清夏 獲得"
@@ -1427,7 +1462,12 @@
     },
     {
       "id": "costume_head_ssmk-hair-0010",
-      "name": "Love & Joy（通常妝容）",
+      "name": "Love & Joy（日常妝容）",
+      "description": "【Love & Joy】紫雲清夏 獲得"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0030",
+      "name": "Love & Joy（局部挑染）",
       "description": "【Love & Joy】紫雲清夏 獲得"
     },
     {
