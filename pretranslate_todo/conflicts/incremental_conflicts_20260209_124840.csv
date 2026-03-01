@@ -1,7 +1,0 @@
-﻿文件名,键名,日文原文,当前使用,使用来源,todo/new_翻译,jp_cn_翻译,data_翻译
-CostumeHead.json,costume_head_ssmk-hair-0010|name,Love & Joy（いつものメイク）,Love & Joy（日常妝容）,todo/new,Love & Joy（日常妝容）,,Love & Joy（通常妝容）
-Localization.json,home.gasha.draw_button.item|description,チケット,票卷,todo/new,票卷,,道具
-ProduceCard.json,p_card-03-act-2_106|0|ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPowerPoint|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPowerPoint|name,アンダンテ,行走步調,todo/new,行走步調,,以自己的步調
-ProduceCard.json,p_card-03-act-2_106|1|ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPowerPoint|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPowerPoint|name,アンダンテ+,行走步調+,todo/new,行走步調+,,以自己的步調+
-ProduceCard.json,p_card-03-act-2_106|2|ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPowerPoint|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPowerPoint|name,アンダンテ++,行走步調++,todo/new,行走步調++,,以自己的步調++
-ProduceCard.json,p_card-03-act-2_106|3|ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPowerPoint|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPowerPoint|name,アンダンテ+++,行走步調+++,todo/new,行走步調+++,,以自己的步調+++

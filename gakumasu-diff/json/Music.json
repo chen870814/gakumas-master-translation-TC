@@ -71,6 +71,11 @@
             "displayTitle": "がむしゃらに行こう！ [Instrumental]"
         },
         {
+            "id": "music-all-014-inst",
+            "title": "ENDLESS DANCE [Instrumental]",
+            "displayTitle": "ENDLESS DANCE [Instrumental]"
+        },
+        {
             "id": "music-all-amao-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -136,6 +141,11 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-amao-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
+        },
+        {
             "id": "music-all-atbm-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -144,6 +154,11 @@
             "id": "music-all-atbm-002",
             "title": "Campus mode!!",
             "displayTitle": "Campus mode!!"
+        },
+        {
+            "id": "music-all-atbm-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
         },
         {
             "id": "music-all-fktn-001",
@@ -211,6 +226,11 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-fktn-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
+        },
+        {
             "id": "music-all-hmsz-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -259,6 +279,11 @@
             "id": "music-all-hmsz-013",
             "title": "がむしゃらに行こう！",
             "displayTitle": "がむしゃらに行こう！"
+        },
+        {
+            "id": "music-all-hmsz-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
         },
         {
             "id": "music-all-hrnm-001",
@@ -326,6 +351,11 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-hrnm-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
+        },
+        {
             "id": "music-all-hski-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -391,6 +421,11 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-hski-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
+        },
+        {
             "id": "music-all-hume-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -444,6 +479,11 @@
             "id": "music-all-hume-013",
             "title": "がむしゃらに行こう！",
             "displayTitle": "がむしゃらに行こう！"
+        },
+        {
+            "id": "music-all-hume-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
         },
         {
             "id": "music-all-jsna-001",
@@ -576,6 +616,11 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-kcna-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
+        },
+        {
             "id": "music-all-kllj-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -639,6 +684,11 @@
             "id": "music-all-kllj-013",
             "title": "がむしゃらに行こう！",
             "displayTitle": "がむしゃらに行こう！"
+        },
+        {
+            "id": "music-all-kllj-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
         },
         {
             "id": "music-all-nasr-010",
@@ -711,6 +761,11 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-shro-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
+        },
+        {
             "id": "music-all-ssmk-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -776,6 +831,21 @@
             "displayTitle": "がむしゃらに行こう！"
         },
         {
+            "id": "music-all-ssmk-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
+        },
+        {
+            "id": "music-all-studentcouncil-022",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT"
+        },
+        {
+            "id": "music-all-studentcouncil-022-inst",
+            "title": "SEARCH RIGHT [Instrumental]",
+            "displayTitle": "SEARCH RIGHT [Instrumental]"
+        },
+        {
             "id": "music-all-ttmr-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -839,6 +909,11 @@
             "id": "music-all-ttmr-013",
             "title": "がむしゃらに行こう！",
             "displayTitle": "がむしゃらに行こう！"
+        },
+        {
+            "id": "music-all-ttmr-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE"
         },
         {
             "id": "music-bgm-01_001",
@@ -1199,6 +1274,16 @@
             "id": "music-char-hrnm-004-inst",
             "title": "36℃ U･B･U [Instrumental]",
             "displayTitle": "36℃ U･B･U [Instrumental]"
+        },
+        {
+            "id": "music-char-hrnm-005",
+            "title": "歌声は君いろ",
+            "displayTitle": "歌声は君いろ"
+        },
+        {
+            "id": "music-char-hrnm-005-inst",
+            "title": "歌声は君いろ [Instrumental]",
+            "displayTitle": "歌声は君いろ [Instrumental]"
         },
         {
             "id": "music-char-hski-001",

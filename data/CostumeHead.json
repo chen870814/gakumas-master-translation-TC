@@ -366,6 +366,11 @@
       "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音 獲得"
     },
     {
+      "id": "costume_head_fktn-hair-0023",
+      "name": "兔耳",
+      "description": "高級任務通行證 2026年3月 獲得"
+    },
+    {
       "id": "costume_head_fktn-hair-0032",
       "name": "自己肯定感爆上げ↑↑しゅきしゅきソング（局部挑染）",
       "description": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音 獲得"
@@ -716,6 +721,11 @@
       "description": "高級任務通行證 2025年11月 獲得"
     },
     {
+      "id": "costume_head_hski-hair-0023",
+      "name": "兔耳",
+      "description": "高級任務通行證 2026年3月 獲得"
+    },
+    {
       "id": "costume_head_hski-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -801,6 +811,16 @@
       "description": "【Star-mine】花海佑芽的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_hume-cstm-0126",
+      "name": "ENDLESS DANCE",
+      "description": "【ENDLESS DANCE】花海佑芽 獲得"
+    },
+    {
+      "id": "costume_head_hume-cstm-0127",
+      "name": "ENDLESS DANCE",
+      "description": "【ENDLESS DANCE】花海佑芽的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_hume-hair-0001",
       "name": "紫陽花髮飾",
       "description": "購買紫陽花髮飾（花海佑芽）"
@@ -823,7 +843,7 @@
     {
       "id": "costume_head_hume-hair-0006",
       "name": "初星☆配飾",
-      "description": "高級任務通行證 2025年3月 獲得"
+      "description": "高級任務通行證 2025年3月 等方式獲得"
     },
     {
       "id": "costume_head_hume-hair-0007",
@@ -933,7 +953,7 @@
     {
       "id": "costume_head_jsna-hair-0006",
       "name": "初星☆配飾",
-      "description": "高級任務通行證 2025年3月 獲得"
+      "description": "高級任務通行證 2025年3月 等方式獲得"
     },
     {
       "id": "costume_head_jsna-hair-0007",
@@ -1073,7 +1093,7 @@
     {
       "id": "costume_head_kcna-hair-0006",
       "name": "初星☆配飾",
-      "description": "高級任務通行證 2025年3月 獲得"
+      "description": "高級任務通行證 2025年3月 等方式獲得"
     },
     {
       "id": "costume_head_kcna-hair-0007",
@@ -1338,7 +1358,7 @@
     {
       "id": "costume_head_shro-hair-0006",
       "name": "初星☆配飾",
-      "description": "高級任務通行證 2025年3月 獲得"
+      "description": "高級任務通行證 2025年3月 等方式獲得"
     },
     {
       "id": "costume_head_shro-hair-0007",
@@ -1599,6 +1619,11 @@
       "id": "costume_head_ttmr-hair-0009",
       "name": "大蝴蝶結",
       "description": "高級任務通行證 2025年11月 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0023",
+      "name": "兔耳",
+      "description": "高級任務通行證 2026年3月 獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0025",
