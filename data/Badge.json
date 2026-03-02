@@ -1,0 +1,737 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "badge-producerranking_001-amao_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 有村麻央的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "有村麻央",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-amao_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 有村麻央的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "有村麻央",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-amao_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 有村麻央的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "有村麻央",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-amao_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 有村麻央的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "有村麻央",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-amao_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 有村麻央的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "有村麻央",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-amao_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 有村麻央的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "有村麻央",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-amao_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 有村麻央的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "有村麻央",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-atbm_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 雨夜燕的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "雨夜燕",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-atbm_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 雨夜燕的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "雨夜燕",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-atbm_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 雨夜燕的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "雨夜燕",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-atbm_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 雨夜燕的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "雨夜燕",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-atbm_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 雨夜燕的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "雨夜燕",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-atbm_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 雨夜燕的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "雨夜燕",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-atbm_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 雨夜燕的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "雨夜燕",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-fktn_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 藤田琴音的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "藤田琴音",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-fktn_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 藤田琴音的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "藤田琴音",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-fktn_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 藤田琴音的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "藤田琴音",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-fktn_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 藤田琴音的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "藤田琴音",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-fktn_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 藤田琴音的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "藤田琴音",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-fktn_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 藤田琴音的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "藤田琴音",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-fktn_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 藤田琴音的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "藤田琴音",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 秦谷美鈴的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "秦谷美鈴",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 秦谷美鈴的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "秦谷美鈴",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 秦谷美鈴的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "秦谷美鈴",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 秦谷美鈴的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "秦谷美鈴",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 秦谷美鈴的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "秦谷美鈴",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 秦谷美鈴的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "秦谷美鈴",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 秦谷美鈴的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "秦谷美鈴",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 姫崎莉波的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "姫崎莉波",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 姫崎莉波的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "姫崎莉波",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 姫崎莉波的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "姫崎莉波",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 姫崎莉波的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "姫崎莉波",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 姫崎莉波的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "姫崎莉波",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 姫崎莉波的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "姫崎莉波",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 姫崎莉波的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "姫崎莉波",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hski_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 花海咲季的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海咲季",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hski_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 花海咲季的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海咲季",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hski_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 花海咲季的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海咲季",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hski_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 花海咲季的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海咲季",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hski_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 花海咲季的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海咲季",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hski_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 花海咲季的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海咲季",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hski_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 花海咲季的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海咲季",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hume_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 花海佑芽的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海佑芽",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hume_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 花海佑芽的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海佑芽",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hume_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 花海佑芽的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海佑芽",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hume_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 花海佑芽的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海佑芽",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hume_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 花海佑芽的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海佑芽",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hume_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 花海佑芽的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海佑芽",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-hume_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 花海佑芽的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "花海佑芽",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-jsna_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 十王星南的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "十王星南",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-jsna_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 十王星南的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "十王星南",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-jsna_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 十王星南的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "十王星南",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-jsna_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 十王星南的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "十王星南",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-jsna_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 十王星南的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "十王星南",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-jsna_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 十王星南的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "十王星南",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-jsna_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 十王星南的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "十王星南",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kcna_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 倉本千奈的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "倉本千奈",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kcna_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 倉本千奈的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "倉本千奈",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kcna_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 倉本千奈的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "倉本千奈",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kcna_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 倉本千奈的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "倉本千奈",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kcna_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 倉本千奈的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "倉本千奈",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kcna_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 倉本千奈的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "倉本千奈",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kcna_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 倉本千奈的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "倉本千奈",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kllj_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 葛城莉莉婭的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "葛城莉莉婭",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kllj_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 葛城莉莉婭的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "葛城莉莉婭",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kllj_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 葛城莉莉婭的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "葛城莉莉婭",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kllj_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 葛城莉莉婭的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "葛城莉莉婭",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kllj_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 葛城莉莉婭的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "葛城莉莉婭",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kllj_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 葛城莉莉婭的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "葛城莉莉婭",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-kllj_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 葛城莉莉婭的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "葛城莉莉婭",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-shro_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 篠澤廣的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "篠澤廣",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-shro_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 篠澤廣的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "篠澤廣",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-shro_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 篠澤廣的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "篠澤廣",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-shro_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 篠澤廣的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "篠澤廣",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-shro_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 篠澤廣的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "篠澤廣",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-shro_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 篠澤廣的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "篠澤廣",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-shro_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 篠澤廣的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "篠澤廣",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 紫雲清夏的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "紫雲清夏",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 紫雲清夏的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "紫雲清夏",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 紫雲清夏的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "紫雲清夏",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 紫雲清夏的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "紫雲清夏",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 紫雲清夏的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "紫雲清夏",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 紫雲清夏的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "紫雲清夏",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 紫雲清夏的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "紫雲清夏",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_01",
+      "name": "THE STAR(TOP100)",
+      "description": "進入 製作人排行榜 賽季1 月村手毬的排行榜前100名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "月村手毬",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_02",
+      "name": "THE STAR(TOP1000)",
+      "description": "進入 製作人排行榜 賽季1 月村手毬的排行榜前1000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "月村手毬",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_03",
+      "name": "THE STAR",
+      "description": "進入 製作人排行榜 賽季1 月村手毬的排行榜前2000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "月村手毬",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_04",
+      "name": "天狼星(TOP5000)",
+      "description": "進入 製作人排行榜 賽季1 月村手毬的排行榜前5000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "月村手毬",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_05",
+      "name": "天狼星",
+      "description": "進入 製作人排行榜 賽季1 月村手毬的排行榜前10000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "月村手毬",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_06",
+      "name": "織女星",
+      "description": "進入 製作人排行榜 賽季1 月村手毬的排行榜前30000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "月村手毬",
+      "targetGradeName": ""
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_07",
+      "name": "牽牛星",
+      "description": "進入 製作人排行榜 賽季1 月村手毬的排行榜前50000名 獲得",
+      "targetIdentityName": "賽季1",
+      "targetContentName": "月村手毬",
+      "targetGradeName": ""
+    }
+  ]
+}

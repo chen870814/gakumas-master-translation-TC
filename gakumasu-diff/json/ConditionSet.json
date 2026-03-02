@@ -942,6 +942,11 @@
             "description": ""
         },
         {
+            "id": "cd_draw_gasha-00770-after-party-002",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_event_release_mission",
             "number": 1,
             "description": ""
@@ -6818,6 +6823,16 @@
         },
         {
             "id": "cd_view_gasha-00770-after-party-001",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_view_gasha-00770-after-party-002",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_view_gasha-00770-after-party-002",
             "number": 2,
             "description": ""
         },

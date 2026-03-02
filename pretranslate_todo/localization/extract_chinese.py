@@ -60,7 +60,7 @@ def main():
     """主函数"""
     # 设置文件路径
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    input_file = os.path.join(script_dir, 'localizationD.json')
+    input_file = os.path.join(script_dir, 'localization_D.json')
     output_file = os.path.join(script_dir, 'localizationF.json')
     
     print("=== 中文翻译提取工具 ===")
