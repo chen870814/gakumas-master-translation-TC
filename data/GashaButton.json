@@ -193,6 +193,12 @@
       "description": "有償10連扭蛋"
     },
     {
+      "id": "gasha_ticket_aniv-001",
+      "order": 3,
+      "name": "用臨近1週年紀念10連抽卡票卷抽取",
+      "description": "10連扭蛋"
+    },
+    {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
       "name": "用聖誕登入獎勵扭蛋票卷抽取",

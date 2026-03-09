@@ -4978,6 +4978,38 @@
       "name": "在持有技能卡「掌聲不息」的狀態下完成培育吧"
     },
     {
+      "id": "mission-research-event-005-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-005-mission_10",
+      "name": "在持有技能卡「魅惑的視線」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-005-mission_11",
+      "name": "在持有技能卡「天真爛漫」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-005-mission_12",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
+      "id": "mission-research-event-005-mission_2",
+      "name": "讓方案：異類的培育用偶像取得{threshold}次最終考試合格吧"
+    },
+    {
+      "id": "mission-research-event-005-mission_3",
+      "name": "在培育的諮詢中兌換{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-005-mission_8",
+      "name": "在持有技能卡「成就」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-005-mission_9",
+      "name": "在持有技能卡「國民級偶像」的狀態下完成培育吧"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "登入{threshold}天吧"
     },
@@ -5791,2259 +5823,2283 @@
     },
     {
       "id": "achieve-i_card-amao-2-000-04",
-      "name": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【はじまりはカッコよく】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-2-000-05",
-      "name": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【はじまりはカッコよく】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-2-000-06",
-      "name": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【はじまりはカッコよく】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-000-04",
-      "name": "【Fluorite】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Fluorite】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-000-05",
-      "name": "【Fluorite】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Fluorite】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-000-06",
-      "name": "【Fluorite】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Fluorite】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-001-01",
-      "name": "【キミとセミブルー】在有村麻央的培育中通過最終考試"
+      "name": "在【キミとセミブルー】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-amao-3-001-02",
-      "name": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-001-03",
-      "name": "【キミとセミブルー】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【キミとセミブルー】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-amao-3-001-04",
-      "name": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-001-05",
-      "name": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-001-06",
-      "name": "【キミとセミブルー】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-002-01",
-      "name": "【Feel Jewel Dream】在有村麻央的培育中通過最終考試"
+      "name": "在【Feel Jewel Dream】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-amao-3-002-02",
-      "name": "【Feel Jewel Dream】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Feel Jewel Dream】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-002-03",
-      "name": "【Feel Jewel Dream】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Feel Jewel Dream】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-amao-3-002-04",
-      "name": "【Feel Jewel Dream】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Feel Jewel Dream】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-002-05",
-      "name": "【Feel Jewel Dream】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Feel Jewel Dream】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-002-06",
-      "name": "【Feel Jewel Dream】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Feel Jewel Dream】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-007-01",
-      "name": "【Campus mode!!】在有村麻央的培育中通過最終考試"
+      "name": "在【Campus mode!!】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-amao-3-007-02",
-      "name": "【Campus mode!!】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-007-03",
-      "name": "【Campus mode!!】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-amao-3-007-04",
-      "name": "【Campus mode!!】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-007-05",
-      "name": "【Campus mode!!】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-007-06",
-      "name": "【Campus mode!!】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-009-01",
-      "name": "【雪解けに】在有村麻央的培育中通過最終考試"
+      "name": "在【雪解けに】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-amao-3-009-02",
-      "name": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-009-03",
-      "name": "【雪解けに】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【雪解けに】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-amao-3-009-04",
-      "name": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-009-05",
-      "name": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-009-06",
-      "name": "【雪解けに】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-013-01",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】在有村麻央的培育中通過最終考試"
+      "name": "在【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-amao-3-013-02",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-013-03",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-amao-3-013-04",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-013-05",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-013-06",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-015-01",
-      "name": "【見て】在有村麻央的培育中通過最終考試"
+      "name": "在【見て】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-amao-3-015-02",
-      "name": "【見て】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【見て】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-015-03",
-      "name": "【見て】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【見て】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-amao-3-015-04",
-      "name": "【見て】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【見て】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-015-05",
-      "name": "【見て】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【見て】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-amao-3-015-06",
-      "name": "【見て】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【見て】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-2-000-01",
-      "name": "【初志貫徹】在雨夜燕的培育中通過最終考試"
+      "name": "在【初志貫徹】雨夜燕的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-atbm-2-000-02",
-      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【初志貫徹】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-2-000-03",
-      "name": "【初志貫徹】在雨夜燕的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【初志貫徹】雨夜燕的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-atbm-2-000-04",
-      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【初志貫徹】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-2-000-05",
-      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【初志貫徹】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-2-000-06",
-      "name": "【初志貫徹】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【初志貫徹】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-000-01",
-      "name": "【理論武装して】在雨夜燕的培育中通過最終考試"
+      "name": "在【理論武装して】雨夜燕的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-atbm-3-000-02",
-      "name": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【理論武装して】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-000-03",
-      "name": "【理論武装して】在雨夜燕的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【理論武装して】雨夜燕的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-atbm-3-000-04",
-      "name": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【理論武装して】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-000-05",
-      "name": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【理論武装して】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-000-06",
-      "name": "【理論武装して】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【理論武装して】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-012-01",
-      "name": "【Campus mode!!】在雨夜燕的培育中通過最終考試"
+      "name": "在【Campus mode!!】雨夜燕的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-atbm-3-012-02",
-      "name": "【Campus mode!!】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-012-03",
-      "name": "【Campus mode!!】在雨夜燕的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】雨夜燕的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-atbm-3-012-04",
-      "name": "【Campus mode!!】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-012-05",
-      "name": "【Campus mode!!】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-3-012-06",
-      "name": "【Campus mode!!】將雨夜燕的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】雨夜燕的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
-      "name": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【カワイイ♡はじめました】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-05",
-      "name": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【カワイイ♡はじめました】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-06",
-      "name": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【カワイイ♡はじめました】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-000-04",
-      "name": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【世界一可愛い私】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-000-05",
-      "name": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【世界一可愛い私】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-000-06",
-      "name": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【世界一可愛い私】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-001-01",
-      "name": "【Yellow Big Bang！】在藤田琴音的培育中通過最終考試"
+      "name": "在【Yellow Big Bang！】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
-      "name": "【Yellow Big Bang！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Yellow Big Bang！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
-      "name": "【Yellow Big Bang！】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Yellow Big Bang！】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-fktn-3-001-04",
-      "name": "【Yellow Big Bang！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Yellow Big Bang！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-001-05",
-      "name": "【Yellow Big Bang！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Yellow Big Bang！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-001-06",
-      "name": "【Yellow Big Bang！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Yellow Big Bang！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
-      "name": "【冠菊】在藤田琴音的培育中通過最終考試"
+      "name": "在【冠菊】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-fktn-3-002-02",
-      "name": "【冠菊】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-002-03",
-      "name": "【冠菊】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【冠菊】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-fktn-3-002-04",
-      "name": "【冠菊】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-002-05",
-      "name": "【冠菊】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-002-06",
-      "name": "【冠菊】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-006-01",
-      "name": "【White Night！ White Wish！】在藤田琴音的培育中通過最終考試"
+      "name": "在【White Night！ White Wish！】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-fktn-3-006-02",
-      "name": "【White Night！ White Wish！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-006-03",
-      "name": "【White Night！ White Wish！】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【White Night！ White Wish！】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-fktn-3-006-04",
-      "name": "【White Night！ White Wish！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-006-05",
-      "name": "【White Night！ White Wish！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-006-06",
-      "name": "【White Night！ White Wish！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-007-01",
-      "name": "【Campus mode!!】在藤田琴音的培育中通過最終考試"
+      "name": "在【Campus mode!!】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-fktn-3-007-02",
-      "name": "【Campus mode!!】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-007-03",
-      "name": "【Campus mode!!】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-fktn-3-007-04",
-      "name": "【Campus mode!!】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-007-05",
-      "name": "【Campus mode!!】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-007-06",
-      "name": "【Campus mode!!】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-011-01",
-      "name": "【雨上がりのアイリス】在藤田琴音的培育中通過最終考試"
+      "name": "在【雨上がりのアイリス】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-fktn-3-011-02",
-      "name": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-011-03",
-      "name": "【雨上がりのアイリス】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【雨上がりのアイリス】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-fktn-3-011-04",
-      "name": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-011-05",
-      "name": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-011-06",
-      "name": "【雨上がりのアイリス】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-013-01",
-      "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】在藤田琴音的培育中通過最終考試"
+      "name": "在【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-fktn-3-013-02",
-      "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-013-03",
-      "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-fktn-3-013-04",
-      "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-013-05",
-      "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-013-06",
-      "name": "【自己肯定感爆上げ↑↑しゅきしゅきソング】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-016-01",
-      "name": "【がむしゃらに行こう！】在藤田琴音的培育中通過最終考試"
+      "name": "在【がむしゃらに行こう！】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-fktn-3-016-02",
-      "name": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-016-03",
-      "name": "【がむしゃらに行こう！】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【がむしゃらに行こう！】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-fktn-3-016-04",
-      "name": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-016-05",
-      "name": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-3-016-06",
-      "name": "【がむしゃらに行こう！】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
-      "name": "【ゆっくり、一歩ずつ】在秦谷美鈴的培育中通過最終考試"
+      "name": "在【ゆっくり、一歩ずつ】秦谷美鈴的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-02",
-      "name": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ゆっくり、一歩ずつ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-03",
-      "name": "【ゆっくり、一歩ずつ】在秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ゆっくり、一歩ずつ】秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-04",
-      "name": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ゆっくり、一歩ずつ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-05",
-      "name": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ゆっくり、一歩ずつ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-06",
-      "name": "【ゆっくり、一歩ずつ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ゆっくり、一歩ずつ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-01",
-      "name": "【ツキノカメ】在秦谷美鈴的培育中通過最終考試"
+      "name": "在【ツキノカメ】秦谷美鈴的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-02",
-      "name": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ツキノカメ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-03",
-      "name": "【ツキノカメ】在秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ツキノカメ】秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-04",
-      "name": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ツキノカメ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-05",
-      "name": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ツキノカメ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-06",
-      "name": "【ツキノカメ】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ツキノカメ】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-01",
-      "name": "【Campus mode!!】在秦谷美鈴的培育中通過最終考試"
+      "name": "在【Campus mode!!】秦谷美鈴的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-02",
-      "name": "【Campus mode!!】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-03",
-      "name": "【Campus mode!!】在秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-04",
-      "name": "【Campus mode!!】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-05",
-      "name": "【Campus mode!!】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-06",
-      "name": "【Campus mode!!】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-01",
-      "name": "【Star-mine】在秦谷美鈴的培育中通過最終考試"
+      "name": "在【Star-mine】秦谷美鈴的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-02",
-      "name": "【Star-mine】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-03",
-      "name": "【Star-mine】在秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Star-mine】秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-04",
-      "name": "【Star-mine】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-05",
-      "name": "【Star-mine】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-06",
-      "name": "【Star-mine】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-014-01",
-      "name": "【Superlative】在秦谷美鈴的培育中通過最終考試"
+      "name": "在【Superlative】秦谷美鈴的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-014-02",
-      "name": "【Superlative】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Superlative】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-014-03",
-      "name": "【Superlative】在秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Superlative】秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hmsz-3-014-04",
-      "name": "【Superlative】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Superlative】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-014-05",
-      "name": "【Superlative】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Superlative】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-014-06",
-      "name": "【Superlative】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【Superlative】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-015-01",
-      "name": "【ENDLESS DANCE】在秦谷美鈴的培育中通過最終考試"
+      "name": "在【ENDLESS DANCE】秦谷美鈴的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-015-02",
-      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-015-03",
-      "name": "【ENDLESS DANCE】在秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ENDLESS DANCE】秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hmsz-3-015-04",
-      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-015-05",
-      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-3-015-06",
-      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",
-      "name": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【『私らしさ』のはじまり】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-05",
-      "name": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【『私らしさ』のはじまり】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-06",
-      "name": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【『私らしさ』のはじまり】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-000-04",
-      "name": "【clumsy trick】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【clumsy trick】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-000-05",
-      "name": "【clumsy trick】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【clumsy trick】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-000-06",
-      "name": "【clumsy trick】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【clumsy trick】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "【キミとセミブルー】在姬崎莉波的培育中通過最終考試"
+      "name": "在【キミとセミブルー】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
-      "name": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
-      "name": "【キミとセミブルー】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【キミとセミブルー】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-04",
-      "name": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-05",
-      "name": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-06",
-      "name": "【キミとセミブルー】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
-      "name": "【L.U.V】在姬崎莉波的培育中通過最終考試"
+      "name": "在【L.U.V】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-02",
-      "name": "【L.U.V】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【L.U.V】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-03",
-      "name": "【L.U.V】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【L.U.V】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-04",
-      "name": "【L.U.V】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【L.U.V】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-05",
-      "name": "【L.U.V】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【L.U.V】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-06",
-      "name": "【L.U.V】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【L.U.V】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-01",
-      "name": "【ようこそ初星温泉】在姬崎莉波的培育中通過最終考試"
+      "name": "在【ようこそ初星温泉】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-02",
-      "name": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-03",
-      "name": "【ようこそ初星温泉】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ようこそ初星温泉】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-04",
-      "name": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-05",
-      "name": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-06",
-      "name": "【ようこそ初星温泉】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
-      "name": "【Campus mode!!】在姬崎莉波的培育中通過最終考試"
+      "name": "在【Campus mode!!】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-02",
-      "name": "【Campus mode!!】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-03",
-      "name": "【Campus mode!!】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-04",
-      "name": "【Campus mode!!】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-05",
-      "name": "【Campus mode!!】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-06",
-      "name": "【Campus mode!!】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-01",
-      "name": "【ハッピーミルフィーユ】在姬崎莉波的培育中通過最終考試"
+      "name": "在【ハッピーミルフィーユ】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-02",
-      "name": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-03",
-      "name": "【ハッピーミルフィーユ】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ハッピーミルフィーユ】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-04",
-      "name": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-05",
-      "name": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-06",
-      "name": "【ハッピーミルフィーユ】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-01",
-      "name": "【Howling over the World】在姬崎莉波的培育中通過最終考試"
+      "name": "在【Howling over the World】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-02",
-      "name": "【Howling over the World】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-03",
-      "name": "【Howling over the World】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Howling over the World】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-04",
-      "name": "【Howling over the World】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-05",
-      "name": "【Howling over the World】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-06",
-      "name": "【Howling over the World】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-01",
-      "name": "【36℃ U･B･U】在姬崎莉波的培育中通過最終考試"
+      "name": "在【36℃ U･B･U】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-02",
-      "name": "【36℃ U･B･U】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【36℃ U･B･U】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-03",
-      "name": "【36℃ U･B･U】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【36℃ U･B･U】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-04",
-      "name": "【36℃ U･B･U】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【36℃ U･B･U】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-05",
-      "name": "【36℃ U･B･U】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【36℃ U･B･U】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-06",
-      "name": "【36℃ U･B･U】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【36℃ U･B･U】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-2-000-04",
-      "name": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【わたしが一番！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-2-000-05",
-      "name": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【わたしが一番！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-2-000-06",
-      "name": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【わたしが一番！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-000-04",
-      "name": "【Fighting My Way】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Fighting My Way】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-000-05",
-      "name": "【Fighting My Way】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Fighting My Way】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-000-06",
-      "name": "【Fighting My Way】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Fighting My Way】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "【Boom Boom Pow】在花海咲季的培育中通過最終考試"
+      "name": "在【Boom Boom Pow】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hski-3-001-02",
-      "name": "【Boom Boom Pow】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Boom Boom Pow】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-001-03",
-      "name": "【Boom Boom Pow】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Boom Boom Pow】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hski-3-001-04",
-      "name": "【Boom Boom Pow】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Boom Boom Pow】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-001-05",
-      "name": "【Boom Boom Pow】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Boom Boom Pow】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-001-06",
-      "name": "【Boom Boom Pow】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Boom Boom Pow】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-002-01",
-      "name": "【冠菊】在花海咲季的培育中通過最終考試"
+      "name": "在【冠菊】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hski-3-002-02",
-      "name": "【冠菊】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-002-03",
-      "name": "【冠菊】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【冠菊】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hski-3-002-04",
-      "name": "【冠菊】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-002-05",
-      "name": "【冠菊】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-002-06",
-      "name": "【冠菊】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-006-01",
-      "name": "【古今東西ちょちょいのちょい】在花海咲季的培育中通過最終考試"
+      "name": "在【古今東西ちょちょいのちょい】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hski-3-006-02",
-      "name": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【古今東西ちょちょいのちょい】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-006-03",
-      "name": "【古今東西ちょちょいのちょい】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【古今東西ちょちょいのちょい】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hski-3-006-04",
-      "name": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【古今東西ちょちょいのちょい】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-006-05",
-      "name": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【古今東西ちょちょいのちょい】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-006-06",
-      "name": "【古今東西ちょちょいのちょい】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【古今東西ちょちょいのちょい】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-008-01",
-      "name": "【Campus mode!!】在花海咲季的培育中通過最終考試"
+      "name": "在【Campus mode!!】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hski-3-008-02",
-      "name": "【Campus mode!!】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-008-03",
-      "name": "【Campus mode!!】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hski-3-008-04",
-      "name": "【Campus mode!!】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-008-05",
-      "name": "【Campus mode!!】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-008-06",
-      "name": "【Campus mode!!】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-011-01",
-      "name": "【桜フォトグラフ】在花海咲季的培育中通過最終考試"
+      "name": "在【桜フォトグラフ】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hski-3-011-02",
-      "name": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-011-03",
-      "name": "【桜フォトグラフ】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【桜フォトグラフ】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hski-3-011-04",
-      "name": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-011-05",
-      "name": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-011-06",
-      "name": "【桜フォトグラフ】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-012-01",
-      "name": "【雨上がりのアイリス】在花海咲季的培育中通過最終考試"
+      "name": "在【雨上がりのアイリス】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hski-3-012-02",
-      "name": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-012-03",
-      "name": "【雨上がりのアイリス】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【雨上がりのアイリス】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hski-3-012-04",
-      "name": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-012-05",
-      "name": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-012-06",
-      "name": "【雨上がりのアイリス】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-015-01",
-      "name": "【がむしゃらに行こう！】在花海咲季的培育中通過最終考試"
+      "name": "在【がむしゃらに行こう！】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hski-3-015-02",
-      "name": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-015-03",
-      "name": "【がむしゃらに行こう！】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【がむしゃらに行こう！】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hski-3-015-04",
-      "name": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-015-05",
-      "name": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-3-015-06",
-      "name": "【がむしゃらに行こう！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
-      "name": "【アイドル、はじめっ！】在花海佑芽的培育中通過最終考試"
+      "name": "在【アイドル、はじめっ！】花海佑芽的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hume-2-000-02",
-      "name": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【アイドル、はじめっ！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-03",
-      "name": "【アイドル、はじめっ！】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【アイドル、はじめっ！】花海佑芽的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hume-2-000-04",
-      "name": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【アイドル、はじめっ！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-05",
-      "name": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【アイドル、はじめっ！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-06",
-      "name": "【アイドル、はじめっ！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【アイドル、はじめっ！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-000-01",
-      "name": "【The Rolling Riceball】在花海佑芽的培育中通過最終考試"
+      "name": "在【The Rolling Riceball】花海佑芽的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hume-3-000-02",
-      "name": "【The Rolling Riceball】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【The Rolling Riceball】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-000-03",
-      "name": "【The Rolling Riceball】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【The Rolling Riceball】花海佑芽的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hume-3-000-04",
-      "name": "【The Rolling Riceball】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【The Rolling Riceball】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-000-05",
-      "name": "【The Rolling Riceball】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【The Rolling Riceball】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-000-06",
-      "name": "【The Rolling Riceball】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【The Rolling Riceball】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-005-01",
-      "name": "【White Night！ White Wish！】在花海佑芽的培育中通過最終考試"
+      "name": "在【White Night！ White Wish！】花海佑芽的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hume-3-005-02",
-      "name": "【White Night！ White Wish！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-005-03",
-      "name": "【White Night！ White Wish！】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【White Night！ White Wish！】花海佑芽的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hume-3-005-04",
-      "name": "【White Night！ White Wish！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-005-05",
-      "name": "【White Night！ White Wish！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-005-06",
-      "name": "【White Night！ White Wish！】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-006-01",
-      "name": "【Campus mode!!】在花海佑芽的培育中通過最終考試"
+      "name": "在【Campus mode!!】花海佑芽的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hume-3-006-02",
-      "name": "【Campus mode!!】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-006-03",
-      "name": "【Campus mode!!】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】花海佑芽的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hume-3-006-04",
-      "name": "【Campus mode!!】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-006-05",
-      "name": "【Campus mode!!】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-006-06",
-      "name": "【Campus mode!!】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-009-01",
-      "name": "【グースーピー】在花海佑芽的培育中通過最終考試"
+      "name": "在【グースーピー】花海佑芽的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hume-3-009-02",
-      "name": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【グースーピー】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-009-03",
-      "name": "【グースーピー】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【グースーピー】花海佑芽的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hume-3-009-04",
-      "name": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【グースーピー】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-009-05",
-      "name": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【グースーピー】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-009-06",
-      "name": "【グースーピー】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【グースーピー】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-012-01",
-      "name": "【Star-mine】在花海佑芽的培育中通過最終考試"
+      "name": "在【Star-mine】花海佑芽的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hume-3-012-02",
-      "name": "【Star-mine】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-012-03",
-      "name": "【Star-mine】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Star-mine】花海佑芽的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hume-3-012-04",
-      "name": "【Star-mine】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-012-05",
-      "name": "【Star-mine】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-012-06",
-      "name": "【Star-mine】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-016-01",
-      "name": "【ENDLESS DANCE】在花海佑芽的培育中通過最終考試"
+      "name": "在【ENDLESS DANCE】花海佑芽的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-hume-3-016-02",
-      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-016-03",
-      "name": "【ENDLESS DANCE】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ENDLESS DANCE】花海佑芽的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-hume-3-016-04",
-      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-016-05",
-      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-3-016-06",
-      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
+      "name": "將【ENDLESS DANCE】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
-      "name": "【一番星】在十王星南的培育中通過最終考試"
+      "name": "在【一番星】十王星南的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-2-000-02",
-      "name": "【一番星】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【一番星】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-2-000-03",
-      "name": "【一番星】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【一番星】十王星南的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-2-000-04",
-      "name": "【一番星】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【一番星】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-2-000-05",
-      "name": "【一番星】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【一番星】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-2-000-06",
-      "name": "【一番星】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【一番星】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-000-01",
-      "name": "【小さな野望】在十王星南的培育中通過最終考試"
+      "name": "在【小さな野望】十王星南的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-3-000-02",
-      "name": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【小さな野望】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-000-03",
-      "name": "【小さな野望】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【小さな野望】十王星南的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-3-000-04",
-      "name": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【小さな野望】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-000-05",
-      "name": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【小さな野望】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-000-06",
-      "name": "【小さな野望】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【小さな野望】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-002-01",
-      "name": "【Campus mode!!】在十王星南的培育中通過最終考試"
+      "name": "在【Campus mode!!】十王星南的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-3-002-02",
-      "name": "【Campus mode!!】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-002-03",
-      "name": "【Campus mode!!】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】十王星南的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-3-002-04",
-      "name": "【Campus mode!!】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-002-05",
-      "name": "【Campus mode!!】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-002-06",
-      "name": "【Campus mode!!】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-003-01",
-      "name": "【ハッピーミルフィーユ】在十王星南的培育中通過最終考試"
+      "name": "在【ハッピーミルフィーユ】十王星南的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-3-003-02",
-      "name": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-003-03",
-      "name": "【ハッピーミルフィーユ】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ハッピーミルフィーユ】十王星南的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-3-003-04",
-      "name": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-003-05",
-      "name": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-003-06",
-      "name": "【ハッピーミルフィーユ】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-006-01",
-      "name": "【Our Chant】在十王星南的培育中通過最終考試"
+      "name": "在【Our Chant】十王星南的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-3-006-02",
-      "name": "【Our Chant】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Our Chant】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-006-03",
-      "name": "【Our Chant】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Our Chant】十王星南的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-3-006-04",
-      "name": "【Our Chant】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Our Chant】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-006-05",
-      "name": "【Our Chant】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Our Chant】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-006-06",
-      "name": "【Our Chant】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Our Chant】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-011-01",
-      "name": "【Star-mine】在十王星南的培育中通過最終考試"
+      "name": "在【Star-mine】十王星南的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-3-011-02",
-      "name": "【Star-mine】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-011-03",
-      "name": "【Star-mine】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Star-mine】十王星南的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-3-011-04",
-      "name": "【Star-mine】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-011-05",
-      "name": "【Star-mine】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-011-06",
-      "name": "【Star-mine】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【Star-mine】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-015-01",
-      "name": "【赤裸々】在十王星南的培育中通過最終考試"
+      "name": "在【赤裸々】十王星南的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-3-015-02",
-      "name": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【赤裸々】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-015-03",
-      "name": "【赤裸々】在十王星南的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【赤裸々】十王星南的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-3-015-04",
-      "name": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【赤裸々】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-015-05",
-      "name": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【赤裸々】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-015-06",
-      "name": "【赤裸々】將十王星南的特訓階段提升至{threshold}級"
+      "name": "將【赤裸々】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-016-01",
+      "name": "在【ENDLESS DANCE】十王星南的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-016-02",
+      "name": "將【ENDLESS DANCE】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-016-03",
+      "name": "在【ENDLESS DANCE】十王星南的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-016-04",
+      "name": "將【ENDLESS DANCE】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-016-05",
+      "name": "將【ENDLESS DANCE】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-016-06",
+      "name": "將【ENDLESS DANCE】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",
-      "name": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【胸を張って一歩ずつ】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-2-000-05",
-      "name": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【胸を張って一歩ずつ】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-2-000-06",
-      "name": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【胸を張って一歩ずつ】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-000-04",
-      "name": "【Wonder Scale】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Wonder Scale】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-000-05",
-      "name": "【Wonder Scale】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Wonder Scale】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-000-06",
-      "name": "【Wonder Scale】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Wonder Scale】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-001-01",
-      "name": "【日々、発見的ステップ！】在倉本千奈的培育中通過最終考試"
+      "name": "在【日々、発見的ステップ！】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【日々、発見的ステップ！】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
-      "name": "【日々、発見的ステップ！】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【日々、発見的ステップ！】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-001-04",
-      "name": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【日々、発見的ステップ！】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-001-05",
-      "name": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【日々、発見的ステップ！】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-001-06",
-      "name": "【日々、発見的ステップ！】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【日々、発見的ステップ！】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-002-01",
-      "name": "【仮装狂騒曲】在倉本千奈的培育中通過最終考試"
+      "name": "在【仮装狂騒曲】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-002-02",
-      "name": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-002-03",
-      "name": "【仮装狂騒曲】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【仮装狂騒曲】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-002-04",
-      "name": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-002-05",
-      "name": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-002-06",
-      "name": "【仮装狂騒曲】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-005-01",
-      "name": "【ようこそ初星温泉】在倉本千奈的培育中通過最終考試"
+      "name": "在【ようこそ初星温泉】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-005-02",
-      "name": "【ようこそ初星温泉】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-005-03",
-      "name": "【ようこそ初星温泉】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ようこそ初星温泉】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-005-04",
-      "name": "【ようこそ初星温泉】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-005-05",
-      "name": "【ようこそ初星温泉】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-005-06",
-      "name": "【ようこそ初星温泉】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【ようこそ初星温泉】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-007-01",
-      "name": "【Campus mode!!】在倉本千奈的培育中通過最終考試"
+      "name": "在【Campus mode!!】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-007-02",
-      "name": "【Campus mode!!】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-007-03",
-      "name": "【Campus mode!!】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-007-04",
-      "name": "【Campus mode!!】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-007-05",
-      "name": "【Campus mode!!】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-007-06",
-      "name": "【Campus mode!!】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-009-01",
-      "name": "【雪解けに】在倉本千奈的培育中通過最終考試"
+      "name": "在【雪解けに】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-009-02",
-      "name": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-009-03",
-      "name": "【雪解けに】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【雪解けに】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-009-04",
-      "name": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-009-05",
-      "name": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-009-06",
-      "name": "【雪解けに】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-012-01",
-      "name": "【Howling over the World】在倉本千奈的培育中通過最終考試"
+      "name": "在【Howling over the World】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-012-02",
-      "name": "【Howling over the World】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-012-03",
-      "name": "【Howling over the World】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Howling over the World】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-012-04",
-      "name": "【Howling over the World】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-012-05",
-      "name": "【Howling over the World】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-012-06",
-      "name": "【Howling over the World】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-01",
-      "name": "【空と約束】在倉本千奈的培育中通過最終考試"
+      "name": "在【空と約束】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-014-02",
-      "name": "【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-03",
-      "name": "【空と約束】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【空と約束】倉本千奈的培育中獲得{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-014-04",
-      "name": "【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-05",
-      "name": "【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-06",
-      "name": "【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【空と約束】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-016-01",
-      "name": "【みちなるひろがる】在倉本千奈的培育中通過最終考試"
+      "name": "在【みちなるひろがる】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-016-02",
-      "name": "【みちなるひろがる】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-016-03",
-      "name": "【みちなるひろがる】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【みちなるひろがる】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-016-04",
-      "name": "【みちなるひろがる】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-016-05",
-      "name": "【みちなるひろがる】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-016-06",
-      "name": "【みちなるひろがる】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-04",
-      "name": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【一つ踏み出した先に】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-05",
-      "name": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【一つ踏み出した先に】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-06",
-      "name": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【一つ踏み出した先に】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-000-04",
-      "name": "【白線】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【白線】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-000-05",
-      "name": "【白線】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【白線】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-000-06",
-      "name": "【白線】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【白線】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
-      "name": "【冠菊】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【冠菊】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kllj-3-001-02",
-      "name": "【冠菊】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-001-03",
-      "name": "【冠菊】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【冠菊】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kllj-3-001-04",
-      "name": "【冠菊】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-001-05",
-      "name": "【冠菊】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-001-06",
-      "name": "【冠菊】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【冠菊】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-005-01",
-      "name": "【White Night！ White Wish！】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【White Night！ White Wish！】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kllj-3-005-02",
-      "name": "【White Night！ White Wish！】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-005-03",
-      "name": "【White Night！ White Wish！】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【White Night！ White Wish！】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kllj-3-005-04",
-      "name": "【White Night！ White Wish！】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-005-05",
-      "name": "【White Night！ White Wish！】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-005-06",
-      "name": "【White Night！ White Wish！】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【White Night！ White Wish！】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-006-01",
-      "name": "【Campus mode!!】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【Campus mode!!】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kllj-3-006-02",
-      "name": "【Campus mode!!】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-006-03",
-      "name": "【Campus mode!!】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kllj-3-006-04",
-      "name": "【Campus mode!!】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-006-05",
-      "name": "【Campus mode!!】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-006-06",
-      "name": "【Campus mode!!】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-008-01",
-      "name": "【極光】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【極光】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kllj-3-008-02",
-      "name": "【極光】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【極光】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-008-03",
-      "name": "【極光】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【極光】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kllj-3-008-04",
-      "name": "【極光】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【極光】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-008-05",
-      "name": "【極光】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【極光】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-008-06",
-      "name": "【極光】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【極光】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-010-01",
-      "name": "【桜フォトグラフ】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【桜フォトグラフ】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kllj-3-010-02",
-      "name": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-010-03",
-      "name": "【桜フォトグラフ】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【桜フォトグラフ】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kllj-3-010-04",
-      "name": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-010-05",
-      "name": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-010-06",
-      "name": "【桜フォトグラフ】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-012-01",
-      "name": "【Howling over the World】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【Howling over the World】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kllj-3-012-02",
-      "name": "【Howling over the World】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-012-03",
-      "name": "【Howling over the World】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Howling over the World】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kllj-3-012-04",
-      "name": "【Howling over the World】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-012-05",
-      "name": "【Howling over the World】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-012-06",
-      "name": "【Howling over the World】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Howling over the World】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-015-01",
-      "name": "【Atmosphere】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【Atmosphere】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kllj-3-015-02",
-      "name": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Atmosphere】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-015-03",
-      "name": "【Atmosphere】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Atmosphere】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kllj-3-015-04",
-      "name": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Atmosphere】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-015-05",
-      "name": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Atmosphere】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-3-015-06",
-      "name": "【Atmosphere】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【Atmosphere】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-04",
-      "name": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【一番向いてないこと】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-05",
-      "name": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【一番向いてないこと】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-06",
-      "name": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【一番向いてないこと】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-000-04",
-      "name": "【光景】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-000-05",
-      "name": "【光景】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-000-06",
-      "name": "【光景】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
-      "name": "【コントラスト】在篠澤廣的培育中通過最終考試"
+      "name": "在【コントラスト】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-001-02",
-      "name": "【コントラスト】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【コントラスト】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-03",
-      "name": "【コントラスト】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【コントラスト】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-001-04",
-      "name": "【コントラスト】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【コントラスト】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-05",
-      "name": "【コントラスト】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【コントラスト】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-06",
-      "name": "【コントラスト】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【コントラスト】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-01",
-      "name": "【仮装狂騒曲】在篠澤廣的培育中通過最終考試"
+      "name": "在【仮装狂騒曲】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-002-02",
-      "name": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-03",
-      "name": "【仮装狂騒曲】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【仮装狂騒曲】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-002-04",
-      "name": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-05",
-      "name": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-06",
-      "name": "【仮装狂騒曲】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-01",
-      "name": "【Campus mode!!】在篠澤廣的培育中通過最終考試"
+      "name": "在【Campus mode!!】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-007-02",
-      "name": "【Campus mode!!】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-03",
-      "name": "【Campus mode!!】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-007-04",
-      "name": "【Campus mode!!】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-05",
-      "name": "【Campus mode!!】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-06",
-      "name": "【Campus mode!!】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-01",
-      "name": "【ハッピーミルフィーユ】在篠澤廣的培育中通過最終考試"
+      "name": "在【ハッピーミルフィーユ】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-008-02",
-      "name": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-03",
-      "name": "【ハッピーミルフィーユ】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ハッピーミルフィーユ】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-008-04",
-      "name": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-05",
-      "name": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-06",
-      "name": "【ハッピーミルフィーユ】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ハッピーミルフィーユ】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-01",
-      "name": "【サンフェーデッド】在篠澤廣的培育中通過最終考試"
+      "name": "在【サンフェーデッド】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-012-02",
-      "name": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【サンフェーデッド】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-03",
-      "name": "【サンフェーデッド】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【サンフェーデッド】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-012-04",
-      "name": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【サンフェーデッド】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-05",
-      "name": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【サンフェーデッド】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-06",
-      "name": "【サンフェーデッド】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【サンフェーデッド】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-01",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】在篠澤廣的培育中通過最終考試"
+      "name": "在【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-014-02",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-03",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-014-04",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-05",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-06",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-016-01",
-      "name": "【みちなるひろがる】在篠澤廣的培育中通過最終考試"
+      "name": "在【みちなるひろがる】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-016-02",
-      "name": "【みちなるひろがる】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-016-03",
-      "name": "【みちなるひろがる】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【みちなるひろがる】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-016-04",
-      "name": "【みちなるひろがる】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-016-05",
-      "name": "【みちなるひろがる】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-016-06",
-      "name": "【みちなるひろがる】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【みちなるひろがる】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
-      "name": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【夢へのリスタート】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-05",
-      "name": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【夢へのリスタート】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-06",
-      "name": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【夢へのリスタート】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-000-04",
-      "name": "【Tame-Lie-One-Step】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Tame-Lie-One-Step】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-000-05",
-      "name": "【Tame-Lie-One-Step】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Tame-Lie-One-Step】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-000-06",
-      "name": "【Tame-Lie-One-Step】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Tame-Lie-One-Step】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
-      "name": "【キミとセミブルー】在紫雲清夏的培育中通過最終考試"
+      "name": "在【キミとセミブルー】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
-      "name": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
-      "name": "【キミとセミブルー】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【キミとセミブルー】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-04",
-      "name": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-05",
-      "name": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-06",
-      "name": "【キミとセミブルー】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【キミとセミブルー】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
-      "name": "【カクシタワタシ】在紫雲清夏的培育中通過最終考試"
+      "name": "在【カクシタワタシ】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-02",
-      "name": "【カクシタワタシ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【カクシタワタシ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-03",
-      "name": "【カクシタワタシ】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【カクシタワタシ】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-04",
-      "name": "【カクシタワタシ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【カクシタワタシ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-05",
-      "name": "【カクシタワタシ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【カクシタワタシ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-06",
-      "name": "【カクシタワタシ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【カクシタワタシ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-01",
-      "name": "【Campus mode!!】在紫雲清夏的培育中通過最終考試"
+      "name": "在【Campus mode!!】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-02",
-      "name": "【Campus mode!!】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-03",
-      "name": "【Campus mode!!】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-04",
-      "name": "【Campus mode!!】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-05",
-      "name": "【Campus mode!!】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-06",
-      "name": "【Campus mode!!】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-01",
-      "name": "【桜フォトグラフ】在紫雲清夏的培育中通過最終考試"
+      "name": "在【桜フォトグラフ】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-02",
-      "name": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-03",
-      "name": "【桜フォトグラフ】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【桜フォトグラフ】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-04",
-      "name": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-05",
-      "name": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-06",
-      "name": "【桜フォトグラフ】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【桜フォトグラフ】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-01",
-      "name": "【Love & Joy】在紫雲清夏的培育中通過最終考試"
+      "name": "在【Love & Joy】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-02",
-      "name": "【Love & Joy】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Love & Joy】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-03",
-      "name": "【Love & Joy】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Love & Joy】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-04",
-      "name": "【Love & Joy】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Love & Joy】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-05",
-      "name": "【Love & Joy】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Love & Joy】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-06",
-      "name": "【Love & Joy】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Love & Joy】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-01",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】在紫雲清夏的培育中通過最終考試"
+      "name": "在【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-02",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-03",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-04",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-05",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-06",
-      "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-04",
-      "name": "【一匹狼】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一匹狼】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-05",
-      "name": "【一匹狼】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一匹狼】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-06",
-      "name": "【一匹狼】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一匹狼】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-000-04",
-      "name": "【Luna say maybe】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Luna say maybe】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-000-05",
-      "name": "【Luna say maybe】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Luna say maybe】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-000-06",
-      "name": "【Luna say maybe】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Luna say maybe】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
-      "name": "【アイヴイ】在月村手毬的培育中通過最終考試"
+      "name": "在【アイヴイ】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-02",
-      "name": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【アイヴイ】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-03",
-      "name": "【アイヴイ】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【アイヴイ】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-04",
-      "name": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【アイヴイ】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-05",
-      "name": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【アイヴイ】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-06",
-      "name": "【アイヴイ】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【アイヴイ】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-01",
-      "name": "【仮装狂騒曲】在月村手毬的培育中通過最終考試"
+      "name": "在【仮装狂騒曲】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-02",
-      "name": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-03",
-      "name": "【仮装狂騒曲】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【仮装狂騒曲】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-04",
-      "name": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-05",
-      "name": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-06",
-      "name": "【仮装狂騒曲】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【仮装狂騒曲】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-01",
-      "name": "【Campus mode!!】在月村手毬的培育中通過最終考試"
+      "name": "在【Campus mode!!】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-02",
-      "name": "【Campus mode!!】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-03",
-      "name": "【Campus mode!!】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Campus mode!!】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-04",
-      "name": "【Campus mode!!】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-05",
-      "name": "【Campus mode!!】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-06",
-      "name": "【Campus mode!!】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Campus mode!!】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-01",
-      "name": "【雪解けに】在月村手毬的培育中通過最終考試"
+      "name": "在【雪解けに】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-02",
-      "name": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-03",
-      "name": "【雪解けに】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【雪解けに】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-04",
-      "name": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-05",
-      "name": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-06",
-      "name": "【雪解けに】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雪解けに】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-01",
-      "name": "【雨上がりのアイリス】在月村手毬的培育中通過最終考試"
+      "name": "在【雨上がりのアイリス】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-02",
-      "name": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-03",
-      "name": "【雨上がりのアイリス】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【雨上がりのアイリス】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-04",
-      "name": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-05",
-      "name": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-06",
-      "name": "【雨上がりのアイリス】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【雨上がりのアイリス】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-01",
-      "name": "【がむしゃらに行こう！】在月村手毬的培育中通過最終考試"
+      "name": "在【がむしゃらに行こう！】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-02",
-      "name": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-03",
-      "name": "【がむしゃらに行こう！】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【がむしゃらに行こう！】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-04",
-      "name": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-05",
-      "name": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-015-06",
-      "name": "【がむしゃらに行こう！】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【がむしゃらに行こう！】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-016-01",
-      "name": "【一体いつから】在月村手毬的培育中通過最終考試"
+      "name": "在【一体いつから】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-016-02",
-      "name": "【一体いつから】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一体いつから】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-016-03",
-      "name": "【一体いつから】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【一体いつから】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-016-04",
-      "name": "【一体いつから】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一体いつから】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-016-05",
-      "name": "【一体いつから】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一体いつから】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-016-06",
-      "name": "【一体いつから】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一体いつから】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-m_amao-001",
@@ -8519,219 +8575,219 @@
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
-      "name": "【はじまりはカッコよく】在有村麻央的培育中通過最終考試"
+      "name": "在【はじまりはカッコよく】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-amao-002-2",
-      "name": "【はじまりはカッコよく】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【はじまりはカッコよく】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-amao-002-3",
-      "name": "【はじまりはカッコよく】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【はじまりはカッコよく】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-amao-003-1",
-      "name": "【Fluorite】在有村麻央的培育中通過最終考試"
+      "name": "在【Fluorite】有村麻央的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-amao-003-2",
-      "name": "【Fluorite】將有村麻央的特訓階段提升至{threshold}級"
+      "name": "將【Fluorite】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-amao-003-3",
-      "name": "【Fluorite】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Fluorite】有村麻央的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-1",
-      "name": "【カワイイ♡はじめました】在藤田琴音的培育中通過最終考試"
+      "name": "在【カワイイ♡はじめました】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-2",
-      "name": "【カワイイ♡はじめました】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【カワイイ♡はじめました】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-3",
-      "name": "【カワイイ♡はじめました】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【カワイイ♡はじめました】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
-      "name": "【世界一可愛い私】在藤田琴音的培育中通過最終考試"
+      "name": "在【世界一可愛い私】藤田琴音的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-2",
-      "name": "【世界一可愛い私】將藤田琴音的特訓階段提升至{threshold}級"
+      "name": "將【世界一可愛い私】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-3",
-      "name": "【世界一可愛い私】在藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【世界一可愛い私】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
-      "name": "【『私らしさ』のはじまり】在姬崎莉波的培育中通過最終考試"
+      "name": "在【『私らしさ』のはじまり】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-2",
-      "name": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【『私らしさ』のはじまり】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-3",
-      "name": "【『私らしさ』のはじまり】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【『私らしさ』のはじまり】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-1",
-      "name": "【clumsy trick】在姬崎莉波的培育中通過最終考試"
+      "name": "在【clumsy trick】姬崎莉波的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-2",
-      "name": "【clumsy trick】將姬崎莉波的特訓階段提升至{threshold}級"
+      "name": "將【clumsy trick】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-3",
-      "name": "【clumsy trick】在姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【clumsy trick】姬崎莉波的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-hski-002-1",
-      "name": "【わたしが一番！】在花海咲季的培育中通過最終考試"
+      "name": "在【わたしが一番！】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-hski-002-2",
-      "name": "【わたしが一番！】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【わたしが一番！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-hski-002-3",
-      "name": "【わたしが一番！】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【わたしが一番！】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-hski-003-1",
-      "name": "【Fighting My Way】在花海咲季的培育中通過最終考試"
+      "name": "在【Fighting My Way】花海咲季的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-hski-003-2",
-      "name": "【Fighting My Way】將花海咲季的特訓階段提升至{threshold}級"
+      "name": "將【Fighting My Way】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-hski-003-3",
-      "name": "【Fighting My Way】在花海咲季的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Fighting My Way】花海咲季的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-1",
-      "name": "【胸を張って一歩ずつ】在倉本千奈的培育中通過最終考試"
+      "name": "在【胸を張って一歩ずつ】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-2",
-      "name": "【胸を張って一歩ずつ】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【胸を張って一歩ずつ】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-3",
-      "name": "【胸を張って一歩ずつ】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【胸を張って一歩ずつ】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-1",
-      "name": "【Wonder Scale】在倉本千奈的培育中通過最終考試"
+      "name": "在【Wonder Scale】倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-2",
-      "name": "【Wonder Scale】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "將【Wonder Scale】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-3",
-      "name": "【Wonder Scale】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Wonder Scale】倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-1",
-      "name": "【一つ踏み出した先に】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【一つ踏み出した先に】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-2",
-      "name": "【一つ踏み出した先に】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【一つ踏み出した先に】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-3",
-      "name": "【一つ踏み出した先に】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【一つ踏み出した先に】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-1",
-      "name": "【白線】在葛城莉莉婭的培育中通過最終考試"
+      "name": "在【白線】葛城莉莉婭的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-2",
-      "name": "【白線】將葛城莉莉婭的特訓階段提升至{threshold}級"
+      "name": "將【白線】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-3",
-      "name": "【白線】在葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【白線】葛城莉莉婭的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
-      "name": "【一番向いてないこと】在篠澤廣的培育中通過最終考試"
+      "name": "在【一番向いてないこと】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-shro-002-2",
-      "name": "【一番向いてないこと】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【一番向いてないこと】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-shro-002-3",
-      "name": "【一番向いてないこと】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【一番向いてないこと】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
-      "name": "【光景】在篠澤廣的培育中通過最終考試"
+      "name": "在【光景】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-shro-003-2",
-      "name": "【光景】將篠澤廣的特訓階段提升至{threshold}級"
+      "name": "將【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-shro-003-3",
-      "name": "【光景】在篠澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【光景】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
-      "name": "【夢へのリスタート】在紫雲清夏的培育中通過最終考試"
+      "name": "在【夢へのリスタート】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-2",
-      "name": "【夢へのリスタート】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【夢へのリスタート】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-3",
-      "name": "【夢へのリスタート】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【夢へのリスタート】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-1",
-      "name": "【Tame-Lie-One-Step】在紫雲清夏的培育中通過最終考試"
+      "name": "在【Tame-Lie-One-Step】紫雲清夏的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-2",
-      "name": "【Tame-Lie-One-Step】將紫雲清夏的特訓階段提升至{threshold}級"
+      "name": "將【Tame-Lie-One-Step】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-3",
-      "name": "【Tame-Lie-One-Step】在紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Tame-Lie-One-Step】紫雲清夏的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-1",
-      "name": "【一匹狼】在月村手毬的培育中通過最終考試"
+      "name": "在【一匹狼】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-2",
-      "name": "【一匹狼】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【一匹狼】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-3",
-      "name": "【一匹狼】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【一匹狼】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-1",
-      "name": "【Luna say maybe】在月村手毬的培育中通過最終考試"
+      "name": "在【Luna say maybe】月村手毬的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-2",
-      "name": "【Luna say maybe】將月村手毬的特訓階段提升至{threshold}級"
+      "name": "將【Luna say maybe】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-3",
-      "name": "【Luna say maybe】在月村手毬的培育中獲得了{threshold}次A+以上的評價"
+      "name": "在【Luna say maybe】月村手毬的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-fktn-000",

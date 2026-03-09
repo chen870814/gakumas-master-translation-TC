@@ -282,6 +282,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-aniv-001",
+      "name": "臨近1週年紀念10連抽卡票卷",
+      "description": "可以在臨近1週年紀念10連扭蛋中使用的票卷",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-christmas-001",
       "name": "聖誕10連扭蛋票卷",
       "description": "可以在聖誕登入獎勵票卷扭蛋中使用的票卷",
@@ -1068,6 +1074,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_jsna-3-016",
+      "name": "[ENDLESS DANCE]十王星南的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_kcna-1-000",
       "name": "[學園生活]倉本千奈的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1459,6 +1471,12 @@
     },
     {
       "id": "item-research-event-004",
+      "name": "亞紗里老師貼紙",
+      "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-005",
       "name": "亞紗里老師貼紙",
       "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
       "acquisitionRouteDescription": "培育等方式"
