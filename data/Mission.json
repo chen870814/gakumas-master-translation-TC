@@ -198,6 +198,22 @@
       "name": "讓葛城莉莉婭通過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_relaunch_amao-001",
+      "name": "將有村麻央的Vo.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_amao-002",
+      "name": "在有村麻央的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_amao-003",
+      "name": "讓有村麻央通過{threshold}次 Vo.課程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_amao-004",
+      "name": "讓有村麻央通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_relaunch_fktn-001",
       "name": "將藤田琴音的Da.能力值培養至1800以上並完成培育"
     },
@@ -212,6 +228,38 @@
     {
       "id": "dearness_event_relaunch_fktn-004",
       "name": "讓藤田琴音通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-001",
+      "name": "將姬崎莉波的Vi.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-002",
+      "name": "在姬崎莉波的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-003",
+      "name": "讓姬崎莉波通關{threshold}次 Vi.課程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-004",
+      "name": "讓姬崎莉波通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-001",
+      "name": "將倉本千奈的Da.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-002",
+      "name": "在倉本千奈的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-003",
+      "name": "讓倉本千奈通關{threshold}次 Da.課程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-004",
+      "name": "讓倉本千奈通過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_relaunch_shro-001",

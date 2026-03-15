@@ -56,7 +56,7 @@ primary_key_rules = {
     "FeatureLock": [["tutorialType"], ["name", "description", "routeDescription"]],
     # "ForceAppVersion": [[], []],
     # "GashaAnimationStep": [[], []],
-    "GashaButton": [["id", "order"], ["name", "description"]],
+    "GashaButton": [["id", "order"], ["name", "description", "appealText", "highAppealText", "bottomAppealText"]],
     # "GuildDonationItem": [[], []],
     # "GuildReaction": [[], []],
     "GvgRaid": [["id", "order"], ["name"]],
