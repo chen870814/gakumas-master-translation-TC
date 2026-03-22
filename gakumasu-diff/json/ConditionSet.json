@@ -597,6 +597,21 @@
             "description": ""
         },
         {
+            "id": "cd_comeback_daily_release_mission_003-release",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_comeback_daily_release_mission_003-release",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_comeback_daily_release_mission_003-release",
+            "number": 3,
+            "description": ""
+        },
+        {
             "id": "cd_contest_exchange_grade_1",
             "number": 1,
             "description": ""
@@ -1047,6 +1062,11 @@
             "description": ""
         },
         {
+            "id": "cd_gasha_have_ticket_item-gashaticket-ssr-fix_7",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_gasha_have_ticket_item-gashaticket-ssr-idol-fix_3",
             "number": 1,
             "description": ""
@@ -1218,6 +1238,11 @@
         },
         {
             "id": "cd_highscorerush-event-010-release",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_highscorerush-event-011-release",
             "number": 1,
             "description": ""
         },
@@ -1868,6 +1893,16 @@
         },
         {
             "id": "cd_login_bonus_wednesday-26-0311",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-26-0318",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-26-0325",
             "number": 1,
             "description": ""
         },
@@ -5917,6 +5952,21 @@
             "description": ""
         },
         {
+            "id": "cd_time_26_0316-1100",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0319-1100-26_0430-2359",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0325-1100",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_26_0401_26_1001",
             "number": 1,
             "description": ""
@@ -6173,6 +6223,11 @@
         },
         {
             "id": "cd_time-view_open-i_card-hski-3-015",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time-view_open-i_card-hski-3-017",
             "number": 1,
             "description": ""
         },
@@ -7093,6 +7148,16 @@
         },
         {
             "id": "cd_view_shop_half-aniversary-pack-001",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_pack_item-freshman-support-01",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_pack_item-freshman-support-01",
             "number": 2,
             "description": ""
         },
@@ -8187,6 +8252,11 @@
             "description": ""
         },
         {
+            "id": "cd-clear-hidden_mission-view-gasha-00800-free-10-006",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-clear-hidden_mission-view-gasha-200limit-select-pickup-001",
             "number": 1,
             "description": ""
@@ -8400,6 +8470,11 @@
             "id": "cd-dearness_hrnm-20",
             "number": 1,
             "description": "姫崎莉波の親愛度Lv20達成"
+        },
+        {
+            "id": "cd-dearness_hski-20",
+            "number": 1,
+            "description": "花海咲季の親愛度Lv20達成"
         },
         {
             "id": "cd-dearness_jsna-20",
@@ -9160,6 +9235,41 @@
             "id": "cd-dearness_level-hski-20",
             "number": 1,
             "description": "花海 咲季の親愛度Lvを20にする"
+        },
+        {
+            "id": "cd-dearness_level-hski-21",
+            "number": 1,
+            "description": "花海 咲季の親愛度Lvを21にする"
+        },
+        {
+            "id": "cd-dearness_level-hski-22",
+            "number": 1,
+            "description": "花海 咲季の親愛度Lvを22にする"
+        },
+        {
+            "id": "cd-dearness_level-hski-23",
+            "number": 1,
+            "description": "花海 咲季の親愛度Lvを23にする"
+        },
+        {
+            "id": "cd-dearness_level-hski-24",
+            "number": 1,
+            "description": "花海 咲季の親愛度Lvを24にする"
+        },
+        {
+            "id": "cd-dearness_level-hski-25",
+            "number": 1,
+            "description": "花海 咲季の親愛度Lvを25にする"
+        },
+        {
+            "id": "cd-dearness_level-hski-26",
+            "number": 1,
+            "description": "花海 咲季の親愛度Lvを26にする"
+        },
+        {
+            "id": "cd-dearness_level-hski-27",
+            "number": 1,
+            "description": "花海 咲季の親愛度Lvを27にする"
         },
         {
             "id": "cd-dearness_level-hume-01",
@@ -10077,6 +10187,16 @@
             "description": ""
         },
         {
+            "id": "cd-dearness_normal-mission_hski-0001",
+            "number": 1,
+            "description": "親愛度ブーストキャンペーン終了後"
+        },
+        {
+            "id": "cd-dearness_normal-mission_hski-0001",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-dearness_normal-mission_jsna-0001",
             "number": 1,
             "description": "親愛度Lv20達成時"
@@ -10419,6 +10539,16 @@
         {
             "id": "cd-gasha_ssr_10-tutorial_clear_48h",
             "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-gasha-00800-free-10-006",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-gasha-00800-free-10-006",
+            "number": 2,
             "description": ""
         },
         {
@@ -11917,6 +12047,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-1-20-hski",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-1-20-jsna",
             "number": 1,
             "description": ""
@@ -11972,6 +12107,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-21-hski",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-21-jsna",
             "number": 1,
             "description": ""
@@ -12013,6 +12153,11 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-22-hrnm",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-22-hski",
             "number": 1,
             "description": ""
         },
@@ -12062,6 +12207,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-23-hski",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-23-jsna",
             "number": 1,
             "description": ""
@@ -12103,6 +12253,11 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-24-hrnm",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-24-hski",
             "number": 1,
             "description": ""
         },
@@ -12152,6 +12307,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-25-hski",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-25-jsna",
             "number": 1,
             "description": ""
@@ -12197,6 +12357,11 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-26-hski",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-26-jsna",
             "number": 1,
             "description": ""
@@ -12238,6 +12403,11 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-27-hrnm",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-27-hski",
             "number": 1,
             "description": ""
         },
@@ -14837,6 +15007,11 @@
             "description": ""
         },
         {
+            "id": "cd-purchase-shop_pack_item-freshman-support-01",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-purchase-shop_pack_jsna-0001",
             "number": 1,
             "description": ""
@@ -16443,6 +16618,11 @@
         },
         {
             "id": "cd-release-music-inst-hski-03",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-hski-04",
             "number": 1,
             "description": ""
         },

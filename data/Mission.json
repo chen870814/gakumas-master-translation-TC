@@ -102,6 +102,38 @@
       "name": "讓姬崎莉波通過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_hski-001",
+      "name": "將花海咲季的Vi.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_hski-002",
+      "name": "在花海咲季的培育中選擇{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_hski-003",
+      "name": "在花海咲季的培育中選擇{threshold}次諮詢吧"
+    },
+    {
+      "id": "dearness_event_hski-004",
+      "name": "在花海咲季的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_hski-005",
+      "name": "在花海咲季的培育中選擇{threshold}次活動補給或慰問品吧"
+    },
+    {
+      "id": "dearness_event_hski-006",
+      "name": "讓花海咲季通關{threshold}次 Vi.課程吧"
+    },
+    {
+      "id": "dearness_event_hski-007",
+      "name": "在花海咲季的培育中選擇{threshold}次特別指導吧"
+    },
+    {
+      "id": "dearness_event_hski-008",
+      "name": "讓花海咲季通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_jsna-001",
       "name": "將十王星南的Vi.能力值培養至1800以上並完成培育"
     },
@@ -448,6 +480,26 @@
     {
       "id": "dearness_normal-mission_hrnm-005",
       "name": "在姬崎莉波的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-001",
+      "name": "將花海咲季的Vi.能力值培養至2000以上並完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_hski-002",
+      "name": "在花海咲季的培育中累計使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-003",
+      "name": "在花海咲季的培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-004",
+      "name": "讓花海咲季通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-005",
+      "name": "在花海咲季的培育中自定義{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_jsna-001",
@@ -1146,6 +1198,10 @@
       "name": "抽取{threshold}次1.5th記念 期間限定&Re;IRIS登場！SSR15%扭蛋"
     },
     {
+      "id": "hidden_mission-view-gasha-00800-free-10-006",
+      "name": "抽取{threshold}次新生應援！SSR P偶像確定10連扭蛋"
+    },
+    {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
       "name": "抽取{threshold}次Story of Re;IRIS放映紀念SSR1.5倍自選PickUp扭蛋"
     },
@@ -1351,7 +1407,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_12",
@@ -1375,7 +1431,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_22",
@@ -1399,7 +1455,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_32",
@@ -1423,7 +1479,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_42",
@@ -1447,7 +1503,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_52",
@@ -1471,7 +1527,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_61",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_62",
@@ -1495,7 +1551,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_71",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_72",
@@ -1522,6 +1578,178 @@
       "name": "通關第7天的全部任務"
     },
     {
+      "id": "mission-comeback_daily_release_mission_003-mission_11",
+      "name": "去消耗{threshold}點AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_12",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_13",
+      "name": "開始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_14",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_15",
+      "name": "抽取{threshold}次硬幣扭蛋"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_16",
+      "name": "通關第1天的全部任務"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_21",
+      "name": "去消耗{threshold}點AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_22",
+      "name": "在培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_23",
+      "name": "開始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_24",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_25",
+      "name": "抽取{threshold}次硬幣扭蛋"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_26",
+      "name": "通關第2天的全部任務"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_31",
+      "name": "去消耗{threshold}點AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_32",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_33",
+      "name": "開始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_34",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_35",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_36",
+      "name": "通關第3天的全部任務"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_41",
+      "name": "去消耗{threshold}點AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_42",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_43",
+      "name": "在培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_44",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_45",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_46",
+      "name": "通關第4天的全部任務"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_51",
+      "name": "去消耗{threshold}點AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_52",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_53",
+      "name": "開始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_54",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_55",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_56",
+      "name": "通關第5天的全部任務"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_61",
+      "name": "去消耗{threshold}點AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_62",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_63",
+      "name": "在培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_64",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_65",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_66",
+      "name": "通關第6天的全部任務"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_71",
+      "name": "去消耗{threshold}點AP吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_72",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_73",
+      "name": "開始{threshold}次工作吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_74",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_75",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_76",
+      "name": "通關1次大師最終考試"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_003-mission_77",
+      "name": "通關第7天的全部任務"
+    },
+    {
       "id": "mission-continuous-gasha-mission_001-mission_1",
       "name": "通過{threshold}次最終考試吧"
     },
@@ -1539,7 +1767,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_12",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_13",
@@ -1563,7 +1791,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_22",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_23",
@@ -1587,7 +1815,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_32",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_33",
@@ -1611,7 +1839,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_42",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_43",
@@ -1635,7 +1863,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_52",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_53",
@@ -1659,7 +1887,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_62",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_63",
@@ -1683,7 +1911,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_72",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_73",
@@ -1731,7 +1959,7 @@
     },
     {
       "id": "mission-highscore-event-001-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-highscore-event-001-mission_11_1",
@@ -1787,7 +2015,7 @@
     },
     {
       "id": "mission-highscore-event-002-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-highscore-event-002-mission_11_1",
@@ -2015,7 +2243,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_32",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-highscore-event-004-mission_33",
@@ -3102,8 +3330,108 @@
       "name": "通關第5天的全部任務"
     },
     {
+      "id": "mission-highscorerush-event-011-mission_11",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_12",
+      "name": "將花海咲季的Vi.能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_13",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_14",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_16",
+      "name": "通關第1天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_21",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_22",
+      "name": "將葛城莉莉婭的Vi.能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_23",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_24",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_26",
+      "name": "通關第2天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_31",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_32",
+      "name": ""
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_33",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_34",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_36",
+      "name": "通關第3天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_41",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_42",
+      "name": ""
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_43",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_44",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_46",
+      "name": "通關第4天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_51",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_52",
+      "name": ""
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_53",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_54",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_56",
+      "name": "通關第5天的全部任務"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-001-mission_12",
@@ -3127,7 +3455,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-001-mission_22",
@@ -3151,7 +3479,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-001-mission_32",
@@ -3175,7 +3503,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-001-mission_42",
@@ -3199,7 +3527,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-001-mission_52",
@@ -3223,7 +3551,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-002-mission_12",
@@ -3247,7 +3575,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-002-mission_22",
@@ -3271,7 +3599,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-002-mission_32",
@@ -3295,7 +3623,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-002-mission_42",
@@ -3319,7 +3647,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-002-mission_52",
@@ -3343,7 +3671,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-003-mission_12",
@@ -3367,7 +3695,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-003-mission_22",
@@ -3391,7 +3719,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-003-mission_32",
@@ -3415,7 +3743,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-003-mission_42",
@@ -3439,7 +3767,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-003-mission_52",
@@ -3463,7 +3791,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-004-mission_12",
@@ -3487,7 +3815,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-004-mission_22",
@@ -3511,7 +3839,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-004-mission_32",
@@ -3535,7 +3863,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-004-mission_42",
@@ -3559,7 +3887,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-004-mission_52",
@@ -3583,7 +3911,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-005-mission_12",
@@ -3607,7 +3935,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-005-mission_22",
@@ -3631,7 +3959,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-005-mission_32",
@@ -3655,7 +3983,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-005-mission_42",
@@ -3679,7 +4007,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-005-mission_52",
@@ -3703,7 +4031,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-006-mission_12",
@@ -3727,7 +4055,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-006-mission_22",
@@ -3751,7 +4079,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-006-mission_32",
@@ -3775,7 +4103,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-006-mission_42",
@@ -3799,7 +4127,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-006-mission_52",
@@ -3823,7 +4151,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-007-mission_12",
@@ -3847,7 +4175,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-007-mission_22",
@@ -3871,7 +4199,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-007-mission_32",
@@ -3895,7 +4223,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-007-mission_42",
@@ -3919,7 +4247,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-007-mission_52",
@@ -3943,7 +4271,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-008-mission_12",
@@ -3967,7 +4295,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-008-mission_22",
@@ -3991,7 +4319,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-008-mission_32",
@@ -4015,7 +4343,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-008-mission_42",
@@ -4039,7 +4367,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-008-mission_52",
@@ -4063,7 +4391,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-009-mission_12",
@@ -4087,7 +4415,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-009-mission_22",
@@ -4111,7 +4439,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-009-mission_32",
@@ -4135,7 +4463,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-009-mission_42",
@@ -4159,7 +4487,7 @@
     },
     {
       "id": "mission-main-story-event-009-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-009-mission_52",
@@ -4183,7 +4511,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_11",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-010-mission_12",
@@ -4207,7 +4535,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-010-mission_22",
@@ -4231,7 +4559,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_31",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-010-mission_32",
@@ -4255,7 +4583,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_41",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-010-mission_42",
@@ -4279,7 +4607,7 @@
     },
     {
       "id": "mission-main-story-event-010-mission_51",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-main-story-event-010-mission_52",
@@ -4727,7 +5055,7 @@
     },
     {
       "id": "mission-release_mission-1-1",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-release_mission-1-2",
@@ -4751,7 +5079,7 @@
     },
     {
       "id": "mission-release_mission-2-1",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-release_mission-2-2",
@@ -4775,7 +5103,7 @@
     },
     {
       "id": "mission-release_mission-3-1",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-release_mission-3-2",
@@ -4807,7 +5135,7 @@
     },
     {
       "id": "mission-release_mission-4-1",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-release_mission-4-2",
@@ -4831,7 +5159,7 @@
     },
     {
       "id": "mission-release_mission-5-1",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-release_mission-5-2",
@@ -4851,7 +5179,7 @@
     },
     {
       "id": "mission-release_mission-6-1",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-release_mission-6-2",
@@ -4879,7 +5207,7 @@
     },
     {
       "id": "mission-release_mission-7-1",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "mission-release_mission-7-2",
@@ -4935,7 +5263,7 @@
     },
     {
       "id": "mission-research-event-002-mission_10",
-      "name": "在持有技能卡「成为偶像」的狀態下完成培育吧"
+      "name": "在持有技能卡「成為偶像」的狀態下完成培育吧"
     },
     {
       "id": "mission-research-event-002-mission_11",
@@ -5031,11 +5359,11 @@
     },
     {
       "id": "mission-research-event-005-mission_10",
-      "name": "在持有技能卡「魅惑的視線」的狀態下完成培育吧"
+      "name": "在獲得技能卡「魅惑的視線」的狀態下完成培育吧"
     },
     {
       "id": "mission-research-event-005-mission_11",
-      "name": "在持有技能卡「天真爛漫」的狀態下完成培育吧"
+      "name": "在獲得技能卡「天真爛漫」的狀態下完成培育吧"
     },
     {
       "id": "mission-research-event-005-mission_12",
@@ -5051,11 +5379,11 @@
     },
     {
       "id": "mission-research-event-005-mission_8",
-      "name": "在持有技能卡「成就」的狀態下完成培育吧"
+      "name": "在獲得技能卡「成就」的狀態下完成培育吧"
     },
     {
       "id": "mission-research-event-005-mission_9",
-      "name": "在持有技能卡「國民級偶像」的狀態下完成培育吧"
+      "name": "在獲得技能卡「國民級偶像」的狀態下完成培育吧"
     },
     {
       "id": "mission-story-event-001-mission_1",
@@ -5527,7 +5855,7 @@
     },
     {
       "id": "panel_mission-event-003-mission_5",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "panel_mission-event-003-mission_6",
@@ -6828,6 +7156,30 @@
     {
       "id": "achieve-i_card-hski-3-015-06",
       "name": "將【がむしゃらに行こう！】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-01",
+      "name": "在【Wildest Flower】花海咲季的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-02",
+      "name": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-03",
+      "name": "在【Wildest Flower】花海咲季的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-04",
+      "name": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-05",
+      "name": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-06",
+      "name": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -9387,7 +9739,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-008",
-      "name": "將十王星南的特訓階段提升至{threshold}級"
+      "name": "將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-jsna-009",
@@ -9440,6 +9792,10 @@
     {
       "id": "achieve-p_idol-jsna-021",
       "name": "使用十王星南通過最終考試並獲得SS+以上評價{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-022",
+      "name": "將花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-jsna-023",
@@ -10695,7 +11051,7 @@
     },
     {
       "id": "main_task_group-03-01#21",
-      "name": "消耗{threshold}點AP吧"
+      "name": "去消耗{threshold}點AP吧"
     },
     {
       "id": "main_task_group-03-01#22",

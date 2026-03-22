@@ -987,6 +987,12 @@
     },
     {
       "helpCategoryId": "help-produce",
+      "id": "produce-easy-mode",
+      "order": 54,
+      "name": "輔助模式"
+    },
+    {
+      "helpCategoryId": "help-produce",
       "id": "produce-ending",
       "order": 29,
       "name": "結局"

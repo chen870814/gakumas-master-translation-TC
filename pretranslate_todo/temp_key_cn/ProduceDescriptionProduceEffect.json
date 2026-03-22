@@ -83,5 +83,6 @@
   "ProduceEffectType_EventActivityProducePointDown|name": "外出的P點數消耗減少",
   "ProduceEffectType_BeforeAuditionRefreshStaminaUp|name": "考試前體力回復量增加",
   "ProduceEffectType_BeforeAuditionRefreshStaminaDown|name": "考試前體力回復量減少",
-  "ProduceEffectType_ProduceCardExcludeCountUp|name": "除去技能卡"
+  "ProduceEffectType_ProduceCardExcludeCountUp|name": "除去技能卡",
+  "128|name": "對手的得分"
 }

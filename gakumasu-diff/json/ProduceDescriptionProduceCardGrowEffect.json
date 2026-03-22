@@ -174,7 +174,7 @@
         {
             "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
             "produceDescriptionLabelId": "Label_CardStatusEnchantChange",
-            "produceCardCustomizeDescription": "成長"
+            "produceCardCustomizeDescription": "成長変更"
         },
         {
             "type": "ProduceCardGrowEffectType_PlayTriggerChange",

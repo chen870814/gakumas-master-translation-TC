@@ -1206,6 +1206,36 @@
       "description": "將【がむしゃらに行こう！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hski-3-017-01",
+      "name": "怒放的鮮花",
+      "description": "在【Wildest Flower】花海咲季的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-02",
+      "name": "Wildest Flower",
+      "description": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-03",
+      "name": "這是我的東西喔！",
+      "description": "在【Wildest Flower】花海咲季的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-04",
+      "name": "Wildest Flower+",
+      "description": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-05",
+      "name": "Wildest Flower++",
+      "description": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-06",
+      "name": "Wildest Flower+++",
+      "description": "將【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "打倒姐姐",
       "description": "在【アイドル、はじめっ！】花海佑芽的培育中通過最終考試"
@@ -4402,7 +4432,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-008",
-      "name": "最閃耀的風格",
+      "name": "一番星的風格",
       "description": "將十王星南的特訓階段提升至{threshold}級"
     },
     {
@@ -4469,6 +4499,11 @@
       "id": "achieve-p_idol-jsna-021",
       "name": "與你共同前進",
       "description": "使用十王星南通過最終考試並獲得SS+以上評價{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-jsna-022",
+      "name": "一番星的風格",
+      "description": "將十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-jsna-023",

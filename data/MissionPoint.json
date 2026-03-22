@@ -7,7 +7,11 @@
   "data": [
     {
       "id": "comeback_daily_release_mission_001_point",
-      "name": "迴歸任務Pt"
+      "name": "回歸任務Pt"
+    },
+    {
+      "id": "comeback_daily_release_mission_003_point",
+      "name": "回歸每日任務Pt（第2彈）"
     },
     {
       "id": "daily_mission_NIA_clear_point",
@@ -67,6 +71,10 @@
     },
     {
       "id": "highscorerush-event-010_point",
+      "name": "活動Pt"
+    },
+    {
+      "id": "highscorerush-event-011_point",
       "name": "活動Pt"
     },
     {

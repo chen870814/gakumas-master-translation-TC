@@ -76,6 +76,21 @@
             "displayTitle": "ENDLESS DANCE [Instrumental]"
         },
         {
+            "id": "music-all-022-teama",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT"
+        },
+        {
+            "id": "music-all-022-teamb",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT"
+        },
+        {
+            "id": "music-all-022-teamc",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT"
+        },
+        {
             "id": "music-all-amao-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -1319,6 +1334,16 @@
             "id": "music-char-hski-003-inst",
             "title": "Try it now [Instrumental]",
             "displayTitle": "Try it now [Instrumental]"
+        },
+        {
+            "id": "music-char-hski-004",
+            "title": "Wildest Flower",
+            "displayTitle": "Wildest Flower"
+        },
+        {
+            "id": "music-char-hski-004-inst",
+            "title": "Wildest Flower [Instrumental]",
+            "displayTitle": "Wildest Flower [Instrumental]"
         },
         {
             "id": "music-char-hume-001",
