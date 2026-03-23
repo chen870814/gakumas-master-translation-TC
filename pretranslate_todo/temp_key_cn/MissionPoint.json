@@ -1,5 +1,6 @@
 {
-  "comeback_daily_release_mission_001_point|name": "迴歸任務Pt",
+  "comeback_daily_release_mission_001_point|name": "回歸任務Pt",
+  "comeback_daily_release_mission_003_point|name": "回歸每日任務Pt（第2彈）",
   "daily_mission_NIA_clear_point|name": "NIA挑戰Pt",
   "highscore-event-001_point|name": "偶像強化月活動Pt",
   "highscore-event-002_point|name": "偶像強化月活動Pt",
@@ -15,6 +16,7 @@
   "highscorerush-event-008_point|name": "活動Pt",
   "highscorerush-event-009_point|name": "活動Pt",
   "highscorerush-event-010_point|name": "活動Pt",
+  "highscorerush-event-011_point|name": "活動Pt",
   "main-story-event-001_point|name": "初星交流活動任務Pt",
   "main-story-event-002_point|name": "初星交流活動Pt",
   "main-story-event-003_point|name": "初星交流活動Pt",
