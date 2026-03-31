@@ -43,5 +43,10 @@
   "setting.produce.easy_mode.title|description": "【培育】輔助模式",
   "shop.web_store.confirm.description|description": "是否打開網頁瀏覽器？\n要使用官方WEB SHOP\n必須填寫出生年月日。\n出生年月日可以在【選單>其他>設定出生年月日】中設定。",
   "story.story_event.section.normal_condition_lock_text|description": "獲得活動Pt，並閱讀前一個交流劇情後解鎖",
+  "tour.exam.to_home.alert|description": "※中斷數據存在時，活動期間內移動到特殊活動即可繼續遊玩\\n※在其他裝置移動到特殊活動時，中斷數據將被清除",
+  "tour.play_consumption_item_detail.add_initial_daily_diff_count.annotation|description": "※只能在舉辦期間中使用",
+  "tour.play_consumption_item_detail.annotation|description": "※只能在舉辦期間中使用",
+  "tour.play_consumption_item_detail.message|description": "在特別活動中挑戰舞台所使用的道具。",
+  "tour.top.user_status.point_complete_label|description": " ",
   "voice.idol_use_produce_card|description": "使用P偶像固有技能卡"
 }

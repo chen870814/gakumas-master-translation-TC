@@ -11680,6 +11680,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-kllj-3-017-01",
+      "title": "ときめきエモーション 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-017-02",
+      "title": "ときめきエモーション 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-017-03",
+      "title": "ときめきエモーション 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-shro-3-000-01",
       "title": "光景 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -11902,6 +11917,21 @@
     {
       "id": "p_story-i_card-ssmk-3-014-03",
       "title": "ミラクルナナウ(ﾟ∀ﾟ)！ 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ssmk-3-017-01",
+      "title": "ときめきエモーション 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ssmk-3-017-02",
+      "title": "ときめきエモーション 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ssmk-3-017-03",
+      "title": "ときめきエモーション 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12852,6 +12882,16 @@
     {
       "id": "p_story-s_card-2-0072-02",
       "title": "保持最真實的你就好",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0073-01",
+      "title": "我會跟著你去的！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0073-02",
+      "title": "請做好斷捨離！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14247,6 +14287,36 @@
     {
       "id": "p_story-s_card-3-0092-03",
       "title": "讓料理更美味的秘密",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0093-01",
+      "title": "半年未見的再會",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0093-02",
+      "title": "考試前夜的兩人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0093-03",
+      "title": "向著約定的第一步！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0095-01",
+      "title": "同樣的環保袋",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0095-02",
+      "title": "超市體驗",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0095-03",
+      "title": "第一次跑腿感覺如何？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

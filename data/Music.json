@@ -711,6 +711,11 @@
       "displayTitle": "ENDLESS DANCE"
     },
     {
+      "id": "music-all-nasr-008",
+      "title": "古今東西ちょちょいのちょい",
+      "displayTitle": "古今東西ちょちょいのちょい"
+    },
+    {
       "id": "music-all-nasr-010",
       "title": "桜フォトグラフ",
       "displayTitle": "桜フォトグラフ"
@@ -1346,6 +1351,16 @@
       "displayTitle": "Wildest Flower [Instrumental]"
     },
     {
+      "id": "music-char-hski-005",
+      "title": "EGO",
+      "displayTitle": "EGO"
+    },
+    {
+      "id": "music-char-hski-005-inst",
+      "title": "EGO [Instrumental]",
+      "displayTitle": "EGO [Instrumental]"
+    },
+    {
       "id": "music-char-hume-001",
       "title": "The Rolling Riceball",
       "displayTitle": ""
@@ -1374,6 +1389,16 @@
       "id": "music-char-hume-003-inst",
       "title": "つよつよ最強エクササイズ [Instrumental]",
       "displayTitle": "つよつよ最強エクササイズ [Instrumental]"
+    },
+    {
+      "id": "music-char-hume-005",
+      "title": "金の斧、銀の斧、エメラルドの斧",
+      "displayTitle": "金の斧、銀の斧、エメラルドの斧"
+    },
+    {
+      "id": "music-char-hume-005-inst",
+      "title": "金の斧、銀の斧、エメラルドの斧 [Instrumental]",
+      "displayTitle": "金の斧、銀の斧、エメラルドの斧 [Instrumental]"
     },
     {
       "id": "music-char-jsna-001",
@@ -1694,6 +1719,16 @@
       "id": "music-unit-kcnashro-003-inst",
       "title": "みちなるひろがる [Instrumental]",
       "displayTitle": "みちなるひろがる [Instrumental]"
+    },
+    {
+      "id": "music-unit-klljssmk-005",
+      "title": "ときめきエモーション",
+      "displayTitle": "ときめきエモーション"
+    },
+    {
+      "id": "music-unit-klljssmk-005-inst",
+      "title": "ときめきエモーション [Instrumental]",
+      "displayTitle": "ときめきエモーション [Instrumental]"
     },
     {
       "id": "music-unit-reiris-001",

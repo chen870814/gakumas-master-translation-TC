@@ -295,7 +295,7 @@
     },
     {
       "type": "ProduceEffectType_AuditionNpcEnhance",
-      "name": "對手的分數"
+      "name": "對手的得分"
     },
     {
       "type": "ProduceEffectType_ShopPriceUpMultiple",
@@ -346,8 +346,8 @@
       "name": "除去技能卡"
     },
     {
-      "type": 128,
-      "name": "對手的分數"
+      "type": "ProduceEffectType_AuditionNpcWeaken",
+      "name": "對手的得分"
     }
   ]
 }

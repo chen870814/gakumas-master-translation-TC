@@ -71,7 +71,7 @@
   "ProduceEffectType_ProducePointAdditionDisableTrigger|name": "初始P點數增加",
   "ProduceEffectType_ExamTurnUp|name": "回合數增加",
   "ProduceEffectType_ExamTurnDown|name": "回合數減少",
-  "ProduceEffectType_AuditionNpcEnhance|name": "對手的分數",
+  "ProduceEffectType_AuditionNpcEnhance|name": "對手的得分",
   "ProduceEffectType_ShopPriceUpMultiple|name": "諮詢的所有專案漲價",
   "ProduceEffectType_ShopProduceCardPriceUpMultiple|name": "諮詢的購買技能卡漲價",
   "ProduceEffectType_ShopProduceDrinkPriceUpMultiple|name": "諮詢的購買P飲料漲價",
@@ -84,5 +84,5 @@
   "ProduceEffectType_BeforeAuditionRefreshStaminaUp|name": "考試前體力回復量增加",
   "ProduceEffectType_BeforeAuditionRefreshStaminaDown|name": "考試前體力回復量減少",
   "ProduceEffectType_ProduceCardExcludeCountUp|name": "除去技能卡",
-  "128|name": "對手的分數"
+  "ProduceEffectType_AuditionNpcWeaken|name": "對手的得分"
 }
