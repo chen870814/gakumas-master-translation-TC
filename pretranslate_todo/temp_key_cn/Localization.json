@@ -16,6 +16,7 @@
   "home.pvp.contest.out_of_term_toast|description": "當前非活動期間",
   "idol_dearness.step3_condition|description": "親密度強化活動結束後解鎖",
   "idol_dearness.top.mission_unlock_description|description": "{0}解鎖",
+  "memory.inherit.select_produce_card.before_select.message|description": "請選擇要替換的技能卡",
   "mission.mission_list.max_point_text.event|description": "每週任務點數已達到最大",
   "produce_prepare.easy_mode_apply|description": "輔助模式已啟用",
   "produce_prepare.easy_mode.continue_sheet.message|description": "是否解除已設定的輔助模式？",
