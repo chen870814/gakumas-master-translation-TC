@@ -39325,7 +39325,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "28"
+          "text": "10"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -64085,7 +64085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "28"
+          "text": "10"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145299,7 +145299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145379,7 +145379,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "320"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145479,7 +145479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "課程中僅限1次"
+          "text": "<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -145546,7 +145546,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145626,7 +145626,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "400"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145726,7 +145726,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "課程中僅限1次"
+          "text": "<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -145793,7 +145793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145873,7 +145873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "420"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145973,7 +145973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "課程中僅限1次"
+          "text": "<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -146040,7 +146040,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -146120,7 +146120,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "460"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -146220,7 +146220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "課程中僅限1次"
+          "text": "<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -146297,7 +146297,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "4"
+          "text": "3"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -146367,7 +146367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "元氣"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -146377,7 +146377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的<nobr>"
+          "text": "14"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -146387,7 +146387,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "100"
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -146654,7 +146654,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "4"
+          "text": "3"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -146724,7 +146724,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "元氣"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -146734,7 +146734,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的<nobr>"
+          "text": "20"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -146744,7 +146744,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "130"
+          "text": "</nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -146804,7 +146804,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "幹勁"
+          "text": "150"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -147101,7 +147101,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "元氣"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -147111,7 +147111,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的<nobr>"
+          "text": "20"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -147121,7 +147121,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "130"
+          "text": "</nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -147181,7 +147181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "幹勁"
+          "text": "170"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -147478,7 +147478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "元氣"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -147488,7 +147488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的<nobr>"
+          "text": "20"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -147498,7 +147498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "130"
+          "text": "</nobr>（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -147558,7 +147558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "幹勁"
+          "text": "190"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -148923,7 +148923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "5"
+          "text": "4"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -148983,7 +148983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "%</nobr>數值變為"
+          "text": "好印象"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149003,7 +149003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "400"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149250,7 +149250,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "5"
+          "text": "4"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149310,7 +149310,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "%</nobr>數值變為"
+          "text": "好印象"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149330,7 +149330,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "500"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149577,7 +149577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "5"
+          "text": "4"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149637,7 +149637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "%</nobr>數值變為"
+          "text": "好印象"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149657,7 +149657,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "540"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149904,7 +149904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "5"
+          "text": "4"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149964,7 +149964,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "%</nobr>數值變為"
+          "text": "好印象"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149984,7 +149984,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升"
+          "text": "600"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262422,7 +262422,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -262432,7 +262432,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "指針"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262442,7 +262442,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "變更的時候，"
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262472,7 +262472,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "+2"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262719,7 +262719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -262729,7 +262729,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "指針"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262739,7 +262739,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "變更的時候，"
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262769,7 +262769,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "+4"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263016,7 +263016,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -263026,7 +263026,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "指針"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263036,7 +263036,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "變更的時候，"
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263066,7 +263066,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "+4"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263313,7 +263313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -263323,7 +263323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "指針"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263333,7 +263333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "變更的時候，"
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -263363,7 +263363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "+4"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265854,7 +265854,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "9"
+          "text": "10"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265864,7 +265864,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "</nobr>"
+          "text": "</nobr>（累積"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -265894,7 +265894,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "下個回合，"
+          "text": "100"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266201,7 +266201,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "</nobr>"
+          "text": "</nobr>（累積"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -266231,7 +266231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "下個回合，"
+          "text": "200"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266301,7 +266301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "課程中僅限1次"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266478,7 +266478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "4"
+          "text": "5"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266538,7 +266538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "</nobr>"
+          "text": "</nobr>（累積"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -266568,7 +266568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "下個回合，"
+          "text": "200"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266638,7 +266638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "課程中僅限1次"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266815,7 +266815,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "4"
+          "text": "5"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266875,7 +266875,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "</nobr>"
+          "text": "</nobr>（累積"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -266905,7 +266905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "下個回合，"
+          "text": "200"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -266975,7 +266975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "課程中僅限1次"
+          "text": "1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306566,7 +306566,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6（2次為限）"
+          "text": "+4（4次為限）"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -306629,7 +306629,7 @@
           "text": ""
         }
       ],
-      "name": "臉皮厚點又怎樣！"
+      "name": "腳踏實地！"
     },
     {
       "id": "p_card-03-ido-3_149",
@@ -306933,7 +306933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6（2次為限）"
+          "text": "+4（4次為限）"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -307300,7 +307300,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6（2次為限）"
+          "text": "+4（4次為限）"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -307667,7 +307667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6（2次為限）"
+          "text": "+4（4次為限）"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
