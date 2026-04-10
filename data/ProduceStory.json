@@ -11320,6 +11320,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hume-3-017-01",
+      "title": "真っ白いページと水彩の主人公 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hume-3-017-02",
+      "title": "真っ白いページと水彩の主人公 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hume-3-017-03",
+      "title": "真っ白いページと水彩の主人公 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-jsna-3-000-01",
       "title": "小さな野望 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -12352,6 +12367,16 @@
     {
       "id": "p_story-s_card-2-0016-02",
       "title": "自主訓練結束後又進行自主訓練",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0017-01",
+      "title": "最喜歡的料理",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0017-02",
+      "title": "不會胖的秘訣",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14302,6 +14327,21 @@
     {
       "id": "p_story-s_card-3-0093-03",
       "title": "向著約定的第一步！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0094-01",
+      "title": "幫大忙的小貓咪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0094-02",
+      "title": "小貓咪與副會長",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0094-03",
+      "title": "術業有專攻",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

@@ -1112,6 +1112,91 @@
       "description": ""
     },
     {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-001-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-001-10",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-002-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-002-10",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-003-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-003-10",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-004-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-005-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-006-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-007-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-008-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-009-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-010-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-010-10",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-011-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-012-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_wednesday-fainal-26-013-01",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_gasha_have_ticket-ssr-fix_10",
       "number": 1,
       "description": ""
@@ -1243,6 +1328,11 @@
     },
     {
       "id": "cd_highscorerush-event-011-release",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_highscorerush-event-012-release",
       "number": 1,
       "description": ""
     },
@@ -1908,6 +1998,151 @@
     },
     {
       "id": "cd_login_bonus_wednesday-26-0401",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0404",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0405",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0406",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0407",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0408",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0409",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0410",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0411",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0412",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0413",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0414",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0415",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0416",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0417",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0418",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0419",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0420",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0421",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0422",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0423",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0424",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0425",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0426",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0427",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0428",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0429",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0430",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0501",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0502",
       "number": 1,
       "description": ""
     },
@@ -6092,6 +6327,16 @@
       "description": ""
     },
     {
+      "id": "cd_time_26_0402-1800",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0410-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time_26_0501-1100",
       "number": 1,
       "description": ""
@@ -6373,6 +6618,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-hume-3-016",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-hume-3-017",
       "number": 1,
       "description": ""
     },
@@ -7163,6 +7413,11 @@
     },
     {
       "id": "cd_view_home-banner-gasha-000410-ssr-idol-support-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_sd-reversi-001",
       "number": 1,
       "description": ""
     },
@@ -8762,6 +9017,11 @@
       "description": "花海咲季的親密度達到Lv20"
     },
     {
+      "id": "cd-dearness_hume-20",
+      "number": 1,
+      "description": "花海佑芽的親密度達到Lv20"
+    },
+    {
       "id": "cd-dearness_jsna-20",
       "number": 1,
       "description": "十王星南的親密度達到Lv20"
@@ -9650,6 +9910,41 @@
       "id": "cd-dearness_level-hume-20",
       "number": 1,
       "description": "將花海佑芽的親密度Lv提升到20"
+    },
+    {
+      "id": "cd-dearness_level-hume-21",
+      "number": 1,
+      "description": "將花海佑芽的親密度Lv提升到21"
+    },
+    {
+      "id": "cd-dearness_level-hume-22",
+      "number": 1,
+      "description": "將花海佑芽的親密度Lv提升到22"
+    },
+    {
+      "id": "cd-dearness_level-hume-23",
+      "number": 1,
+      "description": "將花海佑芽的親密度Lv提升到23"
+    },
+    {
+      "id": "cd-dearness_level-hume-24",
+      "number": 1,
+      "description": "將花海佑芽的親密度Lv提升到24"
+    },
+    {
+      "id": "cd-dearness_level-hume-25",
+      "number": 1,
+      "description": "將花海佑芽的親密度Lv提升到25"
+    },
+    {
+      "id": "cd-dearness_level-hume-26",
+      "number": 1,
+      "description": "將花海佑芽的親密度Lv提升到26"
+    },
+    {
+      "id": "cd-dearness_level-hume-27",
+      "number": 1,
+      "description": "將花海佑芽的親密度Lv提升到27"
     },
     {
       "id": "cd-dearness_level-jsna-01",
@@ -10628,6 +10923,16 @@
     },
     {
       "id": "cd-dearness_normal-mission_hski-0001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_normal-mission_hume-0001",
+      "number": 1,
+      "description": "親密度強化活動結束後"
+    },
+    {
+      "id": "cd-dearness_normal-mission_hume-0001",
       "number": 2,
       "description": ""
     },
@@ -12582,6 +12887,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-1-20-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-1-20-jsna",
       "number": 1,
       "description": ""
@@ -12642,6 +12952,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-21-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-21-jsna",
       "number": 1,
       "description": ""
@@ -12688,6 +13003,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-22-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-22-hume",
       "number": 1,
       "description": ""
     },
@@ -12742,6 +13062,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-23-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-23-jsna",
       "number": 1,
       "description": ""
@@ -12788,6 +13113,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-24-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-24-hume",
       "number": 1,
       "description": ""
     },
@@ -12842,6 +13172,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-25-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-25-jsna",
       "number": 1,
       "description": ""
@@ -12892,6 +13227,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-26-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-26-jsna",
       "number": 1,
       "description": ""
@@ -12938,6 +13278,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-27-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-27-hume",
       "number": 1,
       "description": ""
     },
@@ -17278,6 +17623,11 @@
     },
     {
       "id": "cd-release-music-inst-hume-03",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-hume-04",
       "number": 1,
       "description": ""
     },
