@@ -5610,6 +5610,38 @@
       "name": "在獲得技能卡「國民級偶像」的狀態下完成培育吧"
     },
     {
+      "id": "mission-research-event-006-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_10",
+      "name": "在持有技能卡「閃耀吧！」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_11",
+      "name": "在持有技能卡「成為偶像」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_12",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_2",
+      "name": "讓方案：感性的培育用偶像取得{threshold}次最終考試合格吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_3",
+      "name": "在培育的諮詢中兌換{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_8",
+      "name": "在持有技能卡「去往頂點」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-006-mission_9",
+      "name": "在持有技能卡「高潮」的狀態下完成培育吧"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "登入{threshold}天吧"
     },

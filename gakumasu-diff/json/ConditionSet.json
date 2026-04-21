@@ -3167,6 +3167,11 @@
             "description": ""
         },
         {
+            "id": "cd_memory-dearness-unlock-hume-release_open",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_memory-dearness-unlock-jsna-release_open",
             "number": 1,
             "description": ""
@@ -4139,6 +4144,101 @@
         {
             "id": "cd_purchase_shop_pack_item-newyearpack-02",
             "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-a-1",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-a-2",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-a-3",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-b-1",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-b-2",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-b-3",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-c-1",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-c-2",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-c-3",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-3",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-medal-event-all-001",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-memory_exchange-class1",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-memory_exchange-class2",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-memory_exchange-class3",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-money",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-produce_continue-1",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-research-event-006",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-support_card_enhance_point",
+            "number": 1,
             "description": ""
         },
         {
@@ -6342,6 +6442,21 @@
             "description": ""
         },
         {
+            "id": "cd_time_26_0415-1100",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0416-1900",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0420_1100",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd_time_26_0501-1100",
             "number": 1,
             "description": ""
@@ -7533,6 +7648,16 @@
         },
         {
             "id": "cd_view_shop_costume_item-0070",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-0072",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-0072",
             "number": 2,
             "description": ""
         },
@@ -10944,7 +11069,7 @@
         {
             "id": "cd-dearness_normal-mission_hume-0001",
             "number": 1,
-            "description": "親愛度ブーストキャンペーン終了後"
+            "description": "親愛度Lv20達成時"
         },
         {
             "id": "cd-dearness_normal-mission_hume-0001",
@@ -11767,6 +11892,11 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_hski-cstm-0081",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_hski-cstm-0111",
             "number": 1,
             "description": ""
@@ -11974,6 +12104,21 @@
         {
             "id": "cd-have_costume_ssmk-cstm-0069",
             "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_ssmk-cstm-0081",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_ssmk-cstm-0081-hski-cstm-0081",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_ssmk-cstm-0081-hski-cstm-0081",
+            "number": 2,
             "description": ""
         },
         {
@@ -16037,6 +16182,11 @@
             "description": ""
         },
         {
+            "id": "cd-ralease_dearness-story-hume",
+            "number": 1,
+            "description": ""
+        },
+        {
             "id": "cd-ralease_dearness-story-jsna",
             "number": 1,
             "description": ""
@@ -17297,6 +17447,21 @@
             "description": ""
         },
         {
+            "id": "cd-release-music-inst-all-010",
+            "number": 12,
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-010",
+            "number": 13,
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-010",
+            "number": 14,
+            "description": ""
+        },
+        {
             "id": "cd-release-music-inst-all-011",
             "number": 1,
             "description": ""
@@ -18212,6 +18377,16 @@
             "description": ""
         },
         {
+            "id": "cd-shop_costume_hski-cstm-0081",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_hski-cstm-0081",
+            "number": 2,
+            "description": ""
+        },
+        {
             "id": "cd-shop_costume_hski-cstm-0111",
             "number": 1,
             "description": ""
@@ -18398,6 +18573,16 @@
         },
         {
             "id": "cd-shop_costume_ssmk-cstm-0069_revival-1",
+            "number": 2,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_ssmk-cstm-0081",
+            "number": 1,
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_ssmk-cstm-0081",
             "number": 2,
             "description": ""
         },

@@ -226,6 +226,11 @@
       "description": "【理論武装して】'26 女兒節 雨夜燕 獲得"
     },
     {
+      "id": "atbm-cstm-0081",
+      "name": "桜フォトグラフ",
+      "description": "【理論武装して】'26 櫻花 雨夜燕 獲得"
+    },
+    {
       "id": "atbm-cstm-0106",
       "name": "理論武装して",
       "description": "【理論武装して】雨夜燕 獲得"
@@ -544,6 +549,11 @@
       "id": "hmsz-cstm-0076",
       "name": "雪解けに",
       "description": "【ツキノカメ】'26 女兒節 秦谷美鈴 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0081",
+      "name": "桜フォトグラフ",
+      "description": "【ツキノカメ】'26 櫻花 秦谷美鈴 獲得"
     },
     {
       "id": "hmsz-cstm-0110",
@@ -906,6 +916,11 @@
       "description": "【桜フォトグラフ】花海咲季的才能開花第4階段 獲得"
     },
     {
+      "id": "hski-cstm-0081",
+      "name": "櫻花水手服",
+      "description": "購買櫻花水手服（花海咲季）"
+    },
+    {
       "id": "hski-cstm-0082",
       "name": "Wildest Flower",
       "description": "【Wildest Flower】花海咲季 獲得"
@@ -1074,6 +1089,11 @@
       "id": "hume-cstm-0076",
       "name": "雪解けに",
       "description": "【The Rolling Riceball】'26 女兒節 花海佑芽 獲得"
+    },
+    {
+      "id": "hume-cstm-0081",
+      "name": "桜フォトグラフ",
+      "description": "【The Rolling Riceball】'26 櫻花 花海佑芽 獲得"
     },
     {
       "id": "hume-cstm-0100",
@@ -2054,6 +2074,11 @@
       "id": "ssmk-cstm-0080",
       "name": "桜フォトグラフ",
       "description": "【桜フォトグラフ】紫雲清夏的才能開花第4階段 獲得"
+    },
+    {
+      "id": "ssmk-cstm-0081",
+      "name": "櫻花水手服",
+      "description": "購買櫻花水手服（紫雲清夏）"
     },
     {
       "id": "ssmk-cstm-0096",

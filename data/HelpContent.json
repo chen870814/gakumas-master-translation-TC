@@ -1263,6 +1263,24 @@
     },
     {
       "helpCategoryId": "help-research-event",
+      "id": "research-event-bonus",
+      "order": 6,
+      "name": "活動獎勵"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-coin",
+      "order": 5,
+      "name": "活動兌換所道具"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-point",
+      "order": 4,
+      "name": "累計活動Pt報酬"
+    },
+    {
+      "helpCategoryId": "help-research-event",
       "id": "research-event-event-produce",
       "order": 2,
       "name": "活動專用的培育"
