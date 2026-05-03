@@ -10,8 +10,10 @@ def convert_files():
     
     # 创建输出文件夹，如果已存在则先删除
     if os.path.exists(output_folder):
+        shutil.move('./pretranslate_todo/todo/jp_cn/其他.json','./pretranslate_todo/todo/其他.json')
         shutil.rmtree(output_folder)
     os.makedirs(output_folder)
+    shutil.move('./pretranslate_todo/todo/其他.json','./pretranslate_todo/todo/jp_cn/其他.json')
     
     # 获取日语文件夹中的所有JSON文件
     jp_files = [f for f in os.listdir(jp_folder) if f.endswith('.json')]

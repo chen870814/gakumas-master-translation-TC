@@ -1,6 +1,7 @@
 {
   "dearness_panel-mission_amao_01|name": "親密度強化活動",
   "dearness_panel-mission_fktn_01|name": "親密度強化活動",
+  "dearness_panel-mission_hmsz_01|name": "親密度強化活動",
   "dearness_panel-mission_hrnm_01|name": "親密度強化活動",
   "dearness_panel-mission_hski_01|name": "親密度強化活動",
   "dearness_panel-mission_hume_01|name": "親密度強化活動",
@@ -26,6 +27,7 @@
   "panel_mission-event-006|name": "拼圖任務",
   "panel_mission-event-007|name": "十王邦夫的挑戰任務 ~NIA篇~",
   "panel_mission-event-008|name": "十王邦夫的挑戰任務 ~Step3篇~",
+  "panel_mission-event-009|name": "十王邦夫的挑戰任務 ~H.I.F應援篇~",
   "panel_mission-event-niv|name": "十王邦夫的挑戰任務 ~A+之路~",
   "panel-mission-01|name": "拼圖任務"
 }

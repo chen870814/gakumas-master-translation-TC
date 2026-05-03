@@ -10975,6 +10975,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hmsz-3-016-01",
+      "title": "VEIL 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-016-02",
+      "title": "VEIL 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-016-03",
+      "title": "VEIL 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hrnm-3-000-01",
       "title": "clumsy trick 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -12920,6 +12935,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0074-01",
+      "title": "悠閒的午茶時光",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0074-02",
+      "title": "極品檸檬蛋糕",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0000-01",
       "title": "『友情』午餐",
       "produceEventHintProduceConditionDescriptions": []
@@ -14357,6 +14382,21 @@
     {
       "id": "p_story-s_card-3-0095-03",
       "title": "第一次跑腿感覺如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0096-01",
+      "title": "新的回憶",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0096-02",
+      "title": "感激與怨念的美食巡禮",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0096-03",
+      "title": "兩人共賞海景的記憶",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

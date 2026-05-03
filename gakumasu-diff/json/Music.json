@@ -1251,6 +1251,16 @@
             "displayTitle": "自己肯定感爆上げ↑↑しゅきしゅきソング [Instrumental]"
         },
         {
+            "id": "music-char-fktn-005",
+            "title": "ふわふわ",
+            "displayTitle": "ふわふわ"
+        },
+        {
+            "id": "music-char-fktn-005-inst",
+            "title": "ふわふわ [Instrumental]",
+            "displayTitle": "ふわふわ [Instrumental]"
+        },
+        {
             "id": "music-char-hmsz-001",
             "title": "ツキノカメ",
             "displayTitle": "ツキノカメ"
@@ -1279,6 +1289,16 @@
             "id": "music-char-hmsz-003-inst",
             "title": "たいせつなもの [Instrumental]",
             "displayTitle": "たいせつなもの [Instrumental]"
+        },
+        {
+            "id": "music-char-hmsz-004",
+            "title": "VEIL",
+            "displayTitle": "VEIL"
+        },
+        {
+            "id": "music-char-hmsz-004-inst",
+            "title": "VEIL [Instrumental]",
+            "displayTitle": "VEIL [Instrumental]"
         },
         {
             "id": "music-char-hmsz-005",

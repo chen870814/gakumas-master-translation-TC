@@ -1337,6 +1337,11 @@
       "description": ""
     },
     {
+      "id": "cd_highscorerush-event-013-release",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_hume_have_onsen_1",
       "number": 1,
       "description": ""
@@ -6457,6 +6462,21 @@
       "description": ""
     },
     {
+      "id": "cd_time_26_0428-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0429-0000",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0429-1100_0516-0959",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time_26_0501-1100",
       "number": 1,
       "description": ""
@@ -6633,6 +6653,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-hmsz-3-015",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-hmsz-3-016",
       "number": 1,
       "description": ""
     },
@@ -8137,6 +8162,11 @@
       "description": ""
     },
     {
+      "id": "cd-birthday-fktn-2026",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-birthday-fktn-home_board",
       "number": 1,
       "description": ""
@@ -8937,6 +8967,11 @@
       "description": ""
     },
     {
+      "id": "cd-clear-hidden_mission-view-gasha-00870-free-10-007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-clear-hidden_mission-view-gasha-200limit-select-pickup-001",
       "number": 1,
       "description": ""
@@ -9145,6 +9180,11 @@
       "id": "cd-dearness_fktn-20",
       "number": 1,
       "description": "藤田琴音的親密度達到Lv20"
+    },
+    {
+      "id": "cd-dearness_hmsz-20",
+      "number": 1,
+      "description": "秦谷美鈴的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_hrnm-20",
@@ -9735,6 +9775,41 @@
       "id": "cd-dearness_level-hmsz-20",
       "number": 1,
       "description": "將秦谷美鈴的親密度Lv提升到20"
+    },
+    {
+      "id": "cd-dearness_level-hmsz-21",
+      "number": 1,
+      "description": "將秦谷美鈴的親密度Lv提升到21"
+    },
+    {
+      "id": "cd-dearness_level-hmsz-22",
+      "number": 1,
+      "description": "將秦谷美鈴的親密度Lv提升到22"
+    },
+    {
+      "id": "cd-dearness_level-hmsz-23",
+      "number": 1,
+      "description": "將秦谷美鈴的親密度Lv提升到23"
+    },
+    {
+      "id": "cd-dearness_level-hmsz-24",
+      "number": 1,
+      "description": "將秦谷美鈴的親密度Lv提升到24"
+    },
+    {
+      "id": "cd-dearness_level-hmsz-25",
+      "number": 1,
+      "description": "將秦谷美鈴的親密度Lv提升到25"
+    },
+    {
+      "id": "cd-dearness_level-hmsz-26",
+      "number": 1,
+      "description": "將秦谷美鈴的親密度Lv提升到26"
+    },
+    {
+      "id": "cd-dearness_level-hmsz-27",
+      "number": 1,
+      "description": "將秦谷美鈴的親密度Lv提升到27"
     },
     {
       "id": "cd-dearness_level-hrnm-01",
@@ -11047,6 +11122,16 @@
       "description": ""
     },
     {
+      "id": "cd-dearness_normal-mission_hmsz-0001",
+      "number": 1,
+      "description": "親密度強化活動結束後"
+    },
+    {
+      "id": "cd-dearness_normal-mission_hmsz-0001",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-dearness_normal-mission_hrnm-0001",
       "number": 1,
       "description": "親密度達到Lv20時"
@@ -11432,6 +11517,16 @@
       "description": ""
     },
     {
+      "id": "cd-gasha-00870-free-10-007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-gasha-00870-free-10-007",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-hajime_legend_produce-unlock_open",
       "number": 1,
       "description": "任意一個偶像的親密度達到Lv10加上PLv50以上即可解鎖"
@@ -11662,6 +11757,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_fktn-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_hrnm-hair-0001",
       "number": 1,
       "description": ""
@@ -11702,6 +11802,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_hski-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_hume-hair-0003",
       "number": 1,
       "description": ""
@@ -11723,6 +11828,11 @@
     },
     {
       "id": "cd-have_costume_head_jsna-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_jsna-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -11838,6 +11948,11 @@
     },
     {
       "id": "cd-have_costume_head_ttmr-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_ttmr-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -12333,6 +12448,11 @@
     },
     {
       "id": "cd-home_background-birthday-amao-2026",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-birthday-fktn-2026",
       "number": 1,
       "description": ""
     },
@@ -13057,6 +13177,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-1-20-hmsz",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-1-20-hrnm",
       "number": 1,
       "description": ""
@@ -13122,6 +13247,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-21-hmsz",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-21-hrnm",
       "number": 1,
       "description": ""
@@ -13173,6 +13303,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-22-fktn",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-22-hmsz",
       "number": 1,
       "description": ""
     },
@@ -13232,6 +13367,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-23-hmsz",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-23-hrnm",
       "number": 1,
       "description": ""
@@ -13283,6 +13423,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-24-fktn",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-24-hmsz",
       "number": 1,
       "description": ""
     },
@@ -13342,6 +13487,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-25-hmsz",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-25-hrnm",
       "number": 1,
       "description": ""
@@ -13397,6 +13547,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-26-hmsz",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-26-hrnm",
       "number": 1,
       "description": ""
@@ -13448,6 +13603,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-27-fktn",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-27-hmsz",
       "number": 1,
       "description": ""
     },
@@ -15167,6 +15327,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_fktn-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_hrnm-hair-0004",
       "number": 1,
       "description": ""
@@ -15187,6 +15352,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_hski-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_hume-hair-0004",
       "number": 1,
       "description": ""
@@ -15203,6 +15373,11 @@
     },
     {
       "id": "cd-purchase_costume_head_jsna-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_jsna-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -15283,6 +15458,11 @@
     },
     {
       "id": "cd-purchase_costume_head_ttmr-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_ttmr-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -15738,6 +15918,11 @@
     },
     {
       "id": "cd-purchase_shop_jewel_item-0026",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_shop_jewel_item-0030",
       "number": 1,
       "description": ""
     },
@@ -17732,6 +17917,11 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-fktn-005",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-fktn-01",
       "number": 1,
       "description": ""
@@ -17768,6 +17958,11 @@
     },
     {
       "id": "cd-release-music-inst-hmsz-03",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-hmsz-04",
       "number": 1,
       "description": ""
     },
@@ -19912,6 +20107,16 @@
       "description": ""
     },
     {
+      "id": "cd-view_home-banner-shop_jewel_item-0030",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-shop_jewel_item-0030",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-view_home-banner-shop_jewel_item-0063",
       "number": 1,
       "description": ""
@@ -20467,6 +20672,16 @@
       "description": ""
     },
     {
+      "id": "cd-view-start-up-notification-panel_mission-event-009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-start-up-notification-panel_mission-event-009",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-view-startup_notification_box-gasha-event-007",
       "number": 1,
       "description": ""
@@ -20775,6 +20990,21 @@
       "id": "pannel-mission-event-008_time",
       "number": 3,
       "description": "任意一個偶像的親密度達到Lv20後解鎖"
+    },
+    {
+      "id": "pannel-mission-event-009_time",
+      "number": 1,
+      "description": "任意一個偶像的親密度達到Lv27後解鎖"
+    },
+    {
+      "id": "pannel-mission-event-009_time",
+      "number": 2,
+      "description": "任意一個偶像的親密度達到Lv27後解鎖"
+    },
+    {
+      "id": "pannel-mission-event-009_time",
+      "number": 3,
+      "description": "任意一個偶像的親密度達到Lv27後解鎖"
     },
     {
       "id": "pannel-mission-event-halfaniv_time",

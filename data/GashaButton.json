@@ -286,6 +286,15 @@
       "bottomAppealText": ""
     },
     {
+      "id": "gasha_button-00870-free-10-07",
+      "order": 3,
+      "name": "10連無料，最多100連無料扭蛋",
+      "description": "10連扭蛋",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10連道具扭蛋",

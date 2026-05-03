@@ -6,6 +6,7 @@ import glob
 filedir = './pretranslate_todo/todo/'
 pattern = '*.json'
 
+
 filelist = glob.glob(os.path.join(filedir, pattern))
 
 def fill_translations(jsonfile):
@@ -28,6 +29,7 @@ def fill_translations(jsonfile):
     translations_found = 0
     main_file_dir = os.path.dirname(jsonfile) or '.'
     jp_cn_dir = os.path.join(main_file_dir, 'jp_cn')
+    ext_file  = os.path.join(main_file_dir, '其他.json')
 
     for filename in os.listdir(jp_cn_dir):
         if not filename.endswith('.json'):
@@ -45,17 +47,12 @@ def fill_translations(jsonfile):
         # 3. 查找匹配的键并填充翻译
         for key in list(empty_keys):  # 使用list创建副本以便在迭代时修改
             if key in translation_data and translation_data[key]:
-                '''
-                if "（" in main_data[key]:
-                    main_data[key] = re.sub(r'（*）', '', translation_data[key])
-                else:
-                    main_data[key] = translation_data[key]
-                '''
-                
                 main_data[key] = translation_data[key]
                 empty_keys.remove(key)
                 translations_found += 1
                 print(f"找到翻译：{key} -> {translation_data[key]}")
+
+        
                 
         # 如果所有空键都已填充，可以提前退出
         if not empty_keys:
