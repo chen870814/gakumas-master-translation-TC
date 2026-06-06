@@ -122,6 +122,10 @@
             "name": "はつみ☆アクセサリー（秦谷美鈴）"
         },
         {
+            "id": "shop_costume_costume_head_hmsz-hair-0007",
+            "name": "ティアドロップグラス（秦谷美鈴）"
+        },
+        {
             "id": "shop_costume_costume_head_hrnm-hair-0001",
             "name": "紫陽花の髪飾り（姫崎莉波）"
         },
@@ -174,6 +178,10 @@
             "name": "はつみ☆アクセサリー（花海佑芽）"
         },
         {
+            "id": "shop_costume_costume_head_hume-hair-0007",
+            "name": "ティアドロップグラス（花海佑芽）"
+        },
+        {
             "id": "shop_costume_costume_head_jsna-hair-0001",
             "name": "紫陽花の髪飾り（十王星南）"
         },
@@ -208,6 +216,10 @@
         {
             "id": "shop_costume_costume_head_kcna-hair-0006",
             "name": "はつみ☆アクセサリー（倉本千奈）"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0007",
+            "name": "ティアドロップグラス（倉本千奈）"
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -252,6 +264,10 @@
         {
             "id": "shop_costume_costume_head_shro-hair-0006",
             "name": "はつみ☆アクセサリー（篠澤広）"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0007",
+            "name": "ティアドロップグラス（篠澤広）"
         },
         {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -686,6 +702,14 @@
             "name": "【1回きりお得！】ジュエル12,300個"
         },
         {
+            "id": "shop_jewel_item-0032",
+            "name": "【1回きりお得！】ジュエル12,300個"
+        },
+        {
+            "id": "shop_jewel_item-0033",
+            "name": "【2回きりお得！】ジュエル6,000個"
+        },
+        {
             "id": "shop_pack_atbm-0001",
             "name": "【72時間限定】プロデュースアイドルピースパック（燕）"
         },
@@ -782,6 +806,22 @@
             "name": "TVCM放映記念 育成お得パックB"
         },
         {
+            "id": "shop_pack_item-0067",
+            "name": "2nd アニバーサリーアイドルパック"
+        },
+        {
+            "id": "shop_pack_item-0068",
+            "name": "2nd アニバーサリーサポートパック"
+        },
+        {
+            "id": "shop_pack_item-0069",
+            "name": "2nd アニバーサリーライブツアーSSR Pアイドル確定パック"
+        },
+        {
+            "id": "shop_pack_item-0071",
+            "name": "The 2nd Period H.I.F選抜試験 開催記念パック"
+        },
+        {
             "id": "shop_pack_item-100dl",
             "name": "【100万DL記念】育成パック（6/28まで）"
         },
@@ -796,6 +836,10 @@
         {
             "id": "shop_pack_item-300dl-selection-ticket-pack",
             "name": "300万DL記念パック"
+        },
+        {
+            "id": "shop_pack_item-66",
+            "name": "2nd アニバーサリー前夜祭パック"
         },
         {
             "id": "shop_pack_item-aniversary-selection-ticket",
@@ -1000,6 +1044,10 @@
         {
             "id": "shop_pass_item-0025",
             "name": "プレミアムミッションパス 2026年5月"
+        },
+        {
+            "id": "shop_pass_item-0026",
+            "name": "プレミアムミッションパス 2026年6月"
         }
     ]
 }

@@ -6,9 +6,12 @@
             "upgradeProduceCardProduceDescriptions.examDescriptionType",
             "upgradeProduceCardProduceDescriptions.examEffectType",
             "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType",
+            "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType",
             "upgradeProduceCardProduceDescriptions.produceCardCategory",
             "upgradeProduceCardProduceDescriptions.produceCardMovePositionType",
-            "upgradeProduceCardProduceDescriptions.produceStepType"
+            "upgradeProduceCardProduceDescriptions.produceStepType",
+            "upgradeProduceCardProduceDescriptions.produceStepBusinessType",
+            "upgradeProduceCardProduceDescriptions.targetId"
         ]
     },
     "data": [
@@ -23,10 +26,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "念入りにストレッチ"
+            ]
         },
         {
             "id": "s_card-1-0001",
@@ -39,10 +43,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "全力、その後"
+            ]
         },
         {
             "id": "s_card-1-0002",
@@ -55,10 +60,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "枝毛をくるり"
+            ]
         },
         {
             "id": "s_card-1-0003",
@@ -71,10 +77,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "王子様のひと呼吸"
+            ]
         },
         {
             "id": "s_card-1-0004",
@@ -87,10 +94,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "頼れる先輩お姉さん"
+            ]
         },
         {
             "id": "s_card-1-0005",
@@ -103,10 +111,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "いめーじとれーにんぐ"
+            ]
         },
         {
             "id": "s_card-1-0006",
@@ -119,10 +128,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "ひたむき居残りレッスン"
+            ]
         },
         {
             "id": "s_card-1-0007",
@@ -135,10 +145,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "スイッチON！"
+            ]
         },
         {
             "id": "s_card-1-0008",
@@ -151,10 +162,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "憧れを目指して"
+            ]
         },
         {
             "id": "s_card-1-0009",
@@ -167,10 +179,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "お姉ちゃん直伝メニュー"
+            ]
         },
         {
             "id": "s_card-1-0010",
@@ -183,10 +196,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "わたしのペースで"
+            ]
         },
         {
             "id": "s_card-1-0011",
@@ -199,10 +213,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "完全無欠のプランニング"
+            ]
         },
         {
             "id": "s_card-1-0012",
@@ -215,10 +230,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "謹厳実直"
+            ]
         },
         {
             "id": "s_card-2-0000",
@@ -231,10 +247,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "体当たりのラブコール"
+            ]
         },
         {
             "id": "s_card-2-0001",
@@ -247,10 +264,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "今はあえて、背を向けて"
+            ]
         },
         {
             "id": "s_card-2-0002",
@@ -263,10 +281,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "のらりくらりしっかり"
+            ]
         },
         {
             "id": "s_card-2-0003",
@@ -279,10 +298,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "愛無き暗記は難しい"
+            ]
         },
         {
             "id": "s_card-2-0004",
@@ -295,10 +315,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "てとりあしとり"
+            ]
         },
         {
             "id": "s_card-2-0005",
@@ -311,10 +332,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ほっぺた、ぷに"
+            ]
         },
         {
             "id": "s_card-2-0006",
@@ -327,10 +349,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "魅惑の大腿四頭筋"
+            ]
         },
         {
             "id": "s_card-2-0007",
@@ -343,10 +366,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ふわふわでワクワク"
+            ]
         },
         {
             "id": "s_card-2-0008",
@@ -359,10 +383,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "嬉し恥ずかし夢心地"
+            ]
         },
         {
             "id": "s_card-2-0009",
@@ -375,10 +400,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "実食！例のSSD"
+            ]
         },
         {
             "id": "s_card-2-0010",
@@ -391,10 +417,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "マイペース、マイライフ"
+            ]
         },
         {
             "id": "s_card-2-0011",
@@ -407,10 +434,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "思惑とガクガク"
+            ]
         },
         {
             "id": "s_card-2-0012",
@@ -423,10 +451,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ほっとけないクラスメイト"
+            ]
         },
         {
             "id": "s_card-2-0013",
@@ -439,10 +468,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "いつか、きっと花開く"
+            ]
         },
         {
             "id": "s_card-2-0014",
@@ -455,10 +485,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率小"
                 }
-            ],
-            "name": "はじめてのお友達"
+            ]
         },
         {
             "id": "s_card-2-0015",
@@ -471,10 +502,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "イヤホンはんぶんこ"
+            ]
         },
         {
             "id": "s_card-2-0016",
@@ -487,10 +519,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "どりゃぎゃ"
+            ]
         },
         {
             "id": "s_card-2-0017",
@@ -503,10 +536,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "パクパクもぐもぐ"
+            ]
         },
         {
             "id": "s_card-2-0018",
@@ -519,10 +553,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "かちこちストレッチ"
+            ]
         },
         {
             "id": "s_card-2-0019",
@@ -535,10 +570,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "パシャっとキメポ"
+            ]
         },
         {
             "id": "s_card-2-0020",
@@ -551,10 +587,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "海、楽しまなきゃ！"
+            ]
         },
         {
             "id": "s_card-2-0021",
@@ -567,10 +604,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "第五種接近遭遇"
+            ]
         },
         {
             "id": "s_card-2-0022",
@@ -583,10 +621,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "今日は見学なんです"
+            ]
         },
         {
             "id": "s_card-2-0023",
@@ -599,10 +638,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "やさしさ、あったかい"
+            ]
         },
         {
             "id": "s_card-2-0024",
@@ -615,10 +655,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "キュッと締めて"
+            ]
         },
         {
             "id": "s_card-2-0025",
@@ -631,10 +672,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ふわふわなお面？"
+            ]
         },
         {
             "id": "s_card-2-0026",
@@ -647,10 +689,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ぐつぐつ、いいにおい♪"
+            ]
         },
         {
             "id": "s_card-2-0027",
@@ -663,10 +706,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ブレイクタイムは珈琲で"
+            ]
         },
         {
             "id": "s_card-2-0028",
@@ -679,10 +723,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "りっぱなすすき！"
+            ]
         },
         {
             "id": "s_card-2-0029",
@@ -695,10 +740,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "千奈の恩返し"
+            ]
         },
         {
             "id": "s_card-2-0030",
@@ -711,10 +757,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "興味深い飲み物"
+            ]
         },
         {
             "id": "s_card-2-0031",
@@ -727,10 +774,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "SSDのひみつ"
+            ]
         },
         {
             "id": "s_card-2-0032",
@@ -743,10 +791,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "サンマ、パタパタ"
+            ]
         },
         {
             "id": "s_card-2-0033",
@@ -759,10 +808,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "バズっちゃお！"
+            ]
         },
         {
             "id": "s_card-2-0034",
@@ -775,10 +825,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "トンボをつかまえて"
+            ]
         },
         {
             "id": "s_card-2-0035",
@@ -791,10 +842,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ディカプルエックスエル！"
+            ]
         },
         {
             "id": "s_card-2-0036",
@@ -807,10 +859,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "きゅる〜んωポーズッ☆"
+            ]
         },
         {
             "id": "s_card-2-0037",
@@ -823,10 +876,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "カロリー/2でハッピー×2"
+            ]
         },
         {
             "id": "s_card-2-0038",
@@ -839,10 +893,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "目指すはテッペン"
+            ]
         },
         {
             "id": "s_card-2-0039",
@@ -855,10 +910,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "まだまだのばしてー"
+            ]
         },
         {
             "id": "s_card-2-0040",
@@ -871,10 +927,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "基礎＞応用"
+            ]
         },
         {
             "id": "s_card-2-0041",
@@ -887,10 +944,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "SSCの爆誕"
+            ]
         },
         {
             "id": "s_card-2-0042",
@@ -903,10 +961,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "まごころを込めて"
+            ]
         },
         {
             "id": "s_card-2-0043",
@@ -919,10 +978,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "佑芽ソリレース、疾走！"
+            ]
         },
         {
             "id": "s_card-2-0044",
@@ -935,10 +995,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ピューとシューの二重奏"
+            ]
         },
         {
             "id": "s_card-2-0045",
@@ -951,10 +1012,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "虫愛づる王子様"
+            ]
         },
         {
             "id": "s_card-2-0046",
@@ -967,10 +1029,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ピコピコでポーン"
+            ]
         },
         {
             "id": "s_card-2-0047",
@@ -983,10 +1046,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "奥義、三重とび！"
+            ]
         },
         {
             "id": "s_card-2-0048",
@@ -999,10 +1063,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ガールズ♡トーク"
+            ]
         },
         {
             "id": "s_card-2-0049",
@@ -1015,10 +1080,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "屈辱の2位"
+            ]
         },
         {
             "id": "s_card-2-0050",
@@ -1031,10 +1097,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "2名様、ご案内～♪"
+            ]
         },
         {
             "id": "s_card-2-0051",
@@ -1047,10 +1114,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "主菓子、甘い、薄茶、渋み"
+            ]
         },
         {
             "id": "s_card-2-0052",
@@ -1063,10 +1131,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "あん・どぅ・とろわっ！"
+            ]
         },
         {
             "id": "s_card-2-0053",
@@ -1079,10 +1148,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ばたんきゅー"
+            ]
         },
         {
             "id": "s_card-2-0054",
@@ -1095,10 +1165,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "むず×2ふぁっしょんしょー"
+            ]
         },
         {
             "id": "s_card-2-0056",
@@ -1111,10 +1182,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "スパルタ＆スパイス"
+            ]
         },
         {
             "id": "s_card-2-0058",
@@ -1127,10 +1199,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ちべたなひととき"
+            ]
         },
         {
             "id": "s_card-2-0059",
@@ -1143,10 +1216,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "師弟の修行"
+            ]
         },
         {
             "id": "s_card-2-0060",
@@ -1159,10 +1233,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "トゲトゲ注意報"
+            ]
         },
         {
             "id": "s_card-2-0061",
@@ -1175,10 +1250,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "腹筋で背筋で体幹キープ！"
+            ]
         },
         {
             "id": "s_card-2-0062",
@@ -1191,10 +1267,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "はっぴぃはろうぃ～～ん！"
+            ]
         },
         {
             "id": "s_card-2-0063",
@@ -1207,10 +1284,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "あったか足ツボマッサージ"
+            ]
         },
         {
             "id": "s_card-2-0064",
@@ -1223,10 +1301,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ごきげんような挨拶♪"
+            ]
         },
         {
             "id": "s_card-2-0065",
@@ -1239,10 +1318,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "眠れる森の王子様"
+            ]
         },
         {
             "id": "s_card-2-0066",
@@ -1255,10 +1335,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "バディ？"
+            ]
         },
         {
             "id": "s_card-2-0067",
@@ -1271,10 +1352,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "おひさま笑顔、満開ふたつ"
+            ]
         },
         {
             "id": "s_card-2-0068",
@@ -1287,10 +1369,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "仲良しの証"
+            ]
         },
         {
             "id": "s_card-2-0069",
@@ -1303,10 +1386,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "一番星と王子様"
+            ]
         },
         {
             "id": "s_card-2-0070",
@@ -1319,10 +1403,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "洗濯物のバランスタワー"
+            ]
         },
         {
             "id": "s_card-2-0071",
@@ -1335,10 +1420,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "お近づきの印☆"
+            ]
         },
         {
             "id": "s_card-2-0072",
@@ -1351,10 +1437,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "騎士とおてんば姫"
+            ]
         },
         {
             "id": "s_card-2-0073",
@@ -1367,10 +1454,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "ひっぱりじゅーなん"
+            ]
         },
         {
             "id": "s_card-2-0074",
@@ -1383,10 +1471,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "のんびり美味しいひととき"
+            ]
         },
         {
             "id": "s_card-3-0000",
@@ -1399,10 +1488,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "あなたにも作ってあげる！"
+            ]
         },
         {
             "id": "s_card-3-0001",
@@ -1415,10 +1505,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "何やってるんだろう、"
+            ]
         },
         {
             "id": "s_card-3-0002",
@@ -1431,10 +1522,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "こいつらめんどくさー"
+            ]
         },
         {
             "id": "s_card-3-0003",
@@ -1447,10 +1539,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "お姉ちゃんに任せなさい！"
+            ]
         },
         {
             "id": "s_card-3-0004",
@@ -1463,10 +1556,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ぐぬぬぬぬ…………！"
+            ]
         },
         {
             "id": "s_card-3-0005",
@@ -1479,10 +1573,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "次の桜の季節には。"
+            ]
         },
         {
             "id": "s_card-3-0006",
@@ -1495,10 +1590,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "お疲れ様、千奈ちゃん。"
+            ]
         },
         {
             "id": "s_card-3-0007",
@@ -1511,10 +1607,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "まるで王子様みたいな"
+            ]
         },
         {
             "id": "s_card-3-0008",
@@ -1527,10 +1624,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "おいしい顔、いただき～！"
+            ]
         },
         {
             "id": "s_card-3-0009",
@@ -1543,10 +1641,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "わたしたち、やればできる"
+            ]
         },
         {
             "id": "s_card-3-0010",
@@ -1559,10 +1658,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "可愛いと可愛いで可愛い！"
+            ]
         },
         {
             "id": "s_card-3-0011",
@@ -1575,10 +1675,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "私の目に狂いはない"
+            ]
         },
         {
             "id": "s_card-3-0012",
@@ -1591,10 +1692,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "また、あんなに無理をして"
+            ]
         },
         {
             "id": "s_card-3-0013",
@@ -1607,10 +1709,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "あら、奇遇ね"
+            ]
         },
         {
             "id": "s_card-3-0014",
@@ -1623,10 +1726,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "まじか。"
+            ]
         },
         {
             "id": "s_card-3-0015",
@@ -1639,10 +1743,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "仕事のつもりで臨みなさい"
+            ]
         },
         {
             "id": "s_card-3-0016",
@@ -1655,10 +1760,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "1人たりとも欠ける事なく"
+            ]
         },
         {
             "id": "s_card-3-0017",
@@ -1671,10 +1777,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ほら、一緒に持と♪"
+            ]
         },
         {
             "id": "s_card-3-0018",
@@ -1687,10 +1794,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "第2回教室パーティー！"
+            ]
         },
         {
             "id": "s_card-3-0019",
@@ -1703,10 +1811,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "きみは、自慢の生徒です"
+            ]
         },
         {
             "id": "s_card-3-0020",
@@ -1719,10 +1828,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率中"
                 }
-            ],
-            "name": "食欲の秋なんです"
+            ]
         },
         {
             "id": "s_card-3-0021",
@@ -1735,10 +1845,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "さみだれ"
+            ]
         },
         {
             "id": "s_card-3-0022",
@@ -1751,10 +1862,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "晴れたね"
+            ]
         },
         {
             "id": "s_card-3-0023",
@@ -1767,10 +1879,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "まだ上がりませんように！"
+            ]
         },
         {
             "id": "s_card-3-0024",
@@ -1783,10 +1896,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "「ア」じゃなくて「エ」！"
+            ]
         },
         {
             "id": "s_card-3-0025",
@@ -1799,10 +1913,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "新たな挑戦の成功ですわ！"
+            ]
         },
         {
             "id": "s_card-3-0026",
@@ -1815,10 +1930,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "もうっ！　冷たいよ！"
+            ]
         },
         {
             "id": "s_card-3-0027",
@@ -1831,10 +1947,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "夏を楽しみましょう！"
+            ]
         },
         {
             "id": "s_card-3-0028",
@@ -1847,10 +1964,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "一時休戦です"
+            ]
         },
         {
             "id": "s_card-3-0029",
@@ -1863,10 +1981,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "夏を満喫するわよ！"
+            ]
         },
         {
             "id": "s_card-3-0030",
@@ -1879,10 +1998,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "あっちも行きたいですわ！"
+            ]
         },
         {
             "id": "s_card-3-0031",
@@ -1895,10 +2015,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "花火、やりませんか……？"
+            ]
         },
         {
             "id": "s_card-3-0032",
@@ -1911,10 +2032,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "プロデュースって大変ね"
+            ]
         },
         {
             "id": "s_card-3-0033",
@@ -1927,10 +2049,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "仲直りしましょう"
+            ]
         },
         {
             "id": "s_card-3-0034",
@@ -1943,10 +2066,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "二人ならあっという間だね"
+            ]
         },
         {
             "id": "s_card-3-0035",
@@ -1959,10 +2083,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ゆっくりと過ごしましょう"
+            ]
         },
         {
             "id": "s_card-3-0036",
@@ -1975,10 +2100,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "似合うんじゃない？"
+            ]
         },
         {
             "id": "s_card-3-0037",
@@ -1991,10 +2117,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "すっかり秋色ですわね！"
+            ]
         },
         {
             "id": "s_card-3-0038",
@@ -2007,10 +2134,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "会長、準備は万端です"
+            ]
         },
         {
             "id": "s_card-3-0039",
@@ -2023,10 +2151,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ぜったい追いついてやる！"
+            ]
         },
         {
             "id": "s_card-3-0040",
@@ -2039,10 +2168,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "そろそろ焼けたかな？"
+            ]
         },
         {
             "id": "s_card-3-0041",
@@ -2055,10 +2185,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "キラキラして綺麗～っ！"
+            ]
         },
         {
             "id": "s_card-3-0042",
@@ -2071,10 +2202,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "あったかいね"
+            ]
         },
         {
             "id": "s_card-3-0043",
@@ -2087,10 +2219,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "待ちなさーい！"
+            ]
         },
         {
             "id": "s_card-3-0044",
@@ -2103,10 +2236,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "もう一度、最初から！"
+            ]
         },
         {
             "id": "s_card-3-0045",
@@ -2119,10 +2253,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "はいっ、みんなも一緒に♪"
+            ]
         },
         {
             "id": "s_card-3-0046",
@@ -2135,10 +2270,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "これが私達の、3年間"
+            ]
         },
         {
             "id": "s_card-3-0047",
@@ -2151,10 +2287,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "バレンタイン♡会議中ーっ！"
+            ]
         },
         {
             "id": "s_card-3-0048",
@@ -2167,10 +2304,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "絶対にお渡ししますわっ！"
+            ]
         },
         {
             "id": "s_card-3-0049",
@@ -2183,10 +2321,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ひとりで立てますか？"
+            ]
         },
         {
             "id": "s_card-3-0050",
@@ -2199,10 +2338,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "あなたたちのことが好き"
+            ]
         },
         {
             "id": "s_card-3-0051",
@@ -2215,10 +2355,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "新生活のはじまりだね"
+            ]
         },
         {
             "id": "s_card-3-0052",
@@ -2231,10 +2372,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "合格おめでとう！"
+            ]
         },
         {
             "id": "s_card-3-0053",
@@ -2247,10 +2389,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "さあ、もう一戦！"
+            ]
         },
         {
             "id": "s_card-3-0054",
@@ -2263,10 +2406,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "相手にとって不足なしよ！"
+            ]
         },
         {
             "id": "s_card-3-0055",
@@ -2279,10 +2423,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ここから始まるんだね！"
+            ]
         },
         {
             "id": "s_card-3-0056",
@@ -2295,10 +2440,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "相変わらず不器用ね"
+            ]
         },
         {
             "id": "s_card-3-0057",
@@ -2311,10 +2457,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "利用し合うのが友達！"
+            ]
         },
         {
             "id": "s_card-3-0058",
@@ -2327,10 +2474,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ひとりごとです"
+            ]
         },
         {
             "id": "s_card-3-0059",
@@ -2343,10 +2491,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "すっかり仲良しって感じ♪"
+            ]
         },
         {
             "id": "s_card-3-0060",
@@ -2359,10 +2508,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "迷子のおしらせです"
+            ]
         },
         {
             "id": "s_card-3-0061",
@@ -2375,10 +2525,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "みんなの意見を聞かせて♪"
+            ]
         },
         {
             "id": "s_card-3-0062",
@@ -2391,10 +2542,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "よくやったな、倉本。"
+            ]
         },
         {
             "id": "s_card-3-0063",
@@ -2407,10 +2559,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "推し活なひととき、だね！"
+            ]
         },
         {
             "id": "s_card-3-0064",
@@ -2423,10 +2576,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "いつも頑張ってるね。"
+            ]
         },
         {
             "id": "s_card-3-0065",
@@ -2439,10 +2593,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "どんな関係なんですか？"
+            ]
         },
         {
             "id": "s_card-3-0066",
@@ -2455,10 +2610,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "放っておけない気になる子"
+            ]
         },
         {
             "id": "s_card-3-0067",
@@ -2471,10 +2627,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "わたしと美鈴、超仲良し"
+            ]
         },
         {
             "id": "s_card-3-0068",
@@ -2487,10 +2644,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "お母さんか！"
+            ]
         },
         {
             "id": "s_card-3-0069",
@@ -2503,10 +2661,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "いつまでも続けばいいのに"
+            ]
         },
         {
             "id": "s_card-3-0070",
@@ -2519,10 +2678,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "おい、来てやったぞ！"
+            ]
         },
         {
             "id": "s_card-3-0071",
@@ -2535,10 +2695,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "盛り上げてこー！"
+            ]
         },
         {
             "id": "s_card-3-0072",
@@ -2551,10 +2712,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "おっと、危ないよ"
+            ]
         },
         {
             "id": "s_card-3-0073",
@@ -2567,10 +2729,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ｖギャルピーーースッｖ"
+            ]
         },
         {
             "id": "s_card-3-0074",
@@ -2583,10 +2746,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ちょっと詳しいんです！"
+            ]
         },
         {
             "id": "s_card-3-0075",
@@ -2599,10 +2763,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "これは――お城ッ！！"
+            ]
         },
         {
             "id": "s_card-3-0076",
@@ -2615,10 +2780,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "月村手毬、興味深いわね"
+            ]
         },
         {
             "id": "s_card-3-0077",
@@ -2631,10 +2797,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "クールダウンが大切よ！"
+            ]
         },
         {
             "id": "s_card-3-0078",
@@ -2647,10 +2814,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "レディ・セット、ゴー！"
+            ]
         },
         {
             "id": "s_card-3-0079",
@@ -2663,10 +2831,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "やっと見つけたぞ！"
+            ]
         },
         {
             "id": "s_card-3-0080",
@@ -2679,10 +2848,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "ぜったいに取るんだ！"
+            ]
         },
         {
             "id": "s_card-3-0081",
@@ -2695,10 +2865,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "メリクリ、おねーちゃん♪"
+            ]
         },
         {
             "id": "s_card-3-0082",
@@ -2711,10 +2882,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "なぜこんなところにッ！？"
+            ]
         },
         {
             "id": "s_card-3-0083",
@@ -2727,10 +2899,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "堂々とサボってる！？"
+            ]
         },
         {
             "id": "s_card-3-0084",
@@ -2743,10 +2916,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "手毬のリサイタル、だね"
+            ]
         },
         {
             "id": "s_card-3-0085",
@@ -2759,10 +2933,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "自分と向き合う時間だ"
+            ]
         },
         {
             "id": "s_card-3-0086",
@@ -2775,10 +2950,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "貸せ、手本を見せてやる！"
+            ]
         },
         {
             "id": "s_card-3-0087",
@@ -2791,10 +2967,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "オシャレもメイクも♪"
+            ]
         },
         {
             "id": "s_card-3-0088",
@@ -2807,10 +2984,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "思い出の宝箱だ、ね"
+            ]
         },
         {
             "id": "s_card-3-0089",
@@ -2823,10 +3001,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "かかってらっしゃい！"
+            ]
         },
         {
             "id": "s_card-3-0090",
@@ -2839,10 +3018,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "みいつけた。"
+            ]
         },
         {
             "id": "s_card-3-0091",
@@ -2855,10 +3035,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "あたしの勝ち、ですね～！"
+            ]
         },
         {
             "id": "s_card-3-0092",
@@ -2871,10 +3052,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "進化したお弁当、気になる"
+            ]
         },
         {
             "id": "s_card-3-0093",
@@ -2887,10 +3069,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "長旅おつかれさま！"
+            ]
         },
         {
             "id": "s_card-3-0094",
@@ -2903,10 +3086,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "上かッ！！"
+            ]
         },
         {
             "id": "s_card-3-0095",
@@ -2919,10 +3103,11 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "パーティー楽しみだねっ！"
+            ]
         },
         {
             "id": "s_card-3-0096",
@@ -2935,10 +3120,28 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "あなたとふたり、電車で"
+            ]
+        },
+        {
+            "id": "s_card-3-0097",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "/ 確率大"
+                }
+            ]
         },
         {
             "id": "s_card-3-0098",
@@ -2951,10 +3154,45 @@
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
                     "text": "/ 確率大"
                 }
-            ],
-            "name": "大運動会、開催っ！"
+            ]
+        },
+        {
+            "id": "s_card-3-0100",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "/ 確率中"
+                }
+            ]
+        },
+        {
+            "id": "s_card-3-0105",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "/ 確率大"
+                }
+            ]
         }
     ]
 }

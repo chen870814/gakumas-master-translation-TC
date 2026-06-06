@@ -71,7 +71,9 @@
     {
       "id": "p_story_002_atbm_after-audition-a-normal-02",
       "title": "這才剛剛開始！",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "１次オーディションで「メロBang!」を選択し合格する"
+      ]
     },
     {
       "id": "p_story_002_atbm_after-audition-a-normal-03",
@@ -81,7 +83,9 @@
     {
       "id": "p_story_002_atbm_after-audition-b-normal-02",
       "title": "更加向前！",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "２次オーディションで「GALAXYミュージック」を選択し合格する"
+      ]
     },
     {
       "id": "p_story_002_atbm_after-audition-b-normal-03",
@@ -101,7 +105,9 @@
     {
       "id": "p_story_002_atbm_after-audition-mid-failure-01",
       "title": "下次一定要",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "１次/２次オーディションで不合格になる"
+      ]
     },
     {
       "id": "p_story_002_atbm_before-audition-a-normal-01",
@@ -116,7 +122,9 @@
     {
       "id": "p_story_002_atbm_ending-normal-02",
       "title": "Normal End",
-      "produceEventHintProduceConditionDescriptions": []
+      "produceEventHintProduceConditionDescriptions": [
+        "最終オーディションに合格する"
+      ]
     },
     {
       "id": "p_story_002_atbm_opening-normal-02",
@@ -1680,17 +1688,17 @@
     },
     {
       "id": "p_story-001-hmsz-fb-01",
-      "title": "悠閒自在的",
+      "title": "悠閒地",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-001-hmsz-fb-02",
-      "title": "踏實地",
+      "title": "穩步地",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-001-hmsz-fb-03",
-      "title": "邁向巔峰",
+      "title": "向高處",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -2373,12 +2381,12 @@
     },
     {
       "id": "p_story-001-hume-fb-01",
-      "title": "從負數開始",
+      "title": "從逆境開始",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-001-hume-fb-02",
-      "title": "不可測的才能",
+      "title": "深不可測的才能",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -2604,17 +2612,17 @@
     },
     {
       "id": "p_story-001-jsna-fb-01",
-      "title": "重新啟動",
+      "title": "再啟動",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-001-jsna-fb-02",
-      "title": "邁進的精英",
+      "title": "奮進的精英",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-001-jsna-fb-03",
-      "title": "光輝燦然",
+      "title": "光輝璀璨",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -3820,6 +3828,566 @@
       ]
     },
     {
+      "id": "p_story-003-amao-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kcna-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-kllj-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-shro-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ssmk-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-before-selection-01-01",
+      "title": "往第1輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-before-selection-02-01",
+      "title": "往第2輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-before-selection-03-01",
+      "title": "往第3輪『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-final-failure-01",
+      "title": "還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-main_match-opening-01",
+      "title": "『H.I.F正賽』出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-after-selection-01-01",
+      "title": "『H.I.F選拔考試』\n第1輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-after-selection-02-01",
+      "title": "『H.I.F選拔考試』\n第2輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-after-selection-03-01",
+      "title": "『H.I.F選拔考試』\n第3輪突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-selection-ending-a-01",
+      "title": "『H.I.F選拔考試』\n突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』\nRound 1 結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』\n優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-selection-failure-01",
+      "title": "還不能，就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-selection-opening-02",
+      "title": "目標『選拔考試』突破！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-001_amao_activity_001",
       "title": "可以活動身體的地方",
       "produceEventHintProduceConditionDescriptions": []
@@ -4666,7 +5234,7 @@
     },
     {
       "id": "p_story-event-001_hski_activity_005",
-      "title": "假期的度過方式",
+      "title": "假日的度過方式",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4981,7 +5549,7 @@
     },
     {
       "id": "p_story-event-001_jsna_activity_002",
-      "title": "慰問補給",
+      "title": "慰問品",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10645,6 +11213,1046 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-003_amao_activity_021",
+      "title": "在意的點單",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_activity_022",
+      "title": "相似的魚",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_activity_021",
+      "title": "來，啊——……♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_activity_022",
+      "title": "寧靜的片刻",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_activity_021",
+      "title": "欺騙日的煩惱",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_activity_022",
+      "title": "有在意的東西嗎？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_activity_021",
+      "title": "家庭餐廳大飽滿足",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_activity_022",
+      "title": "如果我變成一條魚",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kcna_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_activity_021",
+      "title": "目標是全收集！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_activity_022",
+      "title": "在水族館想看見的是？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_kllj_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_activity_021",
+      "title": "鍛鍊身體要從飲食開始……？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_activity_022",
+      "title": "夢之水族館演唱會",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_shro_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_activity_021",
+      "title": "占卜體驗♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_activity_022",
+      "title": "想和什麼一起游泳？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ssmk_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_activity_021",
+      "title": "今天要點什麼？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_activity_022",
+      "title": "去水族館轉換心情",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_014",
+      "title": "今天的聲樂授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_017",
+      "title": "擔當偶像是『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_021",
+      "title": "配得上『一番星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_022",
+      "title": "關於個人參加與組合參加",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_028",
+      "title": "如果成為『一番星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_031",
+      "title": "現在的心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_033",
+      "title": "現在的心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_035",
+      "title": "現在的心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-amao-3-000-01",
       "title": "Fluorite 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -11107,6 +12715,21 @@
     {
       "id": "p_story-i_card-hrnm-3-013-03",
       "title": "36℃ U･B･U 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-017-01",
+      "title": "ガラクタロード 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-017-02",
+      "title": "ガラクタロード 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-017-03",
+      "title": "ガラクタロード 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -11725,6 +13348,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-kllj-3-018-01",
+      "title": "ガラクタロード 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-018-02",
+      "title": "ガラクタロード 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-kllj-3-018-03",
+      "title": "ガラクタロード 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-shro-3-000-01",
       "title": "光景 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -11842,6 +13480,21 @@
     {
       "id": "p_story-i_card-shro-3-016-03",
       "title": "みちなるひろがる 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-018-01",
+      "title": "ガラクタロード 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-018-02",
+      "title": "ガラクタロード 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-018-03",
+      "title": "ガラクタロード 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12082,6 +13735,21 @@
     {
       "id": "p_story-i_card-ttmr-3-016-03",
       "title": "一体いつから 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-018-01",
+      "title": "ガラクタロード 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-018-02",
+      "title": "ガラクタロード 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-018-03",
+      "title": "ガラクタロード 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14400,6 +16068,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0097-01",
+      "title": "與想像不同的現在",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0097-02",
+      "title": "視線的理由",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0097-03",
+      "title": "妹妹之間？的煩惱諮詢",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0098-01",
       "title": "心跳加速便當時間",
       "produceEventHintProduceConditionDescriptions": []
@@ -14412,6 +16095,36 @@
     {
       "id": "p_story-s_card-3-0098-03",
       "title": "集大成的運動會",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0100-01",
+      "title": "訓練員會議",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0100-02",
+      "title": "嚴格的指導是為了誰？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0100-03",
+      "title": "要時尚年輕！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0105-01",
+      "title": "極月學園，來襲！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0105-02",
+      "title": "藍井撫子的內心掙扎",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0105-03",
+      "title": "複雜的姊妹關係",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

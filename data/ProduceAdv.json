@@ -94,32 +94,32 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "最終公演前日"
+      "title": "最終試鏡前日"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "第1次公演前日"
+      "title": "第1次試鏡前日"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "第2次公演前日"
+      "title": "第2次試鏡前日"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionSelect",
-      "title": "最終公演選擇"
+      "title": "最終試鏡選擇"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionSelect",
-      "title": "第1次公演選擇"
+      "title": "第1次試鏡選擇"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionSelect",
-      "title": "第2次公演選擇"
+      "title": "第2次試鏡選擇"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",

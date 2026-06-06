@@ -13,7 +13,7 @@
     {
       "id": "amao-casl-0001",
       "name": "真實的我",
-      "description": "有村麻央的親密度Lv達到10"
+      "description": "將有村麻央的親密度Lv提升到10"
     },
     {
       "id": "amao-casl-0002",
@@ -786,18 +786,28 @@
       "description": "【clumsy trick】'26 ENDLESS DANCE 姬崎莉波 獲得"
     },
     {
+      "id": "hrnm-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】姫崎莉波 獲得"
+    },
+    {
+      "id": "hrnm-cstm-0137",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】姫崎莉波的才能開花第4階段 獲得"
+    },
+    {
       "id": "hrnm-othr-0000",
       "name": "溫泉浴巾",
       "description": "無法入手"
     },
     {
       "id": "hrnm-othr-0002",
-      "name": "歡迎來到初星溫泉",
+      "name": "ようこそ初星温泉",
       "description": "【ようこそ初星温泉】姬崎莉波 獲得"
     },
     {
       "id": "hrnm-othr-0003",
-      "name": "歡迎來到初星溫泉",
+      "name": "ようこそ初星温泉",
       "description": "【ようこそ初星温泉】姬崎莉波的才能開花第4階段 獲得"
     },
     {
@@ -1741,6 +1751,16 @@
       "description": "【ときめきエモーション】葛城莉莉婭的才能開花第4階段 獲得"
     },
     {
+      "id": "kllj-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】葛城莉莉婭 獲得"
+    },
+    {
+      "id": "kllj-cstm-0137",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
       "id": "kllj-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（葛城莉莉婭）"
@@ -1959,6 +1979,16 @@
       "id": "shro-cstm-0132",
       "name": "みちなるひろがる",
       "description": "【みちなるひろがる】篠澤廣的才能開花第4階段 獲得"
+    },
+    {
+      "id": "shro-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】篠澤廣 獲得"
+    },
+    {
+      "id": "shro-cstm-0137",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-othr-0002",
@@ -2334,6 +2364,16 @@
       "id": "ttmr-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【Luna say maybe】'26 ENDLESS DANCE 月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0137",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "ttmr-othr-0002",

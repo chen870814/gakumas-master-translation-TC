@@ -31,27 +31,27 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "Vo.課程獎勵+"
+      "name": "Vo.能力值加成 +"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "Da.課程獎勵+"
+      "name": "Da.能力值加成 +"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "Vi.課程獎勵+"
+      "name": "Vi.能力值加成 +"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "Vo.課程獎勵-"
+      "name": "Vo.能力值加成 -"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "Da.課程獎勵-"
+      "name": "Da.能力值加成 -"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "Vi.課程獎勵-"
+      "name": "Vi.能力值加成 -"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
@@ -187,35 +187,35 @@
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
-      "name": "SP課程發生概率增加"
+      "name": "SP訓練課程發生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "SP Vo.課程發生概率增加"
+      "name": "SP Vo.訓練課程發生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "SP Da.課程發生概率增加"
+      "name": "SP Da.訓練課程發生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "SP Vi.課程發生概率增加"
+      "name": "SP Vi.訓練課程發生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
-      "name": "SP課程發生概率減少"
+      "name": "SP訓練課程發生概率減少"
     },
     {
       "type": "ProduceEffectType_ExamStatusEnchant",
-      "name": "課程時產生效果"
+      "name": "訓練課程時產生效果"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
-      "name": "課程報酬中技能卡選項增加"
+      "name": "訓練課程報酬中技能卡選項增加"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
-      "name": "課程報酬中技能卡選項減少"
+      "name": "訓練課程報酬中技能卡選項減少"
     },
     {
       "type": "ProduceEffectType_ShopPriceDiscountMultiple",
@@ -239,7 +239,7 @@
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceDiscountMultiple",
-      "name": "諮詢的削除技能卡折扣"
+      "name": "諮詢的消除技能卡折扣"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceSpecify",
@@ -271,11 +271,11 @@
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
-      "name": "課程報酬的P點數獲得量增加"
+      "name": "訓練課程報酬的P點數獲得量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
-      "name": "課程支援發生率增加"
+      "name": "訓練課程支援發生率增加"
     },
     {
       "type": "ProduceEffectType_ProduceCardSelectRerollCountUp",
@@ -284,6 +284,10 @@
     {
       "type": "ProduceEffectType_ProducePointAdditionDisableTrigger",
       "name": "初始P點數增加"
+    },
+    {
+      "type": "ProduceEffectType_ParameterLimitUp",
+      "name": "能力值上限增加"
     },
     {
       "type": "ProduceEffectType_ExamTurnUp",
@@ -315,23 +319,23 @@
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
-      "name": "諮詢的削除技能卡漲價"
+      "name": "諮詢的消除技能卡漲價"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "課程所消耗的體力增加"
+      "name": "授課所消耗的體力增加"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "課程所消耗的體力減少"
+      "name": "授課所消耗的體力減少"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "外出的P點數消耗增加"
+      "name": "外出所消耗的P點數增加"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "外出的P點數消耗減少"
+      "name": "外出所消耗的P點數減少"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
@@ -343,11 +347,31 @@
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
-      "name": "除去技能卡"
+      "name": "技能卡除去"
     },
     {
       "type": "ProduceEffectType_AuditionNpcWeaken",
       "name": "對手的得分"
+    },
+    {
+      "type": "ProduceEffectType_StarPermilUp",
+      "name": "明星特質獲得量增加"
+    },
+    {
+      "type": "ProduceEffectType_StarAddition",
+      "name": "明星特質獲得"
+    },
+    {
+      "type": "ProduceEffectType_ProduceCardChangeSelect",
+      "name": "選擇並變換"
+    },
+    {
+      "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
+      "name": "P飲料持有上限增加"
+    },
+    {
+      "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
+      "name": "諮詢的購買技能卡折扣"
     }
   ]
 }

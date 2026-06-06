@@ -30,7 +30,7 @@
   "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd|Label_StaminaConsumptionAddTurnAdd|produceCardCustomizeDescription": "消耗體力增加 +",
   "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce|Label_StaminaConsumptionAddTurnReduce|produceCardCustomizeDescription": "消耗體力增加 -",
   "ProduceCardGrowEffectType_EffectAdd|Label_EffectAdd|produceCardCustomizeDescription": "效果追加",
-  "ProduceCardGrowEffectType_EffectDelete|Label_EffectDelete|produceCardCustomizeDescription": "效果刪除",
+  "ProduceCardGrowEffectType_EffectDelete|Label_EffectDelete|produceCardCustomizeDescription": "效果消除",
   "ProduceCardGrowEffectType_EffectChange|Label_EffectChange|produceCardCustomizeDescription": "效果變更",
   "ProduceCardGrowEffectType_CardStatusEnchantChange|Label_CardStatusEnchantChange|produceCardCustomizeDescription": "成長變更",
   "ProduceCardGrowEffectType_PlayTriggerChange|Label_PlayTriggerChange|produceCardCustomizeDescription": "條件變更",

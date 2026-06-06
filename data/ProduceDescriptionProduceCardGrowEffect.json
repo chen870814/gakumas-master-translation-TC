@@ -164,7 +164,7 @@
     {
       "type": "ProduceCardGrowEffectType_EffectDelete",
       "produceDescriptionLabelId": "Label_EffectDelete",
-      "produceCardCustomizeDescription": "效果刪除"
+      "produceCardCustomizeDescription": "效果消除"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectChange",

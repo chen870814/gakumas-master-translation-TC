@@ -13,6 +13,26 @@
     },
     {
       "characterId": "amao",
+      "assetId": "sud_vo_system_amao_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_final_result-04",
+      "title": "正賽培育結果（不合格）"
+    },
+    {
+      "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_birthday-01",
       "title": "主頁（生日）"
     },
@@ -140,6 +160,21 @@
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-25",
       "title": "主頁⑯"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_home_cmmn-26",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_home_cmmn-27",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_home_cmmn-28",
+      "title": "親密度TOP  （親密度Lv37）③"
     },
     {
       "characterId": "amao",
@@ -500,6 +535,121 @@
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_produce_schedule-28",
       "title": "屋頂③"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "amao",
+      "assetId": "sud_vo_system_amao_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
     },
     {
       "characterId": "amao",
@@ -1877,6 +2027,21 @@
       "title": "親密度TOP  （親密度Lv27）③"
     },
     {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_dear_kcna_037-01",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_dear_kcna_037-02",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_dear_kcna_037-03",
+      "title": "親密度TOP  （親密度Lv37）③"
+    },
+    {
       "characterId": "kllj",
       "assetId": "sud_vo_system_dear_kllj_021-01",
       "title": "親密度TOP  （親密度Lv21）①"
@@ -2085,6 +2250,21 @@
       "characterId": "shro",
       "assetId": "sud_vo_system_dear_shro_027-03",
       "title": "親密度TOP  （親密度Lv27）③"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_dear_shro_037-01",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_dear_shro_037-02",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_dear_shro_037-03",
+      "title": "親密度TOP  （親密度Lv37）③"
     },
     {
       "characterId": "ssmk",
@@ -2823,6 +3003,26 @@
     },
     {
       "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_final_result-04",
+      "title": "正賽培育結果（不合格）"
+    },
+    {
+      "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_birthday-01",
       "title": "主頁（生日）"
     },
@@ -2953,6 +3153,21 @@
     },
     {
       "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-26",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-27",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-28",
+      "title": "親密度TOP  （親密度Lv37）③"
+    },
+    {
+      "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_touch-01",
       "title": "主頁⑰"
     },
@@ -3014,7 +3229,7 @@
     {
       "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_transition-11",
-      "title": "主頁（2025萬聖節）"
+      "title": "主頁（2024萬聖節）"
     },
     {
       "characterId": "hmsz",
@@ -3313,6 +3528,121 @@
     },
     {
       "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
+    },
+    {
+      "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_work_result-01",
       "title": "工作成功"
     },
@@ -3335,6 +3665,26 @@
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_cmmn_clothe-01",
       "title": "換裝"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_final_result-04",
+      "title": "正賽培育結果（不合格）"
     },
     {
       "characterId": "hrnm",
@@ -3465,6 +3815,21 @@
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-25",
       "title": "主頁⑯"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_home_cmmn-26",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_home_cmmn-27",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_home_cmmn-28",
+      "title": "親密度TOP  （親密度Lv37）③"
     },
     {
       "characterId": "hrnm",
@@ -3825,6 +4190,121 @@
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_produce_schedule-28",
       "title": "屋頂③"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "hrnm",
+      "assetId": "sud_vo_system_hrnm_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
     },
     {
       "characterId": "hrnm",
@@ -5403,6 +5883,26 @@
     },
     {
       "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_final_result-04",
+      "title": "正賽培育結果（不合格）"
+    },
+    {
+      "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_birthday-01",
       "title": "主頁（生日）"
     },
@@ -5893,6 +6393,121 @@
     },
     {
       "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "kcna",
+      "assetId": "sud_vo_system_kcna_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
+    },
+    {
+      "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_work_result-01",
       "title": "工作成功"
     },
@@ -5915,6 +6530,26 @@
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_cmmn_clothe-01",
       "title": "換裝"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_final_result-04",
+      "title": "正賽培育結果（不合格）"
     },
     {
       "characterId": "kllj",
@@ -6045,6 +6680,21 @@
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-25",
       "title": "主頁⑯"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_home_cmmn-26",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_home_cmmn-27",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_home_cmmn-28",
+      "title": "親密度TOP  （親密度Lv37）③"
     },
     {
       "characterId": "kllj",
@@ -6408,6 +7058,121 @@
     },
     {
       "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "kllj",
+      "assetId": "sud_vo_system_kllj_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
+    },
+    {
+      "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_work_result-01",
       "title": "工作成功"
     },
@@ -6430,6 +7195,26 @@
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_cmmn_clothe-01",
       "title": "換裝"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_final_result-04",
+      "title": "正賽培育結果（不合格）"
     },
     {
       "characterId": "shro",
@@ -6923,6 +7708,121 @@
     },
     {
       "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "shro",
+      "assetId": "sud_vo_system_shro_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
+    },
+    {
+      "characterId": "shro",
       "assetId": "sud_vo_system_shro_work_result-01",
       "title": "工作成功"
     },
@@ -6945,6 +7845,26 @@
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_cmmn_clothe-01",
       "title": "換裝"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_final_result-04",
+      "title": "正賽培育結果（不合格）"
     },
     {
       "characterId": "ssmk",
@@ -7075,6 +7995,21 @@
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-25",
       "title": "主頁⑯"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_home_cmmn-26",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_home_cmmn-27",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_home_cmmn-28",
+      "title": "親密度TOP  （親密度Lv37）③"
     },
     {
       "characterId": "ssmk",
@@ -7438,6 +8373,121 @@
     },
     {
       "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_ssmk_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
+    },
+    {
+      "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_work_result-01",
       "title": "工作成功"
     },
@@ -7460,6 +8510,26 @@
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_cmmn_clothe-01",
       "title": "換裝"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_final_result-01",
+      "title": "正賽培育結果（True End）①"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_final_result-02",
+      "title": "正賽培育結果（True End）②"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_final_result-03",
+      "title": "正賽培育結果（True End）③"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_final_result-04",
+      "title": "正賽培育結果（不合格）"
     },
     {
       "characterId": "ttmr",
@@ -7590,6 +8660,21 @@
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-25",
       "title": "主頁⑯"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_home_cmmn-26",
+      "title": "親密度TOP  （親密度Lv37）①"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_home_cmmn-27",
+      "title": "親密度TOP  （親密度Lv37）②"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_home_cmmn-28",
+      "title": "親密度TOP  （親密度Lv37）③"
     },
     {
       "characterId": "ttmr",
@@ -7950,6 +9035,121 @@
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_produce_schedule-28",
       "title": "屋頂③"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-29",
+      "title": "活動據點①"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-30",
+      "title": "活動據點②"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-31",
+      "title": "活動據點③"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-32",
+      "title": "活動據點④"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-33",
+      "title": "活動據點⑤"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-34",
+      "title": "活動據點⑥"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-35",
+      "title": "屋頂①"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-36",
+      "title": "屋頂②"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-37",
+      "title": "屋頂③"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-38",
+      "title": "中庭①"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-39",
+      "title": "中庭②"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-40",
+      "title": "中庭③"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-41",
+      "title": "偶像科教室①"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-42",
+      "title": "偶像科教室②"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-43",
+      "title": "偶像科教室③"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-44",
+      "title": "活動據點⑦"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-45",
+      "title": "活動據點⑧"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-46",
+      "title": "偶像科教室④"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_produce_schedule-47",
+      "title": "偶像科教室⑤"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_selection_result-01",
+      "title": "選拔考試培育結果（True End）①"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_selection_result-02",
+      "title": "選拔考試培育結果（True End）②"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_selection_result-03",
+      "title": "選拔考試培育結果（True End）③"
+    },
+    {
+      "characterId": "ttmr",
+      "assetId": "sud_vo_system_ttmr_selection_result-04",
+      "title": "選拔考試培育結果（不合格）"
     },
     {
       "characterId": "ttmr",

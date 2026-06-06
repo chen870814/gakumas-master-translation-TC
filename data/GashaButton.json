@@ -295,6 +295,24 @@
       "bottomAppealText": ""
     },
     {
+      "id": "gasha_button-00890-wednesday-001-ticket-01",
+      "order": 2,
+      "name": "用票卷抽取",
+      "description": "用票卷抽取",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-00900-wednesday-001",
+      "order": 1,
+      "name": "用學偶週三扭蛋票卷抽取",
+      "description": "用票卷抽取",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10連道具扭蛋",
@@ -323,6 +341,15 @@
     },
     {
       "id": "gasha_button-continuous-001",
+      "order": 2,
+      "name": "用道具抽取",
+      "description": "抽到飽扭蛋",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-continuous-002",
       "order": 2,
       "name": "用道具抽取",
       "description": "抽到飽扭蛋",
@@ -493,6 +520,24 @@
       "bottomAppealText": ""
     },
     {
+      "id": "gasha_ticket_anniversary-001",
+      "order": 1,
+      "name": "用2nd Anniversary 10連扭蛋票卷抽取",
+      "description": "10連扭蛋",
+      "appealText": "SR以上1張確定",
+      "highAppealText": "SR以上1張確定",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_ticket_anniversary-002",
+      "order": 1,
+      "name": "用2nd Anniversary Live巡演限定 SSR P偶像確定10連抽卡票卷抽取",
+      "description": "Live巡演限定 SSR P偶像確定10連",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
       "name": "用聖誕登入獎勵扭蛋票卷抽取",
@@ -586,6 +631,24 @@
       "id": "gasha_ticket_ssr_button-6",
       "order": 1,
       "name": "用MOIW2025紀念 SSR P偶像確定票卷抽取",
+      "description": "SSR偶像確定單抽",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_ticket_ssr_button-7",
+      "order": 1,
+      "name": "用2nd Anniversary紀念 SSR確定票卷抽取",
+      "description": "SSR確定單抽",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_ticket_ssr_button-8",
+      "order": 1,
+      "name": "用The 2nd Period 季節限定 SSR P偶像確定10連抽卡票卷抽取",
       "description": "SSR偶像確定單抽",
       "appealText": "",
       "highAppealText": "",

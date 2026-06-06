@@ -39,7 +39,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardUpgrade",
-      "name": "課程中強化"
+      "name": "訓練課程中強化"
     },
     {
       "type": "ProduceExamEffectType_ExamPlayableValueAdd",
@@ -47,7 +47,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-      "name": "集中效果暫時增加"
+      "name": "集中強化"
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
@@ -195,11 +195,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
-      "name": "更換手牌"
+      "name": "交換手牌"
     },
     {
       "type": "ProduceExamEffectType_ExamEffectTimer",
-      "name": "發動預約"
+      "name": "預約發動"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
@@ -295,7 +295,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
-      "name": "集中增加量增加"
+      "name": "集中増加量増加"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
@@ -323,7 +323,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
-      "name": "自尊"
+      "name": "自豪感"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewMultiple",
@@ -332,6 +332,30 @@
     {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
       "name": "好印象追加發動"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
+      "name": "好調增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",
+      "name": "集中增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
+      "name": "幹勁增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
+      "name": "好印象增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
+      "name": "全力值增加量追加"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
+      "name": "再演"
     }
   ]
 }

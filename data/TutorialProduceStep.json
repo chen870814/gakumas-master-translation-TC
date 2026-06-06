@@ -12,43 +12,71 @@
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 1,
       "tutorialStep": 5,
-      "stepType": "ProduceStepType_LessonVocalNormal",
-      "name": "Vo.課程"
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "stepNumber": 1,
-      "tutorialStep": 5,
-      "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Da.課程"
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "stepNumber": 1,
-      "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Vi.課程"
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "stepNumber": 2,
-      "tutorialStep": 8,
-      "stepType": "ProduceStepType_LessonVocalNormal",
-      "name": "Vo.課程"
+      "name": "Vi.訓練課程"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Da.課程"
+      "name": "Da.訓練課程"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "休息"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "最終考試"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "Da.訓練課程"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Vi.課程"
+      "name": "Vi.訓練課程"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "休息"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "最終考試"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "Da.訓練課程"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 2,
+      "tutorialStep": 8,
+      "stepType": "ProduceStepType_LessonVocalNormal",
+      "name": "Vo.訓練課程"
     },
     {
       "tutorialType": "TutorialType_GameStart",

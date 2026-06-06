@@ -374,8 +374,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 53,
       "title": "初星課題53",
-      "description": "在最終考試中取得第一名吧",
-      "homeDescription": "在最終考試中取得第一名吧"
+      "description": "在培育中讓任意屬性值達到1700吧",
+      "homeDescription": "在培育中讓任意屬性值達到1700吧"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -849,7 +849,7 @@
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 61,
-      "title": "P課題61",
+      "title": "P課題51",
       "description": "在偶像之路上累計獲得{threshold}顆以上的★吧",
       "homeDescription": "在偶像之路上累計獲得{threshold}顆以上的★吧"
     },

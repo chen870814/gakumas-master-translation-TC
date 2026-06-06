@@ -11,6 +11,11 @@
       "regexp": "麻央$"
     },
     {
+      "characterId": "andk",
+      "name": "藍井撫子",
+      "regexp": "撫子"
+    },
+    {
       "characterId": "atbm",
       "name": "雨夜 燕",
       "regexp": "燕$"
@@ -66,6 +71,16 @@
       "regexp": "莉莉婭$"
     },
     {
+      "characterId": "krnh",
+      "name": "賀陽燐羽",
+      "regexp": "燐羽$"
+    },
+    {
+      "characterId": "ktko",
+      "name": "黑井 崇男",
+      "regexp": "崇男"
+    },
+    {
       "characterId": "myu0",
       "name": "真城 優",
       "regexp": "優"
@@ -76,6 +91,11 @@
       "regexp": "亞紗里老師"
     },
     {
+      "characterId": "sgka",
+      "name": "白草月花",
+      "regexp": "月花"
+    },
+    {
       "characterId": "shro",
       "name": "篠澤 廣",
       "regexp": "廣$"
@@ -84,6 +104,11 @@
       "characterId": "ssmk",
       "name": "紫雲 清夏",
       "regexp": "清夏$"
+    },
+    {
+      "characterId": "sson",
+      "name": "白草四音",
+      "regexp": "四音"
     },
     {
       "characterId": "trda",

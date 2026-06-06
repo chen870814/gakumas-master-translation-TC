@@ -219,6 +219,12 @@
     },
     {
       "helpCategoryId": "help-contest",
+      "id": "contest-myunit",
+      "order": 6,
+      "name": "小組編成"
+    },
+    {
+      "helpCategoryId": "help-contest",
       "id": "contest-preparation-period",
       "order": 7,
       "name": "舉行準備期間"
@@ -503,7 +509,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-parameter",
       "order": 4,
-      "name": "能力值"
+      "name": "打分"
     },
     {
       "helpCategoryId": "help-idol",
@@ -522,6 +528,12 @@
       "id": "idol-plan3",
       "order": 40,
       "name": "方案：異類"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-primastella",
+      "order": 60,
+      "name": "『一番星』"
     },
     {
       "helpCategoryId": "help-idol",
@@ -615,9 +627,21 @@
     },
     {
       "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-conditions",
+      "order": 18,
+      "name": "關於技能卡的使用及效果的條件"
+    },
+    {
+      "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-powerup",
       "order": 6,
       "name": "強化技能卡"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-replay",
+      "order": 19,
+      "name": "再演"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -732,6 +756,18 @@
       "id": "help-main-story-event-story",
       "order": 1,
       "name": "初星交流活動"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "help-hif-produce-memory-ability",
+      "order": 9,
+      "name": "H.I.F專用能力"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "help-selection-memory",
+      "order": 8,
+      "name": "選拔考試回憶"
     },
     {
       "helpCategoryId": "help-memory",
@@ -930,6 +966,66 @@
       "id": "panel-mission-panel-mission",
       "order": 1,
       "name": "拼圖任務"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-bonus",
+      "order": 64,
+      "name": "H.I.F加成"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce",
+      "order": 54,
+      "name": "Hatsuboshi IDOL FESTIVAL"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-finals",
+      "order": 60,
+      "name": "正賽"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-item-customize",
+      "order": 57,
+      "name": "自定義P道具"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-memory-ability",
+      "order": 63,
+      "name": "H.I.F專用能力"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-open-lesson",
+      "order": 56,
+      "name": "公開訓練課程"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-schedule-interval",
+      "order": 61,
+      "name": "中場休息"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-selection",
+      "order": 58,
+      "name": "選拔考試"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-hif-produce-star",
+      "order": 55,
+      "name": "明星特質"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "help-selection-memory",
+      "order": 59,
+      "name": "選拔考試回憶"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1233,6 +1329,12 @@
     },
     {
       "helpCategoryId": "help-produce",
+      "id": "produce-true-end-3",
+      "order": 62,
+      "name": "True End：H.I.F"
+    },
+    {
+      "helpCategoryId": "help-produce",
       "id": "ProduceCardConvert",
       "order": 51,
       "name": "技能卡更換"
@@ -1409,7 +1511,7 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story",
       "order": 1,
-      "name": "故事交流"
+      "name": "故事活動"
     },
     {
       "helpCategoryId": "help-story-event",
@@ -1427,7 +1529,7 @@
       "helpCategoryId": "help-story-event-guild-mission",
       "id": "guild-mission",
       "order": 1,
-      "name": "連攜任務"
+      "name": "聯動任務"
     },
     {
       "helpCategoryId": "help-support",

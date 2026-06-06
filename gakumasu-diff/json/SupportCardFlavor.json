@@ -2547,6 +2547,21 @@
             "text": "すごく、楽しみにしてましたから。"
         },
         {
+            "supportCardId": "s_card-3-0097",
+            "number": 1,
+            "text": "……毎回毎回、騒々しいお祭り。"
+        },
+        {
+            "supportCardId": "s_card-3-0097",
+            "number": 2,
+            "text": "（夢が始まった場所、か）"
+        },
+        {
+            "supportCardId": "s_card-3-0097",
+            "number": 3,
+            "text": "はっ……よくやるわ。"
+        },
+        {
             "supportCardId": "s_card-3-0098",
             "number": 1,
             "text": "いよいよ運動会、本番ね。"
@@ -2560,6 +2575,36 @@
             "supportCardId": "s_card-3-0098",
             "number": 3,
             "text": "百戦百勝、一意専心、勇往邁進……\n全力で勝ちを獲りにいくわよ！"
+        },
+        {
+            "supportCardId": "s_card-3-0100",
+            "number": 1,
+            "text": "随分とレベルが高いレッスンね。\n感心しちゃうわぁ。"
+        },
+        {
+            "supportCardId": "s_card-3-0100",
+            "number": 2,
+            "text": "生徒たちは成長している。\n私たちも続かなければならんぞ！"
+        },
+        {
+            "supportCardId": "s_card-3-0100",
+            "number": 3,
+            "text": "そうですね。\n生徒たちを支えられるように！"
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 1,
+            "text": "これが初星の『H.I.F』か。\n見るに堪えるライブになるといいが。"
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 2,
+            "text": "フフ……お手並み拝見といきましょう。"
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 3,
+            "text": "ほう……面白い雛鳥がたくさんいる。"
         }
     ]
 }

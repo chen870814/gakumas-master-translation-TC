@@ -13,7 +13,7 @@
     {
       "id": "costume_head_amao-casl-0001",
       "name": "真實的我",
-      "description": "有村麻央的親密度Lv達到10"
+      "description": "將有村麻央的親密度Lv提升到10"
     },
     {
       "id": "costume_head_amao-cstm-0004",
@@ -83,7 +83,7 @@
     {
       "id": "costume_head_amao-hair-0000",
       "name": "真實的螢石",
-      "description": "有村麻央的親密度Lv達到10"
+      "description": "將有村麻央的親密度Lv提升到10"
     },
     {
       "id": "costume_head_amao-hair-0001",
@@ -129,6 +129,11 @@
       "id": "costume_head_amao-hair-0014",
       "name": "見て（簡單搭配）",
       "description": "【見て】有村麻央 獲得"
+    },
+    {
+      "id": "costume_head_amao-hair-0023",
+      "name": "兔耳",
+      "description": "高級任務通行證 2026年6月 獲得"
     },
     {
       "id": "costume_head_amao-hair-0035",
@@ -214,6 +219,11 @@
       "id": "costume_head_atbm-hair-0009",
       "name": "大蝴蝶結",
       "description": "高級任務通行證 2026年2月 獲得"
+    },
+    {
+      "id": "costume_head_atbm-hair-0023",
+      "name": "兔耳",
+      "description": "高級任務通行證 2026年6月 獲得"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -468,7 +478,7 @@
     {
       "id": "costume_head_hmsz-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高級任務通行證 2025年6月 獲得"
+      "description": "高級任務通行證 2025年6月 等方式獲得"
     },
     {
       "id": "costume_head_hmsz-hair-0008",
@@ -586,6 +596,11 @@
       "description": "姬崎莉波的偶像之路 通關第25關"
     },
     {
+      "id": "costume_head_hrnm-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】姫崎莉波 獲得"
+    },
+    {
       "id": "costume_head_hrnm-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高級任務通行證 2024年7月 等方式獲得"
@@ -624,6 +639,11 @@
       "id": "costume_head_hrnm-hair-0009",
       "name": "大蝴蝶結",
       "description": "高級任務通行證 2026年2月 獲得"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0023",
+      "name": "兔耳",
+      "description": "高級任務通行證 2026年6月 獲得"
     },
     {
       "id": "costume_head_hrnm-hair-0033",
@@ -908,7 +928,7 @@
     {
       "id": "costume_head_hume-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高級任務通行證 2025年6月 獲得"
+      "description": "高級任務通行證 2025年6月 等方式獲得"
     },
     {
       "id": "costume_head_hume-hair-0008",
@@ -1066,6 +1086,11 @@
       "description": "【赤裸々】十王星南的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_jsna-hair-0023",
+      "name": "兔耳",
+      "description": "高級任務通行證 2026年6月 獲得"
+    },
+    {
       "id": "costume_head_jsna-hair-0026",
       "name": "赤裸々（局部挑染）",
       "description": "【赤裸々】十王星南 獲得"
@@ -1092,12 +1117,12 @@
     },
     {
       "id": "costume_head_kcna-cstm-0033",
-      "name": "每天、都有新發現！",
+      "name": "日々、発見的ステップ！",
       "description": "【日々、発見的ステップ！】倉本千奈 獲得"
     },
     {
       "id": "costume_head_kcna-cstm-0034",
-      "name": "每天、都有新發現！",
+      "name": "日々、発見的ステップ！",
       "description": "【日々、発見的ステップ！】倉本千奈的才能開花第4階段 獲得"
     },
     {
@@ -1183,7 +1208,7 @@
     {
       "id": "costume_head_kcna-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高級任務通行證 2025年6月 獲得"
+      "description": "高級任務通行證 2025年6月 等方式獲得"
     },
     {
       "id": "costume_head_kcna-hair-0008",
@@ -1294,6 +1319,16 @@
       "id": "costume_head_kllj-cstm-0134",
       "name": "ときめきエモーション",
       "description": "【ときめきエモーション】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】葛城莉莉婭 獲得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0137",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】葛城莉莉婭的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_kllj-hair-0001",
@@ -1456,6 +1491,16 @@
       "description": "【みちなるひろがる】篠澤廣的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_shro-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】篠澤廣 獲得"
+    },
+    {
+      "id": "costume_head_shro-cstm-0137",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】篠澤廣的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_shro-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高級任務通行證 2024年6月 等方式獲得"
@@ -1483,7 +1528,7 @@
     {
       "id": "costume_head_shro-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高級任務通行證 2025年6月 獲得"
+      "description": "高級任務通行證 2025年6月 等方式獲得"
     },
     {
       "id": "costume_head_shro-hair-0008",
@@ -1719,6 +1764,16 @@
       "id": "costume_head_ttmr-cstm-0124",
       "name": "がむしゃらに行こう！",
       "description": "【がむしゃらに行こう！】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0136",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】月村手毬 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0137",
+      "name": "ガラクタロード",
+      "description": "【ガラクタロード】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0001",

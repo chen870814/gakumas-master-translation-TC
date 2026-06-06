@@ -8,7 +8,7 @@ from yaml.reader import Reader
 
 
 primary_key_rules = {
-    "Achievement": [["id"], ["name", "description"]],
+    "Achievement": [["id"], ["description"]],
     # "AchievementProgress": [[], []],
     # "AppReview": [[], []],
     # "AssetDownload": [[], []],
@@ -52,6 +52,7 @@ primary_key_rules = {
     # "ExamOutGameMotion": [[], []],
     # "ExamSetting": [[], []],
     # "ExamSimulation": [[], []],
+    # "ExamUnitMotion": [[], []],
     "ExchangeItemCategory": [["exchangeId", "number", "categoryType", "resourceType", "itemType"], ["name"]],
     "FeatureLock": [["tutorialType"], ["name", "description", "routeDescription"]],
     # "ForceAppVersion": [[], []],
@@ -70,7 +71,7 @@ primary_key_rules = {
     # "HomeMonitor": [[], []],
     # "HomeMotion": [[], []],
     # "HomeTime": [[], []],
-    "IdolCard": [["id"], ["name"]],
+    # "IdolCard": [["id"], ["name"]],
     # "IdolCardLevelLimit": [[], []],
     # "IdolCardLevelLimitProduceSkill": [[], []],
     # "IdolCardLevelLimitStatusUp": [[], []],
@@ -78,6 +79,7 @@ primary_key_rules = {
     # "IdolCardPieceQuantity": [[], []],
     # "IdolCardPotential": [[], []],
     # "IdolCardPotentialProduceSkill": [[], []],
+    # "IdolCardPrimaStellaProduceSkill": [[], []],
     # "IdolCardSimulation": [[], []],
     "IdolCardSkin": [["id"], ["name"]],
     # "IdolCardSkinSelectReward": [[], []],
@@ -87,7 +89,7 @@ primary_key_rules = {
     "Item": [["id"], ["name", "description", "acquisitionRouteDescription"]],
     # "JewelConsumptionCount": [[], []],
     # "LimitItem": [[], []],
-    "Localization": [["id"], ["description"]],
+    # "Localization": [["id"], ["description"]],
     # "LoginBonusMotion": [[], []],
     "MainStoryChapter": [["mainStoryPartId", "id"], ["title", "description"]],
     "MainStoryPart": [["id"], ["title"]],
@@ -118,7 +120,7 @@ primary_key_rules = {
     # "MissionPointRewardSet": [[], []],
     # "MissionProgress": [[], []],
     # "Money": [[], []],
-    "Music": [["id"], ["title", "displayTitle"]],
+    # "Music": [["id"], ["title", "displayTitle"]],
     # "MusicHot": [[], []],
     # "MusicSinger": [[], []],
     "PhotoBackground": [["id"], ["name"]],
@@ -132,32 +134,36 @@ primary_key_rules = {
     # "PhotoWaitVoiceGroup": [[], []],
     "Produce": [["id"], ["name"]],
     "ProduceAdv": [["produceType", "type"], ["title"]],
-    "ProduceCard": [["id", "upgradeCount", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套
+    "ProduceCard": [["id", "upgradeCount", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套
     # "ProduceCardConversion": [[], []],
     "ProduceCardCustomize": [["id", "customizeCount"], ["description"]],
     # "ProduceCardCustomizeRarityEvaluation": [[], []],
     # "ProduceCardGrowEffect": [[], []],
     # "ProduceCardPool": [[], []],
     # "ProduceCardRandomPool": [[], []],
-    "ProduceCardSearch": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套
+    "ProduceCardSearch": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套
     # "ProduceCardSimulation": [[], []],
     # "ProduceCardSimulationGroup": [[], []],
     # "ProduceCardStatusEffect": [[], []],
-    "ProduceCardStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套
+    "ProduceCardStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套
     "ProduceCardTag": [["id"], ["name"]],
     # "ProduceChallengeCharacter": [[], []],
     "ProduceChallengeSlot": [["id", "produceId", "number"], ["unlockDescription"]],
     # "ProduceCharacter": [[], []],
     "ProduceCharacterAdv": [["assetId"], ["title"]],
+    # "ProduceCharacterUnit": [[], []],
+    "ProduceCustomizeItem": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],
+    # "ProduceCustomizeItemRelationship": [[], []],
     "ProduceDescriptionExamEffect": [["type"], ["name"]],
-    "ProduceDescriptionLabel": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],
+    "ProduceDescriptionLabel": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],
     "ProduceDescriptionProduceCardGrowEffect": [["type", "produceDescriptionLabelId"], ["produceCardCustomizeDescription"]],
     # "ProduceDescriptionProduceCardMovePosition": [[], []],
     "ProduceDescriptionProduceEffect": [["type"], ["name"]],
     "ProduceDescriptionProducePlan": [["type"], ["name"]],
     "ProduceDescriptionProduceStep": [["type"], ["name"]],
+    "ProduceDescriptionProduceType": [["produceType", "produceSplitType"], ["name"]],
     "ProduceDescriptionSwap": [["id", "swapType"], ["text"]],
-    "ProduceDrink": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套
+    "ProduceDrink": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套
     # "ProduceDrinkEffect": [[], []],
     # "ProduceEffect": [[], []],
     # "ProduceEffectIcon": [[], []],
@@ -175,12 +181,14 @@ primary_key_rules = {
     "ProduceExamBattleNpcMob": [["id"], ["name"]],
     # "ProduceExamBattleScoreConfig": [[], []],
     "ProduceExamEffect": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId" ,"customizeProduceDescriptions.produceDescriptionType", "customizeProduceDescriptions.examDescriptionType", "customizeProduceDescriptions.examEffectType", "customizeProduceDescriptions.produceCardGrowEffectType", "customizeProduceDescriptions.produceCardCategory", "customizeProduceDescriptions.produceCardMovePositionType", "customizeProduceDescriptions.produceStepType", "customizeProduceDescriptions.produceStepBusinessType", "customizeProduceDescriptions.targetId"], ["produceDescriptions.text", "customizeProduceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceExamGimmickEffectGroup": [["id", "priority", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceExamStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceExamGimmickEffectGroup": [["id", "priority", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceExamStatusEnchant": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
     "ProduceExamTrigger": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId" ,"playProduceDescriptions.produceDescriptionType", "playProduceDescriptions.examDescriptionType", "playProduceDescriptions.examEffectType", "playProduceDescriptions.produceCardGrowEffectType", "playProduceDescriptions.produceCardCategory", "playProduceDescriptions.produceCardMovePositionType", "playProduceDescriptions.produceStepType", "playProduceDescriptions.produceStepBusinessType", "playProduceDescriptions.targetId" ,"playEffectProduceDescriptions.produceDescriptionType", "playEffectProduceDescriptions.examDescriptionType", "playEffectProduceDescriptions.examEffectType", "playEffectProduceDescriptions.produceCardGrowEffectType", "playEffectProduceDescriptions.produceCardCategory", "playEffectProduceDescriptions.produceCardMovePositionType", "playEffectProduceDescriptions.produceStepType", "playEffectProduceDescriptions.produceStepBusinessType", "playEffectProduceDescriptions.targetId"], ["produceDescriptions.text", "playProduceDescriptions.text", "playEffectProduceDescriptions.text"]],  # 嵌套List Obj
     # "ProduceGrade": [[], []],
     "ProduceGroup": [["id"], ["name", "description"]],
     # "ProduceGroupLiveCommon": [[], []],
+    "ProduceGrowthPanel": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],
+    # "ProduceGrowthPanelSheet": [[], []],
     # "ProduceGuide": [[], []],
     "ProduceGuideProduceCardCategory": [["id"], ["label"]],
     "ProduceGuideProduceCardCategoryGroup": [["id"], ["description"]],
@@ -188,13 +196,14 @@ primary_key_rules = {
     # "ProduceGuideProduceCardSampleDeckCategoryGroup": [[], []],
     "ProduceHighScore": [["id"], ["name"]],
     # "ProduceInitialDeck": [[], []],
-    "ProduceItem": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceItem": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["name", "produceDescriptions.text"]],  # 嵌套List Obj
     # "ProduceItemChallengeGroup": [[], []],
     # "ProduceItemEffect": [[], []],
     # "ProduceItemSimulation": [[], []],
     # "ProduceItemSimulationGroup": [[], []],
     # "ProduceLegendProduceCard": [[], []],
     # "ProduceLive": [[], []],
+    # "ProduceLiveEvaluation": [[], []],
     "ProduceNavigation": [["id", "number"], ["description"]],
     # "ProduceNextIdolAuditionMasterRankingSeason": [[], []],
     # "ProduceResultMotion": [[], []],
@@ -209,16 +218,23 @@ primary_key_rules = {
     "ProduceSeason": [["id"], ["name"]],
     # "ProduceSeasonZeroGrade": [[], []],
     # "ProduceSetting": [[], []],
-    "ProduceSkill": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceSkill": [["id", "level", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceSplitAdv": [["produceType", "type", "produceSplitTypes", "targetCharacterId"], ["title"]],
     # "ProduceStartMotion": [[], []],
     # "ProduceStepAuditionCharacter": [[], []],
+    # "ProduceStepAuditionCharacterBgm": [[], []],
+    # "ProduceStepAuditionCharacterUnitMotion": [[], []],
     # "ProduceStepAuditionDifficulty": [[], []],
     # "ProduceStepAuditionMotion": [[], []],
-    "ProduceStepEventDetail": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
-    "ProduceStepEventSuggestion": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    # "ProduceStepAuditionRivalActor": [[], []],
+    # "ProduceStepAuditionRivalActorMotion": [[], []],
+    "ProduceStepEventDetail": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceStepEventSuggestion": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType", "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId"], ["produceDescriptions.text"]],  # 嵌套List Obj
     # "ProduceStepFanPresentMotion": [[], []],
     "ProduceStepLesson": [["id"], ["name"]],
     # "ProduceStepLessonLevel": [[], []],
+    # "ProduceStepOpenLesson": [[], []],
+    # "ProduceStepOpenLessonMotion": [[], []],
     # "ProduceStepSelfLesson": [[], []],
     # "ProduceStepSelfLessonMotion": [[], []],
     # "ProduceStepTransition": [[], []],
@@ -241,7 +257,7 @@ primary_key_rules = {
     "Story": [["id"], ["title"]],
     "StoryEvent": [["id"], ["title"]],
     "StoryGroup": [["id"], ["title"]],
-    "SupportCard": [["id", "upgradeProduceCardProduceDescriptions.produceDescriptionType", "upgradeProduceCardProduceDescriptions.examDescriptionType", "upgradeProduceCardProduceDescriptions.examEffectType",  "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardCategory", "upgradeProduceCardProduceDescriptions.produceCardMovePositionType", "upgradeProduceCardProduceDescriptions.produceStepType"], ["name", "upgradeProduceCardProduceDescriptions.text"]],  # 嵌套List Obj
+    "SupportCard": [["id", "upgradeProduceCardProduceDescriptions.produceDescriptionType", "upgradeProduceCardProduceDescriptions.examDescriptionType", "upgradeProduceCardProduceDescriptions.examEffectType", "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType", "upgradeProduceCardProduceDescriptions.produceCardCategory", "upgradeProduceCardProduceDescriptions.produceCardMovePositionType", "upgradeProduceCardProduceDescriptions.produceStepType", "upgradeProduceCardProduceDescriptions.produceStepBusinessType", "upgradeProduceCardProduceDescriptions.targetId"], ["upgradeProduceCardProduceDescriptions.text"]],  # 嵌套List Obj
     # "SupportCardBonus": [[], []],
     "SupportCardFlavor": [["supportCardId", "number"], ["text"]],
     # "SupportCardLevel": [[], []],

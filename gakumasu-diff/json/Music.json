@@ -76,6 +76,11 @@
             "displayTitle": "ENDLESS DANCE [Instrumental]"
         },
         {
+            "id": "music-all-016-inst",
+            "title": "ガラクタロード [Instrumental]",
+            "displayTitle": "ガラクタロード [Instrumental]"
+        },
+        {
             "id": "music-all-022-teama",
             "title": "SEARCH RIGHT",
             "displayTitle": "SEARCH RIGHT"
@@ -159,6 +164,11 @@
             "id": "music-all-amao-014",
             "title": "ENDLESS DANCE",
             "displayTitle": "ENDLESS DANCE"
+        },
+        {
+            "id": "music-all-amao-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード"
         },
         {
             "id": "music-all-atbm-001",
@@ -321,6 +331,11 @@
             "displayTitle": "ENDLESS DANCE"
         },
         {
+            "id": "music-all-hmsz-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード"
+        },
+        {
             "id": "music-all-hrnm-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -389,6 +404,11 @@
             "id": "music-all-hrnm-014",
             "title": "ENDLESS DANCE",
             "displayTitle": "ENDLESS DANCE"
+        },
+        {
+            "id": "music-all-hrnm-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード"
         },
         {
             "id": "music-all-hski-001",
@@ -671,6 +691,11 @@
             "displayTitle": "ENDLESS DANCE"
         },
         {
+            "id": "music-all-kcna-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード"
+        },
+        {
             "id": "music-all-kllj-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -821,6 +846,11 @@
             "displayTitle": "ENDLESS DANCE"
         },
         {
+            "id": "music-all-shro-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード"
+        },
+        {
             "id": "music-all-ssmk-001",
             "title": "初",
             "displayTitle": "初（はじめ）"
@@ -969,6 +999,11 @@
             "id": "music-all-ttmr-014",
             "title": "ENDLESS DANCE",
             "displayTitle": "ENDLESS DANCE"
+        },
+        {
+            "id": "music-all-ttmr-016",
+            "title": "ガラクタロード",
+            "displayTitle": "ガラクタロード"
         },
         {
             "id": "music-bgm-01_001",
@@ -1209,6 +1244,16 @@
             "id": "music-char-atbm-001-inst",
             "title": "理論武装して [Instrumental]",
             "displayTitle": "理論武装して [Instrumental]"
+        },
+        {
+            "id": "music-char-atbm-003",
+            "title": "MY STAGE",
+            "displayTitle": "MY STAGE"
+        },
+        {
+            "id": "music-char-atbm-003-inst",
+            "title": "MY STAGE [Instrumental]",
+            "displayTitle": "MY STAGE [Instrumental]"
         },
         {
             "id": "music-char-fktn-001",

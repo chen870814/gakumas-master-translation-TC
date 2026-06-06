@@ -6,9 +6,12 @@
       "upgradeProduceCardProduceDescriptions.examDescriptionType",
       "upgradeProduceCardProduceDescriptions.examEffectType",
       "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType",
+      "upgradeProduceCardProduceDescriptions.produceCardGrowEffectType",
       "upgradeProduceCardProduceDescriptions.produceCardCategory",
       "upgradeProduceCardProduceDescriptions.produceCardMovePositionType",
-      "upgradeProduceCardProduceDescriptions.produceStepType"
+      "upgradeProduceCardProduceDescriptions.produceStepType",
+      "upgradeProduceCardProduceDescriptions.produceStepBusinessType",
+      "upgradeProduceCardProduceDescriptions.targetId"
     ]
   },
   "data": [
@@ -23,10 +26,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "認真拉伸運動"
+      ]
     },
     {
       "id": "s_card-1-0001",
@@ -39,10 +43,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "全力，在這之後"
+      ]
     },
     {
       "id": "s_card-1-0002",
@@ -55,10 +60,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "分叉的髮尾"
+      ]
     },
     {
       "id": "s_card-1-0003",
@@ -71,10 +77,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "王子殿下的一次呼吸"
+      ]
     },
     {
       "id": "s_card-1-0004",
@@ -87,10 +94,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "值得依賴的前輩姐姐"
+      ]
     },
     {
       "id": "s_card-1-0005",
@@ -103,10 +111,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "意象訓練"
+      ]
     },
     {
       "id": "s_card-1-0006",
@@ -119,10 +128,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "專注的課後補習"
+      ]
     },
     {
       "id": "s_card-1-0007",
@@ -135,10 +145,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "開關ON！"
+      ]
     },
     {
       "id": "s_card-1-0008",
@@ -151,10 +162,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "以憧憬為目標"
+      ]
     },
     {
       "id": "s_card-1-0009",
@@ -167,10 +179,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "姐姐親授菜單"
+      ]
     },
     {
       "id": "s_card-1-0010",
@@ -183,10 +196,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "按照我的節奏"
+      ]
     },
     {
       "id": "s_card-1-0011",
@@ -199,10 +213,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "完美無缺的計劃"
+      ]
     },
     {
       "id": "s_card-1-0012",
@@ -215,10 +230,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "嚴謹正直"
+      ]
     },
     {
       "id": "s_card-2-0000",
@@ -231,10 +247,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "全力的表白"
+      ]
     },
     {
       "id": "s_card-2-0001",
@@ -247,10 +264,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "現在就特意背過身去"
+      ]
     },
     {
       "id": "s_card-2-0002",
@@ -263,10 +281,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "悠閒而堅定"
+      ]
     },
     {
       "id": "s_card-2-0003",
@@ -279,10 +298,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "沒有愛的記憶是困難的"
+      ]
     },
     {
       "id": "s_card-2-0004",
@@ -295,10 +315,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "手腳並用"
+      ]
     },
     {
       "id": "s_card-2-0005",
@@ -311,10 +332,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "圓潤的臉頰"
+      ]
     },
     {
       "id": "s_card-2-0006",
@@ -327,10 +349,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "誘人的股四頭肌"
+      ]
     },
     {
       "id": "s_card-2-0007",
@@ -343,10 +366,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "輕飄飄又令人興奮"
+      ]
     },
     {
       "id": "s_card-2-0008",
@@ -359,10 +383,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "開心又害羞的夢幻心情"
+      ]
     },
     {
       "id": "s_card-2-0009",
@@ -375,10 +400,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "實際食用！那個SSD"
+      ]
     },
     {
       "id": "s_card-2-0010",
@@ -391,10 +417,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "我的節奏，我的生活"
+      ]
     },
     {
       "id": "s_card-2-0011",
@@ -407,10 +434,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "心思與顫抖"
+      ]
     },
     {
       "id": "s_card-2-0012",
@@ -423,10 +451,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "無法放任的同班同學"
+      ]
     },
     {
       "id": "s_card-2-0013",
@@ -439,10 +468,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "總有一天，必會綻放"
+      ]
     },
     {
       "id": "s_card-2-0014",
@@ -455,10 +485,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率低"
         }
-      ],
-      "name": "第一個朋友"
+      ]
     },
     {
       "id": "s_card-2-0015",
@@ -471,10 +502,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "耳機一人一半"
+      ]
     },
     {
       "id": "s_card-2-0016",
@@ -487,10 +519,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "哇呀！"
+      ]
     },
     {
       "id": "s_card-2-0017",
@@ -503,10 +536,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "大口吃嚼阿嚼"
+      ]
     },
     {
       "id": "s_card-2-0018",
@@ -519,10 +553,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "僵硬的拉伸"
+      ]
     },
     {
       "id": "s_card-2-0019",
@@ -535,10 +570,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "啪的一聲定格"
+      ]
     },
     {
       "id": "s_card-2-0020",
@@ -551,10 +587,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "大海，一定要享受吧！"
+      ]
     },
     {
       "id": "s_card-2-0021",
@@ -567,10 +604,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "第五類接觸"
+      ]
     },
     {
       "id": "s_card-2-0022",
@@ -583,10 +621,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "今天只是來參觀"
+      ]
     },
     {
       "id": "s_card-2-0023",
@@ -599,10 +638,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "溫柔，同時又溫暖"
+      ]
     },
     {
       "id": "s_card-2-0024",
@@ -615,10 +655,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "緊緊地繫上"
+      ]
     },
     {
       "id": "s_card-2-0025",
@@ -631,10 +672,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "蓬鬆的面具？"
+      ]
     },
     {
       "id": "s_card-2-0026",
@@ -647,10 +689,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "咕嘟咕嘟，真香♪"
+      ]
     },
     {
       "id": "s_card-2-0027",
@@ -663,10 +706,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "休息時間來一杯咖啡"
+      ]
     },
     {
       "id": "s_card-2-0028",
@@ -679,10 +723,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "出色的芒草！"
+      ]
     },
     {
       "id": "s_card-2-0029",
@@ -695,10 +740,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "千奈的報恩"
+      ]
     },
     {
       "id": "s_card-2-0030",
@@ -711,10 +757,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "有趣的飲料"
+      ]
     },
     {
       "id": "s_card-2-0031",
@@ -727,10 +774,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "SSD的秘密"
+      ]
     },
     {
       "id": "s_card-2-0032",
@@ -743,10 +791,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "秋刀魚，撲撲作響"
+      ]
     },
     {
       "id": "s_card-2-0033",
@@ -759,10 +808,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "讓我們火起來吧！"
+      ]
     },
     {
       "id": "s_card-2-0034",
@@ -775,10 +825,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "抓住蜻蜓吧"
+      ]
     },
     {
       "id": "s_card-2-0035",
@@ -791,10 +842,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "十倍XL碼！"
+      ]
     },
     {
       "id": "s_card-2-0036",
@@ -807,10 +859,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "啾~ω姿勢☆"
+      ]
     },
     {
       "id": "s_card-2-0037",
@@ -823,10 +876,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "卡路里/2 快樂×2"
+      ]
     },
     {
       "id": "s_card-2-0038",
@@ -839,10 +893,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "目標是頂點"
+      ]
     },
     {
       "id": "s_card-2-0039",
@@ -855,10 +910,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "還要繼續延伸"
+      ]
     },
     {
       "id": "s_card-2-0040",
@@ -871,10 +927,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "基礎>應用"
+      ]
     },
     {
       "id": "s_card-2-0041",
@@ -887,10 +944,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "SSC的爆誕"
+      ]
     },
     {
       "id": "s_card-2-0042",
@@ -903,10 +961,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "真誠的心意"
+      ]
     },
     {
       "id": "s_card-2-0043",
@@ -919,10 +978,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "佑芽疾走，賽雪橇！"
+      ]
     },
     {
       "id": "s_card-2-0044",
@@ -935,10 +995,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "噗和咻的二重奏"
+      ]
     },
     {
       "id": "s_card-2-0045",
@@ -951,10 +1012,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "愛蟲的王子"
+      ]
     },
     {
       "id": "s_card-2-0046",
@@ -967,10 +1029,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "噼里啪啦地砰"
+      ]
     },
     {
       "id": "s_card-2-0047",
@@ -983,10 +1046,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "奧義，三重跳繩！"
+      ]
     },
     {
       "id": "s_card-2-0048",
@@ -999,10 +1063,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "女孩們的♡聊天"
+      ]
     },
     {
       "id": "s_card-2-0049",
@@ -1015,10 +1080,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "屈辱的第2名"
+      ]
     },
     {
       "id": "s_card-2-0050",
@@ -1031,10 +1097,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "2名客人，這邊請～♪"
+      ]
     },
     {
       "id": "s_card-2-0051",
@@ -1047,10 +1114,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "茶點，甜，淡茶，苦"
+      ]
     },
     {
       "id": "s_card-2-0052",
@@ -1063,10 +1131,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "一・二・三！"
+      ]
     },
     {
       "id": "s_card-2-0053",
@@ -1079,10 +1148,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "噗通倒地"
+      ]
     },
     {
       "id": "s_card-2-0054",
@@ -1095,10 +1165,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "困難重重時裝秀"
+      ]
     },
     {
       "id": "s_card-2-0056",
@@ -1111,10 +1182,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "Sparta&Spice"
+      ]
     },
     {
       "id": "s_card-2-0058",
@@ -1127,10 +1199,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "涼爽的時刻"
+      ]
     },
     {
       "id": "s_card-2-0059",
@@ -1143,10 +1216,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "徒弟的修行"
+      ]
     },
     {
       "id": "s_card-2-0060",
@@ -1159,10 +1233,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "當心栗子球"
+      ]
     },
     {
       "id": "s_card-2-0061",
@@ -1175,10 +1250,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "用腹肌和背肌保持核心肌群！"
+      ]
     },
     {
       "id": "s_card-2-0062",
@@ -1191,10 +1267,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "萬聖節快樂～～！"
+      ]
     },
     {
       "id": "s_card-2-0063",
@@ -1207,10 +1284,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "溫暖足部的穴位按摩"
+      ]
     },
     {
       "id": "s_card-2-0064",
@@ -1223,10 +1301,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "貴安的問候♪"
+      ]
     },
     {
       "id": "s_card-2-0065",
@@ -1239,10 +1318,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "沉睡森林的王子殿下"
+      ]
     },
     {
       "id": "s_card-2-0066",
@@ -1255,10 +1335,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "夥伴嗎？"
+      ]
     },
     {
       "id": "s_card-2-0067",
@@ -1271,10 +1352,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "太陽般的笑容，雙雙綻放"
+      ]
     },
     {
       "id": "s_card-2-0068",
@@ -1287,10 +1369,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "友誼的證明"
+      ]
     },
     {
       "id": "s_card-2-0069",
@@ -1303,10 +1386,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "一番星與王子殿下"
+      ]
     },
     {
       "id": "s_card-2-0070",
@@ -1319,10 +1403,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "洗好的衣物疊高高"
+      ]
     },
     {
       "id": "s_card-2-0071",
@@ -1335,10 +1420,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "小小見面禮☆"
+      ]
     },
     {
       "id": "s_card-2-0072",
@@ -1351,10 +1437,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "騎士與頑皮公主"
+      ]
     },
     {
       "id": "s_card-2-0073",
@@ -1367,10 +1454,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "拉伸柔軟操"
+      ]
     },
     {
       "id": "s_card-2-0074",
@@ -1383,10 +1471,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "悠閒而美味的時光"
+      ]
     },
     {
       "id": "s_card-3-0000",
@@ -1399,10 +1488,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我也會做給你的！"
+      ]
     },
     {
       "id": "s_card-3-0001",
@@ -1415,10 +1505,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我到底在做什麼呢，"
+      ]
     },
     {
       "id": "s_card-3-0002",
@@ -1431,10 +1522,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "這些傢伙真麻煩啊"
+      ]
     },
     {
       "id": "s_card-3-0003",
@@ -1447,10 +1539,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "交給姐姐吧！"
+      ]
     },
     {
       "id": "s_card-3-0004",
@@ -1463,10 +1556,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "唔呃呃呃呃…………！"
+      ]
     },
     {
       "id": "s_card-3-0005",
@@ -1479,10 +1573,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "在下一個櫻花季節"
+      ]
     },
     {
       "id": "s_card-3-0006",
@@ -1495,10 +1590,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "辛苦了，千奈同學。"
+      ]
     },
     {
       "id": "s_card-3-0007",
@@ -1511,10 +1607,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "簡直像王子一樣"
+      ]
     },
     {
       "id": "s_card-3-0008",
@@ -1527,10 +1624,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "好吃的表情，我收下啦～！"
+      ]
     },
     {
       "id": "s_card-3-0009",
@@ -1543,10 +1641,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我們的話，只要努力就能做到"
+      ]
     },
     {
       "id": "s_card-3-0010",
@@ -1559,10 +1658,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "可愛與可愛疊加就是最可愛！"
+      ]
     },
     {
       "id": "s_card-3-0011",
@@ -1575,10 +1675,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我的眼睛不會看錯"
+      ]
     },
     {
       "id": "s_card-3-0012",
@@ -1591,10 +1692,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "又做了那麼多不可能的事"
+      ]
     },
     {
       "id": "s_card-3-0013",
@@ -1607,10 +1709,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "啊啦，真巧"
+      ]
     },
     {
       "id": "s_card-3-0014",
@@ -1623,10 +1726,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "真的嗎。"
+      ]
     },
     {
       "id": "s_card-3-0015",
@@ -1639,10 +1743,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "以工作的心態來面對"
+      ]
     },
     {
       "id": "s_card-3-0016",
@@ -1655,10 +1760,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "一個人也不能少"
+      ]
     },
     {
       "id": "s_card-3-0017",
@@ -1671,10 +1777,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "瞧，一起拿吧♪"
+      ]
     },
     {
       "id": "s_card-3-0018",
@@ -1687,10 +1794,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "第二次教室派對！"
+      ]
     },
     {
       "id": "s_card-3-0019",
@@ -1703,10 +1811,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "你是我驕傲的學生"
+      ]
     },
     {
       "id": "s_card-3-0020",
@@ -1719,10 +1828,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率中等"
         }
-      ],
-      "name": "這就是食慾的秋天"
+      ]
     },
     {
       "id": "s_card-3-0021",
@@ -1735,10 +1845,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "梅雨"
+      ]
     },
     {
       "id": "s_card-3-0022",
@@ -1751,10 +1862,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "天氣放晴了"
+      ]
     },
     {
       "id": "s_card-3-0023",
@@ -1767,10 +1879,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "拜託別再漲了！"
+      ]
     },
     {
       "id": "s_card-3-0024",
@@ -1783,10 +1896,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "不是『ア』而是『エ』！"
+      ]
     },
     {
       "id": "s_card-3-0025",
@@ -1799,10 +1913,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "這是新的挑戰的成功！"
+      ]
     },
     {
       "id": "s_card-3-0026",
@@ -1815,10 +1930,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "真是的！好冷啊！"
+      ]
     },
     {
       "id": "s_card-3-0027",
@@ -1831,10 +1947,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "讓我們享受夏天吧！"
+      ]
     },
     {
       "id": "s_card-3-0028",
@@ -1847,10 +1964,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "暫時休戰"
+      ]
     },
     {
       "id": "s_card-3-0029",
@@ -1863,10 +1981,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我要盡情享受夏天！"
+      ]
     },
     {
       "id": "s_card-3-0030",
@@ -1879,10 +1998,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我也想要去那裡！"
+      ]
     },
     {
       "id": "s_card-3-0031",
@@ -1895,10 +2015,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "煙火，要不要玩……？"
+      ]
     },
     {
       "id": "s_card-3-0032",
@@ -1911,10 +2032,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "培育真是辛苦呢"
+      ]
     },
     {
       "id": "s_card-3-0033",
@@ -1927,10 +2049,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "讓我們和好如初"
+      ]
     },
     {
       "id": "s_card-3-0034",
@@ -1943,10 +2066,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "兩個人在一起時間過得真快呢"
+      ]
     },
     {
       "id": "s_card-3-0035",
@@ -1959,10 +2083,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "慢慢地度過吧"
+      ]
     },
     {
       "id": "s_card-3-0036",
@@ -1975,10 +2100,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "很適合不是嗎？"
+      ]
     },
     {
       "id": "s_card-3-0037",
@@ -1991,10 +2117,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "完全是秋天的色彩呢！"
+      ]
     },
     {
       "id": "s_card-3-0038",
@@ -2007,10 +2134,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "會長，準備工作萬無一失"
+      ]
     },
     {
       "id": "s_card-3-0039",
@@ -2023,10 +2151,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "絕對會追上你的！"
+      ]
     },
     {
       "id": "s_card-3-0040",
@@ -2039,10 +2168,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "差不多烤好了吧？"
+      ]
     },
     {
       "id": "s_card-3-0041",
@@ -2055,10 +2185,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "閃閃發光的好漂亮～！"
+      ]
     },
     {
       "id": "s_card-3-0042",
@@ -2071,10 +2202,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "好溫暖呢"
+      ]
     },
     {
       "id": "s_card-3-0043",
@@ -2087,10 +2219,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "請等一下！"
+      ]
     },
     {
       "id": "s_card-3-0044",
@@ -2103,10 +2236,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "再一次，從頭開始！"
+      ]
     },
     {
       "id": "s_card-3-0045",
@@ -2119,10 +2253,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "好，大家也一起吧♪"
+      ]
     },
     {
       "id": "s_card-3-0046",
@@ -2135,10 +2270,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "這就是我們的三年"
+      ]
     },
     {
       "id": "s_card-3-0047",
@@ -2151,10 +2287,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "情人節♡會議中～！"
+      ]
     },
     {
       "id": "s_card-3-0048",
@@ -2167,10 +2304,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "絕對會交給你的！"
+      ]
     },
     {
       "id": "s_card-3-0049",
@@ -2183,10 +2321,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "能一個人站起來嗎？"
+      ]
     },
     {
       "id": "s_card-3-0050",
@@ -2199,10 +2338,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我喜歡你們"
+      ]
     },
     {
       "id": "s_card-3-0051",
@@ -2215,10 +2355,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "新生活開始了呢"
+      ]
     },
     {
       "id": "s_card-3-0052",
@@ -2231,10 +2372,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "恭喜合格！"
+      ]
     },
     {
       "id": "s_card-3-0053",
@@ -2247,10 +2389,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "來，再來一戰！"
+      ]
     },
     {
       "id": "s_card-3-0054",
@@ -2263,10 +2406,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "對於對手來說沒有缺陷！"
+      ]
     },
     {
       "id": "s_card-3-0055",
@@ -2279,10 +2423,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "就從這裡開始吧！"
+      ]
     },
     {
       "id": "s_card-3-0056",
@@ -2295,10 +2440,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "還是這麼不坦率呢"
+      ]
     },
     {
       "id": "s_card-3-0057",
@@ -2311,10 +2457,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "互相利用的朋友！"
+      ]
     },
     {
       "id": "s_card-3-0058",
@@ -2327,10 +2474,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "這是自言自語"
+      ]
     },
     {
       "id": "s_card-3-0059",
@@ -2343,10 +2491,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "大家關係超好♪"
+      ]
     },
     {
       "id": "s_card-3-0060",
@@ -2359,10 +2508,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "尋人啟事"
+      ]
     },
     {
       "id": "s_card-3-0061",
@@ -2375,10 +2525,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "讓我聽聽大家的意見♪"
+      ]
     },
     {
       "id": "s_card-3-0062",
@@ -2391,10 +2542,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "好樣的，倉本"
+      ]
     },
     {
       "id": "s_card-3-0063",
@@ -2407,10 +2559,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "這大概就是推活的快樂吧！"
+      ]
     },
     {
       "id": "s_card-3-0064",
@@ -2423,10 +2576,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "你一直都很努力呢。"
+      ]
     },
     {
       "id": "s_card-3-0065",
@@ -2439,10 +2593,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "你們到底是什麼關係？"
+      ]
     },
     {
       "id": "s_card-3-0066",
@@ -2455,10 +2610,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "讓人放心不下的孩子"
+      ]
     },
     {
       "id": "s_card-3-0067",
@@ -2471,10 +2627,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "我和美鈴，超要好的"
+      ]
     },
     {
       "id": "s_card-3-0068",
@@ -2487,10 +2644,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "你是媽媽嗎！"
+      ]
     },
     {
       "id": "s_card-3-0069",
@@ -2503,10 +2661,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "若能永遠延續"
+      ]
     },
     {
       "id": "s_card-3-0070",
@@ -2519,10 +2678,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "嘿，我們來了！"
+      ]
     },
     {
       "id": "s_card-3-0071",
@@ -2535,10 +2695,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "讓我們嗨起來！"
+      ]
     },
     {
       "id": "s_card-3-0072",
@@ -2551,10 +2712,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "哦呀，好險呀"
+      ]
     },
     {
       "id": "s_card-3-0073",
@@ -2567,10 +2729,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "ｖ來——比個耶ｖ"
+      ]
     },
     {
       "id": "s_card-3-0074",
@@ -2583,10 +2746,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "更加詳細一點！"
+      ]
     },
     {
       "id": "s_card-3-0075",
@@ -2599,10 +2763,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "這根本就是城堡吧——！！"
+      ]
     },
     {
       "id": "s_card-3-0076",
@@ -2615,10 +2780,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "月村手毬，真是有趣呢"
+      ]
     },
     {
       "id": "s_card-3-0077",
@@ -2631,10 +2797,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "緩和運動很重要的喔！"
+      ]
     },
     {
       "id": "s_card-3-0078",
@@ -2647,10 +2814,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "各就各位、預備、開始！"
+      ]
     },
     {
       "id": "s_card-3-0079",
@@ -2663,10 +2831,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "終於找到你了！"
+      ]
     },
     {
       "id": "s_card-3-0080",
@@ -2679,10 +2848,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "一定能拿到！"
+      ]
     },
     {
       "id": "s_card-3-0081",
@@ -2695,10 +2865,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "聖誕快樂，姊姊♪"
+      ]
     },
     {
       "id": "s_card-3-0082",
@@ -2711,10 +2882,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "你為什麼會在這裡！？"
+      ]
     },
     {
       "id": "s_card-3-0083",
@@ -2727,10 +2899,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "光明正大的翹課！？"
+      ]
     },
     {
       "id": "s_card-3-0084",
@@ -2743,10 +2916,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "是手毬的獨唱會呢，對吧"
+      ]
     },
     {
       "id": "s_card-3-0085",
@@ -2759,10 +2933,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "是時候面對自己了"
+      ]
     },
     {
       "id": "s_card-3-0086",
@@ -2775,10 +2950,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "給我，讓你看看真正的技術！"
+      ]
     },
     {
       "id": "s_card-3-0087",
@@ -2791,10 +2967,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "不管是穿搭還是化妝♪"
+      ]
     },
     {
       "id": "s_card-3-0088",
@@ -2807,10 +2984,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "回憶的寶箱，呢"
+      ]
     },
     {
       "id": "s_card-3-0089",
@@ -2823,10 +3001,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "放馬過來！"
+      ]
     },
     {
       "id": "s_card-3-0090",
@@ -2839,10 +3018,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "找到你了。"
+      ]
     },
     {
       "id": "s_card-3-0091",
@@ -2855,10 +3035,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "是我贏了～呢！"
+      ]
     },
     {
       "id": "s_card-3-0092",
@@ -2871,10 +3052,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "進化後的便當，令人在意"
+      ]
     },
     {
       "id": "s_card-3-0093",
@@ -2887,10 +3069,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "長距離的旅程辛苦了！"
+      ]
     },
     {
       "id": "s_card-3-0094",
@@ -2903,10 +3086,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "上面嗎！！"
+      ]
     },
     {
       "id": "s_card-3-0095",
@@ -2919,10 +3103,11 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "這次派對真令人期待！"
+      ]
     },
     {
       "id": "s_card-3-0096",
@@ -2935,10 +3120,28 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "與你的二人電車"
+      ]
+    },
+    {
+      "id": "s_card-3-0097",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "/ 概率高"
+        }
+      ]
     },
     {
       "id": "s_card-3-0098",
@@ -2951,10 +3154,45 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "/ 概率高"
         }
-      ],
-      "name": "大運動會，開始！"
+      ]
+    },
+    {
+      "id": "s_card-3-0100",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "/ 概率中等"
+        }
+      ]
+    },
+    {
+      "id": "s_card-3-0105",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "/ 概率高"
+        }
+      ]
     }
   ]
 }

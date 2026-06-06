@@ -11,6 +11,11 @@
             "firstName": "麻央"
         },
         {
+            "id": "andk",
+            "lastName": "藍井",
+            "firstName": "撫子"
+        },
+        {
             "id": "atbm",
             "lastName": "雨夜",
             "firstName": "燕"
@@ -61,6 +66,16 @@
             "firstName": "リーリヤ"
         },
         {
+            "id": "krnh",
+            "lastName": "賀陽",
+            "firstName": "燐羽"
+        },
+        {
+            "id": "ktko",
+            "lastName": "黒井",
+            "firstName": "崇男"
+        },
+        {
             "id": "myu0",
             "lastName": "真城",
             "firstName": "優"
@@ -71,6 +86,11 @@
             "firstName": "亜紗里"
         },
         {
+            "id": "sgka",
+            "lastName": "白草",
+            "firstName": "月花"
+        },
+        {
             "id": "shro",
             "lastName": "篠澤",
             "firstName": "広"
@@ -79,6 +99,11 @@
             "id": "ssmk",
             "lastName": "紫雲",
             "firstName": "清夏"
+        },
+        {
+            "id": "sson",
+            "lastName": "白草",
+            "firstName": "四音"
         },
         {
             "id": "trda",

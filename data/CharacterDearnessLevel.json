@@ -39,7 +39,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「不僅僅是帥氣」"
+      "produceConditionDescription": "獲得成就「カッコよさだけじゃない」"
     },
     {
       "characterId": "amao",
@@ -142,6 +142,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
+      "characterId": "amao",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
+    },
+    {
       "characterId": "atbm",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -174,7 +224,7 @@
     {
       "characterId": "atbm",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「學園No.2的實力」"
+      "produceConditionDescription": "獲得成就「学園No.2の実力」"
     },
     {
       "characterId": "atbm",
@@ -274,7 +324,7 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「偶像適應性S」"
+      "produceConditionDescription": "獲得成就「アイドル適正S」"
     },
     {
       "characterId": "fktn",
@@ -409,7 +459,7 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「今天是陰天」"
+      "produceConditionDescription": "獲得成就「今日は曇り空」"
     },
     {
       "characterId": "hmsz",
@@ -512,6 +562,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
+      "characterId": "hmsz",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
+    },
+    {
       "characterId": "hrnm",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -544,7 +644,7 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「滿溢的思念」"
+      "produceConditionDescription": "獲得成就「あふれだす想い」"
     },
     {
       "characterId": "hrnm",
@@ -647,6 +747,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
+      "characterId": "hrnm",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
+    },
+    {
       "characterId": "hski",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -679,7 +829,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「合格是理所當然」"
+      "produceConditionDescription": "獲得成就「合格は当たり前」"
     },
     {
       "characterId": "hski",
@@ -814,7 +964,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「向姐姐的挑戰」"
+      "produceConditionDescription": "獲得成就「姉への挑戦」"
     },
     {
       "characterId": "hume",
@@ -949,7 +1099,7 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「積累的成果」"
+      "produceConditionDescription": "獲得成就「積み上げてきたもの」"
     },
     {
       "characterId": "jsna",
@@ -1084,7 +1234,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「元氣一點突破」"
+      "produceConditionDescription": "獲得成就「元気一点突破」"
     },
     {
       "characterId": "kcna",
@@ -1187,6 +1337,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
+      "characterId": "kcna",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
+    },
+    {
       "characterId": "kllj",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -1219,7 +1419,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「笑容練習」"
+      "produceConditionDescription": "獲得成就「笑顔の練習」"
     },
     {
       "characterId": "kllj",
@@ -1322,6 +1522,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
+      "characterId": "kllj",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
+    },
+    {
       "characterId": "shro",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -1354,7 +1604,7 @@
     {
       "characterId": "shro",
       "dearnessLevel": 7,
-      "produceConditionDescription": "在獲得了成就「即使沒有才能也能做到的事」的狀態下，培育中的期中考試合格"
+      "produceConditionDescription": "在獲得了成就「才能なしでもやれること」的狀態下，培育中的期中考試合格"
     },
     {
       "characterId": "shro",
@@ -1457,6 +1707,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
+      "characterId": "shro",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
+    },
+    {
       "characterId": "ssmk",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -1489,7 +1789,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「若全力以赴」"
+      "produceConditionDescription": "獲得成就「本気を出せば」"
     },
     {
       "characterId": "ssmk",
@@ -1592,6 +1892,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
     },
     {
+      "characterId": "ssmk",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
+    },
+    {
       "characterId": "ttmr",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -1624,7 +1974,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 7,
-      "produceConditionDescription": "獲得成就「絕不妥協」"
+      "produceConditionDescription": "獲得成就「妥協はナシ」"
     },
     {
       "characterId": "ttmr",
@@ -1725,6 +2075,56 @@
       "characterId": "ttmr",
       "dearnessLevel": 27,
       "produceConditionDescription": "累計獲得600親密度Pt並通過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試通過第1輪"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試通過第2輪"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試通過第3輪"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "通過H.I.F選拔考試"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為 一番星"
     }
   ]
 }

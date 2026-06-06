@@ -122,6 +122,10 @@
       "name": "初星☆配飾（秦谷美鈴）"
     },
     {
+      "id": "shop_costume_costume_head_hmsz-hair-0007",
+      "name": "淚滴形眼鏡（秦谷美鈴）"
+    },
+    {
       "id": "shop_costume_costume_head_hrnm-hair-0001",
       "name": "紫陽花髮飾（姬崎莉波）"
     },
@@ -174,6 +178,10 @@
       "name": "初星☆配飾（花海佑芽）"
     },
     {
+      "id": "shop_costume_costume_head_hume-hair-0007",
+      "name": "淚滴形眼鏡（花海佑芽）"
+    },
+    {
       "id": "shop_costume_costume_head_jsna-hair-0001",
       "name": "紫陽花髮飾（十王星南）"
     },
@@ -208,6 +216,10 @@
     {
       "id": "shop_costume_costume_head_kcna-hair-0006",
       "name": "初星☆配飾（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_costume_head_kcna-hair-0007",
+      "name": "淚滴形眼鏡（倉本千奈）"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -252,6 +264,10 @@
     {
       "id": "shop_costume_costume_head_shro-hair-0006",
       "name": "初星☆配飾（篠澤廣）"
+    },
+    {
+      "id": "shop_costume_costume_head_shro-hair-0007",
+      "name": "淚滴形眼鏡（篠澤廣）"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -686,6 +702,14 @@
       "name": "【僅限1次優惠！】寶石12300個"
     },
     {
+      "id": "shop_jewel_item-0032",
+      "name": "【僅限1次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0033",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
       "id": "shop_pack_atbm-0001",
       "name": "【72小時限定】培育偶像優勝禮包（燕）"
     },
@@ -782,6 +806,22 @@
       "name": "TV廣告放映紀念 育成優惠禮包B"
     },
     {
+      "id": "shop_pack_item-0067",
+      "name": "2nd Anniversary偶像禮包"
+    },
+    {
+      "id": "shop_pack_item-0068",
+      "name": "2nd Anniversary支援禮包"
+    },
+    {
+      "id": "shop_pack_item-0069",
+      "name": "2nd Anniversary Live巡演 SSR P偶像確定禮包"
+    },
+    {
+      "id": "shop_pack_item-0071",
+      "name": "The 2nd Period H.I.F選抜試験 舉辦紀念禮包"
+    },
+    {
       "id": "shop_pack_item-100dl",
       "name": "【100萬下載紀念】育成禮包（6/28截止）"
     },
@@ -796,6 +836,10 @@
     {
       "id": "shop_pack_item-300dl-selection-ticket-pack",
       "name": "300萬DL禮包"
+    },
+    {
+      "id": "shop_pack_item-66",
+      "name": "2nd Anniversary前夜祭禮包"
     },
     {
       "id": "shop_pack_item-aniversary-selection-ticket",
@@ -1000,6 +1044,10 @@
     {
       "id": "shop_pass_item-0025",
       "name": "高級任務通行證 2026年5月"
+    },
+    {
+      "id": "shop_pass_item-0026",
+      "name": "高級任務通行證 2026年6月"
     }
   ]
 }

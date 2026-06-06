@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "memory_tag_01",
-      "defaultName": "Vo."
+      "defaultName": "聲樂"
     },
     {
       "id": "memory_tag_02",
-      "defaultName": "Da."
+      "defaultName": "舞蹈"
     },
     {
       "id": "memory_tag_03",
-      "defaultName": "Vi."
+      "defaultName": "視覺"
     },
     {
       "id": "memory_tag_04",
@@ -79,7 +79,7 @@
     },
     {
       "id": "memory_tag_19",
-      "defaultName": "消耗的體力減少"
+      "defaultName": "消耗體力減少"
     },
     {
       "id": "memory_tag_20",
